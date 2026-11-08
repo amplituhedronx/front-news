@@ -44,13 +44,21 @@ def load_sample():
 
 
 def make_edition(edition_id="2026-11-08-morning", revision=1, ready_at=None, n_items=None,
-                 drop_credit=False, publish=False):
+                 drop_credit=False, publish=True, research_at=None):
     ed = load_sample()
     kind = edition_id.rsplit("-", 1)[-1]
     date = edition_id[:10]
     ed["edition"] = kind
     ed["publish"] = publish
     ed.pop("example", None)  # synthetic test editions are not example content
+    for it in ed["items"]:
+        if it.get("section") == "Kultur":
+            it["section"] = "Gesellschaft"
+    for i, it in enumerate(ed["items"]):
+        if not it.get("image"):
+            it["image"] = {"type": "illustration", "src": f"assets/img/illu{i % 6 + 1}.svg",
+                           "alt": "Illustration", "caption": "KI-Illustration",
+                           "credit": "KI-generiert (Front News)"}
     ed["published_at"] = f"{date}T07:10:00+01:00" if kind == "morning" else f"{date}T18:10:00+01:00"
     if n_items is not None:
         ed["items"] = ed["items"][:n_items]
@@ -69,7 +77,7 @@ def make_edition(edition_id="2026-11-08-morning", revision=1, ready_at=None, n_i
         "revision": revision,
         "supersedes": None,
         "hash_scope": "all top-level fields except handoff, sorted keys",
-        "research_completed_at": ed["published_at"],
+        "research_completed_at": research_at or ed["published_at"],
         "ready_at": ready,
         "publication_authorized": False,
         "publication_authorized_at": None,
@@ -96,7 +104,9 @@ def write_artifact(handoff, ed, ready=True, good_hash=True, approve=True):
     if approve:
         appr = Path(handoff) / "approvals"
         appr.mkdir(parents=True, exist_ok=True)
-        (appr / f"{edition_id}-{token}.APPROVED").write_text(f"sha256:{digest}\n", encoding="utf-8")
+        (appr / f"{edition_id}-{token}.APPROVED").write_text(json.dumps({
+            "sha256": digest, "edition_id": edition_id, "revision": revision,
+            "authorized_by": "test"}) + "\n", encoding="utf-8")
     return path, digest
 
 
@@ -121,6 +131,7 @@ def adapt_example(now=NOW):
         im["src"] = illu[i % len(illu)]
         if not im.get("credit"):
             im["credit"] = "KI-generiert (Front News)"
+    ed["publish"] = True  # temp copy only; mimics a publish-ready handoff file
     handoff = ed.setdefault("handoff", {})
     handoff["ready_at"] = ed.get("published_at") or now.isoformat()
     handoff["ready_note"] = "adapted in a temp copy so normal validation can pass"
@@ -197,8 +208,8 @@ class PublisherTests(unittest.TestCase):
         self.assertIn("reason=out_of_order", proc.stdout)
 
     def test_stale(self):
-        stale_at = (NOW - timedelta(hours=15)).isoformat()
-        ed = make_edition(ready_at=stale_at)
+        # research 17h old but freshly re-READied: still stale (16h from research_completed_at)
+        ed = make_edition(research_at=(NOW - timedelta(hours=17)).isoformat(), ready_at=NOW.isoformat())
         write_artifact(self.handoff, ed)
         proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
         self.assertEqual(proc.returncode, 2, proc.stdout)
@@ -229,6 +240,88 @@ class PublisherTests(unittest.TestCase):
         self.assertFalse((self.handoff / "approvals").exists() or
                          any((self.handoff / "approvals").glob("*") if (self.handoff / "approvals").exists() else []))
 
+
+    def test_not_stale_at_15h_research(self):
+        ed = make_edition(research_at=(NOW - timedelta(hours=15)).isoformat(),
+                          ready_at=(NOW - timedelta(hours=15)).isoformat())
+        write_artifact(self.handoff, ed)
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
+
+    def test_ready_rejects_content_hash_alias(self):
+        path, digest = write_artifact(self.handoff, make_edition())
+        (path.parent / "r01.READY").write_text(json.dumps({"content_hash": digest}), encoding="utf-8")
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+
+    def test_ready_json_sha256_accepted(self):
+        path, digest = write_artifact(self.handoff, make_edition())
+        (path.parent / "r01.READY").write_text(json.dumps({"sha256": digest}), encoding="utf-8")
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
+
+    def test_approval_bare_hash_rejected(self):
+        ed = make_edition()
+        path, digest = write_artifact(self.handoff, ed)
+        (self.handoff / "approvals" / "2026-11-08-morning-r01.APPROVED").write_text(
+            f"sha256:{digest}\n", encoding="utf-8")
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"], mode="manual")
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("reason=approval_invalid", proc.stdout)
+
+    def test_approval_content_hash_not_enough(self):
+        ed = make_edition()
+        write_artifact(self.handoff, ed)
+        (self.handoff / "approvals" / "2026-11-08-morning-r01.APPROVED").write_text(json.dumps({
+            "sha256": ed["handoff"]["content_hash"], "edition_id": "2026-11-08-morning", "revision": 1}),
+            encoding="utf-8")
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"], mode="manual")
+        self.assertIn("reason=approval_hash_mismatch", proc.stdout)
+
+    def test_approval_wrong_revision(self):
+        path, digest = write_artifact(self.handoff, make_edition())
+        (self.handoff / "approvals" / "2026-11-08-morning-r01.APPROVED").write_text(json.dumps({
+            "sha256": digest, "edition_id": "2026-11-08-morning", "revision": 2}), encoding="utf-8")
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"], mode="manual")
+        self.assertIn("reason=approval_binding_mismatch", proc.stdout)
+
+    def test_publish_false_rejected_not_flipped(self):
+        write_artifact(self.handoff, make_edition(publish=False))
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("reason=not_publish_true", proc.stdout)
+
+    def test_unknown_section_rejected(self):
+        ed = make_edition()
+        ed["items"][1]["section"] = "Kultur"
+        ed["handoff"]["content_hash"] = payload_hash(ed)
+        write_artifact(self.handoff, ed)
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("section", proc.stdout)
+
+    def test_missing_image_rejected(self):
+        ed = make_edition()
+        ed["items"][2].pop("image", None)
+        ed["handoff"]["content_hash"] = payload_hash(ed)
+        write_artifact(self.handoff, ed)
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("image fehlt", proc.stdout)
+
+    def test_missing_image_rights_rejected(self):
+        ed = make_edition()
+        ed["handoff"]["image_rights"].pop(ed["items"][3]["id"])
+        write_artifact(self.handoff, ed)
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("image_rights", proc.stdout)
+
+    def test_empty_inbox_is_noop(self):
+        (self.handoff / "incoming").mkdir(parents=True)
+        proc = run_pub(self.repo, self.handoff)
+        self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
+        self.assertEqual([p.name for p in (self.repo / "editions").iterdir()], [".gitkeep"])
 
     def test_default_mode_is_auto(self):
         write_artifact(self.handoff, make_edition(), approve=False)
@@ -298,12 +391,19 @@ class LivePublishToLocalRemote(unittest.TestCase):
             subprocess.run(["git", "-C", str(repo), "push", "-u", "origin", "main"],
                            check=True, capture_output=True)
             ed = make_edition()
-            write_artifact(handoff, ed)
-            proc = run_pub(repo, handoff)
+            write_artifact(handoff, ed, approve=False)
+            proc = run_pub(repo, handoff, mode="auto")
             self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
             self.assertIn("reason=published", proc.stdout)
             published = json.loads(next((repo / "editions").glob("*.json")).read_text(encoding="utf-8"))
             self.assertIs(published["publish"], True)
+            src = handoff / "incoming" / "2026-11-08-morning" / "r01.json"
+            pub_file = next((repo / "editions").glob("*.json"))
+            self.assertEqual(pub_file.read_bytes(), src.read_bytes(), "must copy byte-for-byte")
+            receipt = json.loads((handoff / "approvals" / "2026-11-08-morning-r01.APPROVED").read_text())
+            self.assertEqual(receipt["kind"], "policy_validation")
+            self.assertEqual((receipt["sha256"], receipt["edition_id"], receipt["revision"]),
+                             (hashlib.sha256(src.read_bytes()).hexdigest(), "2026-11-08-morning", 1))
             log = subprocess.run(["git", "-C", str(remote), "log", "-1", "--oneline", "main"],
                                  capture_output=True, text=True, check=True)
             self.assertIn("Publish Front News edition 2026-11-08-morning", log.stdout)

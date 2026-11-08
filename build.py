@@ -105,6 +105,7 @@ def merge_manifest(ed, manifest_path, notes_path=None):
 # ---------- validation ----------
 EDITION_ID_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening)$")
 ALLOWED_IMAGE_RIGHTS = {"ai_generated_own", "licensed"}
+ALLOWED_SECTIONS = ("Politik", "Wirtschaft", "Zürich & Regionen", "Gesellschaft", "Verkehr & Wetter", "Sport")
 
 def content_payload_hash(ed):
     """SHA-256 of all top-level fields except handoff, with sorted keys."""
@@ -142,10 +143,6 @@ def validate_handoff_fields(ed, need, require=False):
          "handoff.revision muss eine ganze Zahl >= 1 sein")
     ch = str(h.get("content_hash") or "")
     expected = content_payload_hash(ed)
-    if ch.lower() != expected.lower() and ed.get("publish") is True:
-        trial = dict(ed)
-        trial["publish"] = False
-        expected = content_payload_hash(trial)
     need(ch.lower() == expected.lower(), f"handoff.content_hash stimmt nicht (erwartet {expected})")
     _iso_tz(h.get("research_completed_at"), "handoff.research_completed_at", need)
     _iso_tz(h.get("ready_at"), "handoff.ready_at", need)
@@ -154,9 +151,12 @@ def validate_handoff_fields(ed, need, require=False):
     if isinstance(rights, dict):
         for i, it in enumerate(ed.get("items") or []):
             im = it.get("image")
-            if not im:
-                continue
             rid = it.get("id")
+            need(isinstance(im, dict) and im, f"items[{i}].image fehlt (Bild ist Pflicht)")
+            need(it.get("section") in ALLOWED_SECTIONS,
+                 f"items[{i}].section {it.get('section')!r} nicht erlaubt ({', '.join(ALLOWED_SECTIONS)})")
+            if not isinstance(im, dict) or not im:
+                im = {}
             info = rights.get(rid)
             need(isinstance(info, dict), f"handoff.image_rights[{rid}] fehlt")
             if not isinstance(info, dict):

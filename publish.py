@@ -22,7 +22,7 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 ZRH = ZoneInfo("Europe/Zurich")
-STALE_AFTER = timedelta(hours=14)
+STALE_AFTER = timedelta(hours=16)  # measured from handoff.research_completed_at
 EDITION_ID_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening)$")
 REV_FILE_RE = re.compile(r"^(r(\d{2}))\.json$")
 DEFAULT_HANDOFF = "/workspace/front-news-handoff"
@@ -72,7 +72,7 @@ def normalize_hash(value):
     if value is None:
         return None
     if isinstance(value, dict):
-        value = value.get("sha256") or value.get("content_hash") or value.get("hash")
+        value = value.get("sha256")  # whole-file sha256 only; no aliases
     text = str(value).strip()
     if not text:
         return None
@@ -228,15 +228,22 @@ def inspect_candidate(art, handoff_root, mode, now, state, build):
         raise Rejected("content_hash_mismatch",
                        f"handoff.content_hash does not match payload (expected {expected_content})",
                        edition_id, revision)
-    try:
-        ready_at = datetime.fromisoformat(str(handoff.get("ready_at")))
-        if ready_at.tzinfo is None:
-            raise ValueError("ready_at missing offset")
-    except (TypeError, ValueError):
-        raise Rejected("invalid_ready_at", "handoff.ready_at is not an ISO-8601 timestamp with offset",
-                       edition_id, revision)
-    if now - ready_at > STALE_AFTER:
-        raise Rejected("stale", f"ready_at {ready_at.isoformat()} is older than {int(STALE_AFTER.total_seconds()//3600)}h",
+    for field in ("ready_at", "research_completed_at"):
+        try:
+            ts = datetime.fromisoformat(str(handoff.get(field)))
+            if ts.tzinfo is None:
+                raise ValueError("missing offset")
+        except (TypeError, ValueError):
+            raise Rejected(f"invalid_{field}", f"handoff.{field} is not an ISO-8601 timestamp with offset",
+                           edition_id, revision)
+        if field == "research_completed_at":
+            research_at = ts
+    if now - research_at > STALE_AFTER:
+        raise Rejected("stale", f"research_completed_at {research_at.isoformat()} is older than "
+                       f"{int(STALE_AFTER.total_seconds()//3600)}h", edition_id, revision)
+    if ed.get("publish") is not True:
+        raise Rejected("not_publish_true",
+                       "handoff file must already carry publish:true; the publisher never edits bytes",
                        edition_id, revision)
 
     if state:
@@ -259,25 +266,43 @@ def inspect_candidate(art, handoff_root, mode, now, state, build):
                            edition_id, revision)
 
     approved = approval_path(handoff_root, edition_id, art["rev_token"])
-    appr_hash = read_hash_file(approved)
     if mode == "manual":
         if not os.path.isfile(approved):
             raise Rejected("unapproved", "manual mode requires a hash-bound approval file",
                            edition_id, revision)
-        if appr_hash not in {digest, normalize_hash(got_content)}:
-            raise Rejected("approval_hash_mismatch",
-                           "approval file hash does not match this artifact",
-                           edition_id, revision)
+        check_approval(approved, digest, edition_id, revision)
+    elif os.path.isfile(approved):
+        check_approval(approved, digest, edition_id, revision)
     return ed, digest, got_content, approved
 
 
-def copy_for_publish(ed):
-    out = json.loads(json.dumps(ed))
-    out["publish"] = True
-    return out
+def check_approval(path, digest, edition_id, revision):
+    """APPROVED must be JSON bound to the exact file sha256 + edition_id + revision."""
+    try:
+        obj = json.load(open(path, encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        obj = None
+    if not isinstance(obj, dict):
+        raise Rejected("approval_invalid", "approval file must be a JSON object", edition_id, revision)
+    if normalize_hash(obj.get("sha256")) != digest:
+        raise Rejected("approval_hash_mismatch", "approval sha256 does not match this file",
+                       edition_id, revision)
+    if obj.get("edition_id") != edition_id or obj.get("revision") != revision:
+        raise Rejected("approval_binding_mismatch",
+                       "approval edition_id/revision does not match this artifact",
+                       edition_id, revision)
 
 
-def render_preview(build_mod, repo, published, dest):
+def copy_bytes_atomic(src, dest):
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    tmp = dest + ".tmp"
+    shutil.copyfile(src, tmp)
+    with open(tmp, "rb") as fh:
+        os.fsync(fh.fileno())
+    os.replace(tmp, dest)
+
+
+def render_preview(build_mod, repo, published, dest, src_path):
     tmp = dest or tempfile.mkdtemp(prefix="fn-publish-render-")
     os.makedirs(tmp, exist_ok=True)
     assets_src = os.path.join(repo, "assets")
@@ -288,7 +313,7 @@ def render_preview(build_mod, repo, published, dest):
     ed_dir = os.path.join(tmp, "editions")
     os.makedirs(ed_dir, exist_ok=True)
     slug = build_mod.slug(published)
-    write_json_atomic(os.path.join(ed_dir, slug + ".json"), published)
+    copy_bytes_atomic(src_path, os.path.join(ed_dir, slug + ".json"))
     env = os.environ.copy()
     env["FRONTNEWS_ROOT"] = tmp
     cmd = [sys.executable, os.path.join(repo, "build.py"), "rebuild", "--out", "public"]
@@ -306,11 +331,11 @@ def git(repo, *args, check=True):
                           capture_output=True, text=True)
 
 
-def publish_to_repo(repo, published, slug, message):
+def publish_to_repo(repo, published, slug, message, src_path):
     dest = os.path.join(repo, "editions", slug + ".json")
     existed = os.path.isfile(dest)
     previous = open(dest, encoding="utf-8").read() if existed else None
-    write_json_atomic(dest, published)
+    copy_bytes_atomic(src_path, dest)
     rel = os.path.join("editions", slug + ".json")
     try:
         git(repo, "add", "--", rel)
@@ -343,12 +368,16 @@ def publish_to_repo(repo, published, slug, message):
     return commit
 
 
-def write_auto_approval(path, digest, now):
+def write_auto_approval(path, digest, edition_id, revision, now):
+    # Receipt of automatic policy validation; this is NOT a human approval.
     payload = {
+        "kind": "policy_validation",
         "sha256": digest,
+        "edition_id": edition_id,
+        "revision": revision,
         "mode": "auto",
         "authorized_at": now.isoformat(timespec="seconds"),
-        "authorized_by": "publisher-auto",
+        "authorized_by": "publisher-policy-validation",
     }
     write_text_atomic(path, json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
 
@@ -368,7 +397,7 @@ def run(args):
         state = load_state(state_path)
         ed, digest, content_hash, approved = inspect_candidate(
             art, handoff_root, mode, now, state, build)
-        published = copy_for_publish(ed)
+        published = ed  # byte-for-byte; never mutated
         try:
             build.validate(published, repo, preview=False, require_handoff=True)
         except build.Invalid as ex:
@@ -376,7 +405,7 @@ def run(args):
         render_dir = None
         index = None
         if args.dry_run or args.render_out:
-            render_dir, index = render_preview(build, repo, published, args.render_out)
+            render_dir, index = render_preview(build, repo, published, args.render_out, art["json_path"])
         if args.dry_run:
             extra = f"file_sha256={digest}"
             if index:
@@ -392,11 +421,11 @@ def run(args):
                            art["edition_id"], art["revision"])
 
         if mode == "auto" and not os.path.isfile(approved):
-            write_auto_approval(approved, digest, now)
+            write_auto_approval(approved, digest, art["edition_id"], art["revision"], now)
 
         slug = build.slug(published)
         message = f"Publish Front News edition {art['edition_id']} {art['rev_token']}"
-        commit = publish_to_repo(repo, published, slug, message)
+        commit = publish_to_repo(repo, published, slug, message, art["json_path"])
         went_live = datetime.now(ZRH)
         record = {
             "edition_id": art["edition_id"],
