@@ -8,7 +8,7 @@ Usage:
 Without --out, public is swapped atomically as a symlink to the new release.
 If no edition with publish:true exists, a holding page is written instead.
 """
-import json, os, sys, shutil, tempfile, html, re
+import json, os, sys, shutil, tempfile, html, re, hashlib
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -103,7 +103,73 @@ def merge_manifest(ed, manifest_path, notes_path=None):
     return ed
 
 # ---------- validation ----------
-def validate(ed, base_dir, preview=False):
+EDITION_ID_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening)$")
+ALLOWED_IMAGE_RIGHTS = {"ai_generated_own", "licensed"}
+
+def content_payload_hash(ed):
+    """SHA-256 of all top-level fields except handoff, with sorted keys."""
+    payload = {k: v for k, v in ed.items() if k != "handoff"}
+    blob = json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+    return "sha256:" + hashlib.sha256(blob).hexdigest()
+
+def _iso_tz(value, label, need):
+    try:
+        ts = datetime.fromisoformat(str(value))
+        need(ts.tzinfo is not None, f"{label} braucht eine Zeitzone/Offset")
+        return ts
+    except (TypeError, ValueError):
+        need(False, f"{label} ist kein ISO-8601-Zeitstempel")
+        return None
+
+def validate_handoff_fields(ed, need, require=False):
+    h = ed.get("handoff")
+    if not isinstance(h, dict):
+        need(False, "handoff fehlt oder ist kein Objekt")
+        return
+    eid = h.get("edition_id")
+    matched = EDITION_ID_RE.match(str(eid or ""))
+    need(bool(matched), f"handoff.edition_id ungültig: {eid!r}")
+    if matched:
+        need(matched.group(2) == ed.get("edition"), "handoff.edition_id passt nicht zu edition")
+        try:
+            pub = datetime.fromisoformat(str(ed.get("published_at"))).astimezone(ZRH)
+            need(pub.strftime("%Y-%m-%d") == matched.group(1),
+                 "handoff.edition_id Datum passt nicht zu published_at (Zürich)")
+        except (TypeError, ValueError):
+            pass
+    rev = h.get("revision")
+    need(isinstance(rev, int) and not isinstance(rev, bool) and rev >= 1,
+         "handoff.revision muss eine ganze Zahl >= 1 sein")
+    ch = str(h.get("content_hash") or "")
+    expected = content_payload_hash(ed)
+    if ch.lower() != expected.lower() and ed.get("publish") is True:
+        trial = dict(ed)
+        trial["publish"] = False
+        expected = content_payload_hash(trial)
+    need(ch.lower() == expected.lower(), f"handoff.content_hash stimmt nicht (erwartet {expected})")
+    _iso_tz(h.get("research_completed_at"), "handoff.research_completed_at", need)
+    _iso_tz(h.get("ready_at"), "handoff.ready_at", need)
+    rights = h.get("image_rights")
+    need(isinstance(rights, dict), "handoff.image_rights fehlt")
+    if isinstance(rights, dict):
+        for i, it in enumerate(ed.get("items") or []):
+            im = it.get("image")
+            if not im:
+                continue
+            rid = it.get("id")
+            info = rights.get(rid)
+            need(isinstance(info, dict), f"handoff.image_rights[{rid}] fehlt")
+            if not isinstance(info, dict):
+                continue
+            kind = info.get("rights")
+            need(kind in ALLOWED_IMAGE_RIGHTS, f"handoff.image_rights[{rid}].rights ungültig")
+            if kind == "licensed":
+                for f in ("license", "license_url", "attribution", "verified_at"):
+                    need(info.get(f), f"handoff.image_rights[{rid}].{f} fehlt")
+            need(isinstance(im.get("credit"), str) and im["credit"].strip(),
+                 f"items[{i}].image.credit fehlt")
+
+def validate(ed, base_dir, preview=False, require_handoff=False):
     errs = []
     def need(cond, msg):
         if not cond: errs.append(msg)
@@ -153,6 +219,8 @@ def validate(ed, base_dir, preview=False):
             need(os.path.isfile(os.path.join(base_dir, p)), f"{tag}.image.src existiert nicht: {p}")
         for f in ("headline", "summary"):
             need("ß" not in str(it.get(f, "")), f"{tag}.{f}: 'ß' statt 'ss' (Schweizer Schreibweise)")
+    if require_handoff or ed.get("handoff") is not None:
+        validate_handoff_fields(ed, need, require=require_handoff)
     if errs: raise Invalid("\n".join(errs))
     return ed
 
@@ -355,7 +423,7 @@ def main(a):
             ed = adapt(json.load(open(a[1], encoding="utf-8")), mapping)
             if "--manifest" in a:
                 ed = merge_manifest(ed, a[a.index("--manifest")+1], os.path.join(ROOT, "image-notes.json"))
-            ed = validate(ed, ROOT, PREVIEW)
+            ed = validate(ed, ROOT, PREVIEW, require_handoff=("--handoff" in a))
             print("OK:", ed["edition"], ed["published_at"], len(ed["items"]), "Meldungen")
             if cmd == "publish":
                 dst = os.path.join(ED_DIR, slug(ed) + ".json")
