@@ -1,0 +1,511 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-08T18:09:02+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-freiburg-staatsrat",
+      "section": "Politik",
+      "lead": true,
+      "headline": "Freiburg: Bürgerliches Trio im ersten Wahlgang in den Staatsrat gewählt",
+      "summary": "Bei den Freiburger Staatsratswahlen haben die beiden bisherigen FDP-Staatsräte Romain Collaud (44'217 Stimmen) und Didier Castella (43'789) sowie Mitte-Nationalrätin Marie-France Roth Pasquier (41'977) das absolute Mehr von 39'554 Stimmen übertroffen. Knapp verpasst hat es der Deutschfreiburger Markus Julmy (Mitte) mit 38'293 Stimmen; auch die Bisherigen Philippe Demierre (SVP) und Sylvie Bonvin-Sansonnens (Grüne) müssen in den zweiten Wahlgang. Bürgerliche und Linke waren mit je einer gemeinsamen Fünferliste angetreten, die Stimmbeteiligung lag bei 36,09 Prozent. Die vier noch offenen Sitze werden am 29. November vergeben.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-erfolg-fuer-buergerliche-sie-holen-drei-sitze-im-staatsrat",
+          "published_at": "2026-11-08T10:09:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Keystone-SDA / swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/b%C3%BCrgerliches-trio-im-ersten-anlauf-in-freiburger-staatsrat-gew%C3%A4hlt/92347309",
+          "published_at": "2026-11-08T16:35:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/politik-freiburg-staatsrat-1024-r01.jpg",
+        "alt": "Sieben leere Stühle um einen runden Tisch, drei davon farbig hervorgehoben, auf dem Tisch ein Wahlcouvert (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-freiburg-grosser-rat",
+      "section": "Politik",
+      "headline": "Freiburger Grosser Rat: SVP gewinnt Sitze, FDP verliert",
+      "summary": "Bei den Wahlen ins Freiburger Kantonsparlament hat die SVP laut SRF mindestens sechs Sitze dazugewonnen und ist neu zweitstärkste Partei, während die FDP fünf Sitze verliert und noch auf 18 kommt. Die Mitte bleibt mit unveränderten 26 Sitzen knapp stärkste Kraft. Die SP gewinnt zwei Sitze hinzu (neu 23), die Grünen verlieren drei (neu 10), und die linksalternative Gruppierung Das-Was zieht mit zwei Sitzen erstmals ein. Mitte, SVP und FDP halten zusammen weiterhin fast zwei Drittel der Sitze.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-die-svp-bleibt-staerkste-partei-im-kantonsparlament",
+          "published_at": "2026-11-08T10:09:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps (Liveticker)",
+          "url": "https://www.letemps.ch/de/schweiz/freiburg/live-kantonale-wahlen-in-freiburg-drei-kandidierende-der-rechten-sind-gewahlt",
+          "published_at": "2026-11-08T10:32:00+01:00",
+          "updated_at": "2026-11-08T17:00:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/politik-freiburg-grosser-rat-1024-r01.jpg",
+        "alt": "Abstrakter Parlamentshalbkreis aus farbigen Sitzpunkten in mehreren Farben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-cop31-schweiz",
+      "section": "Politik",
+      "headline": "Klimakonferenz COP31: Schweiz will bestehende Zusagen sichern",
+      "summary": "Vor der Weltklimakonferenz COP31, die vom 9. bis 20. November im türkischen Antalya stattfindet, nennt Umweltbotschafter Felix Wertli die Verteidigung bestehender Verpflichtungen als Priorität der Schweizer Delegation. Grundlegende Beschlüsse sind gemäss dem Zeitplan des Pariser Abkommens erst an der COP33 vorgesehen. Die Schweiz setzt auf rasch wirksame Massnahmen wie mehr Elektrifizierung, bessere Frühwarnsysteme und weniger Methanemissionen und verlangt, dass künftig auch wohlhabende Länder wie Saudi-Arabien oder Singapur zur Klimafinanzierung beitragen. Umweltorganisationen wie der WWF fordern zusätzlich einen höheren Beitrag der Schweiz selbst.",
+      "sources": [
+        {
+          "name": "Keystone-SDA / swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/schweiz-will-an-klimakonferenz-fortschritte-sichern/92346388",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/politik-cop31-schweiz-1024-r01.jpg",
+        "alt": "Stilisierter Globus und Thermometer auf einem langen Konferenztisch mit leeren Stühlen und Mikrofonen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-coronatest-abrechnungen",
+      "section": "Wirtschaft",
+      "headline": "Coronatests: BAG lässt Abrechnungen über 213 Millionen Franken prüfen",
+      "summary": "Das Bundesamt für Gesundheit lässt Coronatest-Abrechnungen im Umfang von rund 213 Millionen Franken während etwa zwei Jahren durch eine externe Firma prüfen, wie die «SonntagsZeitung» berichtet. In 322 Fällen bestehen Verdachtsmomente, etwa auf nicht durchgeführte, mehrfach verrechnete oder überhöhte Tests; es kann sich auch um Abrechnungsfehler handeln. Bis Ende Oktober wurden laut BAG rund 23,3 Millionen Franken zurückerstattet und weitere 72 Millionen an Auszahlungen verhindert. Insgesamt bezahlte der Bund von 2020 bis 2022 über 2,6 Milliarden Franken für mehr als 68 Millionen Tests.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/322-verdachtsfaelle-es-geht-um-213-mio-betrugsverdacht-bei-coronatest-abrechnungen-103663966",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Bundesamt für Gesundheit",
+          "url": "https://www.bag.admin.ch/de/falsch-in-rechnung-gestellte-covid-19-tests",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/wirtschaft-coronatest-abrechnungen-1024-r01.jpg",
+        "alt": "Stapel leerer Rechnungsformulare mit Teströhrchen, eine Lupe und ein Taschenrechner (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-just-eat-streik",
+      "section": "Zürich & Regionen",
+      "headline": "Just-Eat-Kuriere streiken in Zürich und im Glatttal",
+      "summary": "Kurierinnen und Kuriere des Lieferdienstes Just Eat haben am Sonntag in Zürich und im Glatttal für die Mittags- und Abendschicht bis 22 Uhr die Arbeit niedergelegt; laut der Gewerkschaft Syndicom fiel bis Mittag mehr als die Hälfte der Schichten aus. Auslöser ist die angekündigte Umstellung auf selbstständige Kuriere in Städten wie Zürich, Bern, Basel und Winterthur, wodurch laut Belegschaft rund 500 Angestellten die Kündigung droht. Just Eat begründet die Reorganisation mit veränderten Kundenbedürfnissen. Die Streikenden verlangen einen Stopp des Abbaus und eine Verlängerung des Konsultationsverfahrens bis 30. November.",
+      "sources": [
+        {
+          "name": "Keystone-SDA / swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/just-eat-kuriere-streiken-in-z%C3%BCrich-und-im-glatttal/92346682",
+          "published_at": "2026-11-08T16:42:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/zuerich-keine-essenslieferungen-just-eat-kuriere-streiken-103664025",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/regionen-just-eat-streik-1024-r01.jpg",
+        "alt": "Abgestelltes Velo neben einer geschlossenen, markenlosen Lieferbox an einer Strasse in der Abenddämmerung (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-hb-unfall",
+      "section": "Zürich & Regionen",
+      "headline": "Zürich HB: 22-Jähriger stirbt nach Sturz vor einfahrenden Zug",
+      "summary": "Im Hauptbahnhof Zürich ist in der Nacht auf Sonntag gegen 1 Uhr ein 22-jähriger Mann aus noch unbekannten Gründen vom Perron auf das Gleis gestürzt und von einem einfahrenden Zug erfasst worden. Er starb trotz sofortiger Rettungsmassnahmen an der Unfallstelle. Laut Kantonspolizei Zürich kann ein Drittverschulden nach bisherigen Erkenntnissen ausgeschlossen werden; mehrere Augenzeugen wurden psychologisch betreut. Kantonspolizei und Staatsanwaltschaft Zürich-Limmat untersuchen den Unfall.",
+      "sources": [
+        {
+          "name": "Kantonspolizei Zürich (Medienmitteilung)",
+          "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/11/261108x_zuerich_hb_bahnunfall.html",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/schweiz/polizeirapport/655242899-mann-stuerzt-im-hb-zuerich-aufs-gleis-und-wird-von-zug-erfasst",
+          "published_at": "2026-11-08T11:45:00+01:00",
+          "updated_at": "2026-11-08T11:48:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/regionen-zuerich-hb-unfall-1024-r01.jpg",
+        "alt": "Leerer, nächtlich beleuchteter Bahnsteig mit gelber Sicherheitslinie und leeren Gleisen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-imam-aliu",
+      "section": "Gesellschaft",
+      "headline": "Zürcher Imam Bashkim Aliu gibt seine Ämter ab",
+      "summary": "Der Imam Bashkim Aliu ist nach Recherchen der «SonntagsZeitung» von allen Funktionen bei der Vereinigung der Islamischen Organisationen in Zürich (VIOZ) zurückgetreten; die Föderation Islamischer Dachorganisationen Schweiz (FIDS) entband ihn zudem von der Leitung ihrer Imam-Kommission. Anlass sind unter anderem ein Facebook-Beitrag von 2017, in dem er die Pride in Pristina als «Parade der Schande» bezeichnete, sowie seine Teilnahme an einer Versammlung in Doha 2024, die die Zeitung als eng mit der Muslimbruderschaft verflochten beschreibt. Beide Verbände erklärten, homophobe Aussagen widersprächen ihren Grundsätzen. Die VIOZ erhält Beiträge der Stadt Zürich und über die Landeskirchen; die beteiligten Stellen wollen die Vorwürfe prüfen.",
+      "sources": [
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/schweiz/homosexualitaet/869782839-zuercher-spitzen-imam-tritt-nach-homophoben-aussagen-zurueck",
+          "published_at": "2026-11-08T05:49:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/homophobe-aeusserungen-zuercher-muslimverbaende-trennen-sich-von-einflussreichem-imam-103663984",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/gesellschaft-imam-aliu-1024-r01.jpg",
+        "alt": "Leeres Holzpult in einem schlichten Saal, darauf ein verschlossenes Couvert, davor leere Stühle (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-crans-montana-soforthilfe",
+      "section": "Gesellschaft",
+      "headline": "Crans-Montana: Wallis verteidigt Kriterien für Soforthilfe",
+      "summary": "Der Kanton Wallis hält daran fest, sieben Überlebenden der Brandkatastrophe von Crans-Montana in der Silvesternacht die von Kanton und Bund finanzierte Soforthilfe nicht zu gewähren. Staatsrat Mathias Reynard sagte bei RTS, Anspruch habe, wer einen Angehörigen verloren habe oder im Spital übernachten musste; das psychische Leid der Abgewiesenen werde anerkannt und ihr Opferstatus nicht bestritten. Der Genfer Anwalt Robert Assaël, der eine Betroffene vertritt, bezeichnet das Kriterium der Spitalübernachtung als willkürlich. Der Kanton verweist auf eine Stiftung und weitere Hilfen ausserhalb der Soforthilfe.",
+      "sources": [
+        {
+          "name": "watson (SDA)",
+          "url": "https://www.watson.ch/schweiz/wallis/196821488-wallis-verteidigt-ablehnung-von-hilfe-an-bestimmte-brand-opfer",
+          "published_at": "2026-11-08T07:27:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS (Französisch)",
+          "url": "https://www.rts.ch/info/regions/valais/2026/article/crans-montana-le-valais-defend-les-criteres-du-fond-d-urgence-29408792.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/gesellschaft-crans-montana-soforthilfe-1024-r01.jpg",
+        "alt": "Leeres Antragsformular mit Kästchen, offenes Couvert und Stift auf einem Pult vor Bergsilhouetten (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-tuggen-ermittlung",
+      "section": "Gesellschaft",
+      "headline": "Tuggen: Beschuldigter soll seit Jahren Neonazi-Netzwerk angehören",
+      "summary": "Im Fall des 27-jährigen Deutschen, der im Oktober nach einem Konzert in Tuggen SZ bei einer Auseinandersetzung tödlich verletzt wurde, berichtet der «Blick» neue Details zum Beschuldigten. Der 42-jährige Schweizer, der in Untersuchungshaft sitzt, soll seit mindestens 2008 in der rechtsextremen Szene verkehren und der Innerschweizer Sektion des Netzwerks «Blood and Honour» angehören. Die Staatsanwaltschaft Schwyz ermittelt wegen vorsätzlicher Tötung; es gilt die Unschuldsvermutung. Welche Rolle die Gesinnung beim Vorfall spielte, ist laut den Berichten offen.",
+      "sources": [
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/schweiz/gesellschaft-politik/228404189-beschuldigter-von-tuggen-soll-seit-jahren-in-neonazi-szene-aktiv-sein",
+          "published_at": "2026-11-08T04:39:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF News (Hintergrund)",
+          "url": "https://www.srf.ch/news/schweiz/toetungsdelikt-in-tuggen-mutmasslicher-taeter-soll-mitglied-von-neonazi-netzwerk-sein",
+          "published_at": "2026-10-26T20:11:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/gesellschaft-tuggen-ermittlung-1024-r01.jpg",
+        "alt": "Geschlossene Fallakte auf einem Pult neben einer Waage unter einer Schreibtischlampe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-stgallen-lugano",
+      "section": "Sport",
+      "headline": "St. Gallen fügt Leader Lugano mit 5:0 die erste Saisonniederlage zu",
+      "summary": "Der FC St. Gallen hat Super-League-Leader Lugano in der 13. Runde 5:0 geschlagen; für die Tessiner war es im 24. Pflichtspiel der Saison die erste Niederlage. Lugano spielte ab der 11. Minute nach einer Roten Karte gegen Albian Ajeti in Unterzahl, zudem musste Torhüter David von Ballmoos verletzt ausgewechselt werden. Andrin Hunziker traf zweimal für St. Gallen. Lugano führt die Tabelle weiterhin mit sechs Punkten Vorsprung auf YB an; nach der Nationalmannschaftspause geht es am 21. November weiter.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/super-league/1-saisonniederlage-fuer-leader-ajeti-rot-und-von-ballmoos-out-lugano-geht-in-st-gallen-unter",
+          "published_at": "2026-11-08T15:53:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/sport/erste-niederlage-in-der-super-league-der-tabellenfuehrer-lugano-verliert-50-gegen-den-fc-st-gallen-ld.10057982",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/sport-stgallen-lugano-1024-r01.jpg",
+        "alt": "Fussball im unteren Eck eines Tornetzes vor stilisierten Stadionrängen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-eishockey-tschechien",
+      "section": "Sport",
+      "headline": "Eishockey-Nati verliert an der Euro Hockey Tour auch gegen Tschechien",
+      "summary": "Die Schweizer Eishockey-Nationalmannschaft hat an der Euro Hockey Tour in Helsinki auch das dritte Spiel verloren: Gegen Tschechien unterlag sie 2:4, nachdem sie durch Tore von Axel Simic und Jan Schwendeler 2:0 geführt hatte. Tschechien glich im Mitteldrittel aus, ging in der 51. Minute durch Ondrej Kovarcik in Führung und traf zum Schluss ins leere Tor. Das Team von Headcoach Jan Cadieux beendet das Turnier ohne Punkte und mit 5:11 Toren. Das nächste Turnier findet vom 10. bis 13. Dezember in Zürich-Altstetten statt.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-in-helsinki-von-wegen-wiedergutmachung-schweiz-unterliegt-auch-tschechien",
+          "published_at": "2026-11-08T16:03:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS (Französisch)",
+          "url": "https://www.rts.ch/sport/hockey/2026/article/euro-hockey-tour-la-suisse-s-incline-4-2-face-a-la-tchequie-29409535.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-evening/sport-eishockey-tschechien-1024-r01.jpg",
+        "alt": "Zwei gekreuzte Hockeystöcke und ein Puck auf dem Eis vor einem leeren Tor (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-08-evening",
+    "revision": 2,
+    "research_completed_at": "2026-11-08T18:03:37+01:00",
+    "ready_at": "2026-11-08T18:09:02+01:00",
+    "content_hash": "sha256:c53737cf4e8fcd887aa4f475885a4cc9568c2bad255006f4594ce58411bc4920",
+    "image_rights": {
+      "politik-freiburg-staatsrat": {
+        "rights": "ai_generated_own"
+      },
+      "politik-freiburg-grosser-rat": {
+        "rights": "ai_generated_own"
+      },
+      "politik-cop31-schweiz": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-coronatest-abrechnungen": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-just-eat-streik": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-hb-unfall": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-imam-aliu": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-crans-montana-soforthilfe": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-tuggen-ermittlung": {
+        "rights": "ai_generated_own"
+      },
+      "sport-stgallen-lugano": {
+        "rights": "ai_generated_own"
+      },
+      "sport-eishockey-tschechien": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-freiburg-staatsrat": {
+        "path": "media/politik-freiburg-staatsrat-1024-r01.jpg",
+        "sha256": "61f4b642d72e6aa10fc026e40dfe59f6b820d49e1f3376b6ae7053227ad853d5",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6c1122eb565457662d4b0215b289e6cab7c5dab63621e039689c3705af227486.jpg",
+        "original_sha256": "6c1122eb565457662d4b0215b289e6cab7c5dab63621e039689c3705af227486",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-freiburg-grosser-rat": {
+        "path": "media/politik-freiburg-grosser-rat-1024-r01.jpg",
+        "sha256": "11bae655258dc76ca9d71bd50577bfa90811e913c01690ea15b14c81e25dd0ab",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/61d01bd35023b287b4d09490db75ed8bb3f0ad30facd3c5215f12553ea79f517.jpg",
+        "original_sha256": "61d01bd35023b287b4d09490db75ed8bb3f0ad30facd3c5215f12553ea79f517",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-cop31-schweiz": {
+        "path": "media/politik-cop31-schweiz-1024-r01.jpg",
+        "sha256": "9b20365ef0309e6f93cbec1cfed73d2369f2b58504c0f1c93e9b54480f6d7ede",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ae863077bf8d366f3c43ab689fd44e57145ff5cc8603091da8bd40bed8e2f8b4.jpg",
+        "original_sha256": "ae863077bf8d366f3c43ab689fd44e57145ff5cc8603091da8bd40bed8e2f8b4",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-coronatest-abrechnungen": {
+        "path": "media/wirtschaft-coronatest-abrechnungen-1024-r01.jpg",
+        "sha256": "4415e867a0458d6ddd326b2919c37c289a15a724c2c13c63162140bdfd391ec1",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fc741ef740d0653cc1be3ce2618cfb07d8f69a3e8512ea49f7738fa814a3c764.jpg",
+        "original_sha256": "fc741ef740d0653cc1be3ce2618cfb07d8f69a3e8512ea49f7738fa814a3c764",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-just-eat-streik": {
+        "path": "media/regionen-just-eat-streik-1024-r01.jpg",
+        "sha256": "d6ca97fb0db4a36b8951bd29469e0451e27b294394a4660b5f8fa4f0959e301f",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/381934760914cc0edbd6446cad71f29b83bae543471867241b85db3b096c1eea.jpg",
+        "original_sha256": "381934760914cc0edbd6446cad71f29b83bae543471867241b85db3b096c1eea",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-hb-unfall": {
+        "path": "media/regionen-zuerich-hb-unfall-1024-r01.jpg",
+        "sha256": "5bc8ac9c9c18ad88388c66460648f8672039ac6bb12ae761910f4dafd8343485",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/81d19cce715d617bcc5df749355c84ff2351feefa01f61fee842825ee52cc541.jpg",
+        "original_sha256": "81d19cce715d617bcc5df749355c84ff2351feefa01f61fee842825ee52cc541",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-imam-aliu": {
+        "path": "media/gesellschaft-imam-aliu-1024-r01.jpg",
+        "sha256": "f60e0c2629d3da63b2303b45fe658d390b733b6007da17866ee60b7316cf687c",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3e88bf45c70cfa6f0ab7c76d7e23ff83a00df38e79d0d588e5df6ad66a817f57.jpg",
+        "original_sha256": "3e88bf45c70cfa6f0ab7c76d7e23ff83a00df38e79d0d588e5df6ad66a817f57",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-crans-montana-soforthilfe": {
+        "path": "media/gesellschaft-crans-montana-soforthilfe-1024-r01.jpg",
+        "sha256": "972a1955e369fa17cf6fac9160603e0f163b6ea1d29c5140fb221eff6b97c065",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3d9e77cf066b8b2dd95969c3526b5ce982c7ab63c0d6fbab156ccbf22eff3a1e.jpg",
+        "original_sha256": "3d9e77cf066b8b2dd95969c3526b5ce982c7ab63c0d6fbab156ccbf22eff3a1e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-tuggen-ermittlung": {
+        "path": "media/gesellschaft-tuggen-ermittlung-1024-r01.jpg",
+        "sha256": "d1ef6df5e6b8aa4fca0212c319012593e1192d85dae00db90037624a5b702020",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7f0e02e748fc326a025c79c50664a730f9825ca934ee0b3e3687a84c62040944.jpg",
+        "original_sha256": "7f0e02e748fc326a025c79c50664a730f9825ca934ee0b3e3687a84c62040944",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-stgallen-lugano": {
+        "path": "media/sport-stgallen-lugano-1024-r01.jpg",
+        "sha256": "15d1a0fe20bc7230ddc4232b6f088196ebb0abe9978edd001662cc5890e922f4",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:15+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0c7f4f159166aefdad118c6ea91c1e353840d2a0d8b4504cd8c9b9ccca342394.jpg",
+        "original_sha256": "0c7f4f159166aefdad118c6ea91c1e353840d2a0d8b4504cd8c9b9ccca342394",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-eishockey-tschechien": {
+        "path": "media/sport-eishockey-tschechien-1024-r01.jpg",
+        "sha256": "a9630e43f577ae6942fd7bd740f9700fc2773e71eb899e761a67b0747eac747d",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T18:07:16+01:00",
+        "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c57795b51c4b300adc416a6a71ff3cb207c08ee5f3b3faf43c80e2623ad3a3c8.jpg",
+        "original_sha256": "c57795b51c4b300adc416a6a71ff3cb207c08ee5f3b3faf43c80e2623ad3a3c8",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    },
+    "supersedes": "r01 (removed Lex-On item: sole NZZ source is interpretive/loaded framing; aligns site with chat)"
+  }
+}
