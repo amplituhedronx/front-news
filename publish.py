@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Front News publisher: consume editorial handoff artifacts and publish to the site repo.
 
-Stdlib only. Default approval mode is 'manual'. --dry-run does every check
+Stdlib only. Default approval mode is 'auto' (Martin's choice); --mode manual
+requires a hash-bound approval file. Live publishes reject example: true. --dry-run does every check
 and can render a preview, but does not write editions/, commit, push, or
 update durable publisher state.
 """
@@ -385,6 +386,11 @@ def run(args):
                 print(f"DRY_RUN_RENDER {index}")
             return 0
 
+        if published.get("example"):
+            raise Rejected("example_content",
+                           "example: true editions may only be used with --dry-run",
+                           art["edition_id"], art["revision"])
+
         if mode == "auto" and not os.path.isfile(approved):
             write_auto_approval(approved, digest, now)
 
@@ -418,8 +424,8 @@ def main(argv=None):
     p = argparse.ArgumentParser(description="Publish a completed Front News edition to the static site.")
     p.add_argument("--dry-run", action="store_true",
                    help="Run every check and optional render; do not commit, push, or update state")
-    p.add_argument("--mode", choices=("manual", "auto"), default="manual",
-                   help="Approval mode (default: manual)")
+    p.add_argument("--mode", choices=("manual", "auto"), default="auto",
+                   help="Approval mode (default: auto)")
     p.add_argument("--handoff-root", default=os.environ.get("FRONTNEWS_HANDOFF") or DEFAULT_HANDOFF)
     p.add_argument("--repo", default=os.environ.get("FRONTNEWS_ROOT") or here)
     p.add_argument("--now", help="Override current time (ISO-8601) for stale/order checks")

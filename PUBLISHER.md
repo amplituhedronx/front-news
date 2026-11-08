@@ -40,24 +40,25 @@ python3 publish.py --mode auto
 
 `--dry-run` runs every check and can rebuild a preview into `--render-out`. It does not write `editions/` in the site repo, does not commit or push, does not update publisher state, and does not write an auto-approval file.
 
-Default mode is `manual`. Default handoff root is `/workspace/front-news-handoff`. Tests live in `tests/test_publisher.py`.
+Default mode is `auto` (chosen by Martin). Use `--mode manual` to require approval files. Default handoff root is `/workspace/front-news-handoff`. Tests live in `tests/test_publisher.py`.
 
 ## Approval modes
 
-- `manual` (default, until a mode is chosen): an approval file must exist and must be bound to this artifact’s file hash (or its `content_hash`). Editorial readiness is not approval.
-- `auto`: an edition that passes every other check is treated as approved. On a real (not dry-run) publish the publisher writes the hash-bound approval file itself.
+Live (non-dry-run) publishes reject any edition with `example: true`; examples are only allowed in `--dry-run`.
+
+- `manual` (opt-in via `--mode manual`): an approval file must exist and must be bound to this artifact’s file hash (or its `content_hash`). Editorial readiness is not approval.
+- `auto` (default): an edition that passes every other check is treated as approved. On a real (not dry-run) publish the publisher writes the hash-bound approval file itself.
 
 ## Proposed trigger (not created)
 
 A routine, not a host cron, running in `Europe/Zurich`:
 
-- About 07:20 and 18:20: `python3 publish.py --mode <manual|auto>` from this repo, with the agreed handoff root.
+- About 07:20 and 18:20: `python3 publish.py` (default auto mode) from this repo, with the agreed handoff root.
 - A fallback re-check about 40 minutes later (about 08:00 and 19:00) for editions that finished a bit after the first pass.
 
 Those times sit after the usual editorial window (work often starts around 06:46 / 17:46) without going by the clock alone: the publisher still only accepts an artifact that is complete, hashed, within the 14-hour freshness window, and approved. Nothing should invoke `publish.py` until this setup has been reviewed and explicitly enabled.
 
 ## What is still waiting
 
-- Manual vs automatic approval.
 - What to do on a quiet day with fewer than 10 verified items (this setup refuses to pad or publish; the site keeps the last good edition).
 - Generation and licensing metadata for the existing illustrations, before any of them go on the public site.

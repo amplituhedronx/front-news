@@ -50,6 +50,7 @@ def make_edition(edition_id="2026-11-08-morning", revision=1, ready_at=None, n_i
     date = edition_id[:10]
     ed["edition"] = kind
     ed["publish"] = publish
+    ed.pop("example", None)  # synthetic test editions are not example content
     ed["published_at"] = f"{date}T07:10:00+01:00" if kind == "morning" else f"{date}T18:10:00+01:00"
     if n_items is not None:
         ed["items"] = ed["items"][:n_items]
@@ -227,6 +228,25 @@ class PublisherTests(unittest.TestCase):
         self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
         self.assertFalse((self.handoff / "approvals").exists() or
                          any((self.handoff / "approvals").glob("*") if (self.handoff / "approvals").exists() else []))
+
+
+    def test_default_mode_is_auto(self):
+        write_artifact(self.handoff, make_edition(), approve=False)
+        cmd = [sys.executable, str(SITE / "publish.py"), "--repo", str(self.repo),
+               "--handoff-root", str(self.handoff), "--now", NOW.isoformat(), "--dry-run"]
+        proc = subprocess.run(cmd, capture_output=True, text=True)
+        self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
+
+    def test_live_publish_rejects_example(self):
+        ed = make_edition()
+        ed["example"] = True
+        ed["handoff"]["content_hash"] = payload_hash(ed)
+        write_artifact(self.handoff, ed)
+        proc = run_pub(self.repo, self.handoff, mode="auto")
+        self.assertEqual(proc.returncode, 2, proc.stderr + proc.stdout)
+        self.assertIn("reason=example_content", proc.stdout)
+        self.assertEqual([p.name for p in (self.repo / "editions").iterdir()], [".gitkeep"])
+        self.assertFalse((self.handoff / "state" / "published.json").exists())
 
 
 class ExampleDryRun(unittest.TestCase):
