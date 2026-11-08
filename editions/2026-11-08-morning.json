@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-08T14:15:10+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "verified_at": "2026-11-08T13:30:00+01:00",
+  "items": [
+    {
+      "id": "politik-aeschi-bundesrat",
+      "section": "Politik",
+      "headline": "Thomas Aeschi steigt ins Rennen um Parmelins Nachfolge",
+      "summary": "SVP-Fraktionschef Thomas Aeschi kandidiert definitiv für den Bundesrat; er hatte zunächst offengelassen, ob er die Nomination der Zuger SVP annimmt. Er würde gerne das Justizdepartement übernehmen. Insgesamt acht SVP-Politikerinnen und -Politiker bewerben sich. Die Bundeshausfraktion legt am 20. November ihr Ticket fest, die Ersatzwahl ist am 9. Dezember.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+          "published_at": "2026-11-08T00:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/politik-aeschi-bundesrat-1024-r02.jpg",
+        "alt": "Stilisierte Kuppel über acht leeren Stühlen, einer davon rot hervorgehoben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-status-s-westukraine",
+      "section": "Politik",
+      "headline": "Status S: 286 Personen aus der Westukraine weggewiesen",
+      "summary": "Seit November 2025 erhalten Geflüchtete aus sieben vom Bund als sicher eingestuften Regionen der Ukraine keinen Schutzstatus S mehr. Bis Ende September 2026 betraf dies laut SEM 286 Personen, darunter 123 Minderjährige, die mit ihren Bezugspersonen weggewiesen wurden. Die SP verlangt den Status S wieder für alle, SVP und FDP verteidigen die vom Parlament angestossene Praxis.",
+      "sources": [
+        {
+          "name": "NZZ (NZZ am Sonntag)",
+          "url": "https://www.nzz.ch/schweiz/ukraine-krieg-schweiz-weist-ueber-hundert-minderjaehrige-weg-ld.10046943",
+          "published_at": "2026-11-07T21:45:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/politik-status-s-westukraine-1024-r02.jpg",
+        "alt": "Abstrakte, in Flächen geteilte Landkarte neben einem Stapel leerer Formulare und einem Stempel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-eritrea-b-ausweis",
+      "section": "Politik",
+      "headline": "Eritreer brauchen für den B-Ausweis keine Botschaftspapiere mehr",
+      "summary": "Vorläufig aufgenommene Eritreerinnen und Eritreer müssen für ein Gesuch um eine B-Bewilligung keine Dokumente mehr bei ihrer Botschaft beschaffen. Das SEM setzt damit ein Bundesgerichtsurteil vom letzten November um, wie aus einem Schreiben an die Staatspolitische Kommission hervorgeht. Rund 2000 Personen sind betroffen; SVP und FDP kritisieren die Änderung, die SP begrüsst sie.",
+      "sources": [
+        {
+          "name": "NZZ (NZZ am Sonntag)",
+          "url": "https://www.nzz.ch/schweiz/umstrittene-neuerung-des-bundes-eritreer-sollen-einfacher-den-b-ausweis-erhalten-ld.10054047",
+          "published_at": "2026-11-07T21:45:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/politik-eritrea-b-ausweis-1024-r02.jpg",
+        "alt": "Generischer leerer Ausweis neben einem Richterhammer und einem leeren Blatt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-pflichtlager-heizoel",
+      "section": "Wirtschaft",
+      "headline": "Bund öffnet Kerosin-Pflichtlager, Heizöl «sehr angespannt»",
+      "summary": "Seit September hat der Bund viermal Bezüge aus den Mineralöl-Pflichtlagern bewilligt, zuletzt diese Woche für Flugpetrol. Hauptgrund ist das Niedrigwasser auf dem Rhein, das Importe bremst. Die Versorgung mit Heizöl stuft der Bund als sehr angespannt ein; Migrol und Agrola warnen vor Engpässen, falls die Nachfrage im Winter stark steigt. Sparappelle und Temporeduktionen sind laut BWL vorbereitet.",
+      "sources": [
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/wirtschaft/der-bund-muss-seine-pflichtlager-fuer-kerosin-oeffnen-nun-drohen-auch-beim-heizoel-engpaesse-ld.10055054",
+          "published_at": "2026-11-07T21:57:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/wirtschaft-pflichtlager-heizoel-1024-r02.jpg",
+        "alt": "Gezeichnete Tanklager am Ufer und ein Frachtschiff auf einem Fluss mit niedrigem Wasserstand (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-destinus-anschlag",
+      "section": "Zürich & Regionen",
+      "headline": "Anschlag auf Drohnenfirma in Zürich-Albisrieden",
+      "summary": "In der Nacht auf den 16. September wurde bei einem Bürogebäude in Zürich-Albisrieden die Eingangstür der lokalen Büros des Drohnenherstellers Destinus beschädigt. Ein Bekennerschreiben deutet auf ein linksextremes Motiv. Der Fall reiht sich in eine Serie von Angriffen auf Firmen ein, darunter der Brandanschlag auf die Waffenfirma B&T bei Thun, mit geschätzt 12 bis 20 Millionen Franken Schaden.",
+      "sources": [
+        {
+          "name": "NZZ (NZZ am Sonntag)",
+          "url": "https://www.nzz.ch/schweiz/linksextreme-angriffe-auf-firmen-wie-weit-gehen-sie-noch-ld.10055370",
+          "published_at": "2026-11-07T21:45:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/regionen-destinus-anschlag-1024-r02.jpg",
+        "alt": "Generischer Büroeingang bei Nacht mit gesprungener Glastür (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-genf-museum-kaefer",
+      "section": "Zürich & Regionen",
+      "headline": "Brotkäfer befallen Naturhistorisches Museum Genf",
+      "summary": "Im Naturhistorischen Museum Genf frisst der Brotkäfer an der Sammlung präparierter Tiere, am stärksten betroffen ist die Schweizer Fauna. Fast tausend Präparate kommen an einen geheimen Ort; ab Februar wird ihnen in einer luftdichten Hülle während fünf Wochen der Sauerstoff entzogen. Die Aktion kostet 30 Millionen Franken, das Museum öffnet 2028 teilweise und 2036 wieder ganz.",
+      "sources": [
+        {
+          "name": "SRF News / RTS",
+          "url": "https://www.srf.ch/news/dialog/brotkaefer-im-museum-schaedling-zwingt-genf-zu-millionenaktion",
+          "published_at": "2026-11-07T18:45:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/regionen-genf-museum-kaefer-1024-r02.jpg",
+        "alt": "Präparierter Vogel in einer Museumsvitrine, daneben ein vergrösserter Käfer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-prix-suisse",
+      "section": "Gesellschaft",
+      "headline": "Prix Suisse für Thomas Zurbuchen, Kamala Harris als Gast",
+      "summary": "Der Astrophysiker Thomas H. Zurbuchen hat am Samstagabend im Kursaal Bern den Prix Suisse erhalten, überreicht von Bundesrat Martin Pfister. Zurbuchen wechselt von der ETH zu Blue Origin. Ehrengast war die frühere US-Vizepräsidentin Kamala Harris; sie sagte, sie denke über eine Präsidentschaftskandidatur 2028 nach, habe aber nicht entschieden.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/prix-suisse-2026-kamala-harris-denke-ueber-eine-praesidentschafts-kandidatur-nach-103663941",
+          "published_at": "2026-11-08T04:52:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/gesellschaft-prix-suisse-1024-r02.jpg",
+        "alt": "Leere Bühne mit abstrakter Trophäe im Scheinwerferlicht und Konfetti (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-yb-luzern",
+      "section": "Sport",
+      "headline": "YB gewinnt in Luzern dank spätem Tor",
+      "summary": "In der 13. Runde der Super League gewannen die Young Boys in Luzern 3:2; Samuel Essende traf in der 92. Minute zu seinem 15. Saisontor. Ein Luzerner Ausgleich kurz danach zählte wegen Abseits nicht. YB liegt vorübergehend sechs Punkte hinter Leader Lugano. Sion siegte in Vaduz, GC und Lausanne trennten sich unentschieden.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/super-league/siegtor-in-der-92-minute-dank-essende-und-viel-dusel-yb-gewinnt-in-luzern",
+          "published_at": "2026-11-07T20:15:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/sport-yb-luzern-1024-r02.jpg",
+        "alt": "Fussball im Tornetz auf nassem Rasen unter Flutlicht (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-u20-russland",
+      "section": "Sport",
+      "headline": "U20-Nati tritt an der WM nicht gegen Russland an",
+      "summary": "Swiss Ice Hockey hat entschieden, dass die U20-Nationalmannschaft an der WM in Kanada nicht gegen Russland spielt; die Partie war für den 27. Dezember vorgesehen. Die IIHF hatte Russland nach einem TAS-Entscheid wieder ins Turnier aufgenommen. Die Schweiz nimmt am Turnier in Edmonton aber teil. Offen bleibt die Frage für die A-WM im Mai in Deutschland.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/sihf-bezieht-position-u20-eishockeynati-tritt-an-wm-nicht-gegen-russland-an",
+          "published_at": "2026-11-07T20:25:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/sport-u20-russland-1024-r02.jpg",
+        "alt": "Leeres Eisfeld mit Puck am roten Bully-Punkt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-werro-ehammer",
+      "section": "Sport",
+      "headline": "Werro und Ehammer sind Leichtathleten des Jahres",
+      "summary": "Audrey Werro und Simon Ehammer wurden an der Swiss Athletics Night in Bern zu den Schweizer Leichtathleten des Jahres 2026 gewählt. Die 22-jährige Werro blieb über 800 Meter im Freien ungeschlagen, gewann EM-Gold und lief 1:53,70. Ehammer wird zum fünften Mal geehrt, nach seinem Weltrekord im Siebenkampf mit 6670 Punkten an der Hallen-WM in Torun.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/leichtathletik/swiss-athletics-night-werro-und-ehammer-schweizer-leichtathleten-des-jahres",
+          "published_at": "2026-11-07T21:18:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-08-morning/sport-werro-ehammer-1024-r02.jpg",
+        "alt": "Leichtathletik-Laufbahn mit Startblock und Weitsprunggrube (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-08-morning",
+    "revision": 2,
+    "research_completed_at": "2026-11-08T13:30:00+01:00",
+    "original_edition_prepared_at": "2026-11-08T07:10:00+01:00",
+    "ready_at": "2026-11-08T14:15:10+01:00",
+    "content_hash": "sha256:7f38651ae23dcc532b1e687c2c449b0473e1b68f1e6c9f62b06d649db932df21",
+    "image_rights": {
+      "politik-aeschi-bundesrat": {
+        "rights": "ai_generated_own"
+      },
+      "politik-status-s-westukraine": {
+        "rights": "ai_generated_own"
+      },
+      "politik-eritrea-b-ausweis": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-pflichtlager-heizoel": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-destinus-anschlag": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-genf-museum-kaefer": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-prix-suisse": {
+        "rights": "ai_generated_own"
+      },
+      "sport-yb-luzern": {
+        "rights": "ai_generated_own"
+      },
+      "sport-u20-russland": {
+        "rights": "ai_generated_own"
+      },
+      "sport-werro-ehammer": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-aeschi-bundesrat": {
+        "path": "media/politik-aeschi-bundesrat-1024-r02.jpg",
+        "sha256": "858ed7932ddd5349bdf7165fc87037d8f1493573c9847c0bd1ed01307934c10d",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/politik-aeschi-bundesrat-1024.jpg",
+        "derived_from_sha256": "89d5a8031e10f1063edd0df74277f6e03cd012e7bd6866e0c3ad570b446436ce",
+        "original_path": "front-news-site/generated-assets/original/politik-aeschi-bundesrat.jpg",
+        "original_sha256": "1a530a218121a97530cd440d8325b48fd502d8e344c6e9dcdc89c1d42775832c",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "politik-status-s-westukraine": {
+        "path": "media/politik-status-s-westukraine-1024-r02.jpg",
+        "sha256": "286b372f1f3aba2cb0a8f259e82b8ee38229f40626f6c2a3c6818a02e2e2e14a",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/politik-status-s-westukraine-1024.jpg",
+        "derived_from_sha256": "abfff4f069e2b6efbda514d0f52133846e6fa816002f4552618b125c2713f285",
+        "original_path": "front-news-site/generated-assets/original/politik-status-s-westukraine.jpg",
+        "original_sha256": "0520c6300b7001dc9b77eab48eea96141291f69f19da76be453aa446f6506858",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "politik-eritrea-b-ausweis": {
+        "path": "media/politik-eritrea-b-ausweis-1024-r02.jpg",
+        "sha256": "30198bba33ad87819a9e809acc1ff44811534864be85f2aef4fd19a29ce3551f",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/politik-eritrea-b-ausweis-1024.jpg",
+        "derived_from_sha256": "c016be6e6d1a0634040413c3382ca3a9167cadb6fa24cfdbddd302f166ffb23b",
+        "original_path": "front-news-site/generated-assets/original/politik-eritrea-b-ausweis.jpg",
+        "original_sha256": "9cf0e8a5dd993fbb664c741f8d85c17d689a910f5192c1ce413417399379e8ca",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "wirtschaft-pflichtlager-heizoel": {
+        "path": "media/wirtschaft-pflichtlager-heizoel-1024-r02.jpg",
+        "sha256": "2f0ed27d77c58a241722a12d5c7b3c8d54e3505d59f00a2184412a22d4a8a2c6",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/wirtschaft-pflichtlager-heizoel-1024.jpg",
+        "derived_from_sha256": "bc3f44b15e6405a5dba84bdc637be19509b6da53b1b09c32399bd0a198a52fb8",
+        "original_path": "front-news-site/generated-assets/original/wirtschaft-pflichtlager-heizoel.jpg",
+        "original_sha256": "e46ead4a16e791490c52c705f39a936293249a0aba5203bba6534f81456e18cb",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "regionen-destinus-anschlag": {
+        "path": "media/regionen-destinus-anschlag-1024-r02.jpg",
+        "sha256": "feff7ce8e7ddeb6c8b7a293257c215f1f211c7e065c482adb0f1e51b01e05b09",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/regionen-destinus-anschlag-1024.jpg",
+        "derived_from_sha256": "82e551ed34590a9b459bd8b056c0481775a3c385d62fab56626dc764669cf0b9",
+        "original_path": "front-news-site/generated-assets/original/regionen-destinus-anschlag.jpg",
+        "original_sha256": "cfab28759fab59e4a66f913e0426215ba5969b77aa9240a650daa3c51e67753b",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "regionen-genf-museum-kaefer": {
+        "path": "media/regionen-genf-museum-kaefer-1024-r02.jpg",
+        "sha256": "2b55d436fc9bf3a7ee16260b15639d0c332a88a45b98c864d198f0281f938cf0",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/regionen-genf-museum-kaefer-1024.jpg",
+        "derived_from_sha256": "95648daf9f4aa332d12759a8468b3f3408a10a1bb0862845c863641d65a65db3",
+        "original_path": "front-news-site/generated-assets/original/regionen-genf-museum-kaefer.jpg",
+        "original_sha256": "7be0d3fd80df9c4758147010db6682f291b903db9a752a3fe8d84c20634eaab9",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "gesellschaft-prix-suisse": {
+        "path": "media/gesellschaft-prix-suisse-1024-r02.jpg",
+        "sha256": "af0552c313162763284bedaff3a32a62321a2a93341f68f382a121b8d0892328",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/gesellschaft-prix-suisse-1024.jpg",
+        "derived_from_sha256": "8ed988d4b6af7dbe549d76993a5b040841ea03115988a5fc1f5c47a61b51f96f",
+        "original_path": "front-news-site/generated-assets/original/gesellschaft-prix-suisse.jpg",
+        "original_sha256": "c9349c8839303bef2bf9d2bfff05dda7dfb258572512589691e6376c30440eaa",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "sport-yb-luzern": {
+        "path": "media/sport-yb-luzern-1024-r02.jpg",
+        "sha256": "e867ad8e6d0c4e35d9d0bf769377d202d22e110b17315a33d778663afcf06ca4",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/sport-yb-luzern-1024.jpg",
+        "derived_from_sha256": "bdcd1790ce84ff6a2f54ee9731b4956377ffe9a0532117273be801c7dac97007",
+        "original_path": "front-news-site/generated-assets/original/sport-yb-luzern.jpg",
+        "original_sha256": "be6b93c1f4dd6739eb954ff71d5f72fc7df64247d01ac5c72262d9b6e1e6d733",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "sport-u20-russland": {
+        "path": "media/sport-u20-russland-1024-r02.jpg",
+        "sha256": "2e27f616967c6d69321b8091919638d8df4ba54eca945ee6da294a4f780c5b25",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/sport-u20-russland-1024.jpg",
+        "derived_from_sha256": "e49e91c6cba83e0e342f000b85c4f224f9b36200e4163b5539e9a050c5064068",
+        "original_path": "front-news-site/generated-assets/original/sport-u20-russland.jpg",
+        "original_sha256": "4e35b64d1e3356ca9837d7c6b510deb82521395ce059d68013d7d553be13235e",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      },
+      "sport-werro-ehammer": {
+        "path": "media/sport-werro-ehammer-1024-r02.jpg",
+        "sha256": "6446f580b6a1d547b3d3be18a0e028333e18d4cc0bdcf420eacee2b115f54634",
+        "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+        "model": "not_exposed_by_tool",
+        "created_at": "2026-11-08T14:15:10+01:00",
+        "created_at_meaning": "observed derivative re-encoding (Pillow JPEG q85) of the source web variant, timestamp taken immediately after encode; NOT the AI generation time",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own",
+        "derived_from": "front-news-site/generated-assets/web/sport-werro-ehammer-1024.jpg",
+        "derived_from_sha256": "30b179a8ecbb93efb9052622edb824d5c81f4715eb63cc4d25c9f7c8c1cecf58",
+        "original_path": "front-news-site/generated-assets/original/sport-werro-ehammer.jpg",
+        "original_sha256": "1740b75c5927c34de2792c369a3cfd79580bfa72cf06d13610bbb5ea0b40da44",
+        "original_generated_at": "2026-11-08",
+        "original_generated_at_note": "date only; exact generation time not returned by tool (per provenance.json)",
+        "provenance_source": "front-news-site/generated-assets/provenance.json"
+      }
+    },
+    "supersedes": "r01 (provenance created_at was inferred from mtime; do not publish r01)"
+  }
+}
