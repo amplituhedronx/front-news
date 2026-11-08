@@ -122,6 +122,56 @@ def _iso_tz(value, label, need):
         need(False, f"{label} ist kein ISO-8601-Zeitstempel")
         return None
 
+MEDIA_PATH_RE = re.compile(r"^media/[A-Za-z0-9._-]+\.(svg|png|jpg|jpeg|webp)$")
+
+def _file_sha256(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as fh:
+        for chunk in iter(lambda: fh.read(65536), b""): h.update(chunk)
+    return h.hexdigest()
+
+def media_target(edition_id, path):
+    """Site-relative destination of a handoff media file."""
+    return f"assets/editions/{edition_id}/{os.path.basename(path)}"
+
+def validate_media_manifest(ed, need, media_root):
+    """handoff.media: one provenance entry per item image (see CONTRACT.md)."""
+    h = ed.get("handoff") or {}
+    eid = h.get("edition_id")
+    media = h.get("media")
+    need(isinstance(media, dict), "handoff.media (Provenienz-Manifest) fehlt")
+    if not isinstance(media, dict): return
+    rights = h.get("image_rights") if isinstance(h.get("image_rights"), dict) else {}
+    ids = {it.get("id") for it in ed.get("items") or []}
+    for extra in set(media) - ids:
+        need(False, f"handoff.media[{extra}] gehört zu keiner Meldung")
+    for i, it in enumerate(ed.get("items") or []):
+        rid, im = it.get("id"), it.get("image") or {}
+        m = media.get(rid)
+        tag = f"handoff.media[{rid}]"
+        need(isinstance(m, dict), f"{tag} fehlt")
+        if not isinstance(m, dict): continue
+        path = str(m.get("path") or "")
+        need(MEDIA_PATH_RE.match(path), f"{tag}.path muss media/<datei> sein")
+        need(re.fullmatch(r"[0-9a-f]{64}", str(m.get("sha256") or "")), f"{tag}.sha256 fehlt/ungültig")
+        _iso_tz(m.get("created_at"), f"{tag}.created_at", need)
+        need(m.get("credit") == im.get("credit"), f"{tag}.credit passt nicht zu items[{i}].image.credit")
+        r = m.get("image_rights")
+        need(r in ALLOWED_IMAGE_RIGHTS and r == (rights.get(rid) or {}).get("rights"),
+             f"{tag}.image_rights passt nicht zu handoff.image_rights[{rid}]")
+        if r == "ai_generated_own":
+            need(m.get("generator") and m.get("model"), f"{tag}: generator und model nötig")
+        if r == "licensed":
+            need(m.get("license"), f"{tag}.license nötig")
+        if eid and MEDIA_PATH_RE.match(path):
+            need(im.get("src") == media_target(eid, path),
+                 f"items[{i}].image.src muss {media_target(eid, path)} sein")
+            if media_root:
+                fp = os.path.join(media_root, path)
+                need(os.path.isfile(fp), f"{tag}: Datei fehlt: {fp}")
+                if os.path.isfile(fp):
+                    need(_file_sha256(fp) == m.get("sha256"), f"{tag}.sha256 stimmt nicht mit Datei überein")
+
 def validate_handoff_fields(ed, need, require=False):
     h = ed.get("handoff")
     if not isinstance(h, dict):
@@ -169,7 +219,7 @@ def validate_handoff_fields(ed, need, require=False):
             need(isinstance(im.get("credit"), str) and im["credit"].strip(),
                  f"items[{i}].image.credit fehlt")
 
-def validate(ed, base_dir, preview=False, require_handoff=False):
+def validate(ed, base_dir, preview=False, require_handoff=False, media_root=None):
     errs = []
     def need(cond, msg):
         if not cond: errs.append(msg)
@@ -216,11 +266,14 @@ def validate(ed, base_dir, preview=False, require_handoff=False):
                 need(im.get("width") and im.get("height"), f"{tag}.image: width/height fehlen")
                 continue
             need(not re.match(r"^[a-z]+:", p) and ".." not in p, f"{tag}.image.src muss lokaler Pfad sein")
-            need(os.path.isfile(os.path.join(base_dir, p)), f"{tag}.image.src existiert nicht: {p}")
+            if not require_handoff:
+                need(os.path.isfile(os.path.join(base_dir, p)), f"{tag}.image.src existiert nicht: {p}")
         for f in ("headline", "summary"):
             need("ß" not in str(it.get(f, "")), f"{tag}.{f}: 'ß' statt 'ss' (Schweizer Schreibweise)")
     if require_handoff or ed.get("handoff") is not None:
         validate_handoff_fields(ed, need, require=require_handoff)
+    if require_handoff:
+        validate_media_manifest(ed, need, media_root)
     if errs: raise Invalid("\n".join(errs))
     return ed
 
@@ -420,10 +473,17 @@ def main(a):
     cmd = a[0] if a and not str(a[0]).startswith("--") else "rebuild"
     try:
         if cmd in ("validate", "publish"):
-            ed = adapt(json.load(open(a[1], encoding="utf-8")), mapping)
+            skip = {"--map", "--manifest", "--out"}
+            pos = [x for k, x in enumerate(a[1:], 1) if not x.startswith("--") and a[k-1] not in skip]
+            src_file = pos[0]
+            ed = adapt(json.load(open(src_file, encoding="utf-8")), mapping)
             if "--manifest" in a:
                 ed = merge_manifest(ed, a[a.index("--manifest")+1], os.path.join(ROOT, "image-notes.json"))
-            ed = validate(ed, ROOT, PREVIEW, require_handoff=("--handoff" in a))
+            ho = "--handoff" in a
+            if ho and cmd == "publish":
+                raise Invalid("handoff files are published by publish.py, not build.py publish")
+            ed = validate(ed, ROOT, PREVIEW, require_handoff=ho,
+                          media_root=os.path.dirname(os.path.abspath(src_file)) if ho else None)
             print("OK:", ed["edition"], ed["published_at"], len(ed["items"]), "Meldungen")
             if cmd == "publish":
                 dst = os.path.join(ED_DIR, slug(ed) + ".json")

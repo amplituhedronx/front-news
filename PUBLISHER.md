@@ -42,6 +42,8 @@ python3 publish.py --mode auto
 
 Default mode is `auto` (chosen by Martin). Use `--mode manual` to require approval files. Default handoff root is `/workspace/front-news-handoff`. Tests live in `tests/test_publisher.py`.
 
+Full handoff format, including the media provenance manifest (`handoff.media`): see `HANDOFF-CONTRACT.md` (also at `/workspace/front-news-handoff/CONTRACT.md`). Validate a file with `python3 build.py validate --handoff <file>`. Manifest images are copied to `assets/editions/<edition_id>/` and committed with the edition.
+
 ## Approval modes
 
 Live (non-dry-run) publishes reject any edition with `example: true`; examples are only allowed in `--dry-run`.

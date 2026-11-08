@@ -84,8 +84,27 @@ def make_edition(edition_id="2026-11-08-morning", revision=1, ready_at=None, n_i
         "authorized_by": None,
         "image_rights": rights,
     }
+    attach_media(ed)
     ed["handoff"]["content_hash"] = payload_hash(ed)
     return ed
+
+
+def attach_media(ed):
+    """Point every item image at handoff media and add the provenance manifest."""
+    eid = ed["handoff"]["edition_id"]
+    media = {}
+    for i, it in enumerate(ed["items"]):
+        name = f"illu{i % 6 + 1}.svg"
+        data = (SITE / "assets" / "img" / name).read_bytes()
+        it["image"].pop("variants", None)
+        it["image"]["src"] = f"assets/editions/{eid}/{name}"
+        it["image"]["status"] = "ready"
+        media[it["id"]] = {"path": f"media/{name}", "sha256": hashlib.sha256(data).hexdigest(),
+                           "generator": "test-generator", "model": "test-model",
+                           "created_at": "2026-11-08T06:50:00+01:00",
+                           "credit": it["image"].get("credit") or "KI-generiert (Front News)",
+                           "image_rights": ed["handoff"]["image_rights"][it["id"]]["rights"]}
+    ed["handoff"]["media"] = media
 
 
 def write_artifact(handoff, ed, ready=True, good_hash=True, approve=True):
@@ -96,6 +115,11 @@ def write_artifact(handoff, ed, ready=True, good_hash=True, approve=True):
     folder = Path(handoff) / "incoming" / edition_id
     folder.mkdir(parents=True, exist_ok=True)
     path = folder / f"{token}.json"
+    (folder / "media").mkdir(exist_ok=True)
+    for m in (h.get("media") or {}).values():
+        src = SITE / "assets" / "img" / os.path.basename(m["path"])
+        if src.is_file():
+            shutil.copy2(src, folder / m["path"])
     path.write_text(json.dumps(ed, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     digest = hashlib.sha256(path.read_bytes()).hexdigest()
     if ready:
@@ -140,6 +164,8 @@ def adapt_example(now=NOW):
             continue
         info = (handoff.get("image_rights") or {}).setdefault(it["id"], {})
         info.setdefault("rights", "ai_generated_own")
+    handoff.setdefault("edition_id", "2026-11-08-morning")
+    attach_media(ed)
     handoff["content_hash"] = payload_hash(ed)
     return ed
 
@@ -323,6 +349,39 @@ class PublisherTests(unittest.TestCase):
         self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
         self.assertEqual([p.name for p in (self.repo / "editions").iterdir()], [".gitkeep"])
 
+    def test_manifest_sha_mismatch_rejected(self):
+        ed = make_edition()
+        path, _ = write_artifact(self.handoff, ed)
+        (path.parent / "media" / "illu1.svg").write_text("<svg/>", encoding="utf-8")
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("sha256 stimmt nicht", proc.stdout)
+
+    def test_manifest_entry_missing_rejected(self):
+        ed = make_edition()
+        ed["handoff"]["media"].pop(ed["items"][0]["id"])
+        write_artifact(self.handoff, ed)
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("handoff.media[", proc.stdout)
+
+    def test_manifest_needs_generator_model(self):
+        ed = make_edition()
+        ed["handoff"]["media"][ed["items"][0]["id"]].pop("model")
+        write_artifact(self.handoff, ed)
+        proc = run_pub(self.repo, self.handoff, extra=["--dry-run"])
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+        self.assertIn("generator und model", proc.stdout)
+
+    def test_build_validate_cli_handoff(self):
+        path, _ = write_artifact(self.handoff, make_edition())
+        cmd = [sys.executable, str(SITE / "build.py"), "validate", "--handoff", str(path)]
+        proc = subprocess.run(cmd, capture_output=True, text=True)
+        self.assertEqual(proc.returncode, 0, proc.stderr + proc.stdout)
+        (path.parent / "media" / "illu2.svg").unlink()
+        proc = subprocess.run(cmd, capture_output=True, text=True)
+        self.assertEqual(proc.returncode, 2, proc.stdout)
+
     def test_default_mode_is_auto(self):
         write_artifact(self.handoff, make_edition(), approve=False)
         cmd = [sys.executable, str(SITE / "publish.py"), "--repo", str(self.repo),
@@ -402,6 +461,10 @@ class LivePublishToLocalRemote(unittest.TestCase):
             self.assertEqual(pub_file.read_bytes(), src.read_bytes(), "must copy byte-for-byte")
             receipt = json.loads((handoff / "approvals" / "2026-11-08-morning-r01.APPROVED").read_text())
             self.assertEqual(receipt["kind"], "policy_validation")
+            self.assertTrue((repo / "assets" / "editions" / "2026-11-08-morning" / "illu1.svg").is_file())
+            tracked = subprocess.run(["git", "-C", str(repo), "ls-files", "assets/editions"],
+                                     capture_output=True, text=True).stdout
+            self.assertIn("illu1.svg", tracked)
             self.assertEqual((receipt["sha256"], receipt["edition_id"], receipt["revision"]),
                              (hashlib.sha256(src.read_bytes()).hexdigest(), "2026-11-08-morning", 1))
             log = subprocess.run(["git", "-C", str(remote), "log", "-1", "--oneline", "main"],

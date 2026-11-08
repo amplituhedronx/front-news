@@ -293,6 +293,17 @@ def check_approval(path, digest, edition_id, revision):
                        edition_id, revision)
 
 
+def copy_media(build_mod, ed, src_dir, dest_root):
+    """Copy manifest media byte-for-byte to assets/editions/<edition_id>/; return site-relative paths."""
+    eid = ed["handoff"]["edition_id"]
+    rels = []
+    for entry in (ed["handoff"].get("media") or {}).values():
+        rel = build_mod.media_target(eid, entry["path"])
+        copy_bytes_atomic(os.path.join(src_dir, entry["path"]), os.path.join(dest_root, rel))
+        rels.append(rel)
+    return rels
+
+
 def copy_bytes_atomic(src, dest):
     os.makedirs(os.path.dirname(dest), exist_ok=True)
     tmp = dest + ".tmp"
@@ -314,6 +325,7 @@ def render_preview(build_mod, repo, published, dest, src_path):
     os.makedirs(ed_dir, exist_ok=True)
     slug = build_mod.slug(published)
     copy_bytes_atomic(src_path, os.path.join(ed_dir, slug + ".json"))
+    copy_media(build_mod, published, os.path.dirname(src_path), tmp)
     env = os.environ.copy()
     env["FRONTNEWS_ROOT"] = tmp
     cmd = [sys.executable, os.path.join(repo, "build.py"), "rebuild", "--out", "public"]
@@ -331,15 +343,16 @@ def git(repo, *args, check=True):
                           capture_output=True, text=True)
 
 
-def publish_to_repo(repo, published, slug, message, src_path):
+def publish_to_repo(repo, published, slug, message, src_path, build_mod):
     dest = os.path.join(repo, "editions", slug + ".json")
     existed = os.path.isfile(dest)
     previous = open(dest, encoding="utf-8").read() if existed else None
+    media_rels = copy_media(build_mod, published, os.path.dirname(src_path), repo)
     copy_bytes_atomic(src_path, dest)
     rel = os.path.join("editions", slug + ".json")
     try:
-        git(repo, "add", "--", rel)
-        git(repo, "commit", "-m", message, "--", rel)
+        git(repo, "add", "--", rel, *media_rels)
+        git(repo, "commit", "-m", message, "--", rel, *media_rels)
     except subprocess.CalledProcessError as ex:
         if existed and previous is not None:
             with open(dest, "w", encoding="utf-8") as fh:
@@ -399,7 +412,8 @@ def run(args):
             art, handoff_root, mode, now, state, build)
         published = ed  # byte-for-byte; never mutated
         try:
-            build.validate(published, repo, preview=False, require_handoff=True)
+            build.validate(published, repo, preview=False, require_handoff=True,
+                           media_root=os.path.dirname(art["json_path"]))
         except build.Invalid as ex:
             raise Rejected("invalid_edition", str(ex), art["edition_id"], art["revision"])
         render_dir = None
@@ -425,7 +439,7 @@ def run(args):
 
         slug = build.slug(published)
         message = f"Publish Front News edition {art['edition_id']} {art['rev_token']}"
-        commit = publish_to_repo(repo, published, slug, message, art["json_path"])
+        commit = publish_to_repo(repo, published, slug, message, art["json_path"], build)
         went_live = datetime.now(ZRH)
         record = {
             "edition_id": art["edition_id"],
