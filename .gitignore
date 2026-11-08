@@ -1,0 +1,28 @@
+# Build output
+public
+public.new
+public.staging
+public.old
+public-preview
+releases
+releases-preview
+
+# Unpublished preview / generated working files
+generated-assets/
+media/
+editions-preview/
+preview-desktop.png
+preview-mobile.png
+
+# Secrets and local env
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Python / OS
+__pycache__/
+*.py[cod]
+.DS_Store

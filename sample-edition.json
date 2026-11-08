@@ -1,0 +1,171 @@
+{
+ "schema_version": "1.0",
+ "edition": "morning",
+ "published_at": "2026-11-08T07:04:00+01:00",
+ "language": "de-CH",
+ "publish": true,
+ "example": true,
+ "items": [
+  {
+   "id": "beispiel-0",
+   "section": "Politik",
+   "headline": "Beispielmeldung 1: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": true,
+   "image": {
+    "type": "illustration",
+    "src": "assets/img/illu1.svg",
+    "alt": "Abstrakte Beispiel-Illustration",
+    "caption": "Beispiel-Illustration",
+    "credit": "KI-generiert (Beispiel)"
+   }
+  },
+  {
+   "id": "beispiel-1",
+   "section": "Wirtschaft",
+   "headline": "Beispielmeldung 2: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-2",
+   "section": "Sport",
+   "headline": "Beispielmeldung 3: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-3",
+   "section": "Kultur",
+   "headline": "Beispielmeldung 4: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-4",
+   "section": "Politik",
+   "headline": "Beispielmeldung 5: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-5",
+   "section": "Wirtschaft",
+   "headline": "Beispielmeldung 6: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-6",
+   "section": "Sport",
+   "headline": "Beispielmeldung 7: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-7",
+   "section": "Kultur",
+   "headline": "Beispielmeldung 8: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-8",
+   "section": "Politik",
+   "headline": "Beispielmeldung 9: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-9",
+   "section": "Wirtschaft",
+   "headline": "Beispielmeldung 10: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  },
+  {
+   "id": "beispiel-10",
+   "section": "Sport",
+   "headline": "Beispielmeldung 11: Schlagzeile in Schweizer Schreibweise",
+   "summary": "Beispielinhalt – keine echte Nachricht. Kurze, neutrale Zusammenfassung in zwei bis drei Sätzen.",
+   "sources": [
+    {
+     "name": "Beispielquelle",
+     "url": "https://example.org/artikel",
+     "published_at": "2026-11-08T06:30:00+01:00"
+    }
+   ],
+   "lead": false
+  }
+ ]
+}
