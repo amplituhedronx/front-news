@@ -1,0 +1,522 @@
+{
+ "schema_version": "1.0",
+ "edition": "evening",
+ "published_at": "2026-11-09T18:05:27+01:00",
+ "language": "de-CH",
+ "publish": true,
+ "items": [
+  {
+   "id": "politik-bombendrohungen-eu-treffen",
+   "section": "Politik",
+   "headline": "Bombendrohungen im Flugverkehr: Schweiz an EU-Expertentreffen eingeladen",
+   "summary": "Die EU-Kommission hat für Mittwoch in Brüssel ein Treffen von Fachleuten für Luftsicherheit einberufen, an dem neben den EU-Staaten auch Norwegen, Island und die Schweiz teilnehmen sollen, wie eine Kommissionssprecherin am Montag sagte. Besprochen werden die aktuelle Lage und mögliche Massnahmen; zur Frage, wer hinter den Drohungen steckt, äusserte sich die Kommission nicht. Vergangene Woche gab es laut SRF mindestens 30 Drohungen gegen Flugzeuge in mehreren europäischen Ländern, einige Maschinen mussten ausserplanmässig landen, Sprengsätze wurden keine gefunden. Die Schweiz war bisher nicht direkt betroffen; sie nimmt über das bilaterale Luftverkehrsabkommen am europäischen Luftverkehr teil.",
+   "sources": [
+    {
+     "name": "SRF",
+     "url": "https://www.srf.ch/news/international/nach-massiven-stoerungen-bombendrohungen-im-flugverkehr-schweiz-zu-eu-treffen-eingeladen",
+     "published_at": "2026-11-09T14:43:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "Nau.ch (Keystone-SDA)",
+     "url": "https://www.nau.ch/news/schweiz/schweiz-bei-eu-treffen-zu-bombendrohungen-im-flugverkehr-eingeladen-67199838",
+     "published_at": "2026-11-09T14:21:00+01:00",
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/politik-bombendrohungen-eu-treffen-1024-r01.jpg",
+    "alt": "Weisses Passagierflugzeug als Grafik am blauen Himmel, darunter ein runder Konferenztisch mit leeren Stühlen und kleinen weissen Fahnen (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "politik-zamofing-nationalrat",
+   "section": "Politik",
+   "headline": "Freiburg: Dominique Zamofing rückt für Roth Pasquier in den Nationalrat nach",
+   "summary": "Nach der Wahl von Marie-France Roth Pasquier (Mitte) in den Freiburger Staatsrat geht ihr Nationalratssitz an Grossrat Dominique Zamofing, den ersten Ersatz auf der Mitte-Liste von 2023. Der Präsident der Mitte Freiburg, Damiano Lepori, bestätigte am Montag, dass Zamofing die Wahl annehmen will. Der 54-jährige Meisterlandwirt aus Posieux soll das Amt ab 2027 antreten. Seinen am Sonntag wiedergewonnenen Sitz im Grossen Rat gibt er laut «La Liberté» ab; dort rückt Caroline Dénervaud nach, Gemeindepräsidentin von Villars-sur-Glâne.",
+   "sources": [
+    {
+     "name": "Le Temps (Deutsch)",
+     "url": "https://www.letemps.ch/de/schweiz/freiburg/dominique-zamofing-ersetzt-marie-france-roth-pasquier-im-nationalrat",
+     "published_at": "2026-11-09T17:26:00+01:00",
+     "updated_at": "2026-11-09T17:31:00+01:00"
+    },
+    {
+     "name": "Le Temps (Französisch)",
+     "url": "https://www.letemps.ch/suisse/fribourg/dominique-zamofing-remplacera-marie-france-roth-pasquier-au-conseil-national",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/politik-zamofing-nationalrat-1024-r01.jpg",
+    "alt": "Leerer grüner Sessel in einem stilisierten Parlamentssaal, davor auf dem Pult ein leeres Namensschild und einige Weizenähren (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "wirtschaft-just-eat-stellenabbau",
+   "section": "Wirtschaft",
+   "headline": "Just Eat streicht in der Schweiz 373 Stellen",
+   "summary": "Der Essenslieferdienst Just Eat beendet nach Abschluss des Konsultationsverfahrens 373 Arbeitsverhältnisse, darunter 193 direkt angestellte Kuriere und 180 Beschäftigte externer Personaldienstleister in Zürich, Winterthur, Bern, Biel, Freiburg und St. Gallen. Das Unternehmen, das hierzulande rund 700 Fahrerinnen und Fahrer beschäftigt, will das Schichtmodell aufgeben und in der Deutschschweiz verstärkt mit selbstständigen, pro Lieferung bezahlten Kurieren arbeiten; in der Westschweiz bleiben die Kuriere aufgrund von Gerichtsentscheiden angestellt. Die Gewerkschaften Unia und Syndicom werfen Just Eat vor, auf Scheinselbstständigkeit zu setzen, und fordern die Behörden zum Einschreiten auf; Just Eat bezeichnet den Umbau als nötig für die Wettbewerbsfähigkeit. Die Verhandlungen über einen Sozialplan laufen weiter, am Wochenende hatten Kuriere in Zürich und St. Gallen gestreikt.",
+   "sources": [
+    {
+     "name": "SRF",
+     "url": "https://www.srf.ch/news/wirtschaft/essenslieferung-just-eat-streicht-in-der-schweiz-373-stellen",
+     "published_at": "2026-11-09T12:08:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "swissinfo.ch (Keystone-SDA)",
+     "url": "https://www.swissinfo.ch/ger/just-eat-baut-in-der-schweiz-373-der-rund-700-stellen-ab/92350818",
+     "published_at": "2026-11-09T11:58:00+01:00",
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/wirtschaft-just-eat-stellenabbau-1024-r01.jpg",
+    "alt": "Leerer oranger Lieferrucksack ohne Logo auf nassem Trottoir neben einem abgestellten Velo, Regen im Licht einer Strassenlaterne (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "regionen-brand-bundesasylzentrum",
+   "section": "Zürich & Regionen",
+   "lead": true,
+   "headline": "Zürich: Brand im Bundesasylzentrum an der Pfingstweidstrasse",
+   "summary": "Im Bundesasylzentrum an der Pfingstweidstrasse in Zürich ist am Montagnachmittag im Obergeschoss ein Feuer ausgebrochen; Flammen schlugen aus einem Fenster, das Quartier bei der Zürcher Hochschule der Künste war zeitweise in dichten Rauch gehüllt. Schutz & Rettung Zürich bestätigte den Einsatz, Feuerwehr und Polizei waren mit mehreren Fahrzeugen vor Ort. Gegen 17.15 Uhr schien der Brand laut «20 Minuten» unter Kontrolle. Angaben zu Verletzten und zur Brandursache lagen bis zum Redaktionsschluss nicht vor.",
+   "sources": [
+    {
+     "name": "20 Minuten",
+     "url": "https://www.20min.ch/story/zuerich-bundesasylzentrum-brennt-meterhohe-flammen-schiessen-aus-fenster-103664818",
+     "published_at": "2026-11-09T17:10:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "SRF",
+     "url": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
+     "published_at": "2026-11-09T17:45:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "NZZ (Paywall möglich)",
+     "url": "https://www.nzz.ch/zuerich/zuerich-brand-im-bundesasylzentrum-ld.10058950",
+     "published_at": "2026-11-09T17:29:00+01:00",
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/regionen-brand-bundesasylzentrum-1024-r01.jpg",
+    "alt": "Stilisiertes mehrstöckiges Gebäude in der Abenddämmerung mit grauer Rauchfahne über dem Dach, davor ein rotes Feuerwehrauto (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "regionen-uni-zuerich-kantonsrat",
+   "section": "Zürich & Regionen",
+   "headline": "Zürcher Kantonsrat kritisiert die Führung der Universität",
+   "summary": "Bei der Genehmigung des Jahresberichts der Universität Zürich haben alle Fraktionen des Kantonsrats am Montag die Uni-Leitung kritisiert; es fehle an Führungskompetenz, Transparenz und konsequentem Vorgehen bei Fehlverhalten. Die Aufsichtskommission bemängelt unter anderem, dass Fälle von Machtmissbrauch, Mobbing und Verstössen gegen die sexuelle Integrität erst ab kommendem Jahr erfasst werden; die Arbeit der rund 10'000 Angestellten wurde ausdrücklich gelobt. Bildungsdirektorin Silvia Steiner (Mitte) entgegnete, viele Führungspersonen machten ihre Arbeit gut und vieles sei bereits angepackt worden. Der Bericht wurde mit 143 zu 30 Stimmen genehmigt; zwei Kommissionsmotionen zu Interessenbindungen und Doppelanstellungen am Unispital folgen.",
+   "sources": [
+    {
+     "name": "swissinfo.ch (Keystone-SDA)",
+     "url": "https://www.swissinfo.ch/ger/z%c3%bcrcher-kantonsrat-kritisiert-f%c3%bchrung-der-universit%c3%a4t-scharf/92350689",
+     "published_at": "2026-11-09T14:57:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "Tages-Anzeiger (Paywall)",
+     "url": "https://www.tagesanzeiger.ch/kantonsrat-ruegt-universitaet-zuerich-kritik-an-fuehrung-512607179790",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/regionen-uni-zuerich-kantonsrat-1024-r01.jpg",
+    "alt": "Stilisierter Parlamentssaal mit leeren Holzbänken, auf dem Rednerpult ein dicker Bericht mit einem Universitätsgebäude als Symbol (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "regionen-bern-finanzkommission",
+   "section": "Zürich & Regionen",
+   "headline": "Kanton Bern: Finanzkommission verlangt Sparmassnahmen",
+   "summary": "Die Mehrheit der Finanzkommission des Berner Grossen Rats will wegen drohender Defizite ab 2028 im Budget 2027 Korrekturen durchsetzen. Zwar sieht das Budget 2027 einen Überschuss von rund 269 Millionen Franken vor, bis 2030 droht laut Kommission aber eine Neuverschuldung von rund 1,9 Milliarden Franken, vor allem wegen steigender Ausgaben für Gesundheit, Soziales und Bildung. Die Mehrheit will auf 24,3 von 64,3 neu beantragten Vollzeitstellen verzichten, bei Informatik und externen Beratungen sparen und Steuern sowie SNB-Ausschüttungen höher budgetieren, hält aber an den geplanten Steuersenkungen fest. Die rot-grüne Minderheit beurteilt die Finanzlage positiver und fordert, die Steuersenkungen auszusetzen; der Grosse Rat berät das Budget in der Wintersession.",
+   "sources": [
+    {
+     "name": "swissinfo.ch (Keystone-SDA)",
+     "url": "https://www.swissinfo.ch/ger/bernische-finanzkommission-verlangt-budgetk%C3%BCrzungen/92349286",
+     "published_at": "2026-11-09T10:47:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "Berner Zeitung (Paywall)",
+     "url": "https://www.bernerzeitung.ch/kanton-bern-finanzkommission-fordert-sparkurs-bis-2028-975101578739",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/regionen-bern-finanzkommission-1024-r01.jpg",
+    "alt": "Schreibtisch mit Taschenrechner, Papierstapel mit rotem abwärts zeigendem Pfeil und einer kleinen Bärenfigur (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "regionen-luchse-oberegg",
+   "section": "Zürich & Regionen",
+   "headline": "Oberegg AI: Drei geschützte Luchse mit Schussverletzungen tot aufgefunden",
+   "summary": "Im Bezirk Oberegg sind am Samstag unweit einer Strasse ein Luchs-Muttertier und zwei diesjährige Jungtiere tot aufgefunden worden, wie die Kantonspolizei Appenzell Innerrhoden am Montag mitteilte. Alle drei Tiere wiesen Schussverletzungen auf; das Amt für Jagd und Fischerei hat Anzeige erstattet. Die Kadaver werden von Spezialisten untersucht, erst danach sind laut Polizei Rückschlüsse auf die Munition möglich. Luchse sind in der Schweiz geschützt; die Polizei sucht Zeuginnen und Zeugen.",
+   "sources": [
+    {
+     "name": "swissinfo.ch (Keystone-SDA)",
+     "url": "https://www.swissinfo.ch/ger/drei-tote-luchse-in-oberegg-ai-gefunden/92350304",
+     "published_at": "2026-11-09T13:32:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "St. Galler Tagblatt",
+     "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/oberegg-drei-luchse-erschossen-ld.4263970",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/regionen-luchse-oberegg-1024-r01.jpg",
+    "alt": "Stilisierter Tierpfotenabdruck im Schnee am Rand eines Fichtenwalds, dahinter grüne Hügel im Abendlicht, kein Tier abgebildet (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "gesellschaft-armutsrat",
+   "section": "Gesellschaft",
+   "headline": "Nationaler Rat für Armutsfragen nimmt seine Arbeit auf",
+   "summary": "In Bern hat am Montag der neue Nationale Rat für Armutsfragen seine Arbeit aufgenommen, der Menschen mit Armutserfahrung gegenüber Politik und Behörden vertreten soll. Ihm gehören elf armutserfahrene Personen aus allen Landesregionen an, beraten von sechs Fachleuten aus Politik, Wissenschaft, Verwaltung und Nichtregierungsorganisationen. Schwerpunkte sind die soziale Sicherheit, Stigmatisierung, Gesundheit und der Zugang zum Recht. Das Projekt läuft im Auftrag des Bundesamts für Sozialversicherungen als Pilot bis 2028; laut Keystone-SDA sind in der Schweiz fast 750'000 Menschen von Armut betroffen.",
+   "sources": [
+    {
+     "name": "swissinfo.ch (Keystone-SDA)",
+     "url": "https://www.swissinfo.ch/ger/nationaler-rat-f%C3%BCr-armutsfragen-nimmt-arbeit-auf/92350183",
+     "published_at": "2026-11-09T10:55:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "Tages-Anzeiger",
+     "url": "https://www.tagesanzeiger.ch/schweiz-neue-nationale-plattform-gegen-armut-gestartet-322942286480",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/gesellschaft-armutsrat-1024-r01.jpg",
+    "alt": "Kreis aus leeren farbigen Stühlen in einem hellen Raum, in der Mitte ein Mikrofon, darüber leere Sprechblasen (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "gesellschaft-moretti-konkurs",
+   "section": "Gesellschaft",
+   "headline": "Crans-Montana: Restaurant der Betreiber der Brandbar ist konkurs",
+   "summary": "Das Bezirksgericht Siders hat am 3. November das Restaurant «Au Vieux Chalet» in Lens für konkurs erklärt, wie am Montag aus dem Walliser Amtsblatt bekannt wurde; das Gericht bestätigte dies gegenüber Keystone-SDA. Das Lokal gehört zu den Betrieben von Jessica und Jacques Moretti, die die Bar «Le Constellation» in Crans-Montana führten, in der am 1. Januar bei einem Brand 41 Menschen starben und 115 verletzt wurden. Alle drei Lokale des Paars sind seither geschlossen. Die Walliser Staatsanwaltschaft ermittelt gegen insgesamt 17 Beschuldigte, darunter das Ehepaar und Verantwortliche der Gemeinde; für alle gilt die Unschuldsvermutung.",
+   "sources": [
+    {
+     "name": "SRF",
+     "url": "https://www.srf.ch/news/schweiz/au-vieux-chalet-in-lens-konkurs-bei-betreibern-der-brandbar-von-crans-montana",
+     "published_at": "2026-11-09T16:03:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "swissinfo.ch (Keystone-ATS, Französisch)",
+     "url": "https://www.swissinfo.ch/fre/lens%3a-un-restaurant-du-couple-moretti-a-%c3%a9t%c3%a9-d%c3%a9clar%c3%a9-en-faillite/92350804",
+     "published_at": "2026-11-09T11:58:00+01:00",
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/gesellschaft-moretti-konkurs-1024-r01.jpg",
+    "alt": "Geschlossene Holztür mit Vorhängeschloss und leerem Aushang, im Hintergrund ein verschneites Bergdorf (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "sport-nati-xhaka-ausfall",
+   "section": "Sport",
+   "headline": "Nati ohne Xhaka und Muheim, Nyakossi erstmals aufgeboten",
+   "summary": "Captain Granit Xhaka verpasst wegen einer Wadenverletzung die beiden letzten Nations-League-Spiele; er war am Sonntag bei Sunderland nach vier Minuten ausgewechselt worden. Auch Miro Muheim fehlt wegen muskulärer Beschwerden, Ruben Vargas stösst wegen Magen-Darm-Beschwerden später zum Team, während Johan Manzambi wie geplant eingerückt ist. Trainer Murat Yakin bot Isaac Schmidt (YB) und U21-Captain Roggerio Nyakossi (OH Leuven) nach, der damit zum ersten Mal im A-Nationalteam steht. Die Schweiz spielt am Freitag in Slowenien, wo ein Punkt für den Aufstieg in die Liga A reicht, und am 16. November in St. Gallen gegen Schottland.",
+   "sources": [
+    {
+     "name": "SRF Sport",
+     "url": "https://www.srf.ch/sport/fussball/nations-league/der-captain-ist-verletzt-doch-kein-comeback-xhaka-fehlt-der-nati-erneut",
+     "published_at": "2026-11-09T13:12:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "Schweizerischer Fussballverband",
+     "url": "https://www.football.ch/sfv/nationalteams/a-team/news/update-zum-kader-des-maenner-nationalteams.aspx",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/sport-nati-xhaka-ausfall-1024-r01.jpg",
+    "alt": "Rote Captainbinde und gefaltete rote Trainingsshirts ohne Logo auf einer Holzbank in einer Garderobe (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "sport-ajeti-sperre",
+   "section": "Sport",
+   "headline": "Super League: Drei Spielsperren für Luganos Albian Ajeti",
+   "summary": "Die Disziplinarkommission der Swiss Football League hat Lugano-Stürmer Albian Ajeti nach seiner Roten Karte beim 0:5 in St. Gallen für drei Spiele gesperrt. Begründet wird die Sperre mit grobem Foulspiel mit hoher Verletzungsgefahr für den Gegenspieler; Ajeti war bereits in der 11. Minute vom Platz gestellt worden. In der Challenge League muss Rayan Boulac von Stade Nyonnais zwei Partien aussetzen. Fünf weitere Spieler, darunter Luganos Bekhruz Karimov und Miguel Reichmuth vom FC Zürich, fehlen in der 14. Runde nach der jeweils vierten Gelben Karte.",
+   "sources": [
+    {
+     "name": "Swiss Football League",
+     "url": "https://sfl.ch/de/articles/drei-spielsperren-fur-ajeti-zwei-fur-boulac",
+     "published_at": null,
+     "updated_at": null
+    },
+    {
+     "name": "SRF Sport",
+     "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-ajeti-fuer-drei-spiele-gesperrt",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-evening/sport-ajeti-sperre-1024-r01.jpg",
+    "alt": "Rote Karte und weisse Schiedsrichterpfeife auf grünem Rasen neben einer weissen Seitenlinie (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  }
+ ],
+ "handoff": {
+  "edition_id": "2026-11-09-evening",
+  "revision": 1,
+  "research_completed_at": "2026-11-09T18:02:48+01:00",
+  "ready_at": "2026-11-09T18:05:27+01:00",
+  "content_hash": "sha256:c231c825ff60ff21d00b4b897f8814f93efc089fdd841dc4528a428a4cfb0258",
+  "image_rights": {
+   "politik-bombendrohungen-eu-treffen": {
+    "rights": "ai_generated_own"
+   },
+   "politik-zamofing-nationalrat": {
+    "rights": "ai_generated_own"
+   },
+   "wirtschaft-just-eat-stellenabbau": {
+    "rights": "ai_generated_own"
+   },
+   "regionen-brand-bundesasylzentrum": {
+    "rights": "ai_generated_own"
+   },
+   "regionen-uni-zuerich-kantonsrat": {
+    "rights": "ai_generated_own"
+   },
+   "regionen-bern-finanzkommission": {
+    "rights": "ai_generated_own"
+   },
+   "regionen-luchse-oberegg": {
+    "rights": "ai_generated_own"
+   },
+   "gesellschaft-armutsrat": {
+    "rights": "ai_generated_own"
+   },
+   "gesellschaft-moretti-konkurs": {
+    "rights": "ai_generated_own"
+   },
+   "sport-nati-xhaka-ausfall": {
+    "rights": "ai_generated_own"
+   },
+   "sport-ajeti-sperre": {
+    "rights": "ai_generated_own"
+   }
+  },
+  "media": {
+   "politik-bombendrohungen-eu-treffen": {
+    "path": "media/politik-bombendrohungen-eu-treffen-1024-r01.jpg",
+    "sha256": "bfc379206301dcfc355ea718d80408e88485f907fbb4924411e116b3d3b25534",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:26+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0ee230b7f4dbe50fb56a2b236ff6f58d6f5df72dda70dae3dad68153770321cd.jpg",
+    "original_sha256": "0ee230b7f4dbe50fb56a2b236ff6f58d6f5df72dda70dae3dad68153770321cd",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "politik-zamofing-nationalrat": {
+    "path": "media/politik-zamofing-nationalrat-1024-r01.jpg",
+    "sha256": "114656a5b37af9db7800cb9d20340ca35554bc010f4ed906c89965b48103356f",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:26+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c6e65e785cb4addbec0a073b77be02c71705664cb739c6e6e575efbffded642d.jpg",
+    "original_sha256": "c6e65e785cb4addbec0a073b77be02c71705664cb739c6e6e575efbffded642d",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "wirtschaft-just-eat-stellenabbau": {
+    "path": "media/wirtschaft-just-eat-stellenabbau-1024-r01.jpg",
+    "sha256": "9f3549a3a9038c460bf7898c638f9fece9289f910fece0e4b86dc05fc15f3903",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:26+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a5789a7d4f12e418cb76fcf33d8d098f55f8387907ddac94b3ca380b489c67de.jpg",
+    "original_sha256": "a5789a7d4f12e418cb76fcf33d8d098f55f8387907ddac94b3ca380b489c67de",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "regionen-brand-bundesasylzentrum": {
+    "path": "media/regionen-brand-bundesasylzentrum-1024-r01.jpg",
+    "sha256": "a4aa8f2c36f5336c45364919be2e8a180f1e001bd5be1c5dfaf645d241b25372",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ff2c373994ebb65173543adb2128aa6253e4247aac1524cdc4ee11620fd8c2d9.jpg",
+    "original_sha256": "ff2c373994ebb65173543adb2128aa6253e4247aac1524cdc4ee11620fd8c2d9",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "regionen-uni-zuerich-kantonsrat": {
+    "path": "media/regionen-uni-zuerich-kantonsrat-1024-r01.jpg",
+    "sha256": "9818da91c22b6a6e7dd8261010d01dcf14d0b03f77037d1f3ca99dd59348ae2f",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f29cda425cbbbfc31af1906a38b3bc1b2a91eb34fc536e262cb73facfac2e831.jpg",
+    "original_sha256": "f29cda425cbbbfc31af1906a38b3bc1b2a91eb34fc536e262cb73facfac2e831",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "regionen-bern-finanzkommission": {
+    "path": "media/regionen-bern-finanzkommission-1024-r01.jpg",
+    "sha256": "6cadb49f02c442f382de5e0a8841163d59e272e25d21a9e5104439099df8d4ac",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/698506bb1e1a04d3cb59cdcd3af37c7fe0088fa99756bd15711076b9c6adb0aa.jpg",
+    "original_sha256": "698506bb1e1a04d3cb59cdcd3af37c7fe0088fa99756bd15711076b9c6adb0aa",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "regionen-luchse-oberegg": {
+    "path": "media/regionen-luchse-oberegg-1024-r01.jpg",
+    "sha256": "bcbe0f873d3301dfbd51fb3f4a7dae62081f257d33c7835f2508f6d14c648f7f",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/76c8e3425a43a2a35acafed74d7534ae8f3a50e776867783ba506c6b995d27af.jpg",
+    "original_sha256": "76c8e3425a43a2a35acafed74d7534ae8f3a50e776867783ba506c6b995d27af",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "gesellschaft-armutsrat": {
+    "path": "media/gesellschaft-armutsrat-1024-r01.jpg",
+    "sha256": "d6f893290ba26f97b2fa3292b21e79a157f69b426ab2dabc3f3f9e622bd543ff",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/31bb51ac1750265a36ab2bdeea4abedd7f4823a9d7bbd28d531186f0f8aefc09.jpg",
+    "original_sha256": "31bb51ac1750265a36ab2bdeea4abedd7f4823a9d7bbd28d531186f0f8aefc09",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "gesellschaft-moretti-konkurs": {
+    "path": "media/gesellschaft-moretti-konkurs-1024-r01.jpg",
+    "sha256": "1b75718f25729fa1ac48293e9efd16d4e2b907dc878e2908596cf6790199ed1d",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0328926677da2cc6fdde5882f84ca792238897be48d3b8651b5655de2103742f.jpg",
+    "original_sha256": "0328926677da2cc6fdde5882f84ca792238897be48d3b8651b5655de2103742f",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "sport-nati-xhaka-ausfall": {
+    "path": "media/sport-nati-xhaka-ausfall-1024-r01.jpg",
+    "sha256": "1bf49606e1afede5389d740c02a55c4cc33d665c77663bab514587afc7f37763",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a8841f9aa92189948fefaf6418faa3bac61be9b4c6125f30bf1d6c17012824db.jpg",
+    "original_sha256": "a8841f9aa92189948fefaf6418faa3bac61be9b4c6125f30bf1d6c17012824db",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "sport-ajeti-sperre": {
+    "path": "media/sport-ajeti-sperre-1024-r01.jpg",
+    "sha256": "10c6c07aab56c028a4bc4a3d666979238eb574549731af1aee97e42e40c82c76",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T18:05:27+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 18:00 evening run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2dc67ab4a301662bc18d4e7c4c04c6faddde4b1f4473d14a6c36b8ffa6903b3c.jpg",
+    "original_sha256": "2dc67ab4a301662bc18d4e7c4c04c6faddde4b1f4473d14a6c36b8ffa6903b3c",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   }
+  }
+ }
+}
