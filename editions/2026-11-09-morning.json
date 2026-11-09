@@ -1,0 +1,465 @@
+{
+ "schema_version": "1.0",
+ "edition": "morning",
+ "published_at": "2026-11-09T07:11:42+01:00",
+ "language": "de-CH",
+ "publish": true,
+ "items": [
+  {
+   "id": "politik-geisel-freilassung-bericht",
+   "section": "Politik",
+   "lead": true,
+   "headline": "Freilassung der Schweizer Geisel: RTS berichtet über Geld und Waffen für Entführer",
+   "summary": "Rund eine Woche nach der Freilassung der 69-jährigen Schweizerin Claudia Abbt, die im April 2025 in Agadez (Niger) entführt worden war, berichtet RTS über die Umstände ihrer Befreiung. Ein libyscher Rebellenführer, der dem ostlibyschen Machthaber Saddam Haftar gegenübersteht, gab gegenüber RTS an, seine Truppen hätten Männer abgefangen, die Geld, Drohnen und weitere Waffen für die Entführer transportiert hätten; eine Quelle aus dem Umfeld der Verhandlungen spricht von 2,5 Millionen Dollar aus Haftars eigenen Mitteln, ein Libyen-Forscher von 10 Millionen Dollar aus den Vereinigten Arabischen Emiraten. Diese Angaben sind nicht unabhängig bestätigt, Haftars Umfeld äusserte sich gegenüber RTS nicht. Das EDA hält fest, die Schweiz habe weder Lösegeld noch eine andere Gegenleistung erbracht und habe keine Hinweise auf Zahlungen durch Dritte.",
+   "sources": [
+    {
+     "name": "RTS (Französisch)",
+     "url": "https://www.rts.ch/info/suisse/2026/article/sahel-des-drones-et-du-cash-remis-pour-liberer-une-suissesse-29409583.html",
+     "published_at": "2026-11-08T18:57:00+01:00",
+     "updated_at": "2026-11-08T20:59:00+01:00"
+    },
+    {
+     "name": "NZZ (Hintergrund zur Freilassung, Paywall)",
+     "url": "https://www.nzz.ch/schweiz/schweizer-geisel-aus-niger-befreit-ld.10041146",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/politik-geisel-freilassung-bericht-1024-r01.jpg",
+    "alt": "Stilisierte Fantasiekarte in Ockertönen über Sanddünen, darauf eine kleine Schweizer Fahne als Stecknadel, im Vordergrund ein weisses Couvert (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "politik-aeschi-einerticket",
+   "section": "Politik",
+   "headline": "Bundesratswahl: Aeschi lehnt ein SVP-Einerticket ab",
+   "summary": "SVP-Fraktionschef Thomas Aeschi hat sich am Sonntagabend in der Sendung «SonnTalk» der CH-Media-Regionalsender klar gegen ein Einerticket ausgesprochen, das SVP-Ständerat Hannes Germann in der «SonntagsZeitung» ins Spiel gebracht hatte; bewährt habe sich ein Zweier- oder Dreierticket. SP-Nationalrätin Priska Seiler-Graf forderte in derselben Sendung, dass eine Frau auf das Ticket gehöre. Der Zuger SVP-Präsident Philipp C. Brunner sieht laut SRF kein Problem darin, dass mit Aeschi und Martin Pfister zwei Bundesräte aus derselben Gemeinde Baar stammen könnten. Die SVP-Fraktion bestimmt ihr Ticket am 20. November, die Ersatzwahl für Guy Parmelin findet am 9. Dezember statt.",
+   "sources": [
+    {
+     "name": "Schweiz heute (CH Media)",
+     "url": "https://www.schweizheute.ch/schweiz/svp-einerticket-fuer-thomas-aeschi-das-sagt-er-zu-diesem-manoever-ld.4263712",
+     "published_at": "2026-11-08T21:59:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "SRF Regionaljournal Zentralschweiz (Audio)",
+     "url": "https://www.srf.ch/audio/regionaljournal-zentralschweiz/zwei-bundesraete-aus-baar-zuger-svp-praesident-sieht-kein-problem?id=AUDI20261109_NR_0056",
+     "published_at": "2026-11-09T06:31:00+01:00",
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/politik-aeschi-einerticket-1024-r01.jpg",
+    "alt": "Leeres Rednerpult in einem stilisierten Parlamentssaal, davor auf einem Tisch drei leere Papierkarten nebeneinander (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "politik-energie-drohnenschutz",
+   "section": "Politik",
+   "headline": "Bund will Stromversorger zu mehr Schutz vor Drohnen verpflichten",
+   "summary": "Das Bundesamt für Energie (BFE) erarbeitet eine Rechtsgrundlage, die Betreiber kritischer Energieanlagen zu angemessenen Schutzmassnahmen gegen physische und elektromagnetische Bedrohungen verpflichten soll, wie es gegenüber «Blick» bestätigt. Laut internen Dokumenten, die der Zeitung vorliegen, hielt das Verteidigungsdepartement fest, ein gleichzeitiger Schutz aller Standorte der Stromversorgung im gleich hohen Schutzgrad sei mit den Mitteln der Armee nicht möglich; zuständig seien zunächst die Betreiber selbst. Der Branchenverband VSE weist darauf hin, dass die Unternehmen Drohnen nicht selbst bekämpfen dürfen und bei Sichtungen die Polizei alarmieren müssen. SVP-Nationalrat Thomas Hurter fordert, dass Betreiber im Ernstfall Drohnen abwehren dürfen.",
+   "sources": [
+    {
+     "name": "Blick",
+     "url": "https://www.blick.ch/politik/gegen-drohnen-oder-panzerfaeuste-energiebranche-soll-aufruesten/klep642",
+     "published_at": "2026-11-09T00:20:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "NZZ (Hintergrund, Paywall)",
+     "url": "https://www.nzz.ch/schweiz/drohnen-ueber-dem-stromnetz-sollen-energieversorger-selbst-zur-waffe-greifen-duerfen-ld.10042708",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/politik-energie-drohnenschutz-1024-r01.jpg",
+    "alt": "Stilisiertes Unterwerk mit Strommasten in der Abenddämmerung, am Himmel eine kleine Drohnensilhouette, am Zaun ein Sensormast (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "regionen-zermatt-chalet-strafbefehl",
+   "section": "Zürich & Regionen",
+   "headline": "Zermatt: Chaletbesitzer wegen zu seltener Vermietung verurteilt",
+   "summary": "Die Staatsanwaltschaft Oberwallis hat einen Schweizer Chaletbesitzer per rechtskräftigem Strafbefehl wegen Verstosses gegen das Zweitwohnungsgesetz verurteilt, wie der «Walliser Bote» berichtet. Das 2016 über eine Aktiengesellschaft gekaufte Chalet in der Überbauung «7 Heavens» war nur als touristisch bewirtschaftete Wohnung bewilligt, wurde ab 2017 aber höchstens zwei bis drei Wochen pro Jahr und in manchen Jahren gar nicht vermietet. Die Geldstrafe von 90'000 Franken (30 Tagessätze zu 3000 Franken) ist bedingt ausgesprochen; zu bezahlen sind eine Busse von 10'000 Franken und die Verfahrenskosten. Den Fall hatte die Gemeinde Zermatt ins Rollen gebracht.",
+   "sources": [
+    {
+     "name": "Blick",
+     "url": "https://www.blick.ch/schweiz/westschweiz/wallis/hohe-geldstrafe-luxus-chalet-in-zermatt-zu-selten-vermietet/49z5dmf",
+     "published_at": null,
+     "updated_at": null
+    },
+    {
+     "name": "Walliser Bote (via pomona.ch)",
+     "url": "https://pomona.ch/story/823274/zermatter-luxuschaletbesitzer-zu-geldstrafe-von-90000-franken-verurteilt",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/regionen-zermatt-chalet-strafbefehl-1024-r01.jpg",
+    "alt": "Verschneites Holzchalet mit geschlossenen Fensterläden in einem Bergdorf vor einem spitzen Berggipfel, daneben ein Schlüssel an einem Haken (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "regionen-ennetbuehl-frontalkollision",
+   "section": "Zürich & Regionen",
+   "headline": "Ennetbühl SG: Vier Verletzte bei Frontalkollision auf der Schwägalpstrasse",
+   "summary": "Auf der Schwägalpstrasse in Ennetbühl SG ist am Sonntag kurz nach 18 Uhr ein 45-jähriger Autofahrer in einer Linkskurve auf die Gegenfahrbahn geraten und frontal mit einem korrekt entgegenkommenden Auto kollidiert, das danach einen Hang hinunterrutschte. Alle vier Insassen wurden verletzt, eine 38-jährige Beifahrerin wurde von der Rega ins Spital geflogen. Aus dem gasbetriebenen zweiten Fahrzeug trat Gas aus, rund 25 Angehörige der Feuerwehr Nesslau standen im Einsatz. Die Polizei stufte den Unfallverursacher als nicht fahrfähig ein, nahm ihm den Führerausweis ab und ermittelt zum Hergang; die Strasse war bis kurz vor 20.45 Uhr gesperrt.",
+   "sources": [
+    {
+     "name": "20 Minuten",
+     "url": "https://www.20min.ch/story/unfall-in-ennetbuehl-sg-4-verletzte-bei-frontalkollision-verursacher-nicht-fahrfaehig-103664428",
+     "published_at": null,
+     "updated_at": null
+    },
+    {
+     "name": "Blick",
+     "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/unfall-in-ennetbuehl-sg-vier-verletzte-nach-frontalkollision/swfee89",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/regionen-ennetbuehl-frontalkollision-1024-r01.jpg",
+    "alt": "Kurvige Passstrasse in der Abenddämmerung mit rot-weisser Leitplanke, orangem Warndreieck und fernem blauem Lichtschein, ohne Fahrzeuge (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "wetter-regenwoche",
+   "section": "Verkehr & Wetter",
+   "headline": "Wetter: Nasse und milde Woche, ab Samstag trockener",
+   "summary": "Die neue Woche bringt laut den Prognosen von «SRF Meteo» und «Meteonews» in der Deutschschweiz fast täglich Regen, mit Schwerpunkt in der Zentral- und Ostschweiz. Zugleich wird es ungewöhnlich mild: Am Mittwoch sind bis zu 14 Grad möglich, in den Bergen weht zeitweise böiger Südwestwind. Die Schneefallgrenze steigt zunächst auf rund 2500 Meter und sinkt ab Donnerstag, am Freitag bis gegen 1000 Meter. Am Samstag dürfte sich im Norden bei rund 6 Grad die Sonne zeigen.",
+   "sources": [
+    {
+     "name": "Nau.ch",
+     "url": "https://www.nau.ch/news/schweiz/wetter-jetzt-regnets-fast-die-ganze-woche-67199575",
+     "published_at": "2026-11-09T04:05:00+01:00",
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/wetter-regenwoche-1024-r01.jpg",
+    "alt": "Regen über den Dächern einer stilisierten Kleinstadt, im Hintergrund Berge mit Schnee auf den Gipfeln, vorne ein offener blauer Schirm (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "sport-frauen-hockey-tschechien",
+   "section": "Sport",
+   "headline": "Frauen-Hockey-WM: Schweiz schlägt Tschechien nach Verlängerung",
+   "summary": "Die Schweizer Eishockey-Frauen haben an der WM in Esbjerg (Dänemark) Tschechien mit 2:1 nach Verlängerung geschlagen und damit nach dem 0:7 gegen die USA die ersten Punkte geholt. Ivana Wey traf in der 15. Minute zum 1:0, Linda Vocetkova glich in der 24. Minute aus, und Alina Müller entschied die Partie in der 62. Minute. Torhüterin Saskia Maurer wurde mit 33 Paraden zur besten Spielerin gewählt. Am Dienstag folgt das Spiel gegen Österreich, am Mittwoch jenes gegen Deutschland.",
+   "sources": [
+    {
+     "name": "SRF Sport",
+     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/1-wm-sieg-dank-2-1-n-v-mueller-mit-der-entscheidung-die-schweiz-schlaegt-tschechien",
+     "published_at": "2026-11-08T21:50:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "Swiss Ice Hockey",
+     "url": "https://www.sihf.ch/de/news/a-frauen/202627/schweizerinnen-feiern-gegen-tschechien-den-ersten-wm-sieg/",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/sport-frauen-hockey-tschechien-1024-r01.jpg",
+    "alt": "Puck gleitet auf weissem Eis auf ein leeres Hockeytor zu, darüber leuchtet ein rotes Torlicht (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "sport-super-league-sonntag",
+   "section": "Sport",
+   "headline": "Super League: Basel verspielt in Thun eine 2:0-Führung",
+   "summary": "Der FC Basel ist in der 13. Super-League-Runde in Thun trotz einer 2:0-Führung nach zwölf Minuten nicht über ein 3:3 hinausgekommen; Zan Celar traf zweimal, den Ausgleich in der 78. Minute verursachte Kevin Rüegg mit einem Eigentor. Basel wartet damit seit fünf Ligaspielen auf einen Sieg und bleibt unter dem Strich, Thun wartet weiterhin auf den ersten Heimsieg der Meisterschaft. Servette und der FC Zürich trennten sich in Genf 0:0, der FCZ ist damit seit sieben Spielen ungeschlagen. Nach der Länderspielpause geht die Meisterschaft am 21. November weiter.",
+   "sources": [
+    {
+     "name": "SRF Sport",
+     "url": "https://www.srf.ch/sport/fussball/super-league/13-runde-der-super-league-spaetes-eigentor-basel-muss-sich-in-thun-mit-3-3-begnuegen",
+     "published_at": "2026-11-08T18:46:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "bz Basel",
+     "url": "https://www.bzbasel.ch/sport/fc-basel/fc-basel-verpasst-sieg-in-thun-trotz-doppelter-fuehrung-ld.4263636",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/sport-super-league-sonntag-1024-r01.jpg",
+    "alt": "Fussball im Mittelkreis eines regennassen Rasens mit Pfützen vor leeren stilisierten Stadionrängen (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "sport-handball-daenemark",
+   "section": "Sport",
+   "headline": "Handball: Niederlage gegen Dänemark vor Schweizer Rekordkulisse",
+   "summary": "Die Schweizer Handball-Nationalmannschaft hat im Euro Cup in der Zürcher Swiss Life Arena gegen Dänemark mit 24:33 verloren; zur Pause stand es 9:13. Mit knapp 11'600 Zuschauerinnen und Zuschauern verfolgten so viele Menschen wie noch nie ein Handballspiel in der Schweiz. Dänemark ist amtierender Welt- und Europameister sowie Olympiasieger, sein Torhüter Kevin Möller wehrte 20 von 42 Würfen ab. Für das Team von Andy Schmid war es nach dem 28:33 gegen Portugal die zweite Niederlage; der Euro Cup geht am 10. März gegen Spanien weiter.",
+   "sources": [
+    {
+     "name": "SRF Sport",
+     "url": "https://www.srf.ch/sport/mehr-sport/handball/24-33-im-2-euro-cup-spiel-schweizer-unterliegen-vor-rekordkulisse-uebermacht-daenemark",
+     "published_at": "2026-11-08T17:51:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "Tages-Anzeiger",
+     "url": "https://www.tagesanzeiger.ch/handball-schweiz-24-33-niederlage-gegen-daenemark-in-zuerich-898763023619",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/sport-handball-daenemark-1024-r01.jpg",
+    "alt": "Handball auf orangem Hallenboden vor einem Tor, dahinter volle Ränge aus abstrakten farbigen Punkten (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  },
+  {
+   "id": "sport-nati-xhaka-manzambi",
+   "section": "Sport",
+   "headline": "Fussball-Nati bangt vor dem Zusammenzug um Xhaka und Manzambi",
+   "summary": "Captain Granit Xhaka musste am Sonntag im Spiel von Sunderland gegen Chelsea bereits in der 4. Minute ausgewechselt werden; laut Trainer Régis Le Bris zog er sich im Aufwärmen eine Wadenverletzung zu. Auch Johan Manzambi wurde bei Aston Villa gegen Manchester United nach einem Foul am Knöchel verletzt ausgewechselt. Offizielle Diagnosen lagen für beide zunächst nicht vor. Die Nationalmannschaft von Murat Yakin rückt am Montag ein und bestreitet die Nations-League-Spiele am Freitag in Slowenien und danach gegen Schottland.",
+   "sources": [
+    {
+     "name": "Blick",
+     "url": "https://www.blick.ch/sport/fussball/superleague/nati-captain-xhaka-und-juwel-manzambi-drohen-auszufallen/7nbs8pp",
+     "published_at": "2026-11-09T00:19:00+01:00",
+     "updated_at": null
+    },
+    {
+     "name": "SRF Sport",
+     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/kurz-vor-dem-nati-zusammenzug-xhaka-muss-gegen-chelsea-nach-4-minuten-verletzt-raus",
+     "published_at": null,
+     "updated_at": null
+    }
+   ],
+   "image": {
+    "type": "illustration",
+    "src": "assets/editions/2026-11-09-morning/sport-nati-xhaka-manzambi-1024-r01.jpg",
+    "alt": "Fussballschuhe, rote Captainbinde, Kühlbeutel und Bandage auf einer Behandlungsliege (KI-Illustration).",
+    "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+    "credit": "KI-generierte Illustration (Front News)",
+    "status": "ready"
+   }
+  }
+ ],
+ "handoff": {
+  "edition_id": "2026-11-09-morning",
+  "revision": 1,
+  "research_completed_at": "2026-11-09T07:08:44+01:00",
+  "ready_at": "2026-11-09T07:11:42+01:00",
+  "content_hash": "sha256:6224648a0666f8603b8e832571dd3208343bf4bdcc570a714ca53702a0665406",
+  "image_rights": {
+   "politik-geisel-freilassung-bericht": {
+    "rights": "ai_generated_own"
+   },
+   "politik-aeschi-einerticket": {
+    "rights": "ai_generated_own"
+   },
+   "politik-energie-drohnenschutz": {
+    "rights": "ai_generated_own"
+   },
+   "regionen-zermatt-chalet-strafbefehl": {
+    "rights": "ai_generated_own"
+   },
+   "regionen-ennetbuehl-frontalkollision": {
+    "rights": "ai_generated_own"
+   },
+   "wetter-regenwoche": {
+    "rights": "ai_generated_own"
+   },
+   "sport-frauen-hockey-tschechien": {
+    "rights": "ai_generated_own"
+   },
+   "sport-super-league-sonntag": {
+    "rights": "ai_generated_own"
+   },
+   "sport-handball-daenemark": {
+    "rights": "ai_generated_own"
+   },
+   "sport-nati-xhaka-manzambi": {
+    "rights": "ai_generated_own"
+   }
+  },
+  "media": {
+   "politik-geisel-freilassung-bericht": {
+    "path": "media/politik-geisel-freilassung-bericht-1024-r01.jpg",
+    "sha256": "db7ee17dcc9f21828f65e9397b8edf65f9b3e465435565e72d25ecad1dc57cf8",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8c2c4c1e720766bd71c119b42e409e0f757960aa42efd0bcc68800d7f14aa488.jpg",
+    "original_sha256": "8c2c4c1e720766bd71c119b42e409e0f757960aa42efd0bcc68800d7f14aa488",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "politik-aeschi-einerticket": {
+    "path": "media/politik-aeschi-einerticket-1024-r01.jpg",
+    "sha256": "152e19f802490b07c4c9d3c6c493ef81665f95c62fa362b46fa8eb99832fc090",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1aef1556ae44a0065b1119a2f58fbb9eed5a35ac653316f4068f31a8e5e35a36.jpg",
+    "original_sha256": "1aef1556ae44a0065b1119a2f58fbb9eed5a35ac653316f4068f31a8e5e35a36",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "politik-energie-drohnenschutz": {
+    "path": "media/politik-energie-drohnenschutz-1024-r01.jpg",
+    "sha256": "3d6db18116006b573aa66288f2fbd9a37e741d331c7687d7cb534a9aa0a96356",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d7fccfcd43d96f1b55cbbf9b3f24866e54bba47de63b28987852eb8658d12a39.jpg",
+    "original_sha256": "d7fccfcd43d96f1b55cbbf9b3f24866e54bba47de63b28987852eb8658d12a39",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "regionen-zermatt-chalet-strafbefehl": {
+    "path": "media/regionen-zermatt-chalet-strafbefehl-1024-r01.jpg",
+    "sha256": "16dec9b134486dde66cf3a9fedafd027b37a3181609dbbcd53a31f5b77148786",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6254fe366dfc3267749435c65332980982eee3241d01b76e4c9d8fea14792075.jpg",
+    "original_sha256": "6254fe366dfc3267749435c65332980982eee3241d01b76e4c9d8fea14792075",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "regionen-ennetbuehl-frontalkollision": {
+    "path": "media/regionen-ennetbuehl-frontalkollision-1024-r01.jpg",
+    "sha256": "bf18c586488be238bbddaf7b740b812ab46d40c6f5f2d3c923905256488b304b",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0f80dd571079bba8fb34be9d4471bc75a2e617781350cc01c4675bac61783c74.jpg",
+    "original_sha256": "0f80dd571079bba8fb34be9d4471bc75a2e617781350cc01c4675bac61783c74",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "wetter-regenwoche": {
+    "path": "media/wetter-regenwoche-1024-r01.jpg",
+    "sha256": "df05e68a5d2a771863655e693189595fba42705740b861ac4cea19239d47f35f",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6d1c78facae94c85e38e62611a1e5cc7a88182386508ad3fd38d355ff62a0534.jpg",
+    "original_sha256": "6d1c78facae94c85e38e62611a1e5cc7a88182386508ad3fd38d355ff62a0534",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "sport-frauen-hockey-tschechien": {
+    "path": "media/sport-frauen-hockey-tschechien-1024-r01.jpg",
+    "sha256": "9316325813870374b0b26d944739f831a07a212e143937cc188bcd495ec57245",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f7dc2d9ef6a3dd3b853c16d74a1b4db816aee0cb54dc0ed145ad1340ceebe74d.jpg",
+    "original_sha256": "f7dc2d9ef6a3dd3b853c16d74a1b4db816aee0cb54dc0ed145ad1340ceebe74d",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "sport-super-league-sonntag": {
+    "path": "media/sport-super-league-sonntag-1024-r01.jpg",
+    "sha256": "762d167bc31c041174716d139f4913a21e7bd9057e7551e834d9c46b195585bf",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/187495a43e94e3ea86ff9635a670bf5f50b8215f87eda76552facbd05630d70d.jpg",
+    "original_sha256": "187495a43e94e3ea86ff9635a670bf5f50b8215f87eda76552facbd05630d70d",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "sport-handball-daenemark": {
+    "path": "media/sport-handball-daenemark-1024-r01.jpg",
+    "sha256": "8e49258883ad53e4f730bf5666b0a88d1a5a9cfd73265b8d1240c529a17dfb00",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:41+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/af2f5e3ac0e4f6c2cd44616a4a471aa6f57e82b94bb24fc8f09c3c7a4f1e28ca.jpg",
+    "original_sha256": "af2f5e3ac0e4f6c2cd44616a4a471aa6f57e82b94bb24fc8f09c3c7a4f1e28ca",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   },
+   "sport-nati-xhaka-manzambi": {
+    "path": "media/sport-nati-xhaka-manzambi-1024-r01.jpg",
+    "sha256": "0c9d76b1ffe1a1651c1be446f837d9a41598021937a085bef7399f66d9797fc5",
+    "generator": "Grok Bot built-in GenerateImage tool (cursor namespace), text-only prompt, no reference images",
+    "model": "not_exposed_by_tool",
+    "created_at": "2026-11-09T07:11:42+01:00",
+    "created_at_meaning": "derivative encode time (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+    "original_generated_at": "2026-11-09",
+    "original_generated_at_note": "date only; tool returned no generation timestamp (generated during the 07:00 morning run, Europe/Zurich)",
+    "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0cdb35fef9ba071d5ed90eae4f0dfecdedfa6840a417b1974c95db3bfcafc16d.jpg",
+    "original_sha256": "0cdb35fef9ba071d5ed90eae4f0dfecdedfa6840a417b1974c95db3bfcafc16d",
+    "credit": "KI-generierte Illustration (Front News)",
+    "image_rights": "ai_generated_own"
+   }
+  }
+ }
+}
