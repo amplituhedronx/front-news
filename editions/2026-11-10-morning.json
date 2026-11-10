@@ -1,0 +1,411 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-10T09:22:13+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-publica-loesegeld",
+      "section": "Politik",
+      "headline": "Publica-Datendiebstahl: Hacker fordern offenbar Lösegeld vom Bund",
+      "summary": "SRF-Recherchen zeigen, dass die Hackergruppe Akira nach dem Angriff auf die PK Softech AG, die Softwarelieferantin der Bundespensionskasse Publica, Lösegeld gefordert hat. Sie droht damit, die Daten zu veröffentlichen oder weiterzuverkaufen. Laut mehreren Quellen weiss das VBS von der Erpressung. Die Bundesbehörden gehen davon aus, dass möglicherweise Daten des gesamten Bundespersonals betroffen sind, darunter auch verdeckt eingesetzte Mitarbeitende des Nachrichtendienstes und des Fedpol. PK Softech und Publica geben an, keine Forderung erhalten zu haben. Das VBS hält an seiner Empfehlung fest, kein Lösegeld zu zahlen, äussert sich zum konkreten Fall aber nicht. Laut Bundesratssprecherin Nicole Lamon hat der Bundesrat vergangenen Mittwoch über Publica gesprochen. Die Bundesanwaltschaft hat den Fall in ein laufendes Verfahren gegen Akira aufgenommen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/heikle-daten-gestohlen-hacker-fordern-loesegeld-nach-angriff-auf-publica-lieferantin",
+          "published_at": "2026-11-10T05:58:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/politik-publica-loesegeld-1024-r01.jpg",
+        "alt": "Aufgebrochenes Vorhängeschloss, aus dem anonyme Datendateien zu einem dunklen Laptop strömen, daneben ein Symbol eines Amtsgebäudes (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-svp-ticket",
+      "section": "Politik",
+      "headline": "SVP-Bundesratsticket: Wer kommt neben Aeschi aufs Ticket?",
+      "summary": "Die NZZ berichtet, dass die SVP-Parteileitung ein Zweierticket bevorzugt. Ein Platz gilt nach der Kandidatur von Fraktionschef Thomas Aeschi als so gut wie vergeben. Einige Ständeräte haben angekündigt, gegebenenfalls Kandidierende mit Regierungserfahrung zu unterstützen: den Walliser Staatsrat Franz Ruppen, den Berner Regierungsrat Pierre Alain Schnegg und den Aargauer Regierungsrat Jean-Pierre Gallati. Die SVP-Fraktion bestimmt das Ticket am 20. November. Die Wahl in der Bundesversammlung folgt danach.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/mit-aeschi-sind-50-prozent-des-svp-tickets-sind-so-gut-wie-vergeben-nun-erhalten-gallati-ruppen-und-schnegg-unterstuetzung-aus-dem-parlament-ld.10058570",
+          "published_at": "2026-11-10T05:30:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/politik-svp-ticket-1024-r01.jpg",
+        "alt": "Wahlzettel auf einem Holztisch mit zwei leeren Zeilen, eine mit Häkchen, eine mit Fragezeichen, im Hintergrund ein Parlamentsgebäude mit Kuppel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-beond-fluege",
+      "section": "Wirtschaft",
+      "headline": "Beond streicht alle Linienflüge im November, auch ab Zürich",
+      "summary": "Die maledivische Premium-Airline Beond fliegt vom 30. Oktober bis 30. November keine Linienflüge. Betroffen ist auch die Verbindung ab Zürich auf die Malediven, die erst Anfang Oktober nach einer mehrmonatigen Pause wieder aufgenommen worden war. Als Grund nennt die Airline die aktuelle Lage im Nahen Osten. Charterflüge finden weiterhin statt. Wer gebucht hat, kann auf ein anderes Reiseziel oder Reisedatum ausweichen, ein 18 Monate gültiges Reiseguthaben wählen oder sich den vollen Ticketpreis zurückerstatten lassen. Über den Flugplan ab Dezember will Beond Mitte November informieren.",
+      "sources": [
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/wirtschaft/chaos-bei-beond-saemtliche-linienfluege-fuer-einen-monat-gestrichen/t0f0mr9",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/wirtschaft-beond-fluege-1024-r01.jpg",
+        "alt": "Weisses Passagierflugzeug ohne Beschriftung auf einem leeren Vorfeld in der Dämmerung, daneben eine Anzeigetafel mit lauter roten Kreuzen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-hinwil-unfall",
+      "section": "Zürich & Regionen",
+      "headline": "Hinwil: Auto stürzt auf Autobahnzubringer, zwei Schwerverletzte",
+      "summary": "Ein 85-jähriger Autofahrer ist am Montag kurz vor 17 Uhr in Hinwil auf der Haldenstrasse von der Strasse abgekommen. Laut Kantonspolizei Zürich fuhr er rund 200 Meter über eine Wiese, durchbrach einen Wildzaun und stürzte auf den Zubringer zur A15, wo sich das Auto überschlug und auf dem Dach liegen blieb. Er und seine 83-jährige Beifahrerin wurden schwer verletzt von der Feuerwehr geborgen und in Spitäler gebracht. Fahrzeuge auf dem Zubringer konnten rechtzeitig anhalten. Die Unfallursache ist offen; die Strassen waren rund zweieinhalb Stunden gesperrt.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/auto-landet-nach-unfall-in-hinwil-zh-auf-autobahnzubringer/92354142",
+          "published_at": "2026-11-09T21:05:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/regionen-hinwil-unfall-1024-r01.jpg",
+        "alt": "Auto auf dem Dach auf einer Autobahnauffahrt unter einer Wiesenböschung mit beschädigtem Zaun, daneben ein Feuerwehrfahrzeug mit Blaulicht (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-basel-velo",
+      "section": "Zürich & Regionen",
+      "headline": "Basel: Velofahrer stirbt nach Sturz",
+      "summary": "Ein 35-jähriger Velofahrer ist am Montag gegen 18 Uhr an der Neuweilerstrasse in Basel gestürzt. Er war vom Neuweilerplatz in Richtung Allschwil unterwegs. Trotz sofortiger Reanimation durch einen Notarzt starb er im Spital an seinen schweren Verletzungen. Warum er stürzte, ist laut Kantonspolizei Basel-Stadt noch unklar.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/35-j%c3%a4hriger-velofahrer-stirbt-nach-sturz-in-basel/92354386",
+          "published_at": "2026-11-09T22:10:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/regionen-basel-velo-1024-r01.jpg",
+        "alt": "Leere Stadtstrasse am Abend unter Laternen, ein Velo lehnt an einem Laternenpfahl, auf dem Asphalt liegt eine weisse Blume (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-gandria-bauprojekt",
+      "section": "Zürich & Regionen",
+      "headline": "Gandria TI: Widerstand gegen Constantins Bauprojekt",
+      "summary": "Bauunternehmer Christian Constantin will im Luganeser Ortsteil Gandria 14 Luxuswohnungen bauen. Im Dorf regt sich Widerstand, auch der Tessiner Heimatschutz hat Einsprache erhoben. Eine Gruppe von Anwohnenden schlägt stattdessen einen öffentlichen Park vor. Stadtrat Filippo Lombardi hält diese Idee für unrealistisch: Die Stadt habe kaum Geld, und das steile Grundstück eigne sich nicht für einen Park. Zudem sei die Parzelle Bauland; eine dauerhafte Verhinderung könnte Kanton oder Stadt mehrere Millionen Franken kosten. Constantin sagt, Projekte in Bauzonen dürften nicht blockiert werden. Nun entscheidet der Kanton Tessin über die Einsprachen. Bei einer Bewilligung gilt ein Rekurs als praktisch sicher.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/unmut-in-tessiner-dorf-widerstand-gegen-constantins-bauprojekt-in-gandria",
+          "published_at": "2026-11-09T20:03:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/regionen-gandria-bauprojekt-1024-r01.jpg",
+        "alt": "Altes Steindorf an einem steilen Hang über einem See, auf einer freien Parzelle stehen Bauprofile aus Holz, daneben eine Tafel mit bunten Notizzetteln (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-nati-aufstieg",
+      "section": "Sport",
+      "headline": "Nati fehlt noch ein Punkt zum Aufstieg in die Liga A",
+      "summary": "Die bisher verlustpunktlose Schweiz braucht in der Nations League noch einen Punkt für den Wiederaufstieg in die Liga A. Gelegenheit dazu hat sie am Freitag in Maribor gegen Slowenien oder drei Tage später beim Abschlussspiel in St. Gallen gegen Schottland. Breel Embolo und Johan Manzambi stehen im Aufgebot. Für Nationalteam-Direktor Pierluigi Tami ist es nach sieben Jahren der letzte Zusammenzug. Die Auslosung der EM-Qualifikation findet am 6. Dezember in Belfast statt.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/fussball/nations-league/vor-aufstieg-in-nations-league-nati-1-punkt-holen-und-dann-bereits-blick-richtung-em-quali",
+          "published_at": "2026-11-09T18:01:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/sport-nati-aufstieg-1024-r01.jpg",
+        "alt": "Fussball auf dem Anstosspunkt in einem beleuchteten Stadion mit rot-weissen Tribünen, darüber ein leuchtender Pfeil nach oben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-wicky-trennung",
+      "section": "Sport",
+      "headline": "Raphael Wicky nicht mehr Trainer von Kansas City",
+      "summary": "Der MLS-Klub Sporting Kansas City hat sich am Montag vom ehemaligen YB- und Basel-Trainer Raphael Wicky getrennt. Das Team schloss die Regular Season als Letzter der Western Conference ab und verpasste die Playoffs zum dritten Mal in Folge. Wickys Vertrag wäre bis Sommer 2028 gelaufen. Es war nach Chicago Fire (2019–2021) sein zweites Engagement in den USA.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-kansas-city-trennt-sich-von-trainer-wicky",
+          "published_at": "2026-11-09T16:23:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/sport-wicky-trennung-1024-r01.jpg",
+        "alt": "Leere Trainerbank am Spielfeldrand mit Taktiktafel und zusammengelegter Jacke, im Hintergrund Flutlichtmasten (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-mathis-verletzung",
+      "section": "Sport",
+      "headline": "Ski: Jasmin Mathis verpasst Speedauftakt",
+      "summary": "Die 22-jährige Nidwaldnerin Jasmin Mathis hat sich laut «Blick» im Training auf der Diavolezza ohne Sturz das Innen- und das Kreuzband im linken Knie angerissen. Eine Operation ist nicht nötig, die Verletzung wird konservativ behandelt. Mathis verpasst die ersten Speedrennen in Nordamerika; wie lange sie ausfällt, ist offen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/ski-alpin/news-aus-dem-skisport-talent-mathis-verpasst-den-speedauftakt-verletzt",
+          "published_at": "2026-11-09T20:59:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/sport-mathis-verletzung-1024-r01.jpg",
+        "alt": "Rennski und Helm an einem Holzzaun am verschneiten Trainingshang, dahinter Gletscherberge, daneben eine Erste-Hilfe-Box (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-eth-mikroboter",
+      "section": "Gesellschaft",
+      "headline": "ETH Zürich: Mikroboter sollen Blutgerinnsel schneller auflösen",
+      "summary": "Forschende um Simone Schürle, Professorin für medizinische Mikrosysteme an der ETH Zürich, haben winzige, magnetisch steuerbare Bots entwickelt, die gerinnsellösende Medikamente besser an ihr Ziel bringen sollen. Die rund acht Mikrometer langen Kokons aus körperverträglichem Gel mit Eisenoxid-Nanopartikeln werden mit einem Katheter eingebracht und von einem rotierenden Magnetfeld ausserhalb des Körpers in Überschlägen entlang der Gefässwand vorwärtsbewegt; die dabei erzeugte Strömung trägt den Wirkstoff zum Gerinnsel. In einem Labormodell mit Gerinnseln aus Schweineblut löste das Medikament das Gerinnsel sechsmal schneller auf als ohne Bots. In Versuchen an lebenden Schweinen zusammen mit der Berliner Charité war nach 30 Minuten eine doppelt so grosse Gefässfläche wieder durchblutet wie mit dem Medikament allein. Die Methode ist noch nicht am Menschen erprobt, die wissenschaftliche Arbeit wird noch begutachtet, und ein Patent ist angemeldet.",
+      "sources": [
+        {
+          "name": "ETH Zürich",
+          "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/11/dissolving-blood-clots-with-flow-generating-microbots.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-morning/gesellschaft-eth-mikroboter-1024-r01.jpg",
+        "alt": "Querschnitt eines Blutgefässes mit roten Blutkörperchen und kleinen grünen Mikrobotern, die entlang der Gefässwand zu einem Blutgerinnsel rollen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-10-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-10T09:19:40+01:00",
+    "ready_at": "2026-11-10T09:22:13+01:00",
+    "content_hash": "sha256:b36436a9296687b5b325d4a824f9a7690540a7fe7dd6d0966ea9cfcbb52b9e86",
+    "image_rights": {
+      "politik-publica-loesegeld": {
+        "rights": "ai_generated_own"
+      },
+      "politik-svp-ticket": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-beond-fluege": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-hinwil-unfall": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-basel-velo": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-gandria-bauprojekt": {
+        "rights": "ai_generated_own"
+      },
+      "sport-nati-aufstieg": {
+        "rights": "ai_generated_own"
+      },
+      "sport-wicky-trennung": {
+        "rights": "ai_generated_own"
+      },
+      "sport-mathis-verletzung": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-eth-mikroboter": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-publica-loesegeld": {
+        "path": "media/politik-publica-loesegeld-1024-r01.jpg",
+        "sha256": "442e098c873732efb3b7304470e7a601d0fbd6a76cba803a7f7c317b989ce710",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/78d7425d941d0cd0424e8061f9c63747001c163d1e095c9b22925640523d599e.jpg",
+        "original_sha256": "78d7425d941d0cd0424e8061f9c63747001c163d1e095c9b22925640523d599e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-svp-ticket": {
+        "path": "media/politik-svp-ticket-1024-r01.jpg",
+        "sha256": "ffb2fd157b38a65b39494af6715354cd1c975f91ff8a79dbf9fd6641e17e1158",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2a8115091b6606282218371bb59ea196a658fe7231f14031323f937541d7427b.jpg",
+        "original_sha256": "2a8115091b6606282218371bb59ea196a658fe7231f14031323f937541d7427b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-beond-fluege": {
+        "path": "media/wirtschaft-beond-fluege-1024-r01.jpg",
+        "sha256": "ff9f5b0a1c555a91e672d90c669648b985022ac6329b4e91ad6ad8f7749d28c4",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dda6f2753be8cf18cda068628a8a9f11e81dfaf536c96e4530f7444e3ebe2072.jpg",
+        "original_sha256": "dda6f2753be8cf18cda068628a8a9f11e81dfaf536c96e4530f7444e3ebe2072",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-hinwil-unfall": {
+        "path": "media/regionen-hinwil-unfall-1024-r01.jpg",
+        "sha256": "d6e133378fe6a3d95729df2af9b864557a43a795996ab2f227c71cc4a4dca211",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e9a0881b6f24170c08c45037c9f0e82a01108e2d5729e99ea38482cd51de145b.jpg",
+        "original_sha256": "e9a0881b6f24170c08c45037c9f0e82a01108e2d5729e99ea38482cd51de145b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-basel-velo": {
+        "path": "media/regionen-basel-velo-1024-r01.jpg",
+        "sha256": "29268f5b3216bbd481e71e13fd09dd4627ce9f95cc541ddeb4c3d8ca16c7d8b5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b60ce71aed6c75097d071d75afa9944532812cb25ca0e9c19125a847659eea0a.jpg",
+        "original_sha256": "b60ce71aed6c75097d071d75afa9944532812cb25ca0e9c19125a847659eea0a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-gandria-bauprojekt": {
+        "path": "media/regionen-gandria-bauprojekt-1024-r01.jpg",
+        "sha256": "8d2cd9afff0813276a795f3fa88165977d2c0001d6a8b0492fbd2033e6e635bc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/38d8dcd568eb4f8cf45c577d6c17e837eb5b8ea424de78a3e6c237ed61616a75.jpg",
+        "original_sha256": "38d8dcd568eb4f8cf45c577d6c17e837eb5b8ea424de78a3e6c237ed61616a75",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-nati-aufstieg": {
+        "path": "media/sport-nati-aufstieg-1024-r01.jpg",
+        "sha256": "26e6858c4488fd394e15ae347b6a267c7ab19daedb3c39fbd6cb8b0e3a235dbb",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:23+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/38e3a971467da1e088842bec8a317804730a6f318749e5f459d3968b005c3650.jpg",
+        "original_sha256": "38e3a971467da1e088842bec8a317804730a6f318749e5f459d3968b005c3650",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-wicky-trennung": {
+        "path": "media/sport-wicky-trennung-1024-r01.jpg",
+        "sha256": "9a1bc25b099d369efdc45f973e13ceb0a76f1119966752ad646c8c57b148eae3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:23+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ec4c04f6c46781aa58469e094abd892d027bff3a51e078b86a8da15abecfbc3a.jpg",
+        "original_sha256": "ec4c04f6c46781aa58469e094abd892d027bff3a51e078b86a8da15abecfbc3a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-mathis-verletzung": {
+        "path": "media/sport-mathis-verletzung-1024-r01.jpg",
+        "sha256": "b56837f6f16abe003b207b471ddd2cf5e3705552c7e99ae784a007a62b3d48f7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:23+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2f9b88fa5de0dbf0b8cc867abbb98d6781d5bb5c25786cf2d7f338f3d7e9ca26.jpg",
+        "original_sha256": "2f9b88fa5de0dbf0b8cc867abbb98d6781d5bb5c25786cf2d7f338f3d7e9ca26",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-eth-mikroboter": {
+        "path": "media/gesellschaft-eth-mikroboter-1024-r01.jpg",
+        "sha256": "f4bd737b082c7a27929d7dc0a7c80ce920696a4ecde68fae68cc6fdfe4ec1423",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T09:21:23+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 manual morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f8bdcb85a160847a96dd1085925ba904b7856f102303152e5e57ac575e5d0a6d.jpg",
+        "original_sha256": "f8bdcb85a160847a96dd1085925ba904b7856f102303152e5e57ac575e5d0a6d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
