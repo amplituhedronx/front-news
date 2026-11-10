@@ -1,0 +1,531 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-10T17:59:05+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-pflege-hoechstarbeitszeit",
+      "section": "Politik",
+      "headline": "Ständeratskommission will 45-Stunden-Obergrenze in der Pflege",
+      "summary": "Die Gesundheitskommission des Ständerats (SGK-S) hat das neue Gesetz über die Arbeitsbedingungen in der Pflege mit 10 zu 0 Stimmen bei zwei Enthaltungen angenommen. Mit 9 zu 3 Stimmen will sie wie der Bundesrat eine wöchentliche Höchstarbeitszeit von 45 Stunden, gemittelt über zwei Wochen; der Nationalrat hatte sich für 50 Stunden ausgesprochen. Die Normalarbeitszeit soll bis zu 42 Stunden betragen, Überstunden sollen in erster Linie mit Freizeit kompensiert werden. Bei kurzfristig angesetzten Einsätzen soll laut Kommission ein Ausgleich gelten, wenn sie weniger als zwei Wochen im Voraus angekündigt werden, der Nationalrat setzt diese Grenze bei vier Wochen. Das Gesetz ist die zweite Etappe zur Umsetzung der 2021 angenommenen Pflegeinitiative; als Nächstes entscheidet der Ständerat.",
+      "sources": [
+        {
+          "name": "Watson (Keystone-SDA)",
+          "url": "https://www.watson.ch/schweiz/gesellschaft-politik/709530697-kommission-will-45-wochenstunden-als-hoechstarbeitszeit-in-pflege",
+          "published_at": "2026-11-10T17:45:10+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/politik-pflege-hoechstarbeitszeit-1024-r01.jpg",
+        "alt": "Spitalkorridor mit Wanduhr, einer Dienstplan-Tafel mit farbigen Punkten und einem aufgehängten Stethoskop (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-designerdrogen-verbot",
+      "section": "Politik",
+      "headline": "Bund verbietet ganze Gruppen neuer Designerdrogen",
+      "summary": "Das Eidgenössische Departement des Innern (EDI) hat die Betäubungsmittelverzeichnisverordnung ergänzt, wie es am Dienstag mitteilte. Neu werden nicht nur einzelne synthetische Substanzen, sondern ganze Stoffgruppen aufgeführt; so soll verhindert werden, dass Hersteller einen verbotenen Stoff chemisch leicht verändern und unter neuem Namen verkaufen. Drei der neu gelisteten Stoffe wirken cannabisähnlich und werden unter anderem Vape-Flüssigkeiten beigemischt, ihre Wirkung kann deutlich stärker sein als jene von pflanzlichem THC. Zwei weitere wirken wie starke Beruhigungsmittel und können zusammen mit anderen Substanzen gefährliche Vergiftungen auslösen. Herstellung, Handel und Anwendung aller gelisteten Stoffe sind verboten.",
+      "sources": [
+        {
+          "name": "Watson (Keystone-SDA)",
+          "url": "https://www.watson.ch/schweiz/drogen/706774362-bund-setzt-neuartige-designerdrogen-auf-liste-verbotener-substanzen",
+          "published_at": "2026-11-10T15:19:25+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/politik-designerdrogen-verbot-1024-r01.jpg",
+        "alt": "Grafische Molekülstrukturen, eine davon mit rotem Verbotszeichen, daneben ein Vape-Stift und ein Laborkolben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-on-quartal",
+      "section": "Wirtschaft",
+      "headline": "On steigert Umsatz und Gewinn deutlich",
+      "summary": "Der Zürcher Sportartikelhersteller On hat im dritten Quartal den Umsatz um 17 Prozent auf 931 Millionen Franken gesteigert, der Reingewinn stieg um 37 Prozent auf 163 Millionen Franken. Darin enthalten sind Rückerstattungen auf US-Zölle von 53 Millionen Franken. Am stärksten wuchs das Geschäft in Asien mit einem Plus von 31 Prozent, der Umsatz mit Bekleidung legte um 39 Prozent zu. Für 2026 erwartet das in New York kotierte Unternehmen weiterhin ein währungsbereinigtes Wachstum von gut 20 Prozent, was zu aktuellen Kursen rund 3,5 Milliarden Franken Umsatz entspräche.",
+      "sources": [
+        {
+          "name": "Watson (AWP/SDA)",
+          "url": "https://www.watson.ch/wirtschaft/schweiz/620638540-on-waechst-weiter-und-steigert-gewinn",
+          "published_at": "2026-11-10T13:10:22+01:00",
+          "updated_at": "2026-11-10T13:28:47+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/wirtschaft-on-quartal-1024-r01.jpg",
+        "alt": "Grafischer Laufschuh vor einem ansteigenden Balkendiagramm mit Pfeil und einer Weltkugel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-gastro-uebernahme",
+      "section": "Wirtschaft",
+      "headline": "Deutsche Gustoso-Gruppe übernimmt Mehrheit an Gastrofirma Wiesner",
+      "summary": "Die Münchner Gustoso-Gruppe übernimmt 75 Prozent der Familie Wiesner Gastronomie (FWG) mit Sitz in Dübendorf, zu der Marken wie «Nooch», «Negishi» und «Miss Miu» gehören; ein Kaufpreis wurde nicht genannt. Die Brüder Daniel und Manuel Wiesner behalten 25 Prozent und führen das Unternehmen weiterhin als Co-Chefs. Die Gründer Fredy und Anita Wiesner schütten der Belegschaft, rund 850 Mitarbeitende in 32 Restaurants, einen Bonus von insgesamt 2,5 Millionen Franken aus. Geplant sind weiterhin zwei bis drei neue Restaurants pro Jahr in der Schweiz und 2027 ein erstes «Nooch» in Deutschland.",
+      "sources": [
+        {
+          "name": "Watson (AWP/SDA)",
+          "url": "https://www.watson.ch/wirtschaft/schweiz/859765196-nooch-betreiber-verkaufen-mehrheit-an-deutsche-gustoso-gruppe",
+          "published_at": "2026-11-10T12:12:37+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger",
+          "url": "https://www.tagesanzeiger.ch/fwg-gustoso-uebernimmt-75-prozent-der-anteile-543071212753",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/wirtschaft-gastro-uebernahme-1024-r01.jpg",
+        "alt": "Restauranttisch mit zwei Schalen und Essstäbchen, darüber ein Kreisdiagramm im Verhältnis drei zu eins und ein Händedruck (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-asylzentrum-festnahmen",
+      "section": "Zürich & Regionen",
+      "headline": "Brand im Zürcher Bundesasylzentrum: zwei Männer festgenommen",
+      "summary": "Nach dem Brand im Bundesasylzentrum in Zürich-West vom Montagnachmittag hat die Stadtpolizei Zürich am Dienstag einen 22-jährigen Tunesier und einen 24-jährigen Algerier wegen Verdachts auf Brandstiftung festgenommen. Das Feuer brach laut Polizei gegen 16.30 Uhr in einem Schlafraum aus; das Gebäude wurde evakuiert, die Lösch- und Entrauchungsarbeiten dauerten bis kurz vor Mitternacht. Vier Personen, ein Bewohner und drei Mitarbeitende, kamen mit Verdacht auf Rauchgasvergiftung ins Spital. Für 160 Bewohnerinnen und Bewohner musste eine andere Unterkunft organisiert werden; die Ermittlungen laufen weiter.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/zwei-personen-verhaftet-polizei-zuerich-vermutet-brandstiftung-bei-asylzentrum",
+          "published_at": "2026-11-10T15:17:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/zuerich/zuerich-brand-im-bundesasylzentrum-ld.10058950",
+          "published_at": "2026-11-09T17:29:09+01:00",
+          "updated_at": "2026-11-10T17:25:59+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/regionen-asylzentrum-festnahmen-1024-r01.jpg",
+        "alt": "Mehrstöckiges Gebäude in der Abenddämmerung, aus einem oberen Fenster steigt Rauch, davor Silhouetten eines Feuerwehr- und eines Polizeiautos und ein Absperrband (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-liestal-salzsaeure",
+      "section": "Zürich & Regionen",
+      "headline": "Liestal: 1000 Liter Salzsäure ausgelaufen, später Entwarnung",
+      "summary": "Im Industriegebiet Oristal in Liestal sind am Dienstag bei der Firma Dragon Pharma rund 1000 Liter Salzsäure ausgelaufen, dabei bildete sich eine Dampfwolke. Der Kanton Basel-Landschaft rief die Bevölkerung auf, das Gebiet zu meiden, Fenster und Türen zu schliessen und Lüftungen abzuschalten; die Einsatzkräfte dämmten den Dampf mit Sprühnebel ein. Später gab der Kanton Entwarnung, es könne nur noch zu Geruchsbelästigungen kommen. Verletzte gab es laut Polizei keine, die Ursache ist noch unklar.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/basel-land-liestal-1000-liter-salzsaeure-ausgelaufen",
+          "published_at": "2026-11-10T14:49:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Watson",
+          "url": "https://www.watson.ch/schweiz/polizeirapport/666923030-warnung-in-basel-land-rund-1000-liter-salzsaeure-in-liestal-ausgelaufen",
+          "published_at": "2026-11-10T14:25:45+01:00",
+          "updated_at": "2026-11-10T15:25:44+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/regionen-liestal-salzsaeure-1024-r01.jpg",
+        "alt": "Unbeschrifteter Industrietank, über dem eine helle Dampfwolke von einem feinen Wassernebel aus einem Schlauch niedergeschlagen wird (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-blausee-urteil",
+      "section": "Zürich & Regionen",
+      "headline": "Blausee-Fall: Transportunternehmer zu bedingter Freiheitsstrafe verurteilt",
+      "summary": "Das bernische Wirtschaftsstrafgericht hat den Chef einer Berner Transportfirma wegen Urkundenfälschung in 25 Fällen und Sachbeschädigung in 95 Fällen zu zehn Monaten Freiheitsstrafe bedingt bei zwei Jahren Probezeit verurteilt. Seine Firma hatte belasteten Pressschlamm statt in eine Deponie in den Steinbruch Mitholz im Kandertal gebracht, der in einer Gewässerschutzzone rund eineinhalb Kilometer oberhalb des Blausees liegt. Vom Vorwurf des Betrugs wurde er freigesprochen, die Vorwürfe nach dem Gewässerschutzgesetz sind verjährt. Das Gericht sieht laut SRF keinen Zusammenhang zwischen den Ablagerungen und dem Fischsterben im Blausee.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/causa-blausee-keine-bagatelle-gericht-verurteilt-transportunternehmer",
+          "published_at": "2026-11-10T14:12:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/regionen-blausee-urteil-1024-r01.jpg",
+        "alt": "Lastwagen kippt Erdmaterial in einen Steinbruch im Gebirge, unten im Tal ein blauer Bergsee, vorne ein Richterhammer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-ndrangheta-urteil",
+      "section": "Gesellschaft",
+      "headline": "Bundesstrafgericht verurteilt Aargauer 'Ndrangheta-Mitglied zu über sechs Jahren",
+      "summary": "Das Bundesstrafgericht in Bellinzona hat einen 59-jährigen Italiener aus dem Aargau, der seit über 40 Jahren in der Schweiz lebt, als Mitglied der kalabrischen 'Ndrangheta zu sechs Jahren und drei Monaten Freiheitsstrafe und zehn Jahren Landesverweis verurteilt. Das Gericht folgte damit dem Antrag der Bundesanwaltschaft und sah es als erwiesen an, dass der Unternehmer rund 20 Jahre lang bis zu seiner Verhaftung im Juli 2020 den Clan Anello-Fruci in der Schweiz unterstützt und dabei Drohungen und Einschüchterung eingesetzt hatte. In einzelnen Punkten gab es Freisprüche, teils wegen Verjährung. Der Fall ist Teil von Ermittlungen gegen insgesamt 13 Personen in der Schweiz; ein mutmasslicher Komplize, ein früherer Pizzeria-Betreiber aus Muri AG, wurde in Italien bereits zu 17 Jahren Haft verurteilt.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/ndrangheta-prozess-ueber-sechs-haft-sowie-zehn-jahre-landesverweis-fuer-angeklagten",
+          "published_at": "2026-11-10T15:38:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Watson (CH Media)",
+          "url": "https://www.watson.ch/schweiz/italien/669372931-sechs-jahre-haft-und-landesverweis-fuer-aargauer-mafia-baggerunternehmer",
+          "published_at": "2026-11-10T17:25:41+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/gesellschaft-ndrangheta-urteil-1024-r01.jpg",
+        "alt": "Leerer Richtertisch mit Richterhammer und Waage, an der Wand im Schatten die Umrisse Süditaliens (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-swissinfo-protest",
+      "section": "Gesellschaft",
+      "headline": "Protest in Bern gegen Abbau bei Swissinfo",
+      "summary": "Rund 50 Personen haben am Dienstag vor dem Swissinfo-Gebäude in Bern gefordert, die angekündigten Kürzungen beim Auslandsangebot der SRG rückgängig zu machen. Mit der neuen Leistungsvereinbarung des Bundes für 2027 bis 2030 sinkt das Budget von Swissinfo von 18,8 auf 10,5 Millionen Franken pro Jahr, die Angebote auf Japanisch und Portugiesisch werden eingestellt und tvsvizzera.it wird nicht weitergeführt. Die SRG baut im Auslandsangebot insgesamt 22 Vollzeitstellen ab, davon 12,7 bei Swissinfo. Die Protestierenden argumentierten, Swissinfo sei für Auslandschweizerinnen und Auslandschweizer und für die Vermittlung der Schweiz im Ausland unverzichtbar.",
+      "sources": [
+        {
+          "name": "Watson (Keystone-SDA)",
+          "url": "https://www.watson.ch/schweiz/medien/489371973-protest-gegen-stellenabbau-bei-swissinfo",
+          "published_at": "2026-11-10T17:36:19+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RSI",
+          "url": "https://www.rsi.ch/s/4230965",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/gesellschaft-swissinfo-protest-1024-r01.jpg",
+        "alt": "Leere Protestschilder ohne Aufschrift vor einem Bürogebäude, daneben eine Weltkugel mit Sprechblasen und einem Mikrofon (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-zoo-basel-nashorn",
+      "section": "Gesellschaft",
+      "headline": "Zoo Basel: Panzernashorn-Kalb Xshama geboren",
+      "summary": "Im Zoo Basel ist am 5. November kurz vor Mitternacht das Panzernashorn-Kalb Xshama zur Welt gekommen, wie der Zoo am Dienstag mitteilte. Für die neunjährige Mutter Shakti ist es nach Tican (2022) das zweite Kalb, für den elfjährigen Vater Puri das erste; die Tragzeit betrug 489 Tage. Die Art steht auf der Roten Liste der Weltnaturschutzunion IUCN und gilt als gefährdet. Der Zoo führt seit 1972 das internationale Zuchtbuch, seit der ersten Zoogeburt eines Panzernashorns 1956 in Basel sind dort 38 Tiere dieser Art geboren worden.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/bedrohte-tierart-zuchterfolg-im-zoo-basel-panzernashorn-xshama-geboren",
+          "published_at": "2026-11-10T11:34:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Watson (Keystone-SDA)",
+          "url": "https://www.watson.ch/schweiz/basel/499551562-nachwuchs-bei-den-panzernashoernern-im-zoo-basel",
+          "published_at": "2026-11-10T13:30:18+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/gesellschaft-zoo-basel-nashorn-1024-r01.jpg",
+        "alt": "Gezeichnetes Panzernashorn-Jungtier neben seiner Mutter in einem mit Stroh ausgelegten Stall (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-nationalstrassen-zustand",
+      "section": "Verkehr & Wetter",
+      "headline": "Astra: Nationalstrassen in stabilem Zustand, Unterhalt wird aufwendiger",
+      "summary": "Das Bundesamt für Strassen (Astra) bewertet den Zustand der Nationalstrassen mit der Gesamtnote 1,81 auf einer Skala von 1 (gut) bis 5 (alarmierend), unverändert gegenüber dem Vorjahr. Rund 97 Prozent der Fahrbahnflächen sind in gutem oder mittlerem Zustand; als schlecht eingestuft sind der Solistunnel und der Tunnel Passmal in Graubünden sowie der Schwarzwaldtunnel in Basel-Stadt, deren Instandsetzung laufe oder aufgegleist sei. Weil viele Abschnitte Jahrzehnte alt sind und der Verkehr zunimmt, bezeichnet das Astra den Unterhalt als herausfordernd. Für 2026 bis 2030 sind im Schnitt jährlich 1,19 Milliarden Franken für den Werterhalt vorgesehen, finanziert aus zweckgebundenen Abgaben der Verkehrsteilnehmenden.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/schweizer-strassennetz-bund-investiert-1-2-milliarden-fuer-schweizer-nationalstrassen",
+          "published_at": "2026-11-10T16:11:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger",
+          "url": "https://www.tagesanzeiger.ch/autobahn-schweiz-97-prozent-in-gutem-zustand-606658036890",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/verkehr-nationalstrassen-zustand-1024-r01.jpg",
+        "alt": "Autobahn, die sich durch grüne Hügel über eine Brücke zu einem Tunnelportal windet, daneben ein Klemmbrett mit Häkchen und ein Schraubenschlüssel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-olympia-defizitgarantie",
+      "section": "Sport",
+      "headline": "Olympia 2038: Private sollen Defizitgarantie übernehmen",
+      "summary": "Für die geplanten Olympischen Winterspiele 2038 in der Schweiz soll erstmals nicht der Staat, sondern Private und Unternehmen eine Defizitgarantie von 200 Millionen Franken stellen, die bereits nächstes Jahr in einen Fonds einzuzahlen ist. Vom Budget von 2,2 Milliarden Franken sollen 1,8 Milliarden privat gedeckt werden, je 200 Millionen kämen vom Bund sowie von Kantonen und Gemeinden; der Nationalrat hat bereits zugestimmt, der Ständerat entscheidet im Dezember. Michael Hartweg vom Verein Switzerland 2038 sieht in der privaten Garantie ein Mittel zur Budgetkontrolle, Kaspar Schuler von CIPRA Schweiz verweist dagegen darauf, dass sich Olympia-Budgets meist verdoppelten, und fordert eine doppelt so hohe Garantie. Die Bewerbung muss bis Februar 2027 eingereicht werden.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/wirtschaft/olympia-in-der-schweiz-private-defizit-garantie-fuer-olympia-in-der-schweiz",
+          "published_at": "2026-11-10T10:31:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-10-evening/sport-olympia-defizitgarantie-1024-r01.jpg",
+        "alt": "Verschneite Alpen mit Skisprungschanze und Fackel, davor Münzstapel und ein Schild mit Häkchen als Symbol einer Garantie (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-10-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-10T17:57:46+01:00",
+    "ready_at": "2026-11-10T17:59:05+01:00",
+    "content_hash": "sha256:d39345e34da801a05c4696fb095aa3d21abad1b026a65f354fa4f7a262a5cb18",
+    "image_rights": {
+      "politik-pflege-hoechstarbeitszeit": {
+        "rights": "ai_generated_own"
+      },
+      "politik-designerdrogen-verbot": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-on-quartal": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-gastro-uebernahme": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-asylzentrum-festnahmen": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-liestal-salzsaeure": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-blausee-urteil": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-ndrangheta-urteil": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-swissinfo-protest": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-zoo-basel-nashorn": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-nationalstrassen-zustand": {
+        "rights": "ai_generated_own"
+      },
+      "sport-olympia-defizitgarantie": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-pflege-hoechstarbeitszeit": {
+        "path": "media/politik-pflege-hoechstarbeitszeit-1024-r01.jpg",
+        "sha256": "fb5cfeb6ca375a9d957a58641dde36e0658c0dfb5de584cf06036e720df627a3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2c819c38d961b1e98ee08c79038ad1d10380f66e0b072878abdfe5584811a1fa.jpg",
+        "original_sha256": "2c819c38d961b1e98ee08c79038ad1d10380f66e0b072878abdfe5584811a1fa",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-designerdrogen-verbot": {
+        "path": "media/politik-designerdrogen-verbot-1024-r01.jpg",
+        "sha256": "3d8183c3bb306281d4917a0278aa853efc15cc583d2bd9e4bc127f532b1450b1",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a210d2744364c6d80280bfa06af46f46d910f03fb3eba3a775190371db23385a.jpg",
+        "original_sha256": "a210d2744364c6d80280bfa06af46f46d910f03fb3eba3a775190371db23385a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-on-quartal": {
+        "path": "media/wirtschaft-on-quartal-1024-r01.jpg",
+        "sha256": "b2cd133df5684aee22715f98f5aef0cfcbe0e10a859de383109f439d5c1ae0a2",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c2c8a071092aaff579c3e3fa4b8ea9b72ea4222924be088132ef32b4ffa88e85.jpg",
+        "original_sha256": "c2c8a071092aaff579c3e3fa4b8ea9b72ea4222924be088132ef32b4ffa88e85",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-gastro-uebernahme": {
+        "path": "media/wirtschaft-gastro-uebernahme-1024-r01.jpg",
+        "sha256": "8b8edc8b04f53acefc0d2f1d9fc68200b452ed0b7021c96544f01f58c557db0f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4ff8a0abecfafe8582f692b91f5d108fbd8a7d09baca05c6484edd5eab12e201.jpg",
+        "original_sha256": "4ff8a0abecfafe8582f692b91f5d108fbd8a7d09baca05c6484edd5eab12e201",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-asylzentrum-festnahmen": {
+        "path": "media/regionen-asylzentrum-festnahmen-1024-r01.jpg",
+        "sha256": "fe82190ff0f7d33f9aabd35c9891e311b240260b63fe527a4bed46cde5cfda74",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/db86b148f6e18060ddb88d6ea16f2816e36711803c205b045f51192dcc93e47d.jpg",
+        "original_sha256": "db86b148f6e18060ddb88d6ea16f2816e36711803c205b045f51192dcc93e47d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-liestal-salzsaeure": {
+        "path": "media/regionen-liestal-salzsaeure-1024-r01.jpg",
+        "sha256": "6f676e7c153427dfb085cb4796ced96a8f0a2de375ceaa5766dc6317b6d20261",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/88dcdb3cbd7aa62edf1fb7178ea7551ea0aeb1275eebbcc2f14f444f71c7ae7d.jpg",
+        "original_sha256": "88dcdb3cbd7aa62edf1fb7178ea7551ea0aeb1275eebbcc2f14f444f71c7ae7d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-blausee-urteil": {
+        "path": "media/regionen-blausee-urteil-1024-r01.jpg",
+        "sha256": "acfa7ef260a7b02814912fa2d65c528c4ef4ad800d68bd28c7c00073e335793c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/40cec7c32a842d41aad20ebeed5d2c2d019aaad1fb8ce7d1c7f0d045a7a4d405.jpg",
+        "original_sha256": "40cec7c32a842d41aad20ebeed5d2c2d019aaad1fb8ce7d1c7f0d045a7a4d405",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-ndrangheta-urteil": {
+        "path": "media/gesellschaft-ndrangheta-urteil-1024-r01.jpg",
+        "sha256": "865777a698ed3d14dfe035fa3e65f5ca8ba709cc273241ea5287437c468ec4ed",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d68d6053a76e8c62b7fb23361da4cd5fceea3f5ee9a0f15d976a6e39184e5ef6.jpg",
+        "original_sha256": "d68d6053a76e8c62b7fb23361da4cd5fceea3f5ee9a0f15d976a6e39184e5ef6",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-swissinfo-protest": {
+        "path": "media/gesellschaft-swissinfo-protest-1024-r01.jpg",
+        "sha256": "fdba4d98cb785352cd7912de8ba0e7be7831f54c7cb67c6b30dc9af1f1f9aa7e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:02+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cd658a0d3984df9f598d5534ceda1a621eb0fde16dc1196b58c2d0912e631474.jpg",
+        "original_sha256": "cd658a0d3984df9f598d5534ceda1a621eb0fde16dc1196b58c2d0912e631474",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-zoo-basel-nashorn": {
+        "path": "media/gesellschaft-zoo-basel-nashorn-1024-r01.jpg",
+        "sha256": "25dbc62804ed97642971704e86981307761c17a9137e89887713f49c88ac2797",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:03+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ececa95321c6c9695e593783e286acd7487c7e9e27fa2ab0ffbe968a119101ca.jpg",
+        "original_sha256": "ececa95321c6c9695e593783e286acd7487c7e9e27fa2ab0ffbe968a119101ca",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-nationalstrassen-zustand": {
+        "path": "media/verkehr-nationalstrassen-zustand-1024-r01.jpg",
+        "sha256": "237e88ecbf67a4af80018c070e95281f4496cb8eca3cebf36fa185eda902de1c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:03+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9b15806d99d7d4ceba3c6bc26d4ee5ccd28631a1f80f13f84821da496ba616e4.jpg",
+        "original_sha256": "9b15806d99d7d4ceba3c6bc26d4ee5ccd28631a1f80f13f84821da496ba616e4",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-olympia-defizitgarantie": {
+        "path": "media/sport-olympia-defizitgarantie-1024-r01.jpg",
+        "sha256": "90a31b94992e338b0b29399985741fe5a52d1b21bbbd7427798dc9979170e0f3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-10T17:58:03+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-10",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-10 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bc9cb01743bb8cb6c756da9907341f6ac36c3d349550def8e973582ad2c75c67.jpg",
+        "original_sha256": "bc9cb01743bb8cb6c756da9907341f6ac36c3d349550def8e973582ad2c75c67",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
