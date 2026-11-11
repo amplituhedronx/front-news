@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-11T06:56:00+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-eternit-schmidheiny",
+      "section": "Politik",
+      "headline": "Eternit: Italiens oberstes Gericht hebt Urteil gegen Schmidheiny auf",
+      "summary": "Das Kassationsgericht in Rom hat am Dienstagabend die Verurteilung des Schweizer Unternehmers Stephan Schmidheiny zu neun Jahren und sechs Monaten Freiheitsstrafe im Eternit-Verfahren um das Werk in Casale Monferrato aufgehoben. Für rund 60 Todesfälle muss das Berufungsgericht in Turin den Fall neu beurteilen, für 25 weitere stellte das Gericht die Verjährung fest. Das Verfahren betrifft die Jahre 1976 bis 1986, in denen Schmidheiny die Schweizerische Eternit-Gruppe führte; die Verteidigung des 79-Jährigen hatte argumentiert, ein persönlicher Kausalzusammenhang zu den asbestbedingten Erkrankungen sei im Einzelfall nicht nachgewiesen. Laut seiner Sprecherin hat das oberste Gericht damit alle Verurteilungen aus den seit 2015 laufenden «Eternit bis»-Verfahren aufgehoben; die schriftliche Urteilsbegründung folgt in einigen Wochen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/drittes-verfahren-italienisches-gericht-hebt-eternit-urteil-gegen-schmidheiny-auf",
+          "published_at": "2026-11-10T22:29:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/stephan-schmidheiny-asbest-opfer-berufungsprozess-im-fall-eternit-neu-aufgerollt-103665343",
+          "published_at": "2026-11-10T21:07:49+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/politik-eternit-schmidheiny-1024-r01.jpg",
+        "alt": "Stapel gewellter grauer Faserzementplatten vor einer stillgelegten Fabrik, links eine Säule und eine Waage als Symbol für Justiz (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-freiburg-stichwahl",
+      "section": "Politik",
+      "headline": "Freiburger Staatsratswahl: Linke tritt mit drei Frauen zur Stichwahl an",
+      "summary": "SP, Grüne und Mitte-Links haben am Dienstagabend entschieden, im zweiten Wahlgang für die Freiburger Kantonsregierung mit drei Kandidatinnen anzutreten: Sylvie Bonvin-Sansonnens (Grüne, bisher), Lise-Marie Graden und Stephanie Tschopp (SP). Zwei Kandidaten aus der ersten Runde, Vincent Pfister und Kirthana Wickramasingam, ziehen sich zurück; das Bündnis strebt einen dritten Sitz an. Im ersten Wahlgang wurden erst drei der sieben Sitze vergeben, alle an das bürgerliche Bündnis, das mit Markus Julmy (Mitte) und Philippe Demierre (SVP, bisher) zwei weitere Sitze verteidigen will. Ob weitere Personen antreten, zeigt sich am Mittwoch nach Ablauf der Anmeldefrist.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/sp-und-gr%c3%bcne-schicken-drei-frauen-in-freiburger-stichwahl/92360714",
+          "published_at": "2026-11-10T22:34:31+01:00",
+          "updated_at": "2026-11-10T22:35:31+01:00"
+        },
+        {
+          "name": "SRF Regionaljournal",
+          "url": "https://www.srf.ch/audio/regionaljournal-bern-freiburg-wallis/zweiter-wahlgang-in-freiburg-linke-treten-mit-dreierticket-an?id=AUDI20261111_NR_0056",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/politik-freiburg-stichwahl-1024-r01.jpg",
+        "alt": "Hölzerne Wahlurne mit weissen Stimmzetteln, umgeben von sieben leeren Stühlen im Halbkreis vor rot-weissem Hintergrund (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-vvardis-boersengang",
+      "section": "Wirtschaft",
+      "headline": "Zuger Start-up Vvardis plant Börsengang in New York",
+      "summary": "Die Zahnpflegefirma Vvardis der Swiss-Smile-Gründerinnen Haley und Goly Abivardi will voraussichtlich am Freitag in New York an die Börse gehen. Laut den bei der US-Börsenaufsicht eingereichten Unterlagen sollen rund 9,5 Millionen Aktien zu 21 bis 24 Dollar verkauft werden, was knapp 229 Millionen Dollar einbrächte; angestrebt wird ein Firmenwert von bis zu 4,4 Milliarden Dollar. Das Unternehmen aus dem Kanton Zug schrieb 2025 einen Verlust von 56,4 Millionen Dollar, in den ersten neun Monaten 2026 rund 40 Millionen bei einem Umsatz von etwa 49 Millionen; 95 Prozent des Umsatzes stammen aus den USA. Ende 2025 hatte Vvardis Darlehen von 103 Millionen Dollar ausstehend, zudem sind laut Prospekt private Schulden der Gründerinnen mit Aktien besichert.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/wirtschaft/start-up-vvardis-swiss-smile-schwestern-wagen-milliarden-boersengang-an-wall-street",
+          "published_at": "2026-11-11T06:02:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/wirtschaft-vvardis-boersengang-1024-r01.jpg",
+        "alt": "Grosser weisser Zahn neben einer Börsentafel mit leeren Feldern und einer auf- und absteigenden Kurslinie vor einer Hochhaus-Silhouette (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-bulgari-pink-auktion",
+      "section": "Wirtschaft",
+      "headline": "Rosa Diamant «Bulgari Pink» in Genf für 12,1 Millionen Franken versteigert",
+      "summary": "Ein Ring mit dem rosafarbenen Diamanten «Bulgari Pink» ist am Dienstag beim Auktionshaus Christie's in Genf für 12,1 Millionen Franken versteigert worden. Der Stein im Smaragdschliff wiegt rund 24 Karat und war vorab auf 10 bis 15 Millionen Franken geschätzt worden. Er stammt vermutlich aus den Golconda-Minen in Indien und war seit seinem Kauf in den 1950er-Jahren im Besitz derselben Familie. An der Auktion kam zudem eine Privatsammlung mit knapp 300 Schmuckstücken aus dem 20. Jahrhundert unter den Hammer.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/auktion-in-genf-bulgari-pink-seltener-diamantring-erzielt-12-millionen-franken-103665386",
+          "published_at": "2026-11-11T04:23:38+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/wirtschaft-bulgari-pink-auktion-1024-r01.jpg",
+        "alt": "Goldring mit grossem rosafarbenem Edelstein auf einem dunklen Samtkissen, daneben ein hölzerner Auktionshammer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-wohnraum-gewerbezonen",
+      "section": "Zürich & Regionen",
+      "headline": "Studie: Platz für bis zu 20'000 Wohnungen in Zürcher Gewerbezonen",
+      "summary": "Gemäss einer Studie des Beratungsunternehmens Iazi könnten im Kanton Zürich auf Gewerbe- und Industrieflächen bis zu 20'000 Wohnungen entstehen, ohne bestehende Gebäude abzureissen. Iazi untersuchte 9000 Parzellen und sieht auf 1245 davon Platz für Wohnraum; am meisten Potenzial hätte Winterthur mit 1172 Wohnungen, die Stadt Zürich nur 428. Heute verbietet das kantonale Planungs- und Baugesetz Wohnungen in diesen Zonen, nötig wäre laut Studie eine Gesetzesergänzung, aber keine Umzonung. Ein Postulat zum Thema hatte der Kantonsrat abgelehnt; der Regierungsrat verweist auf Reserven in den bestehenden Wohnzonen, die zu 6,8 Prozent unbebaut sind.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/zuerich/so-viel-platz-wo-im-kanton-zuerich-noch-platz-fuer-neue-wohnungen-ist-ld.10059637",
+          "published_at": "2026-11-11T05:03:00+01:00",
+          "updated_at": "2026-11-11T06:04:53+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall)",
+          "url": "https://www.tagesanzeiger.ch/zuerich-20000-wohnungen-auf-gewerbeflaechen-moeglich-889928928996",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/regionen-zuerich-wohnraum-gewerbezonen-1024-r01.jpg",
+        "alt": "Gewerbegebiet mit Hallen und Baukran, daneben begrünte Wohnhäuser mit Balkonen vor sanften Hügeln (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-keller-messahli-freispruch",
+      "section": "Zürich & Regionen",
+      "headline": "Bezirksgericht Zürich spricht Saïda Keller-Messahli frei",
+      "summary": "Das Bezirksgericht Zürich hat die Publizistin Saïda Keller-Messahli am Dienstag vom Vorwurf der Verleumdung und der üblen Nachrede freigesprochen. Angeklagt waren Aussagen in einem Interview mit «Le Matin Dimanche» von 2024, in dem sie den Waadtländer Muslimverband Uvam mit einem früheren Delegierten der algerischen Islamistenpartei FIS in Verbindung brachte. Laut Gericht gelang ihr der Wahrheitsbeweis, weil der Verband nach dem Interview zwar bestritt, dass der Mann der Geschäftsleitung angehörte, nicht aber, dass er im Imam-Beirat sass. Den Einwand der Verteidigung, ein Verein könne nicht in seiner Ehre verletzt werden, wies das Gericht ab; das Urteil kann ans Obergericht weitergezogen werden.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/z%c3%bcrcher-gericht-spricht-islamkritikerin-keller-messahli-frei/92358309",
+          "published_at": "2026-11-10T17:02:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/zuerich/die-bekannteste-islamkritikerin-der-schweiz-wurde-erneut-vor-gericht-gezerrt-sie-sagt-es-ist-wichtig-dass-man-die-wahrheit-sagen-kann-ld.10059603",
+          "published_at": "2026-11-10T17:25:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/regionen-keller-messahli-freispruch-1024-r01.jpg",
+        "alt": "Leerer Richtertisch mit Richterhammer, einer gefalteten Zeitung und einem Mikrofon in warmem Fensterlicht (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-freiburg-budget",
+      "section": "Zürich & Regionen",
+      "headline": "Freiburger Grosser Rat genehmigt ausgeglichenes Budget 2027",
+      "summary": "Das Freiburger Kantonsparlament hat das Budget 2027 mit 85 zu 4 Stimmen bei einer Enthaltung genehmigt. Aufwand und Ertrag steigen um 1,8 Prozent auf 4,65 Milliarden Franken; ausgeglichen wird der Voranschlag mit einer Entnahme von 90 Millionen Franken aus Rückstellungen früherer Gewinnausschüttungen der Nationalbank. Die Steuereinnahmen sollen um 5,2 Prozent auf 1,73 Milliarden Franken steigen, geschaffen werden 122,5 neue Vollzeitstellen, die Bruttoinvestitionen betragen 294,6 Millionen Franken. Nach dem Nein des Stimmvolks zum Sanierungsgesetz im April bleibt der Steuerfuss bei 96 Prozent, die Subventionsausgaben überschreiten die gesetzliche Grenze.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/freiburger-kantonsparlament-genehmigt-budget-2027/92359737",
+          "published_at": "2026-11-10T18:58:35+01:00",
+          "updated_at": "2026-11-10T19:00:37+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/regionen-freiburg-budget-1024-r01.jpg",
+        "alt": "Aufgeschlagenes leeres Kassenbuch mit Taschenrechner und Münzstapeln, durch das Fenster eine Altstadt mit gotischem Kirchturm (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-berufslehre-trendbericht",
+      "section": "Gesellschaft",
+      "headline": "Trendbericht: Weniger Jugendliche wählen eine Berufslehre",
+      "summary": "Der Anteil der Jugendlichen in einer Berufslehre ist von 71 Prozent im Jahr 2012 auf 66 Prozent im Jahr 2024 gesunken, wie der neue Trendbericht des Schweizerischen Observatoriums für die Berufsbildung zeigt. Mehr Jugendliche wählen Gymnasien und Fachmittelschulen, besonders in der Westschweiz und im Tessin. Gleichzeitig haben 19 der 30 wichtigsten Berufe mit eidgenössischem Fähigkeitszeugnis Mühe, Lehrstellen zu besetzen, etwa am Bau, im Detailhandel, im Gesundheitswesen, in der Gastronomie und im Handwerk. Besonders gross ist das Missverhältnis bei Elektroinstallateuren und Fachleuten Betriebsunterhalt.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/die-berufslehre-verliert-weiter-an-boden-ld.10059842",
+          "published_at": "2026-11-10T16:59:00+01:00",
+          "updated_at": "2026-11-10T18:19:38+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/gesellschaft-berufslehre-trendbericht-1024-r01.jpg",
+        "alt": "Werkbank mit Hobel, Wasserwaage, Kabelrolle und Schutzhelm neben einem leeren Hocker, im Hintergrund ein Schulgebäude (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-srg-ukw-rueckkehr",
+      "section": "Gesellschaft",
+      "headline": "SRG-Radios senden ab Donnerstag wieder auf UKW",
+      "summary": "Die SRG nimmt ab Donnerstag, 12. November, schrittweise wieder UKW-Sender in Betrieb, nachdem sie die analoge Verbreitung Ende 2024 eingestellt hatte. Zum Start sind rund 30 Standorte aktiv, die etwa 80 Prozent der Bevölkerung erreichen; ausgestrahlt werden die Hauptprogramme der Sprachregionen, die Kultursender und in der Deutschschweiz die Regionaljournale. Das Bundesamt für Kommunikation hatte die Funkkonzession erteilt, die Zusatzkosten beziffert die SRG auf rund 6,5 Millionen Franken pro Jahr. Über einen weiteren Ausbau will sie je nach Nutzung und Finanzlage entscheiden.",
+      "sources": [
+        {
+          "name": "RSI",
+          "url": "https://www.rsi.ch/info/svizzera/Le-reti-radio-SSR-tornano-in-FM-dal-12-novembre--4231409.html",
+          "published_at": "2026-11-10T17:42:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/rueckkehr-zu-ukw-srg-sendet-radioprogramme-ab-mitte-november-wieder-analog",
+          "published_at": "2026-11-02T11:07:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/gesellschaft-srg-ukw-rueckkehr-1024-r01.jpg",
+        "alt": "Altes Kofferradio mit Drehskala auf einem Fenstersims, draussen ein Sendemast auf einem Alpenhügel mit stilisierten Funkwellen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-arena-moderation",
+      "section": "Gesellschaft",
+      "headline": "Benjamin Fisch wird neuer Moderator der SRF-«Arena»",
+      "summary": "SRF hat Benjamin Fisch zum neuen Moderator der politischen Diskussionssendung «Arena» ernannt; er folgt auf Sandro Brotz. Fisch arbeitet derzeit beim «Blick» als Videojournalist und Moderator und leitet dort unter anderem die Elefantenrunden an Abstimmungs- und Wahlsonntagen. Er soll in der Regel drei Ausgaben pro Monat moderieren, Mario Grossniklaus weiterhin eine.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/wirtschaft/in-eigener-sache-benjamin-fisch-wird-neuer-moderator-der-arena",
+          "published_at": "2026-11-10T13:53:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/politikjournalist-benjamin-fisch-loest-sandro-brotz-als-arena-moderator-ab-103665187",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/gesellschaft-arena-moderation-1024-r01.jpg",
+        "alt": "Leeres Fernsehstudio mit sieben Rednerpulten im Halbkreis, Scheinwerfern und einer Kamera im Vordergrund (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-frauen-hockey-wm-oesterreich",
+      "section": "Sport",
+      "headline": "Frauen-Hockey-WM: Schweiz nach 4:2 gegen Österreich im Viertelfinal",
+      "summary": "Das Schweizer Frauen-Nationalteam hat an der WM im dänischen Esbjerg Aufsteiger Österreich mit 4:2 geschlagen und sich damit den Viertelfinal gesichert. Nach dem 1:0 durch Sinja Leemann lag die Schweiz im Mitteldrittel zwischenzeitlich 1:2 zurück, Alina Müller glich 19 Sekunden später aus. Ivana Wey traf im Powerplay zum 3:2, Müller sorgte mit einem Treffer ins leere Tor für den Endstand. Am Mittwoch folgt zum Abschluss der Gruppe das Spiel gegen Deutschland, danach steht der Viertelfinal-Gegner fest.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-in-daenemark-vorrunde-schweizerinnen-wuergen-sich-zum-pflichtsieg",
+          "published_at": "2026-11-10T21:34:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/sport-frauen-hockey-wm-oesterreich-1024-r01.jpg",
+        "alt": "Eishockey-Puck und zwei gekreuzte Schläger auf dem Eis vor einem Tor, im Hintergrund rot-weisse Hallenlichter (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-hcd-chl-pilsen",
+      "section": "Sport",
+      "headline": "Champions Hockey League: Davos gewinnt Achtelfinal-Hinspiel gegen Pilsen 5:4",
+      "summary": "Der HC Davos hat das Hinspiel im Achtelfinal der Champions Hockey League gegen Pilsen mit 5:4 gewonnen. Die Bündner führten bis zur 21. Minute mit 3:0, die Tschechen glichen bis Ende des Mitteldrittels mit drei Treffern aus, zwei davon innert 79 Sekunden im Powerplay. Matchwinner war Filip Zadina in seinem vorerst letzten Spiel vor einer Operation. Das Rückspiel findet am nächsten Dienstag in Pilsen statt; am Mittwoch treffen Genève-Servette und Fribourg-Gottéron im Schweizer Duell aufeinander.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-hcd-rettet-kleinen-vorsprung-ins-rueckspiel",
+          "published_at": "2026-11-10T22:34:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-morning/sport-hcd-chl-pilsen-1024-r01.jpg",
+        "alt": "Nächtliches Eisfeld in einem verschneiten Bergdorf mit leerem Tor und einem Puck auf dem Eis (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-11-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-11T06:56:00+01:00",
+    "ready_at": "2026-11-11T06:56:00+01:00",
+    "content_hash": "sha256:aee25f2ac00d9558052f5f8446f416ad237e5a830e3f92a875aedd93c429af70",
+    "image_rights": {
+      "politik-eternit-schmidheiny": {
+        "rights": "ai_generated_own"
+      },
+      "politik-freiburg-stichwahl": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-vvardis-boersengang": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-bulgari-pink-auktion": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-wohnraum-gewerbezonen": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-keller-messahli-freispruch": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-freiburg-budget": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-berufslehre-trendbericht": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-srg-ukw-rueckkehr": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-arena-moderation": {
+        "rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm-oesterreich": {
+        "rights": "ai_generated_own"
+      },
+      "sport-hcd-chl-pilsen": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-eternit-schmidheiny": {
+        "path": "media/politik-eternit-schmidheiny-1024-r01.jpg",
+        "sha256": "c0aa72e85a33a676ed260fb337de498879bd33254680b312c470dae3e08ca663",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:48+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3c52a3b77ccb23b3bf4023a7ef50014f9d98fa8ba540390267aaba9b7c26ae29.jpg",
+        "original_sha256": "3c52a3b77ccb23b3bf4023a7ef50014f9d98fa8ba540390267aaba9b7c26ae29",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-freiburg-stichwahl": {
+        "path": "media/politik-freiburg-stichwahl-1024-r01.jpg",
+        "sha256": "63bbd20a44206b7b3747d0e9aa8e65034b1c464352b5865bac2cbc8ba68c8779",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/85bb962c776cdf41700409b76767806e69a73194d1593b698694cc161f0608a5.jpg",
+        "original_sha256": "85bb962c776cdf41700409b76767806e69a73194d1593b698694cc161f0608a5",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-vvardis-boersengang": {
+        "path": "media/wirtschaft-vvardis-boersengang-1024-r01.jpg",
+        "sha256": "fb3b480eb5d639eb06b98c188a40efa5063671ec91b6eb462531e4b2234e9a98",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/26ff22922317596eb74453e811762df40e6322ef71c8144316f27cab775c7db2.jpg",
+        "original_sha256": "26ff22922317596eb74453e811762df40e6322ef71c8144316f27cab775c7db2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-bulgari-pink-auktion": {
+        "path": "media/wirtschaft-bulgari-pink-auktion-1024-r01.jpg",
+        "sha256": "3165b76c7fce39d42e8daa39f0875720cce4ad17bae5481dbf2224f3b48f8625",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6bfac9cf3f26008cc4a799ff75555389cbf40574142fc908645f1822bb24279e.jpg",
+        "original_sha256": "6bfac9cf3f26008cc4a799ff75555389cbf40574142fc908645f1822bb24279e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-wohnraum-gewerbezonen": {
+        "path": "media/regionen-zuerich-wohnraum-gewerbezonen-1024-r01.jpg",
+        "sha256": "60bf569e62a56c1a9ebb44bc60d65b60c8e3e639e377db38957b78d7ed7eda7c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a20f3c101b7c4cc01e8337c3ae9766742b1c7ba1f0ab25d86e8b22a9e4c7dc1e.jpg",
+        "original_sha256": "a20f3c101b7c4cc01e8337c3ae9766742b1c7ba1f0ab25d86e8b22a9e4c7dc1e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-keller-messahli-freispruch": {
+        "path": "media/regionen-keller-messahli-freispruch-1024-r01.jpg",
+        "sha256": "9aa646c90fa918b8f357667b22cbebc526f76f00b6105b222ab9cfd53a93ddce",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ade34be5f2caccb51f1e7e3d656d260ece638cef373b9458a25b8627ab1b5853.jpg",
+        "original_sha256": "ade34be5f2caccb51f1e7e3d656d260ece638cef373b9458a25b8627ab1b5853",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-freiburg-budget": {
+        "path": "media/regionen-freiburg-budget-1024-r01.jpg",
+        "sha256": "0124c4d31af29797a71dff2312190c526dd1417be399a9a7196562b45ce186b1",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4906ab6bfe82a952fea5ec02ab26d6fa943dbc0a0e4b3506e19e7af5ed33f7ff.jpg",
+        "original_sha256": "4906ab6bfe82a952fea5ec02ab26d6fa943dbc0a0e4b3506e19e7af5ed33f7ff",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-berufslehre-trendbericht": {
+        "path": "media/gesellschaft-berufslehre-trendbericht-1024-r01.jpg",
+        "sha256": "f71b713fef2afb3d90d07bd1189f2ebd727e356ff3d736270e2e4a9c5014d071",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0784ffc80d96cc895b45ee8ecfa35834ba5952f225b602d180422f769aeca3c9.jpg",
+        "original_sha256": "0784ffc80d96cc895b45ee8ecfa35834ba5952f225b602d180422f769aeca3c9",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-srg-ukw-rueckkehr": {
+        "path": "media/gesellschaft-srg-ukw-rueckkehr-1024-r01.jpg",
+        "sha256": "bb964cbbf5eb8233045770689bf508abc388243fb2ecd235c0870cc26fbfafe1",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2028c8449573d3f708b8ca0d705843583aa378bcb5edea7d88d0223ca522ea90.jpg",
+        "original_sha256": "2028c8449573d3f708b8ca0d705843583aa378bcb5edea7d88d0223ca522ea90",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-arena-moderation": {
+        "path": "media/gesellschaft-arena-moderation-1024-r01.jpg",
+        "sha256": "6c877cfb9f7d77366c37003b8f47dbc37d27492a3ca7c8339cc41a54939297cd",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1662c3bd0065d1763e2fd5cf837d5191f6a83b892baa3c2d5d1f766d47c433c2.jpg",
+        "original_sha256": "1662c3bd0065d1763e2fd5cf837d5191f6a83b892baa3c2d5d1f766d47c433c2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm-oesterreich": {
+        "path": "media/sport-frauen-hockey-wm-oesterreich-1024-r01.jpg",
+        "sha256": "f5eafd2e6e57605d20711b7edada433d9eef612ea1dbb9ddc009aad28dbd5118",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7df9c13080d8f73a304e9348fd71203f6b1b09162600dba59b695ab17cf6da4e.jpg",
+        "original_sha256": "7df9c13080d8f73a304e9348fd71203f6b1b09162600dba59b695ab17cf6da4e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-hcd-chl-pilsen": {
+        "path": "media/sport-hcd-chl-pilsen-1024-r01.jpg",
+        "sha256": "400e94b9cf79344ee51fea9a457ceb82c28c682a541629bdc2cc09f2603e5fd1",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T06:54:49+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/672a4fa6ae1d63fd6eccabb3c3696ccea6e96b5a4e6e9ab56b6e9fec5845e949.jpg",
+        "original_sha256": "672a4fa6ae1d63fd6eccabb3c3696ccea6e96b5a4e6e9ab56b6e9fec5845e949",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
