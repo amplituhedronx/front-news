@@ -1,0 +1,549 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-11T17:55:22+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-tardoc-revision",
+      "section": "Politik",
+      "headline": "Arzttarif Tardoc: Bundesrat genehmigt erste Revision und verlangt Korrekturen",
+      "summary": "Der Bundesrat hat am Mittwoch die erste Jahresrevision des neuen ambulanten Tarifsystems aus Tardoc und ambulanten Pauschalen genehmigt; die angepassten Tarife gelten ab 1. Januar 2027. Er lehnt jedoch einzelne Anträge der Tarifpartner FMH, H+ und Prio.Swiss wegen methodischer Mängel ab und verlangt Korrekturen, namentlich bei der Kostenneutralität und der Stärkung der Hausarzt- und Kindermedizin. Weil die Tarifpartner bisher kein Konzept vorgelegt haben, wie das Kostenwachstum auf höchstens vier Prozent pro Jahr begrenzt werden soll, hat der Bundesrat das Innendepartement beauftragt, mögliche staatliche Eingriffe vorzubereiten. Für das nächste Gesuch müssen die Tarifpartner einen verbindlichen Fahrplan zur Aufwertung der Grundversorgung vorlegen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/schweizer-arzttarifsystem-bundesrat-genehmigt-erste-tardoc-revision-und-fordert-korrekturen",
+          "published_at": "2026-11-11T14:37:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Bundesrat (admin.ch)",
+          "url": "https://www.admin.ch/de/newnsb/w2F0cBGGpPHX",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/politik-tardoc-revision-1024-r01.jpg",
+        "alt": "Stethoskop auf einem Stapel leerer Abrechnungsformulare neben einer Balkenwaage (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-solarinitiative-bundesrat",
+      "section": "Politik",
+      "headline": "Bundesrat empfiehlt Solarinitiative ohne Gegenvorschlag zur Ablehnung",
+      "summary": "Der Bundesrat hat am Mittwoch die Botschaft zur Volksinitiative «Für eine sichere Versorgung mit erneuerbaren Energien» verabschiedet und empfiehlt dem Parlament ein Nein ohne Gegenvorschlag. Die von den Grünen lancierte und von Teilen von SP, GLP und EVP unterstützte Initiative verlangt eine Solarpflicht für Neubauten und grössere Dachsanierungen sowie die Nachrüstung bestehender Gebäude innert 15 Jahren. Der Bundesrat teilt das Ziel eines schnelleren Ausbaus, verweist aber auf die einseitige Ausrichtung auf eine Technologie, zusätzliche Belastungen des Stromnetzes im Sommer und die Zuständigkeit der Kantone. Die Initianten argumentieren, die Vorlage würde mehr als den heutigen Strombedarf decken; als Nächstes berät das Parlament.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/die-gruenen-wollen-die-solarpflicht-auf-alle-gebaeude-im-land-ausweiten-der-bundesrat-ist-dagegen-und-verweist-auf-die-kantone-ld.10060881",
+          "published_at": "2026-11-11T17:30:03+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Bundesrat (admin.ch)",
+          "url": "https://www.admin.ch/de/newnsb/PqegFJjCNmfb",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/politik-solarinitiative-bundesrat-1024-r01.jpg",
+        "alt": "Reihe von Hausdächern, einige mit Solarpanels, unter einer stilisierten Sonne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-status-s-reisen",
+      "section": "Politik",
+      "headline": "Status S: Ukrainerinnen und Ukrainer sollen weiterhin ohne Bewilligung reisen dürfen",
+      "summary": "Der Bundesrat will, dass Schutzbedürftige aus der Ukraine mit Status S auch künftig ohne Reisebewilligung ins Ausland reisen und in die Schweiz zurückkehren können. Hintergrund ist ein vom Parlament 2021 beschlossenes grundsätzliches Reiseverbot für Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige, das wegen der Aktivierung des Status S 2022 bisher nicht in Kraft gesetzt wurde. Für Asylsuchende und vorläufig Aufgenommene sollen Auslandreisen künftig nur noch ausnahmsweise möglich sein; Aufenthalte in der Ukraine bleiben für Personen mit Status S auf 15 Tage pro Halbjahr begrenzt. Die Sonderregelung gilt bis zur Aufhebung des Status S, über die Gesetzesänderung entscheidet das Parlament.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/bundesrat-will-ukrainer-mit-status-s-ins-ausland-reisen-lassen/92362956",
+          "published_at": "2026-11-11T11:17:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Bundesrat (admin.ch)",
+          "url": "https://www.admin.ch/de/newnsb/Oq0CiNf6IUcX",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RTS",
+          "url": "https://www.rts.ch/info/suisse/2026/article/statut-s-les-ukrainiens-pourront-continuer-a-voyager-29412824.html",
+          "published_at": "2026-11-11T13:06:01+01:00",
+          "updated_at": "2026-11-11T13:29:54+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/politik-status-s-reisen-1024-r01.jpg",
+        "alt": "Geschlossener Reisepass ohne Wappen, ein Koffer und ein gestempeltes Dokument auf einem Tisch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-ukraine-gespraeche-schweiz",
+      "section": "Politik",
+      "headline": "Ukraine-Gespräche in Abu Dhabi: Schweizer Diplomat vor Ort",
+      "summary": "Bei den von den USA vermittelten Gesprächen zwischen Russland und der Ukraine in Abu Dhabi war am Dienstag und Mittwoch auch Botschafter Gabriel Lüchinger, Leiter der Abteilung internationale Sicherheit im EDA, anwesend. Das EDA bestätigte gegenüber der NZZ, er stehe mit allen Parteien in Kontakt, äusserte sich aber nicht näher zu seiner Rolle; die Schweiz biete weiterhin ihre Guten Dienste an. Die Gespräche sind inzwischen beendet; laut russischer Seite wurde ein Austausch von je über 1000 Kriegsgefangenen in den nächsten zwei bis drei Wochen vereinbart. Die USA wollen künftig europäische Staaten einbinden, was Russland vorerst ablehnt.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/bern-ist-bei-den-ukraine-gespraechen-in-abu-dhabi-praesent-schweizer-spitzendiplomat-war-wiederholt-in-russland-ld.10060520",
+          "published_at": "2026-11-11T10:52:55+01:00",
+          "updated_at": "2026-11-11T15:02:17+01:00"
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/verhandlungen-zu-ukraine-krieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+          "published_at": "2026-11-11T16:03:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/politik-ukraine-gespraeche-schweiz-1024-r01.jpg",
+        "alt": "Leerer Verhandlungstisch mit leeren Stühlen und Namensschildern vor einem Fenster mit Stadtsilhouette in der Dämmerung (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-buffat-anklage",
+      "section": "Politik",
+      "headline": "SVP-Nationalrat Michaël Buffat wegen mutmasslicher häuslicher Gewalt angeklagt",
+      "summary": "Die Waadtländer Staatsanwaltschaft hat den SVP-Nationalrat Michaël Buffat wegen einfacher Körperverletzung, Nötigung, Drohung und Freiheitsberaubung angeklagt; der Prozess vor dem Bezirksgericht in Yverdon-les-Bains ist laut NZZ auf den 23. November angesetzt. Die Anklage wirft ihm vor, seine getrennt lebende Ehefrau zwischen 2015 und 2024 kontrolliert, bedroht und körperlich sowie psychisch misshandelt zu haben. Auch die Ehefrau ist angeklagt, unter anderem wegen Körperverletzung und Nötigung. Buffat will sich erst vor Gericht äussern und tritt bis zum Prozess vom Präsidium der SVP Waadt zurück; für beide gilt die Unschuldsvermutung.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/anklage-gegen-politiker-svp-nationalrat-buffat-muss-wegen-haeuslicher-gewalt-vor-gericht",
+          "published_at": "2026-11-11T15:26:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/svp-nationalrat-michael-buffat-wegen-vorwurfs-haeuslicher-gewalt-angeklagt-ld.10060961",
+          "published_at": "2026-11-11T15:23:05+01:00",
+          "updated_at": "2026-11-11T16:28:49+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/politik-buffat-anklage-1024-r01.jpg",
+        "alt": "Leerer Gerichtssaal mit Richterpult, Hammer und geschlossener Akte (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-swiss-dubai",
+      "section": "Wirtschaft",
+      "headline": "Swiss fliegt den ganzen Winter nicht nach Dubai",
+      "summary": "Die Swiss setzt ihre Flüge zwischen Zürich und Dubai bis zum Ende des Winterflugplans am 27. März 2027 aus; ursprünglich war die Wiederaufnahme auf den 25. November geplant. Den Entscheid traf die Airline nach eigenen Angaben aus betrieblichen Gründen gemeinsam mit der Lufthansa-Gruppe, die Verbindung ist wegen der Lage im Nahen Osten seit März unterbrochen. Betroffene Passagiere werden informiert und auf andere Verbindungen umgebucht. Gleichzeitig nimmt die Swiss ab dem 2. Dezember wieder einen zweiten täglichen Flug zwischen Zürich und Delhi auf.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/swiss-setzt-fl%C3%BCge-nach-dubai-weiterhin-aus/92363729",
+          "published_at": "2026-11-11T12:25:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Swiss Newsroom",
+          "url": "https://newsroom.swiss.com/en/middle-east-flight-operations--updates-newsbrief/",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/wirtschaft-swiss-dubai-1024-r01.jpg",
+        "alt": "Leere Abflugtafel und ein Passagierflugzeug ohne Logo am Gate in der Abenddämmerung (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-chur-cyberangriff",
+      "section": "Zürich & Regionen",
+      "headline": "Chur: Patientendaten nach Cyberangriff auf Gesundheitszentrum abgeflossen",
+      "summary": "Beim Cyberangriff auf das Medizinische Zentrum Gleis D und die Apotheke Medi Porta in Chur vom 12. Oktober sind Personendaten abgeflossen, darunter Namen, Adressen, Rezepte und Röntgenbilder sowie Daten von Mitarbeitenden. Diagnosen und Behandlungsverläufe seien laut Verwaltungsratspräsident Romano Cahannes nicht betroffen, da sie auf einer separaten Anwendung lägen. Wie viele Personen betroffen sind, wird noch ausgewertet; das Zentrum hat Strafanzeige erstattet. Hinweise auf einen fortbestehenden Zugriff der Täterschaft gibt es laut Zentrum nicht.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/it-sicherheit-cyberangriff-auf-churer-gesundheitszentrum",
+          "published_at": "2026-11-11T17:06:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175",
+          "published_at": null,
+          "updated_at": "2026-11-11T17:45:02+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/regionen-chur-cyberangriff-1024-r01.jpg",
+        "alt": "Medizinischer Ordner mit Röntgenbild, aufgebrochenes Vorhängeschloss und Datenpunkte, die aus einem Laptop strömen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-escher-wyss-anklage",
+      "section": "Zürich & Regionen",
+      "headline": "Tödlicher Unfall am Escher-Wyss-Platz: Lastwagenfahrer angeklagt",
+      "summary": "Knapp vier Jahre nach dem Tod eines fünfjährigen Kindergärtners am Zürcher Escher-Wyss-Platz hat die Staatsanwaltschaft Zürich-Limmat einen 67-jährigen Lastwagenfahrer wegen fahrlässiger schwerer Körperverletzung angeklagt. Laut Anklage erfasste er das Kind im Dezember 2022 auf einem Fussgängerstreifen; ein nachfolgender 39-jähriger Autofahrer überrollte das am Boden liegende Kind, was zu den tödlichen Verletzungen führte. Der Autofahrer wurde per Strafbefehl wegen fahrlässiger Tötung bestraft, der Strafbefehl ist noch nicht rechtskräftig. Die Ermittlungen dauerten lange, weil beide Lenker weitergefahren waren; es gilt die Unschuldsvermutung.",
+      "sources": [
+        {
+          "name": "SRF Regionaljournal",
+          "url": "https://www.srf.ch/news/schweiz/unfall-in-zuerich-toedlicher-unfall-am-escher-wyss-platz-lastwagenfahrer-angeklagt",
+          "published_at": "2026-11-11T12:28:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/zuerich/toedlicher-unfall-eines-knaben-am-escher-wyss-platz-lastwagenlenker-angeklagt-ld.10060696",
+          "published_at": "2026-11-11T12:28:36+01:00",
+          "updated_at": "2026-11-11T14:39:08+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/regionen-escher-wyss-anklage-1024-r01.jpg",
+        "alt": "Leerer Fussgängerstreifen mit Tramgleisen an einem grauen Wintermorgen, am Strassenrand ein Kinderrucksack und eine Kerze als stilles Gedenken (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-s16-goldkueste",
+      "section": "Zürich & Regionen",
+      "headline": "Petition gegen Wegfall der S16-Direktverbindung von der Goldküste zum Flughafen",
+      "summary": "Am rechten Zürichseeufer haben rund 5000 Personen eine Petition der regionalen FDP gegen Pläne des Zürcher Verkehrsverbunds unterschrieben. Gemäss einem ZVV-Entwurf zum Bahnausbauschritt 2035 soll die S16 den Bezirk Meilen künftig nicht mehr direkt mit Oerlikon und dem Flughafen verbinden. Der ZVV begründet dies mit der stärkeren Auslastung des Netzes und Konflikten beim Kreuzen von Zügen und verweist auf zusätzliche Verbindungen mit einmaligem Umsteigen. Die FDP will die Petition im Frühjahr der neu gewählten Leitung der Volkswirtschaftsdirektion übergeben.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/zuerich/die-goldkueste-bangt-um-ihre-direktverbindung-zum-flughafen-ld.10060966",
+          "published_at": "2026-11-11T16:12:08+01:00",
+          "updated_at": "2026-11-11T16:23:51+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/regionen-s16-goldkueste-1024-r01.jpg",
+        "alt": "Rot-weisser Regionalzug ohne Logo entlang eines Seeufers mit Rebbergen, am Himmel ein kleines Flugzeug (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-neuenhof-einbuergerung",
+      "section": "Zürich & Regionen",
+      "headline": "Neuenhof AG: Regierungsrat heisst Beschwerde gegen verweigerte Einbürgerung gut",
+      "summary": "Der Aargauer Regierungsrat hat die Beschwerde einer Frau gutgeheissen, deren Einbürgerungsgesuch der Gemeinderat Neuenhof abgelehnt hatte, und den Fall an die Gemeinde zurückgewiesen. Die Kommission hatte unter anderem die Antwort «Skifahren» auf die Frage nach einer typisch schweizerischen Sportart nicht gelten lassen; laut Regierungsrat ist diese Antwort nicht falsch. Zudem rügte er, dass bereits im staatsbürgerlichen Test geprüftes Wissen erneut abgefragt und die Beurteilung der Deutschkenntnisse trotz gültigem Sprachnachweis ungenügend begründet worden sei. Die Gemeinde weist den Vorwurf einer besonders harten Praxis zurück, akzeptiert den Entscheid und will interne Abläufe bei Bedarf anpassen.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/neuenhof-ag-antwort-skifahren-fuer-gemeinde-falsch-einbuergerung-verwehrt-103665430",
+          "published_at": "2026-11-11T09:35:39+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall)",
+          "url": "https://www.tagesanzeiger.ch/neuenhof-einbuergerung-skifahren-keine-schweizer-sportart-988505814205",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/regionen-neuenhof-einbuergerung-1024-r01.jpg",
+        "alt": "Leerer Sitzungstisch mit Formularen und Stift, an der Wand lehnen ein Paar Ski (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-maloja-antisemitismus",
+      "section": "Gesellschaft",
+      "headline": "Antisemitische Schmiererei an Hotel in Maloja GR",
+      "summary": "An der Fassade eines freistehenden Clubhauses eines Hotels in Maloja ist am Sonntag eine antisemitische Parole angebracht worden. Der Hoteldirektor kündigte gegenüber Keystone-SDA eine Strafanzeige und die rasche Entfernung an; das Hotel habe seit 13 Jahren viele jüdische Stammgäste. Die Kantonspolizei Graubünden hat Ermittlungen aufgenommen. Laut Polizei war bereits im Januar auf dem Areal eines anderen Hotels in Maloja ein Hakenkreuz angebracht worden; damals wurde niemand ermittelt.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/antisemitische-schmiererei-bei-hotel-in-maloja-gr-aufgetaucht/92366184",
+          "published_at": "2026-11-11T17:30:18+01:00",
+          "updated_at": "2026-11-11T17:35:35+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/gesellschaft-maloja-antisemitismus-1024-r01.jpg",
+        "alt": "Holzwand eines Pavillons mit grauem Fleck, der mit Schwamm und Eimer entfernt wird, dahinter Berge und ein See (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-frauen-hockey-wm-deutschland",
+      "section": "Sport",
+      "headline": "Frauen-Hockey-WM: Schweiz verliert gegen Deutschland 1:3",
+      "summary": "Das Schweizer Frauen-Nationalteam hat an der WM in Dänemark das letzte Gruppenspiel gegen Deutschland 1:3 verloren. Alessia Baechler brachte die Schweiz in der 9. Minute in Führung, Deutschland drehte die Partie im Mitteldrittel innerhalb von 55 Sekunden und erhöhte kurz nach Beginn des Schlussdrittels. Die Schweiz ist bereits für den Viertelfinal qualifiziert und schliesst die Gruppe auf Rang 3 oder 4 ab, je nach Ausgang des Spiels zwischen Tschechien und den USA. Gegner im Viertelfinal am Freitag ist entweder Schweden oder Kanada.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-in-daenemark-vorrunde-nati-verliert-gegen-deutschland-und-verspielt-2-rang",
+          "published_at": "2026-11-11T17:36:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-11-evening/sport-frauen-hockey-wm-deutschland-1024-r01.jpg",
+        "alt": "Leeres Eishockeyfeld von oben mit zwei gekreuzten Stöcken und einem Puck (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-11-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-11T17:52:30+01:00",
+    "ready_at": "2026-11-11T17:55:22+01:00",
+    "content_hash": "sha256:67436c1e1a994c3ca523a3af6635ffaff5c0af869ab9f6141edb7047226daf79",
+    "image_rights": {
+      "politik-tardoc-revision": {
+        "rights": "ai_generated_own"
+      },
+      "politik-solarinitiative-bundesrat": {
+        "rights": "ai_generated_own"
+      },
+      "politik-status-s-reisen": {
+        "rights": "ai_generated_own"
+      },
+      "politik-ukraine-gespraeche-schweiz": {
+        "rights": "ai_generated_own"
+      },
+      "politik-buffat-anklage": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-swiss-dubai": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-chur-cyberangriff": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-escher-wyss-anklage": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-s16-goldkueste": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-neuenhof-einbuergerung": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-maloja-antisemitismus": {
+        "rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm-deutschland": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-tardoc-revision": {
+        "path": "media/politik-tardoc-revision-1024-r01.jpg",
+        "sha256": "49e7eaf9d412fa64e15d4e5db039fa067a3d98d8c8d99f1ee63563bd24310233",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:08+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/12cab700286d34c4cb0cc9c79d8c03595a00b704e8e071e2838aad765bfa102a.jpg",
+        "original_sha256": "12cab700286d34c4cb0cc9c79d8c03595a00b704e8e071e2838aad765bfa102a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-solarinitiative-bundesrat": {
+        "path": "media/politik-solarinitiative-bundesrat-1024-r01.jpg",
+        "sha256": "b8cbffa8f9924f3fabdcfe11fa0c74656dd6c7ac52e07dced169937c4f3a596f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:08+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f33305cda7ed321f497dd3fe84f9fc19ef5400937dbb12ce87835db654cd2155.jpg",
+        "original_sha256": "f33305cda7ed321f497dd3fe84f9fc19ef5400937dbb12ce87835db654cd2155",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-status-s-reisen": {
+        "path": "media/politik-status-s-reisen-1024-r01.jpg",
+        "sha256": "8982a9152ab791aec1a9876c8b88d32e97f485926c409b00460bf459b702eb8f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:08+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1b8caa80fc16abd72ba95db4efac6be98f427cc02d5447791ffcc0a717f865e0.jpg",
+        "original_sha256": "1b8caa80fc16abd72ba95db4efac6be98f427cc02d5447791ffcc0a717f865e0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-ukraine-gespraeche-schweiz": {
+        "path": "media/politik-ukraine-gespraeche-schweiz-1024-r01.jpg",
+        "sha256": "af646ed2c9e53ac2382c1b5c055b7fc9e598385f1e6623aba96f55d1f191acb3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:08+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6a36b41fc34d230aaf07d28e0b4294adb98eceb54371c6bb00a3ab551e232a87.jpg",
+        "original_sha256": "6a36b41fc34d230aaf07d28e0b4294adb98eceb54371c6bb00a3ab551e232a87",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-buffat-anklage": {
+        "path": "media/politik-buffat-anklage-1024-r01.jpg",
+        "sha256": "1379babfe04674b362c0222bdd2ebbd16cf1c54d898c3ca001d21b76c757c143",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:08+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/31756d9de49644974eea12680312bde07fa3101d69553e077de4e5a37cbb0276.jpg",
+        "original_sha256": "31756d9de49644974eea12680312bde07fa3101d69553e077de4e5a37cbb0276",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-swiss-dubai": {
+        "path": "media/wirtschaft-swiss-dubai-1024-r01.jpg",
+        "sha256": "30603027182f685b059fb39e6f370759d372b4c657280c3ac6d811754deadca9",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:09+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ea3cb5165ff1a9687bc82b8ebee2063d8fe6a39512aedf3dd76fb1cb4c2e43c0.jpg",
+        "original_sha256": "ea3cb5165ff1a9687bc82b8ebee2063d8fe6a39512aedf3dd76fb1cb4c2e43c0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-chur-cyberangriff": {
+        "path": "media/regionen-chur-cyberangriff-1024-r01.jpg",
+        "sha256": "bfc1b80f2cf766a1729a12928c33897d889f66c04d02d4e993f5af097580fdcf",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:09+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4c1df7b586d4b0f1aab149cf7d5724828c7851883fd1fc585d3229ded06331b8.jpg",
+        "original_sha256": "4c1df7b586d4b0f1aab149cf7d5724828c7851883fd1fc585d3229ded06331b8",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-escher-wyss-anklage": {
+        "path": "media/regionen-escher-wyss-anklage-1024-r01.jpg",
+        "sha256": "cc8a2f296b99f7515f26fab1323a1288427f1402d280bf55ec18e1a34ef3b81c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:09+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d5548636a85569b0d057ba06277e09ff2aa052443a701a4d3e2cb6fc55edb4e9.jpg",
+        "original_sha256": "d5548636a85569b0d057ba06277e09ff2aa052443a701a4d3e2cb6fc55edb4e9",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-s16-goldkueste": {
+        "path": "media/regionen-s16-goldkueste-1024-r01.jpg",
+        "sha256": "c45d52a0a8d9c3bce29275b95ce5ddc53b1a9d0656bcf7cc4529aec7aa566ed6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:09+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/62c5386e495fc43dbf1d5b59d211c9ead4a80fb244263c1dbf50682b3a2f246f.jpg",
+        "original_sha256": "62c5386e495fc43dbf1d5b59d211c9ead4a80fb244263c1dbf50682b3a2f246f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-neuenhof-einbuergerung": {
+        "path": "media/regionen-neuenhof-einbuergerung-1024-r01.jpg",
+        "sha256": "42081fadb08fad2fd9165583743e02310df88865bba01cce8a5835a57669f5a0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:09+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6dff77a1b4f522d23cde96709b593a75b0c53862f77991230bf6114010c52c8f.jpg",
+        "original_sha256": "6dff77a1b4f522d23cde96709b593a75b0c53862f77991230bf6114010c52c8f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-maloja-antisemitismus": {
+        "path": "media/gesellschaft-maloja-antisemitismus-1024-r01.jpg",
+        "sha256": "c7e2d9208e0c0d2cb8c34969113336140e2035dabde67f6b0683655501390d19",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:09+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/aaffa3bc783ebc26a3a79155afc43811412d3e9a9ad43739bf44d5f7b377431a.jpg",
+        "original_sha256": "aaffa3bc783ebc26a3a79155afc43811412d3e9a9ad43739bf44d5f7b377431a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm-deutschland": {
+        "path": "media/sport-frauen-hockey-wm-deutschland-1024-r01.jpg",
+        "sha256": "7ca4f82cbf31ff4b736db1a82f65774c4766366f31e6a9cfe61082735b188356",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-11T17:54:09+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-11",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-11 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/189a3a3af837063b2e0006d4495b0e88bbd90b44ada0ed9730b6742b3b66e6e7.jpg",
+        "original_sha256": "189a3a3af837063b2e0006d4495b0e88bbd90b44ada0ed9730b6742b3b66e6e7",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
