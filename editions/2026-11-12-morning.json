@@ -1,0 +1,501 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-12T06:56:36+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-bundesgericht-gerichtskommission",
+      "section": "Politik",
+      "headline": "Bundesgericht: Donzallaz verzichtet auf Wiederwahl, Kommission empfiehlt van de Graaf",
+      "summary": "Bundesrichter Yves Donzallaz (parteilos) hat seine Kandidatur für eine weitere Amtszeit zurückgezogen, wie der Präsident der Gerichtskommission des Parlaments, Leo Müller, am Mittwochabend mitteilte. Die Kommission empfiehlt der Bundesversammlung, alle übrigen kandidierenden Richterinnen und Richter wiederzuwählen, auch Beatrice van de Graaf (SVP), deren Beziehung zu Donzallaz das Bundesgericht als unzulässig beurteilt hatte; der Entscheid fiel mit 9 zu 7 Stimmen bei einer Enthaltung. Die Mehrheit erachtet ihr Verschulden als zu gering für einen Antrag auf Nichtwiederwahl, eine Minderheit sah das anders. Den Vorschlag des Gerichts, Thomas Müller (SVP) als Präsidenten zu wählen, wies die Kommission zurück; das Bundesgericht soll in einem offenen Verfahren einen neuen Vorschlag erarbeiten, der bisherige Präsident François Chaix steht nicht mehr zur Verfügung.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-bundesrichter-donzallaz-hat-seine-kandidatur-zurueckgezogen",
+          "published_at": "2026-11-11T18:41:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/donzallaz-gerichtskommission-entscheidet-ueber-wiederwahl-754506620214",
+          "published_at": "2026-11-11T18:09:01+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/politik-bundesgericht-gerichtskommission-1024-r01.jpg",
+        "alt": "Leerer Richtertisch mit zwei unbesetzten Stühlen, Richterhammer, Gesetzbuch und Urne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-luftabwehr-ratsbuero",
+      "section": "Politik",
+      "headline": "Zweites Luftabwehrsystem: Verschobene Parlamentsberatung kostet laut VBS bis zu 100 Millionen",
+      "summary": "Das Büro des Nationalrats hat eine Bitte von Verteidigungsminister Martin Pfister abgelehnt, die Beschaffung eines zweiten Luftabwehrsystems grösserer Reichweite eine Session früher zu beraten; damit hätte der Kaufvertrag noch Ende Jahr unterzeichnet werden können. Das VBS bestätigt, dass die Offerten deshalb verlängert werden mussten, was nach heutigem Wissensstand zu Mehrkosten von bis zu 100 Millionen Franken und zu Lieferverzögerungen führe. In der engeren Auswahl stehen das französische System Samp/T New Generation und das israelische Barak MX, nachdem sich die Lieferung der bestellten US-Patriot-Systeme verzögert und verteuert hat. Büropräsident Thomas Aeschi (SVP) begründet den Entscheid damit, dass zuerst die Finanzierung der Armee-Aufrüstung geklärt werden müsse, bevor das Parlament über eine neue Belastung von rund fünf Milliarden Franken entscheide.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/ratsbuero-entscheid-bis-zu-100-mio-mehrkosten-aeschi-verzoegert-luftabwehr-projekt-103665734",
+          "published_at": "2026-11-11T19:30:07+01:00",
+          "updated_at": "2026-11-11T19:30:07+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/politik-luftabwehr-ratsbuero-1024-r01.jpg",
+        "alt": "Stilisierte Radarschüssel vor Bergkulisse neben einer Sanduhr und Münzstapeln (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-efk-imagearbeit",
+      "section": "Politik",
+      "headline": "Finanzkontrolle: Bund gibt rund 100 Millionen jährlich für das Image der Schweiz aus",
+      "summary": "Die Eidgenössische Finanzkontrolle (EFK) schätzt in einem neuen Bericht, dass die Imagepflege der Schweiz im Ausland den Bund jährlich rund 100 Millionen Franken kostet, inklusive Ausgaben von Schweiz Tourismus, Pro Helvetia und Präsenz Schweiz. Geprüft wurde vor allem Präsenz Schweiz, die zum Aussendepartement EDA gehört und etwa Auftritte an internationalen Grossanlässen organisiert. Die EFK bemängelt fehlende konkrete Ziele und eine fehlende systematische Wirkungsmessung; 70 Prozent der beteiligten Bundesstellen gaben an, ihre Aktivitäten trotz neuer Strategien nicht angepasst zu haben. Zudem sieht die Finanzkontrolle Lücken im Umgang mit Desinformation, da die Strategie 2025 bis 2028 dazu keine konkreten Massnahmen nenne.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/imagearbeit-der-schweiz-finanzkontrolle-zweifelt-am-nutzen-der-ausgaben-103665172",
+          "published_at": "2026-11-11T23:00:14+01:00",
+          "updated_at": "2026-11-11T23:00:14+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/politik-efk-imagearbeit-1024-r01.jpg",
+        "alt": "Globus, der sich in einem kleinen Spiegel spiegelt, daneben eine Lupe auf einem leeren Buch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-cs-rohner-busse",
+      "section": "Wirtschaft",
+      "headline": "CS-Beschattungsaffäre: Finanzdepartement büsst Ex-Präsident Urs Rohner",
+      "summary": "Das Eidgenössische Finanzdepartement (EFD) hat den früheren Credit-Suisse-Verwaltungsratspräsidenten Urs Rohner in einer noch nicht rechtskräftigen Strafverfügung vom 20. Oktober wegen falscher Auskünfte an die Finanzmarktaufsicht Finma verurteilt, wie SRF Investigativ und das Magazin Republik berichten. Rohner erhält eine bedingte Geldstrafe von 144 Tagessätzen à 690 Franken und eine Busse von 24'840 Franken. Hintergrund sind die Antworten der Bank an die Finma nach der 2019 bekannt gewordenen Überwachung von Mitarbeitenden; das EFD wirft Rohner überwiegend Fahrlässigkeit und in zwei Fällen Vorsatz vor. Rohner weist sämtliche Vorwürfe schriftlich zurück und erklärt, er habe nie wissentlich falsche Auskünfte erteilt.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/wirtschaft/cs-beschattungsaffaere-credit-suisse-bund-buesst-ex-praesident-urs-rohner",
+          "published_at": "2026-11-12T05:57:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/wirtschaft-cs-rohner-busse-1024-r01.jpg",
+        "alt": "Leerer Sitzungstisch mit Ledersessel, versiegeltem Briefumschlag und Feldstecher (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-albisrieden-arbeitsunfall",
+      "section": "Zürich & Regionen",
+      "headline": "Zürich-Albisrieden: Bauarbeiter stirbt bei Unfall auf Baustelle",
+      "summary": "Auf einer Baustelle an der Triemlistrasse im Zürcher Kreis 9 ist am Mittwochnachmittag ein Bauarbeiter tödlich verunglückt. Kurz vor 14.30 Uhr stürzte aus noch ungeklärten Gründen ein Betonpfeiler eines Rohbaus um und traf den Mann, wie die Stadtpolizei Zürich mitteilte. Neben der Polizei standen die Berufsfeuerwehr, der Rettungsdienst von Schutz & Rettung sowie ein Notfallseelsorgeteam für Augenzeugen im Einsatz. Die Staatsanwaltschaft untersucht die genauen Umstände zusammen mit der Stadtpolizei.",
+      "sources": [
+        {
+          "name": "NZZ (Meldungen Polizei)",
+          "url": "https://www.nzz.ch/zuerich/polizisten-in-zuerich-von-hund-und-halter-attackiert-ld.10041727",
+          "published_at": null,
+          "updated_at": "2026-11-11T22:49:30+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/regionen-albisrieden-arbeitsunfall-1024-r01.jpg",
+        "alt": "Rohbau mit Betonpfeilern und Kran in der Dämmerung, ein Schutzhelm auf einer Absperrung (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-wallis-polizist-stalking",
+      "section": "Zürich & Regionen",
+      "headline": "Wallis: Polizist soll Ex-Partnerin mit Kameras und Tracker verfolgt haben",
+      "summary": "Vor einem Walliser Gericht muss sich ein Polizist verantworten, der seine frühere Partnerin nach der Trennung im Frühjahr 2025 gestalkt haben soll, wie «Le Nouvelliste» und «20 Minuten» berichten. Die Frau wirft ihm vor, seit dem vergangenen Sommer 44 Mal in der Nähe ihres Wohnorts aufgetaucht zu sein; eine von ihr installierte Kamera zeigt ihn in ihrer Wohnung, was er eingesteht. Bei einer Einvernahme räumte er laut den Berichten zudem ein, Aufnahmen von Polizeikameras zur automatischen Kontrollschilderfassung genutzt zu haben, um ihr zu folgen. Der Prozess ist nicht abgeschlossen, es gilt die Unschuldsvermutung.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/walliser-polizist-er-soll-ex-mit-kameras-und-airtag-gestalkt-haben-103665706",
+          "published_at": "2026-11-11T17:42:59+01:00",
+          "updated_at": "2026-11-11T17:42:59+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/regionen-wallis-polizist-stalking-1024-r01.jpg",
+        "alt": "Kleiner Funk-Tracker und Überwachungskamera neben Aktenmappe und Waage auf einem Holztisch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-ko-tropfen-nachweis",
+      "section": "Gesellschaft",
+      "headline": "Uni Zürich: K.-o.-Tropfen lassen sich mit neuer Methode deutlich länger nachweisen",
+      "summary": "Das Institut für Rechtsmedizin der Universität Zürich setzt eine neue Methode ein, um den Einsatz des K.-o.-Mittels GHB im Blut und Urin länger nachzuweisen. Bisher war GHB im Blut nur bis zu sechs und im Urin bis zu zwölf Stunden nachweisbar, oft zu kurz, weil Proben erst später entnommen werden. Die Forschenden um Andrea Steuer nutzen einen Biomarker, ein Stoffwechselprodukt von GHB, das in kontrollierten Studien mit gesunden Probanden nach 28 Stunden noch bei allen und bei der Mehrheit auch nach zwei Tagen nachweisbar war. Damit sollen Verdachtsfälle künftig besser analysiert und beurteilt werden können.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/studie-der-uni-zuerich-neue-methode-laesst-k-o-tropfen-im-koerper-laenger-nachweisen",
+          "published_at": "2026-11-11T18:59:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/gesellschaft-ko-tropfen-nachweis-1024-r01.jpg",
+        "alt": "Laborbank mit Reagenzgläsern, Pipette, Stoppuhr und Analysegerät (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-seilbahn-lenk-crans-montana",
+      "section": "Verkehr & Wetter",
+      "headline": "Seilbahn von der Lenk nach Crans-Montana laut Studie machbar, aber umstritten",
+      "summary": "Eine Machbarkeitsstudie im Auftrag des Vereins Cradle kommt zum Schluss, dass eine rund zehn Kilometer lange, ganzjährig betriebene Seilbahn von der Lenk BE über den Plaine-Morte-Gletscher nach Crans-Montana VS machbar ist; die Fahrt soll etwa 30 Minuten dauern. Zwei Routen über die Zwischenstation Metsch und das Gletscherhorn oder das Weisshorn gelten als Bestvarianten, vorgesehen ist eine windstabile 3S-Bahn. Die Studie bezeichnet das Projekt als wirtschaftlich bedeutend, aber auch als Eingriff in Landschaft und Umwelt; Landschaftsschutzorganisationen äusserten bereits Kritik. Als Nächstes will der Verein Naturgefahren abklären und einen Businessplan erarbeiten.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/auf-plaine-morte-gletscher-von-der-lenk-ins-wallis-per-seilbahn-machbar-aber-umstritten",
+          "published_at": "2026-11-12T06:03:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/seilbahn-zwischen-lenk-crans-montana-projekt-zwei-routen-moeglich-traegerschaft-cradle-103665924",
+          "published_at": "2026-11-12T04:09:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/verkehr-seilbahn-lenk-crans-montana-1024-r01.jpg",
+        "alt": "Gestrichelte Planungslinie einer Seilbahn über ein Gletscherplateau, davor Bauplan und Kompass (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-zuerichsee-pegel",
+      "section": "Verkehr & Wetter",
+      "headline": "Zürichsee: Pegel erholt sich nach Trockenheit nur langsam",
+      "summary": "Der Pegel des Zürichsees ist innerhalb einer Woche um neun Zentimeter auf 405,4 Meter über Meer gestiegen, liegt aber weiterhin rund 53 Zentimeter unter dem langjährigen Median, wie der «Tages-Anzeiger» berichtet. Grund ist die vorangegangene Trockenheit. Für eine Rückkehr zu üblichen Werten braucht es laut dem Bericht länger anhaltende Niederschläge.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/zuerichsee-pegelstand-bleibt-53-cm-unter-median-228433364975",
+          "published_at": "2026-11-11T16:40:44+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/verkehr-zuerichsee-pegel-1024-r01.jpg",
+        "alt": "Seeufer mit niedrigem Wasserstand, freiliegenden Kieseln und einer Pegellatte bei Nieselregen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-evz-dach-spielabbruch",
+      "section": "Sport",
+      "headline": "Zug: Spiel gegen Ambri wegen undichtem Stadiondach abgebrochen",
+      "summary": "Das National-League-Spiel des EV Zug gegen Ambri-Piotta ist am Mittwochabend nach 8:16 Minuten beim Stand von 0:0 unterbrochen und nach rund 20 Minuten endgültig abgebrochen worden, weil es an zwei Stellen vom Dach aufs Eis tropfte. Der Schaden dürfte laut SRF mit dem Umbau der Halle zusammenhängen, deren Dach im Sommer für einen dritten Rang angehoben worden war. Für Zug-Torhüter Leonardo Genoni hätte es das 1000. Spiel in der höchsten Liga sein sollen, als erster Goalie überhaupt. Der Einzelrichter der Liga entscheidet, ob die Partie neu angesetzt wird oder Zug forfait verliert; am Freitag empfängt Zug die Rapperswil-Jona Lakers, sofern der Schaden behoben ist.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/in-zug-tropft-es-vom-dach-genonis-jubilaeum-faellt-wortwoertlich-ins-wasser",
+          "published_at": "2026-11-11T20:19:00+01:00",
+          "updated_at": "2026-11-11T23:31:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/sport-evz-dach-spielabbruch-1024-r01.jpg",
+        "alt": "Leere Eishalle, Wassertropfen fallen vom Dach in eine Pfütze auf dem Eis, daneben Pylon und Goaliemaske (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-chl-gotteron-servette",
+      "section": "Sport",
+      "headline": "Champions Hockey League: Fribourg-Gottéron gewinnt in Genf 6:1",
+      "summary": "Fribourg-Gottéron hat das Schweizer Achtelfinal-Hinspiel der Champions Hockey League bei Genève-Servette mit 6:1 gewonnen. Der Schweizer Meister führte nach zwei Dritteln 4:0, in der von 66 Strafminuten geprägten Partie traf Kevin Nicolet zweimal. In der Meisterschaft hatte Freiburg zuvor beide Duelle gegen Servette verloren. Das Rückspiel findet am kommenden Mittwoch in Freiburg statt, im Viertelfinal wartet Rögle oder Skellefteå.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-freiburg-legt-im-schweizer-duell-in-genf-klar-vor",
+          "published_at": "2026-11-11T22:17:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/sport-chl-gotteron-servette-1024-r01.jpg",
+        "alt": "Puck rutscht mit Eisspray in ein leeres Tor, im Hintergrund eine angedeutete Europakarte (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-werro-weltleichtathletin",
+      "section": "Sport",
+      "headline": "Audrey Werro unter den drei Finalistinnen für Welt-Leichtathletin des Jahres",
+      "summary": "Die Freiburger 800-Meter-Läuferin Audrey Werro gehört zu den drei Finalistinnen für die Wahl zur Welt-Leichtathletin des Jahres 2026, zusammen mit den Amerikanerinnen Melissa Jefferson-Wooden und Masai Russell. World Athletics gibt die Siegerin am 29. November an der Gala in Monaco bekannt. Werro gewann in dieser Saison den EM-Titel über 800 Meter sowie jedes Diamond-League-Rennen und die Ultimate Championship. Mit 1:53,70 Minuten lief sie nahe an den Weltrekord heran.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/leichtathletik/prestigetraechtige-auszeichnung-welt-leichtathletin-des-jahres-werro-in-den-top-3",
+          "published_at": "2026-11-11T18:48:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-morning/sport-werro-weltleichtathletin-1024-r01.jpg",
+        "alt": "Leere Laufbahnkurve bei Sonnenuntergang mit Laufschuhen und angedeutetem Pokal (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-12-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-12T06:53:35+01:00",
+    "ready_at": "2026-11-12T06:56:36+01:00",
+    "content_hash": "sha256:13f800cb71aac8e59ae30268b1cd6e034a475f62edff173e69577c0d45598bb8",
+    "image_rights": {
+      "politik-bundesgericht-gerichtskommission": {
+        "rights": "ai_generated_own"
+      },
+      "politik-luftabwehr-ratsbuero": {
+        "rights": "ai_generated_own"
+      },
+      "politik-efk-imagearbeit": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-cs-rohner-busse": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-albisrieden-arbeitsunfall": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-wallis-polizist-stalking": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-ko-tropfen-nachweis": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-seilbahn-lenk-crans-montana": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-zuerichsee-pegel": {
+        "rights": "ai_generated_own"
+      },
+      "sport-evz-dach-spielabbruch": {
+        "rights": "ai_generated_own"
+      },
+      "sport-chl-gotteron-servette": {
+        "rights": "ai_generated_own"
+      },
+      "sport-werro-weltleichtathletin": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-bundesgericht-gerichtskommission": {
+        "path": "media/politik-bundesgericht-gerichtskommission-1024-r01.jpg",
+        "sha256": "0c78681cad8e1d233358006470f098e530fc3305065d099b9b77d616273fc65c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:31+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/626dd21203fedce38c85996f34f910d5257b5ae8c35549c06639ad94caa18f80.jpg",
+        "original_sha256": "626dd21203fedce38c85996f34f910d5257b5ae8c35549c06639ad94caa18f80",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-luftabwehr-ratsbuero": {
+        "path": "media/politik-luftabwehr-ratsbuero-1024-r01.jpg",
+        "sha256": "d4cecfa4ceb9936575148ee6514036aeb87c469a3d16497a047712f4374eff39",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:31+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/14e19a1dfbcf2ebaa84f90ef6079b650c6ebaefc7f52bd7c1dfca7f59dca5830.jpg",
+        "original_sha256": "14e19a1dfbcf2ebaa84f90ef6079b650c6ebaefc7f52bd7c1dfca7f59dca5830",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-efk-imagearbeit": {
+        "path": "media/politik-efk-imagearbeit-1024-r01.jpg",
+        "sha256": "49d9c7dcfc11aa64672357d531bd2caff67bb83a3db4b38ee53721b570bfa5d3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:31+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/30454f6c3afcc7c818b7ce2c2093f9e0c67cb78ca0969ccfb5e4c682c5a34c30.jpg",
+        "original_sha256": "30454f6c3afcc7c818b7ce2c2093f9e0c67cb78ca0969ccfb5e4c682c5a34c30",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-cs-rohner-busse": {
+        "path": "media/wirtschaft-cs-rohner-busse-1024-r01.jpg",
+        "sha256": "1e110a93e346ba0b664e79f3a88bdbee98b5b6489c0d57c6eae4619ea589eaa0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/eaf60874105c8b3b5f74205681c2ec826057133a8b3e09826951d5f14e468961.jpg",
+        "original_sha256": "eaf60874105c8b3b5f74205681c2ec826057133a8b3e09826951d5f14e468961",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-albisrieden-arbeitsunfall": {
+        "path": "media/regionen-albisrieden-arbeitsunfall-1024-r01.jpg",
+        "sha256": "572290b90fa02daba37869c09d445f162a7a6783d3c3b8fcec86256206fb5861",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f6753ce45b53135d5654498eb0a9724b1104938c3479d938023a37e5cfb55df0.jpg",
+        "original_sha256": "f6753ce45b53135d5654498eb0a9724b1104938c3479d938023a37e5cfb55df0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-wallis-polizist-stalking": {
+        "path": "media/regionen-wallis-polizist-stalking-1024-r01.jpg",
+        "sha256": "5c717dcc1e6302d9ffb8264e1d321bf9c022a0c7a0252793b9f31b56c7549b68",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/48b0ee6b07e7e79c9c322cf672d2d2295d896c2f6209ce85f45e60eb58143853.jpg",
+        "original_sha256": "48b0ee6b07e7e79c9c322cf672d2d2295d896c2f6209ce85f45e60eb58143853",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-ko-tropfen-nachweis": {
+        "path": "media/gesellschaft-ko-tropfen-nachweis-1024-r01.jpg",
+        "sha256": "a857215491ef7faef6021a2509867b058ceda0e87650b5812a09bacc733302c3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/51433890f997ce91fba1885d62095aa66ccbae7fc0f013910b39d714e5d7d44c.jpg",
+        "original_sha256": "51433890f997ce91fba1885d62095aa66ccbae7fc0f013910b39d714e5d7d44c",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-seilbahn-lenk-crans-montana": {
+        "path": "media/verkehr-seilbahn-lenk-crans-montana-1024-r01.jpg",
+        "sha256": "8c38f952c18a298b6de7deb62d3edef167c90a85f56cf72f3db1a1f65501eb2d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8f01cdf573f5c1771802f5c1aefe6ffa96d28241cdd07ca1355f7b4f0d172dc3.jpg",
+        "original_sha256": "8f01cdf573f5c1771802f5c1aefe6ffa96d28241cdd07ca1355f7b4f0d172dc3",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-zuerichsee-pegel": {
+        "path": "media/verkehr-zuerichsee-pegel-1024-r01.jpg",
+        "sha256": "0cc381aa8091fc92922274fa9f3c3e513689cb168156e2062c8140495de2e136",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6831571e5b9e6f484cc6d346ddfeaf4a24300973eb3dfb5afaf8a1d6e7440feb.jpg",
+        "original_sha256": "6831571e5b9e6f484cc6d346ddfeaf4a24300973eb3dfb5afaf8a1d6e7440feb",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-evz-dach-spielabbruch": {
+        "path": "media/sport-evz-dach-spielabbruch-1024-r01.jpg",
+        "sha256": "19fbd2f8a1de4c9a95162157d5564338f6bd892403e98147021be8477c9550a7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cd7abbe5069c784b3591e8872eabbda1bf9b326b9428029628f44dc8cd3a05f3.jpg",
+        "original_sha256": "cd7abbe5069c784b3591e8872eabbda1bf9b326b9428029628f44dc8cd3a05f3",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-chl-gotteron-servette": {
+        "path": "media/sport-chl-gotteron-servette-1024-r01.jpg",
+        "sha256": "8f416b48f06c3fd6aee37e8cdddf4d8ce06389e9f6240d87c652747d140f10a9",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/45b1980a7b70ee509c4d262ea20bd70808cdf98e7f976301f20ec9ae0c4e644e.jpg",
+        "original_sha256": "45b1980a7b70ee509c4d262ea20bd70808cdf98e7f976301f20ec9ae0c4e644e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-werro-weltleichtathletin": {
+        "path": "media/sport-werro-weltleichtathletin-1024-r01.jpg",
+        "sha256": "40d59c4c9b44adc5d56ac218244a3153f2553d284bc034e84a605c626104f98e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T06:56:32+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2e7d255b57ffaa8992070f300720e602ce421a671843559649f655f7cdfb42c4.jpg",
+        "original_sha256": "2e7d255b57ffaa8992070f300720e602ce421a671843559649f655f7cdfb42c4",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
