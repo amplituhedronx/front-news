@@ -1,0 +1,561 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-12T17:56:34+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-budget-2027-fk-n",
+      "section": "Politik",
+      "headline": "Budget 2027: Finanzkommission des Nationalrats empfiehlt Ablehnung",
+      "summary": "Die Finanzkommission des Nationalrats (FK-N) hat das bereinigte Bundesbudget 2027 in der Gesamtabstimmung mit 15 zu 9 Stimmen bei einer Enthaltung abgelehnt; die Nein-Stimmen kamen von SVP, SP und Grünen. Die SVP lehnt die beiden geplanten Mehrwertsteuererhöhungen für die 13. AHV-Rente und für die Armee ab und verlangt stattdessen Einsparungen, etwa bei Entwicklungshilfe, Asyl und Bundespersonal. SP und Grüne kritisieren dagegen Kürzungen bei Personal, Klimaschutz und Entwicklungszusammenarbeit zugunsten der Armee; aus der Mitte kam Kritik am Vorgehen der Polparteien. Der Nationalrat berät das Budget in der Wintersession im Dezember; lehnen beide Räte es in der Gesamtabstimmung ab oder ein Rat zweimal, geht es zur Überarbeitung an den Bundesrat zurück.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/unheilige-allianz-knall-in-finanzkommission-budget-2027-zur-ablehnung-empfohlen",
+          "published_at": "2026-11-12T16:00:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/eklat-vor-der-session-finanz-knall-in-bern-finanzpolitiker-lehnen-das-bundes-budget-ab-103665975",
+          "published_at": "2026-11-12T16:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/politik-budget-2027-fk-n-1024-r01.jpg",
+        "alt": "Geschlossener Budgetordner mit rotem Lesezeichen, Münzstapel und Waage auf einem Pult (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-svp-findungskommission",
+      "section": "Politik",
+      "headline": "Parmelin-Nachfolge: SVP-Findungskommission verschiebt ihre Empfehlung",
+      "summary": "Die Findungskommission der SVP gibt ihre Empfehlung für die Nachfolge von Bundesrat Guy Parmelin nicht wie geplant am Freitag, 13. November, ab, sondern erst in der kommenden Woche. Kommissionspräsident Caspar Baader bestätigte die Verschiebung, nannte aber weder einen neuen Termin noch Gründe; die Empfehlung soll direkt dem Fraktionsvorstand und nicht öffentlich mitgeteilt werden. Für die Nachfolge kandidieren acht Personen: Céline Amaudruz, Rémy Wyssmann, Pierre Alain Schnegg, Marco Chiesa, Jean-Pierre Gallati, Michael Graber, Franz Ruppen und Thomas Aeschi. Die SVP-Fraktion will ihr offizielles Ticket am 20. November in geheimer Wahl bestimmen.",
+      "sources": [
+        {
+          "name": "Watson",
+          "url": "https://www.watson.ch/schweiz/bundesrat/736926925-svp-vertagt-ticketentscheid-fuer-den-bundesrat-wegen-leichen-im-keller",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/politik/was-ist-da-los-svp-findungskommission-braucht-mehr-zeit/8d73f2t",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RTS",
+          "url": "https://www.rts.ch/info/suisse/2026/article/succession-parmelin-l-udc-reporte-le-choix-de-son-ticket-29413569.html",
+          "published_at": "2026-11-12T08:58:19+01:00",
+          "updated_at": "2026-11-12T09:39:50+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/politik-svp-findungskommission-1024-r01.jpg",
+        "alt": "Acht leere Holzstühle vor einer geschlossenen Tür, daneben eine Sanduhr auf einem Tisch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-lindt-investoren",
+      "section": "Wirtschaft",
+      "headline": "Lindt & Sprüngli: Weitere Investoren stellen Präsident Tanner infrage",
+      "summary": "Beim Schokoladenkonzern Lindt & Sprüngli wächst der Druck von Aktionären auf den langjährigen Verwaltungsratspräsidenten Ernst Tanner. Der Vermögensverwalter Deutsche Asset Management fordert mehr unabhängige Verwaltungsräte, eine Amtszeitbeschränkung auf zehn Jahre und einen unabhängigen Lead Director; Tanners Wiederwahl an der Generalversammlung 2027 stellt er infrage. Hintergrund sind zwei Gewinnwarnungen in diesem Jahr nach starken Preiserhöhungen, die Absetzung von Konzernchef Adalbert Lechner und ein Kursverlust der Aktie von rund einem Viertel seit Januar. Tanner, der über eigene Aktien und von ihm präsidierte Vorsorgeeinrichtungen rund 18 Prozent der Stimmrechte vertritt, hatte einen Rücktritt Ende Oktober ausgeschlossen; das Unternehmen verweist auf die laufende Erneuerung des Verwaltungsrats.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/wirtschaft/krise-bei-schoggi-hersteller-aufstand-gegen-den-lindt-patron-ruecktritt-gefordert",
+          "published_at": "2026-11-12T07:56:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Cash",
+          "url": "https://www.cash.ch/news/lindtsprungli-investor-deutsche-asset-management-stellt-tanner-infrage-984900",
+          "published_at": "2026-11-12T17:06:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/wirtschaft-lindt-investoren-1024-r01.jpg",
+        "alt": "Unbeschriftete Schokoladentafel auf einem Sitzungstisch, im Hintergrund ein fallender Pfeil (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-mindestlohn",
+      "section": "Zürich & Regionen",
+      "headline": "Stadt Zürich: Mindestlohn von 23.90 Franken gilt ab 1. Januar 2027",
+      "summary": "Der Zürcher Stadtrat setzt die Mindestlohnverordnung per 1. Januar 2027 in Kraft; alle Arbeitgebenden auf Stadtgebiet müssen dann mindestens 23.90 Franken pro Stunde bezahlen. Für die Umsetzung gilt eine Übergangsfrist bis Ende 2027, Betriebe in nachweislichen finanziellen Schwierigkeiten können eine zusätzliche Frist von zwei Jahren beantragen; die Ausführungsbestimmungen folgen bis spätestens im zweiten Quartal 2027. Die Stimmberechtigten hatten den Mindestlohn 2023 mit rund 70 Prozent angenommen, Wirtschaftsverbände fochten ihn an, bis das Bundesgericht 2026 die Zulässigkeit bestätigte. Laut NZZ steht der Zeitpunkt im Zusammenhang mit einem geplanten Bundesgesetz, das kommunale Mindestlöhne künftig aushebeln dürfte; SP, Grüne und Gewerkschaften begrüssen den Entscheid, der Gewerkschaftsbund kritisiert den späten Beginn der Kontrollen.",
+      "sources": [
+        {
+          "name": "Keystone-SDA via swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/stadt-z%c3%bcrich-f%c3%bchrt-mindestlohn-am-1%2e-januar-2027-ein/92369452",
+          "published_at": "2026-11-12T10:56:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Stadt Zürich (Medienmitteilung)",
+          "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/11/staedtische-mindestlohn-verordnung-tritt-per-1-januar-2027-in-kraft.html",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/2028-gilt-in-zuerich-der-mindestlohn-weil-die-stadt-unter-zeitdruck-steht-ld.10061734",
+          "published_at": "2026-11-12T12:25:17+01:00",
+          "updated_at": "2026-11-12T13:14:45+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/regionen-zuerich-mindestlohn-1024-r01.jpg",
+        "alt": "Lohncouvert mit Münzen, Kalenderblatt mit Stern und eine Stadt am See im Hintergrund (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zh-bauverfahren",
+      "section": "Zürich & Regionen",
+      "headline": "Kanton Zürich vereinfacht Bauverfahren für Klimaanlagen, Pergolen und Spielgeräte",
+      "summary": "Der Zürcher Regierungsrat lockert ab 1. März 2027 mehrere Bauvorschriften: Einfache Pergolen, Schaukeln, Rutschen und andere Spielgeräte im Garten brauchen keine Baubewilligung mehr, zudem fallen Mindestflächen für Küchen und Abstellräume weg. Die Nachrüstung von Klimaanlagen in bestehenden Gebäuden läuft künftig meist über das raschere Meldeverfahren; die Lockerung der energetischen Anforderungen an Klimaanlagen muss noch vom Kantonsrat genehmigt werden. Ins vereinfachte Anzeigeverfahren kommen unter anderem Treppenlifte, Fassadenbegrünungen und Dachfenster, Gastrobetriebe können Aussensitzplätze per Meldung um bis zu einen Drittel erweitern. Die FDP, auf deren Vorstösse die Änderungen grösstenteils zurückgehen, hält sie für zu wenig weitgehend; eine Revision des Planungs- und Baugesetzes soll in den nächsten Monaten folgen.",
+      "sources": [
+        {
+          "name": "Kanton Zürich (Medienmitteilung)",
+          "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/11/regierungsrat-vereinfacht-und-beschleunigt-baurechtliche-verfahren.html",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/der-zuercher-ikea-streit-zeigt-wirkung-bauvorschriften-werden-vereinfacht-ld.10062219",
+          "published_at": "2026-11-12T16:57:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/regionen-zh-bauverfahren-1024-r01.jpg",
+        "alt": "Garten mit Pergola, Schaukel und Rutsche, an der Hausfassade ein Klimagerät, davor ein Stempel über einem Baugesuch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-turbenthal-trinkwasser",
+      "section": "Zürich & Regionen",
+      "headline": "Turbenthal: Trinkwasser verunreinigt, Bevölkerung muss Wasser abkochen",
+      "summary": "Die Wasserversorgung Turbenthal hat am Donnerstag eine mikrobiologische Verunreinigung des Trinkwassers festgestellt. Für Turbenthal Dorf, Oberhofen, Neubrunn, Seelmatten und Ramsberg gilt bis auf Weiteres, dass Leitungswasser vor dem Trinken, Kochen, Zähneputzen oder Waschen von Lebensmitteln kräftig aufgekocht werden muss; für Säuglingsnahrung empfiehlt die Gemeinde Mineralwasser. Duschen, Wäschewaschen und der Geschirrspüler sind ohne Abkochen möglich. Wer bereits Wasser getrunken hat und innert 48 Stunden Fieber, Durchfall oder Erbrechen bekommt, soll ärztlichen Rat einholen; die Wasserversorgung arbeitet an der Behebung.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/trinkwasser-in-turbenthal-verunreinigt-einwohner-sollen-wasser-abkochen-ld.10038407",
+          "published_at": null,
+          "updated_at": "2026-11-12T17:03:48+01:00"
+        },
+        {
+          "name": "Keystone-SDA via swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/trinkwasser-muss-in-f%c3%bcnf-gebieten-von-turbenthal-abgekocht-werden/92372362",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/turbenthal-trinkwasser-mikrobiologisch-verschmutzt-214945358950",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/regionen-turbenthal-trinkwasser-1024-r01.jpg",
+        "alt": "Kochtopf mit sprudelndem Wasser auf dem Herd, daneben Wasserhahn und Mineralwasserflaschen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-leibstadt-arbeitsunfall",
+      "section": "Zürich & Regionen",
+      "headline": "Leibstadt AG: 16-jähriger Lernender stirbt bei Arbeitsunfall",
+      "summary": "In Leibstadt im Kanton Aargau ist am Mittwoch ein 16-jähriger Lernender bei einem Arbeitsunfall ums Leben gekommen. Er arbeitete erst seit kurzem bei der Meier Logistik AG, einer Tochterfirma der Kuratle Group; laut Medienberichten ereignete sich der Unfall mit einem Stapler. Die Kantonspolizei Aargau und das Unternehmen bestätigten den Todesfall, zum genauen Hergang machen sie wegen der laufenden Untersuchung keine Angaben. Die Firmenleitung zeigte sich tief betroffen.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/arbeitsunfall-in-leibstadt-ag-lernender-16-stirbt-bei-kuratle-group-103666030",
+          "published_at": "2026-11-12T11:30:28+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Aargauer Zeitung (Paywall möglich)",
+          "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/leibstadt-ag-lernender-16-stirbt-bei-arbeitsunfall-ld.4266242",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/regionen-leibstadt-arbeitsunfall-1024-r01.jpg",
+        "alt": "Leere Lagerhalle mit Paletten, einem abgestellten Stapler und einem gelben Schutzhelm (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-kokain-netzwerk",
+      "section": "Gesellschaft",
+      "headline": "Bundesanwaltschaft und Fedpol gehen gegen mutmassliches Kokain-Netzwerk vor",
+      "summary": "In einer international koordinierten Aktion haben Bundesanwaltschaft und Fedpol am 10. und 11. November 84 Hausdurchsuchungen in zwölf Kantonen und sieben weiteren Ländern durchgeführt, 55 davon in der Schweiz. In der Schweiz wurden 41 Personen vorläufig festgenommen, für fünf wurde Untersuchungshaft beantragt, drei im Ausland Festgenommene sind in Auslieferungshaft; sichergestellt wurden über 2,3 Millionen Franken, Kryptowährungen und 15 Waffen. Das Netzwerk soll seit mindestens 2019 Kokain in Schiffscontainern aus Lateinamerika nach Europa geschmuggelt und dafür eigens gegründete Handelsfirmen in der Schweiz und den Niederlanden genutzt haben; im August waren in Antwerpen über 750 Kilogramm Kokain beschlagnahmt worden. Das 2023 eröffnete Verfahren läuft in Zusammenarbeit mit der Kantonspolizei Thurgau weiter, für die Beschuldigten gilt die Unschuldsvermutung.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/internationale-operation-grossrazzia-gegen-schweizer-kokainnetzwerk-mehrere-festnahmen-103666102",
+          "published_at": "2026-11-12T12:19:26+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Meldungen Schweiz, Paywall möglich)",
+          "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175",
+          "published_at": null,
+          "updated_at": "2026-11-12T13:44:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/gesellschaft-kokain-netzwerk-1024-r01.jpg",
+        "alt": "Gestapelte Schiffscontainer mit Lupe, im Hintergrund eine gepunktete Route von Südamerika nach Europa (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-ebola-patientin",
+      "section": "Gesellschaft",
+      "headline": "Ebola-Patientin aus dem Genfer Universitätsspital entlassen",
+      "summary": "Die Schweizerin, die in Genf wegen Ebola behandelt wurde, hat das Universitätsspital (HUG) am Mittwoch nach 16 Tagen geheilt verlassen; der Kantonsarzt hatte der Entlassung zugestimmt. Die Frau war am 20. Oktober in Nigeria positiv getestet und am 26. Oktober mit einem Rega-Jet in die Schweiz geflogen worden. Ihr Ehemann, ein Mitarbeiter der Schweizer Botschaft in Nigeria, war als Kontaktperson im Universitätsspital Zürich isoliert worden und konnte dieses bereits am 4. November ohne Infektion verlassen. Damit ist in der Schweiz niemand mehr wegen Ebola hospitalisiert.",
+      "sources": [
+        {
+          "name": "Keystone-SDA via swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/schweizerin-mit-ebola-ist-aus-dem-spital-entlassen-worden/92371572",
+          "published_at": "2026-11-12T14:37:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "HUG (Mitteilung, Französisch)",
+          "url": "https://www.hug.ch/actualite/sortie-hospitalisation-personne-atteinte-ebola",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/gesellschaft-ebola-patientin-1024-r01.jpg",
+        "alt": "Leeres Spitalzimmer mit gemachtem Bett, offener Tür und Pflanze am Fenster (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-babyklappe-baselland",
+      "section": "Gesellschaft",
+      "headline": "Babyklappe Bethesda: Die meisten abgegebenen Kinder kehren zu den Eltern zurück",
+      "summary": "Seit der Eröffnung der Babyklappe im Bethesda-Spital 2015 wurden dort fünf Neugeborene abgegeben; von den vier früheren Kindern leben drei inzwischen wieder bei ihren leiblichen Eltern. Das geht aus der Antwort der Baselbieter Regierung auf eine Interpellation von SP-Politikerin Lucia Mikeler Knaack hervor. Im jüngsten Fall vom Mai will die Mutter ihr Kind zurück, ein DNA-Test bestätigte die Mutterschaft, und die Kesb prüft die Wiedervereinigung. Die Regierung sieht kantonal keinen Handlungsbedarf, befürwortet aber eine Prüfung anonymer Geburten auf Bundesebene; heute erlaubt das Schweizer Recht nur vertrauliche Geburten.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/babyklappe-im-bethesda-spital-fast-alle-babys-kehren-zu-den-eltern-zurueck-103665958",
+          "published_at": "2026-11-12T09:29:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/gesellschaft-babyklappe-baselland-1024-r01.jpg",
+        "alt": "Warm beleuchtete Klappe in einer Wand mit gestrickter Decke, im Hintergrund ein Herz (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-skythen-cannabis",
+      "section": "Gesellschaft",
+      "headline": "Berner Archäologe weist 2800 Jahre alten Cannabiskonsum nach",
+      "summary": "Ein Forschungsteam um den Archäologen Gino Caspari von der Universität Bern hat in einem skythischen Fürstengrab im Ujuk-Tal in der russischen Republik Tuwa Spuren von Cannabis im Haar der Bestatteten gefunden. Mit hochauflösender Massenspektrometrie wiesen die Forschenden in etwa 2800 Jahre alten Haarproben Cannabinol, ein Abbauprodukt von THC, sowie schwächere Signale von THC selbst nach; die Studie erschien in der Fachzeitschrift «Science». Es handelt sich laut dem Team um den ältesten sicher datierten direkten Nachweis für psychoaktiven Cannabisgebrauch, rund drei Jahrhunderte älter als bisherige Belege aus dem Pamir. Als Nächstes wird DNA aus den Pflanzenresten sequenziert, um die Verbreitung von Cannabis in Eurasien zu rekonstruieren.",
+      "sources": [
+        {
+          "name": "SRF Wissen",
+          "url": "https://www.srf.ch/wissen/forschung/skurriler-cannabis-nachweis-positiv-getestet-berner-forscher-findet-2800-jahre-alte-kiffer",
+          "published_at": "2026-11-12T16:52:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/gesellschaft-skythen-cannabis-1024-r01.jpg",
+        "alt": "Grabhügel in der Steppe, im Vordergrund ein geflochtener Haarzopf und Hanfsamen in einer Probenschale, daneben ein Laborgerät (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-frauen-hockey-wm-marti",
+      "section": "Sport",
+      "headline": "Frauen-Hockey-WM: Alina Marti fällt aus, Viertelfinal gegen Schweden",
+      "summary": "Für die Schweizer Stürmerin Alina Marti ist die Eishockey-WM in Dänemark vorzeitig zu Ende: Sie erlitt eine Hirnerschütterung und muss für den Rest des Turniers Forfait erklären. Marti war am Mittwoch beim 1:3 gegen Deutschland im letzten Gruppenspiel nach einem Zweikampf unglücklich in die Bande geprallt. Im Viertelfinal trifft die Schweiz am Freitag um 19 Uhr auf Schweden.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/frauen-eishockey/news-zur-eishockey-wm-wm-fuer-marti-vorzeitig-zu-ende",
+          "published_at": "2026-11-12T15:31:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-12-evening/sport-frauen-hockey-wm-marti-1024-r01.jpg",
+        "alt": "Eishockeyfeld von oben mit Puck und zwei gekreuzten Stöcken in leerem Stadion (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-12-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-12T17:54:43+01:00",
+    "ready_at": "2026-11-12T17:56:34+01:00",
+    "content_hash": "sha256:6736fff64fb71d049318498f12c6d3c0d90058fac2f7b1f38ec661dd6ab31a1a",
+    "image_rights": {
+      "politik-budget-2027-fk-n": {
+        "rights": "ai_generated_own"
+      },
+      "politik-svp-findungskommission": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-lindt-investoren": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-mindestlohn": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zh-bauverfahren": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-turbenthal-trinkwasser": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-leibstadt-arbeitsunfall": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-kokain-netzwerk": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-ebola-patientin": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-babyklappe-baselland": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-skythen-cannabis": {
+        "rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm-marti": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-budget-2027-fk-n": {
+        "path": "media/politik-budget-2027-fk-n-1024-r01.jpg",
+        "sha256": "c000816eb0f396f1046d967f11a8d0ddf861e6d226e5409f83776240a154e712",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7f1650343bd4269217ddd9c1c60cb44e301874db1f74f3b4b5fcc5b117238f8c.jpg",
+        "original_sha256": "7f1650343bd4269217ddd9c1c60cb44e301874db1f74f3b4b5fcc5b117238f8c",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-svp-findungskommission": {
+        "path": "media/politik-svp-findungskommission-1024-r01.jpg",
+        "sha256": "3f7d6734b048e31d48ad51b71b15317c71d7a1b6498af8dfb5cb8208da1ab3bc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3d752a9ce49640cfe87ab9c9821f5480d74663fa17ff63549184b331160ae476.jpg",
+        "original_sha256": "3d752a9ce49640cfe87ab9c9821f5480d74663fa17ff63549184b331160ae476",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-lindt-investoren": {
+        "path": "media/wirtschaft-lindt-investoren-1024-r01.jpg",
+        "sha256": "7846325dd0fd7c749aa5f80484af90ea45bd7157f6080fad5a39e5c5b0dd649f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/31316a7bb88382b3da97e72f271b58c97ebc63375b6c43d5dbc4ec3736b12c85.jpg",
+        "original_sha256": "31316a7bb88382b3da97e72f271b58c97ebc63375b6c43d5dbc4ec3736b12c85",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-mindestlohn": {
+        "path": "media/regionen-zuerich-mindestlohn-1024-r01.jpg",
+        "sha256": "56e7f6990244baa0706a84881665b3fbead201a0a67b77fe9547122fdd46b8b8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e6b3c2b78d5cb0c1141039d9d051d1fcf9092f532b7e3ab2951399663d410ad1.jpg",
+        "original_sha256": "e6b3c2b78d5cb0c1141039d9d051d1fcf9092f532b7e3ab2951399663d410ad1",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zh-bauverfahren": {
+        "path": "media/regionen-zh-bauverfahren-1024-r01.jpg",
+        "sha256": "e7905d95f27068fba983440c71b170a5a860fd8b9cb315bf12ff021cdc7340a0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4be4d8c4f5a624930ca25b5cef2553ab94f27c785db2c0625bc69588718fe001.jpg",
+        "original_sha256": "4be4d8c4f5a624930ca25b5cef2553ab94f27c785db2c0625bc69588718fe001",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-turbenthal-trinkwasser": {
+        "path": "media/regionen-turbenthal-trinkwasser-1024-r01.jpg",
+        "sha256": "27f34841e2b952cc03c3085f2e277d75ee7137b200bbba11072904300a5a04d0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/01a687b72092753b9fe4896c2acbaac3d9c240270710670c91bc86d44eab395b.jpg",
+        "original_sha256": "01a687b72092753b9fe4896c2acbaac3d9c240270710670c91bc86d44eab395b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-leibstadt-arbeitsunfall": {
+        "path": "media/regionen-leibstadt-arbeitsunfall-1024-r01.jpg",
+        "sha256": "00fc9c56e1343e6699e538d768b8d8001522a68b4151cb40859cac76a915ff0c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9ae9876ca372ad4a15a36bf6aee0ae404605922612008aed6544432078b85b1c.jpg",
+        "original_sha256": "9ae9876ca372ad4a15a36bf6aee0ae404605922612008aed6544432078b85b1c",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-kokain-netzwerk": {
+        "path": "media/gesellschaft-kokain-netzwerk-1024-r01.jpg",
+        "sha256": "0a834a845ecacbf5142ed93c1354117b0dc0389de142e046f34440c98e809d66",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dfcecded69b3fcac009c22a025f6fdd369b4f3d8b1f08c80ab329c07f72419d8.jpg",
+        "original_sha256": "dfcecded69b3fcac009c22a025f6fdd369b4f3d8b1f08c80ab329c07f72419d8",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-ebola-patientin": {
+        "path": "media/gesellschaft-ebola-patientin-1024-r01.jpg",
+        "sha256": "45c0ee976653d8b0d09818f634ce5eec22fbb14f360f179f5b499ec76f10a440",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b2545a95e916608e4affa09e0230165c6b514f5bf5bec8082ef9558c06c2ea3b.jpg",
+        "original_sha256": "b2545a95e916608e4affa09e0230165c6b514f5bf5bec8082ef9558c06c2ea3b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-babyklappe-baselland": {
+        "path": "media/gesellschaft-babyklappe-baselland-1024-r01.jpg",
+        "sha256": "568981995e236d407740384c900766da2e6bd79fa8a19e535690d605b2559b73",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/de41cae57fb51721a9270b32e979dcdbb5ecaaf04f3e486b45bdd531c403ea1b.jpg",
+        "original_sha256": "de41cae57fb51721a9270b32e979dcdbb5ecaaf04f3e486b45bdd531c403ea1b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-skythen-cannabis": {
+        "path": "media/gesellschaft-skythen-cannabis-1024-r01.jpg",
+        "sha256": "135ab7faa30808237fa35e38bae24ec7aafc76a186fda99cdcf3226fb5d19e6b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:33+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1ac24ef74bd459d1b82a6c30233eee7e1f9c1d6f4bf0316d13a2441cd967a7bc.jpg",
+        "original_sha256": "1ac24ef74bd459d1b82a6c30233eee7e1f9c1d6f4bf0316d13a2441cd967a7bc",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm-marti": {
+        "path": "media/sport-frauen-hockey-wm-marti-1024-r01.jpg",
+        "sha256": "54ba577fc8e2ff5ea88d21515412b65f2ecd1bee4ef8929db1b440a09fa28741",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-12T17:56:34+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-12",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-12 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/221028e941b2be99bfd64897343515094203b73838474e0d77369071477a4e2d.jpg",
+        "original_sha256": "221028e941b2be99bfd64897343515094203b73838474e0d77369071477a4e2d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
