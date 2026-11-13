@@ -1,0 +1,531 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-13T06:53:09+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-grenzgaenger-alv",
+      "section": "Politik",
+      "headline": "Arbeitslose Grenzgänger: EU-Regeländerung könnte die Schweiz Hunderte Millionen kosten",
+      "summary": "Im Gemischten Ausschuss zum Freizügigkeitsabkommen hat die EU-Kommission die Schweiz am Donnerstag über geänderte Regeln zur Koordinierung der sozialen Sicherheit informiert. Neu soll nicht mehr der Wohnstaat, sondern der Staat der letzten Beschäftigung die Arbeitslosenentschädigung von Grenzgängerinnen und Grenzgängern bezahlen; die Schweiz zählte im ersten Quartal 2026 gut 413'000 Grenzgänger. Das Seco schätzt die Mehrkosten für die Arbeitslosenversicherung auf 500 bis 800 Millionen Franken pro Jahr; heute resultiert aus Beiträgen von rund 600 Millionen und Rückerstattungen von rund 283 Millionen Franken ein Überschuss. Die Änderung gilt nicht automatisch für die Schweiz, sondern bräuchte einen Beschluss des Gemischten Ausschusses; der Nationalrat verlangt vom Bundesrat, sie abzulehnen.",
+      "sources": [
+        {
+          "name": "Keystone-SDA / swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/eu-regel%c3%a4nderung-bedeutet-f%c3%bcr-bern-hohe-mehrkosten/92372376",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Nau.ch",
+          "url": "https://www.nau.ch/news/europa/finanzielle-folgen-der-eu-sozialreform-fur-die-schweiz-67201680",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/politik-grenzgaenger-alv-1024-r01.jpg",
+        "alt": "Schlagbaum vor grünen Hügeln, davor eine Waage mit Aktentasche und Münzstapel, daneben eine Schweizer Fahne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-kriegsmaterial-erklaerung",
+      "section": "Politik",
+      "headline": "Kriegsmaterialgesetz: Abstimmung entscheidet über Nichtwiederausfuhr-Erklärungen",
+      "summary": "Mit dem revidierten Kriegsmaterialgesetz, über das am 29. November abgestimmt wird, müsste der Bundesrat von Käuferstaaten nur noch in Ausnahmefällen eine Nichtwiederausfuhr-Erklärung verlangen, nämlich aus aussen-, neutralitäts- oder sicherheitspolitischen Gründen. Diese Zusicherung, gekauftes Kriegsmaterial nicht weiterzugeben, verlangt die Schweiz seit 1949. Befürworter wie Mitte-Nationalrat Reto Nause argumentieren, die rund 36 Partnerländer, darunter viele Nato-Staaten, müssten Waffensysteme untereinander austauschen können, sonst kauften sie nicht mehr in der Schweiz. Gegner wie Grünen-Nationalrat Gerhard Andrey befürchten, Schweizer Rüstungsgüter könnten in Konfliktgebiete gelangen, und verlangen die Erklärung weiterhin in jedem Fall; die Lausanner Völkerrechtlerin Evelyn Schmid sieht zudem einen Konflikt mit dem UNO-Waffenhandelsvertrag.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/nichtwiederausfuhrerklaerungen-kriegsmaterial-lieferungen-kuenftig-ohne-diplomatisches-ehrenwort",
+          "published_at": "2026-11-12T20:55:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/politik-kriegsmaterial-erklaerung-1024-r01.jpg",
+        "alt": "Holzkiste mit Vorhängeschloss, ein Dokument mit rotem Wachssiegel und eine graue Urne mit eingeworfenem Stimmzettel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-sake-erwerbslosigkeit",
+      "section": "Wirtschaft",
+      "headline": "Erwerbslosenquote steigt auf 5,6 Prozent, bei Jungen auf 12,6 Prozent",
+      "summary": "Die Erwerbslosenquote nach Definition der Internationalen Arbeitsorganisation (ILO) ist im dritten Quartal 2026 auf 5,6 Prozent gestiegen, nach 5,1 Prozent im Vorjahresquartal, wie das Bundesamt für Statistik (BFS) mitteilt. Bei den 15- bis 24-Jährigen erreichte sie 12,6 Prozent, 4,7 Prozentpunkte mehr als vor einem Jahr; bei Ausländerinnen und Ausländern lag sie bei 8,8, bei Schweizerinnen und Schweizern bei 4,2 Prozent. Gleichzeitig nahm die Zahl der Erwerbstätigen im Jahresvergleich um 0,5 Prozent auf 5,387 Millionen zu. Die ILO-Quote beruht auf Umfragen und ist höher als die Seco-Quote der bei den RAV gemeldeten Arbeitslosen, die im Sommer bei 3,0 Prozent lag; die EU-Quote stieg im gleichen Zeitraum von 6,0 auf 6,2 Prozent.",
+      "sources": [
+        {
+          "name": "Bundesamt für Statistik",
+          "url": "https://www.bfs.admin.ch/de/newnsb/CXwrzhzqrnVn",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RSI",
+          "url": "https://www.rsi.ch/info/svizzera/Disoccupazione-la-Svizzera-sale-al-56--4236035.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/wirtschaft-sake-erwerbslosigkeit-1024-r01.jpg",
+        "alt": "Leerer Bürostuhl neben einem Tisch mit Bewerbungsmappe, an der Wand ein ansteigender Pfeil (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-swisscom-glasfaser",
+      "section": "Wirtschaft",
+      "headline": "Glasfaserstreit: Bund verzichtet auf Weiterzug, Swisscom-Busse fällt weg",
+      "summary": "Das Wirtschaftsdepartement WBF zieht das Urteil des Bundesverwaltungsgerichts im Glasfaserstreit nicht ans Bundesgericht weiter; damit ist die Busse der Wettbewerbskommission (Weko) von 18,4 Millionen Franken gegen Swisscom vom Tisch. Das Gericht hatte im Oktober entschieden, Swisscom habe beim Glasfaserausbau mit einer gemeinsamen Zuleitung statt einer Leitung pro Haushalt keine marktbeherrschende Stellung missbraucht. Laut Weko-Direktor Patrik Ducrey lehnte das WBF erstmals in der Geschichte der Weko einen Rekursantrag ab, mit der Begründung, der Glasfaserausbau solle nicht weiter verzögert werden. Swisscom begrüsst den Entscheid, der Konkurrent Init7 hat jedoch selbst Beschwerde beim Bundesgericht eingereicht.",
+      "sources": [
+        {
+          "name": "Keystone-SDA / swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/kein-rekurs-im-swisscom-glasfaserstreit/92369877",
+          "published_at": "2026-11-12T11:22:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Inside IT",
+          "url": "https://www.inside-it.ch/glasfaserstreit-weko-verzichtet-auf-rekurs-20261112",
+          "published_at": "2026-11-12T11:27:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/wirtschaft-swisscom-glasfaser-1024-r01.jpg",
+        "alt": "Glasfaserkabel führen aus einem offenen Schacht zu vier kleinen Häusern, daneben liegt ein Richterhammer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-cremo-umbau",
+      "section": "Wirtschaft",
+      "headline": "Cremo bündelt Produktion bis 2030 in Villars-sur-Glâne",
+      "summary": "Der zweitgrösste Schweizer Milchverarbeiter Cremo will seine gesamte Produktion bis 2030 am Hauptsitz in Villars-sur-Glâne FR zusammenführen und sich auf Butter und Milchfette, Milchpulver und Proteine sowie vor allem AOP-Käse konzentrieren. Die Standorte Siders VS und Le Mont-sur-Lausanne VD werden nicht beibehalten; für Siders, wo Raclette AOP hergestellt wird, sucht Cremo einen Käufer, betroffen sind auch Düdingen FR und Turtmann VS. Das Unternehmen mit über 660 Mitarbeitenden hat in den letzten vier Jahren über 75 Millionen Franken Verlust geschrieben; am künftigen Standort sollen rund 60 Prozent der heutigen Belegschaft arbeiten, Entlassungen seien unvermeidlich. Der Kanton Wallis setzt eine Taskforce für die Raclette-Produktion ein.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/kurswechsel-bis-2030-radikaler-umbau-cremo-buendelt-produktion-im-kanton-freiburg",
+          "published_at": "2026-11-12T18:10:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/wirtschaft-cremo-umbau-1024-r01.jpg",
+        "alt": "Molkereigebäude mit Edelstahltanks, im Vordergrund ein Butterblock, ein Pulversack und ein Käselaib (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-microsoft-stoerung",
+      "section": "Wirtschaft",
+      "headline": "Stundenlange Microsoft-Störung trifft Outlook und Teams",
+      "summary": "Eine weltweite Störung bei Microsofts Cloud-Diensten hat seit Donnerstag viele Unternehmen, Behörden und Privatpersonen vom E-Mail-Dienst Outlook abgeschnitten. Betroffen waren Funktionen, die auf Exchange Online angewiesen sind, etwa kalendergestützte Aufgaben in Teams, teils auch der KI-Assistent Copilot. Microsoft meldete über Stunden wechselnde Fortschritte und Rückschläge beim Neustart betroffener Server. Wann die Dienste vollständig wiederhergestellt sind, war am frühen Freitagmorgen offen.",
+      "sources": [
+        {
+          "name": "Keystone-SDA / swissinfo.ch",
+          "url": "https://www.swissinfo.ch/ger/st%C3%B6rung-bei-microsofts-cloud-e-mail-outlook-betroffen/92374360",
+          "published_at": "2026-11-13T04:30:04+01:00",
+          "updated_at": "2026-11-13T04:35:34+01:00"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/technologie/microsofts-outlook-e-mail-und-andere-cloud-dienste-sind-seit-stunden-gestoert-ld.10062778",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/wirtschaft-microsoft-stoerung-1024-r01.jpg",
+        "alt": "Laptop bei Nacht mit Briefumschlag-Symbol und Warndreieck auf dem Bildschirm, darüber eine Wolke mit getrenntem Kabel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-waadt-sparprogramm",
+      "section": "Zürich & Regionen",
+      "headline": "Waadt: Nach Steuersenkung muss die Regierung zusätzlich 300 Millionen sparen",
+      "summary": "Nach dem Ja des Waadtländer Stimmvolks zu einer Senkung der Einkommens- und Vermögenssteuern um zwölf Prozent muss die Kantonsregierung über die bereits geplanten Massnahmen hinaus rund 300 Millionen Franken einsparen. Besonders betroffen ist das Gesundheits- und Sozialdepartement von Roger Nordmann, das 42 Prozent der Staatsausgaben verantwortet; Nordmann rechnet für 2028 mit einem Fehlbetrag von 1,2 Milliarden Franken. Rund 8000 Staatsangestellte demonstrierten letzte Woche für höhere Löhne und gegen Stellenabbau, Fachleute aus dem Sozialbereich verlangen mehr Mittel. Die Regierung hat den Teuerungsausgleich bereits genehmigt; im Februar finden im Kanton Gesamterneuerungswahlen statt.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/proteste-gegen-sparmassnahmen-waadtlaender-regierung-muss-steuern-senken",
+          "published_at": "2026-11-13T06:35:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/regionen-waadt-sparprogramm-1024-r01.jpg",
+        "alt": "Klassizistisches Regierungsgebäude, davor eine Waage mit Münzen auf der einen und Spital- und Schulsymbol auf der anderen Seite (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-nidwalden-schulgemeinden",
+      "section": "Zürich & Regionen",
+      "headline": "Nidwalden stimmt über Streichung der Schulgemeinden aus der Verfassung ab",
+      "summary": "Der Kanton Nidwalden stimmt am 29. November darüber ab, die Schulgemeinden aus der Kantonsverfassung und kantonalen Erlassen zu streichen. In der Praxis gibt es sie nicht mehr: Ennetmoos hob 2010 als erste Gemeinde die Schulgemeinde auf, Stansstad und Oberdorf als letzte der elf Gemeinden per 2025; seither führen die politischen Gemeinden die Schulen. Laut Bildungsdirektor Armin Odermatt ist die Organisation so einfacher, etwa mit nur einer Gemeindeversammlung und einem Budget. Finanzielle Auswirkungen hat die Änderung nicht; der Landrat stimmte einstimmig zu, die Regierung empfiehlt ein Ja.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/abstimmung-kanton-nidwalden-warum-nidwalden-ueber-schulgemeinden-abstimmt-die-schon-weg-sind",
+          "published_at": "2026-11-13T06:44:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/regionen-nidwalden-schulgemeinden-1024-r01.jpg",
+        "alt": "Aufgeschlagenes altes Buch, ein Abschnitt wird mit Bleistift durchgestrichen, im Hintergrund ein Schulhaus und eine Urne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-bger-obhut",
+      "section": "Gesellschaft",
+      "headline": "Bundesgericht legt 30-Prozent-Schwelle für alternierende Obhut fest",
+      "summary": "Das Bundesgericht hat in einem Leitentscheid (5A_280/2025) geklärt, wann nach einer Trennung eine alternierende Obhut vorliegt. Es teilt zwei Wochen in 42 Betreuungseinheiten aus Vormittag, Nachmittag und Nacht auf; jeder Elternteil muss mindestens 13 davon übernehmen, also mehr als 30 Prozent, Ferien werden grundsätzlich nicht mitgerechnet. Im konkreten Fall wies es die Beschwerde eines Vaters ab, der seinen Sohn jedes zweite Wochenende und neun Ferienwochen im Jahr betreut; er muss den ganzen Geldunterhalt tragen. Kantonale Gerichte hatten die Frage bisher unterschiedlich beantwortet, weitere ähnliche Fälle sind hängig.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/familienrecht-bundesgericht-definiert-alternierende-obhut-die-30-prozent-regel",
+          "published_at": "2026-11-13T06:03:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissblawg",
+          "url": "https://swissblawg.ch/2026/11/5a_280-2025-alternierende-obhut-mindestbetreuungsanteil-und-berechnung-der-betreuungsanteile-amtl-publ.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/gesellschaft-bger-obhut-1024-r01.jpg",
+        "alt": "Kalender mit Sonne, Abendsonne und Mond, links und rechts je ein Haus, dazwischen ein Kinderrucksack auf einem gepunkteten Weg (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-wisente-thal",
+      "section": "Gesellschaft",
+      "headline": "Wisente im Solothurner Jura sollen 2027 in die Halbfreiheit",
+      "summary": "Im Projekt «Wisent im Thal» leben seit 2022 Wisente auf der Sollmatt bei Welschenrohr SO; aus der Testherde von fünf Tieren sind inzwischen 13 geworden. Laut Schlussbericht des Vereins zur Gehegephase bietet der Jura grundsätzlich geeignete Lebensbedingungen, die Langzeitverträglichkeit sei aber noch offen. 2027 soll das Gebiet von rund einem auf 6,4 Quadratkilometer wachsen; Zäune sollen teilweise abgebaut und durch natürliche Grenzen, bestehende Weidezäune, Lockfutter, GPS-Überwachung und Drohnen ersetzt werden. Eine WSL-Umfrage zeigt, dass sich Befürworter und Gegner unter den Anwohnern etwa die Waage halten; im Kantonsrat gab es mehrere Vorstösse.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/bald-soll-der-zaun-um-die-wisente-fallen-das-wollen-laengst-nicht-alle-ld.10059753",
+          "published_at": "2026-11-13T05:30:00+01:00",
+          "updated_at": "2026-11-13T06:38:39+01:00"
+        },
+        {
+          "name": "Verein Wisent im Thal",
+          "url": "https://wisent-thal.ch/2026/10/23/gehegephase-zeigt-wisente-koennen-im-jura-leben-offene-fragen-bleiben/",
+          "published_at": "2026-10-23T05:00:00+02:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/gesellschaft-wisente-thal-1024-r01.jpg",
+        "alt": "Gemalte Szene: Wisente grasen am Rand eines herbstlichen Laubwaldes auf Jurahügeln, im Vordergrund ein Drahtzaun mit Holzpfosten (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-nati-slowenien",
+      "section": "Sport",
+      "headline": "Nations League: Der Nati reicht in Slowenien ein Punkt zum Aufstieg",
+      "summary": "Die Schweizer Fussball-Nationalmannschaft spielt am Freitagabend um 20.45 Uhr in Maribor gegen Slowenien. Nach vier Siegen aus vier Spielen in der Liga B der Nations League genügt ihr bereits ein Unentschieden für die vorzeitige Rückkehr in die Liga A. Für Trainer Murat Yakin ist es das 70. Spiel als Nationaltrainer; Mittelfeldspieler Johan Manzambi fällt kurzfristig aus. Die Schweiz war in der letzten Austragung aus der Liga A abgestiegen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/nations-league-am-freitag-live-die-nati-hat-den-wiederaufstieg-im-blick",
+          "published_at": "2026-11-12T19:50:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/sport-nati-slowenien-1024-r01.jpg",
+        "alt": "Leeres, nächtlich beleuchtetes Fussballfeld von oben mit einem Ball auf dem Mittelpunkt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-zsc-biel",
+      "section": "Sport",
+      "headline": "ZSC Lions gewinnen nach Rückstand in Biel im Penaltyschiessen",
+      "summary": "Leader ZSC Lions hat in der National League beim EHC Biel 4:3 nach Penaltyschiessen gewonnen und damit im 19. Saisonspiel den 18. Sieg gefeiert. Biel führte bis zur 49. Minute mit 3:1, ehe die Zürcher verkürzten; 16 Sekunden vor Schluss erzielte Jesper Fröden ohne ZSC-Torhüter auf dem Eis den Ausgleich zum 3:3. Die Verlängerung blieb torlos, im Penaltyschiessen entschied Fröden mit dem siebten Zürcher Versuch die Partie. Für Biel trafen unter anderen Fabio Hofer und der 17-jährige Jonah Neuenschwander.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-4-3-n-p-in-biel-lions-zeigen-moral-und-nervenstaerke",
+          "published_at": "2026-11-12T22:43:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/sport/eishockey/nl/die-zsc-lions-schlagen-biel-im-penaltyschiessen/6wmpl1j",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-morning/sport-zsc-biel-1024-r01.jpg",
+        "alt": "Leeres Eisfeld aus Sicht eines Tores, ein Puck auf dem Eis und ein an die Bande gelehnter Stock (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-13-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-13T06:49:24+01:00",
+    "ready_at": "2026-11-13T06:53:09+01:00",
+    "content_hash": "sha256:4d46d6595765667143138fea41d9ec328c5aa3c14c761cc2d9356dae116266fa",
+    "image_rights": {
+      "politik-grenzgaenger-alv": {
+        "rights": "ai_generated_own"
+      },
+      "politik-kriegsmaterial-erklaerung": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-sake-erwerbslosigkeit": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-swisscom-glasfaser": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-cremo-umbau": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-microsoft-stoerung": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-waadt-sparprogramm": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-nidwalden-schulgemeinden": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-bger-obhut": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-wisente-thal": {
+        "rights": "ai_generated_own"
+      },
+      "sport-nati-slowenien": {
+        "rights": "ai_generated_own"
+      },
+      "sport-zsc-biel": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-grenzgaenger-alv": {
+        "path": "media/politik-grenzgaenger-alv-1024-r01.jpg",
+        "sha256": "bf063f9183fca688e5e362c0ea729967f6293bac3322fd6b886e0c5762fc36d3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:57+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6b91265cfc161ece8cc938be895e62a2412b44be281f060315a42f49d2ab88eb.jpg",
+        "original_sha256": "6b91265cfc161ece8cc938be895e62a2412b44be281f060315a42f49d2ab88eb",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-kriegsmaterial-erklaerung": {
+        "path": "media/politik-kriegsmaterial-erklaerung-1024-r01.jpg",
+        "sha256": "831da811714c703d52864ea372e76a5939d2b3c1d41e0a851e315da4361cbfa6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:57+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b677d323023237ee759cbdcf15033d16fcc1ed879e986c2f2dee6fb5e9878263.jpg",
+        "original_sha256": "b677d323023237ee759cbdcf15033d16fcc1ed879e986c2f2dee6fb5e9878263",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-sake-erwerbslosigkeit": {
+        "path": "media/wirtschaft-sake-erwerbslosigkeit-1024-r01.jpg",
+        "sha256": "1ec85f7de72d0db0a132eeec9291f29ec04691a690fd96673b2934dd8f0bfb34",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d719a0f7595f0e003eba6898cd9951ecba34aa1d927923fc49642ce1a438e30e.jpg",
+        "original_sha256": "d719a0f7595f0e003eba6898cd9951ecba34aa1d927923fc49642ce1a438e30e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-swisscom-glasfaser": {
+        "path": "media/wirtschaft-swisscom-glasfaser-1024-r01.jpg",
+        "sha256": "7681f1df10da976dba6c9ccb4229e87fb906d8110dd9c7db618af16bc154545a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/02a57ca8fdf9dba6eaac5a262d0f0a0f6c83ee29c1b3e0142677023a6afe707f.jpg",
+        "original_sha256": "02a57ca8fdf9dba6eaac5a262d0f0a0f6c83ee29c1b3e0142677023a6afe707f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-cremo-umbau": {
+        "path": "media/wirtschaft-cremo-umbau-1024-r01.jpg",
+        "sha256": "9fa985ead35956046cc8e3acdc74dbce7afa2dded03b490698565a426069da3e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c2e04eb1c96c3f5c433e69772e9b5fb5e6ecb92ef35a38b6fc6c9db3e3be56b9.jpg",
+        "original_sha256": "c2e04eb1c96c3f5c433e69772e9b5fb5e6ecb92ef35a38b6fc6c9db3e3be56b9",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-microsoft-stoerung": {
+        "path": "media/wirtschaft-microsoft-stoerung-1024-r01.jpg",
+        "sha256": "679c367bd59af93bcc6e1d0f42b7987a5f0505c1ea4a326f8deeb05a92a430e0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/34274bf70fa7169716d8a3f469f67053a5c1d54ce6f49b118ce2c6018f1fa867.jpg",
+        "original_sha256": "34274bf70fa7169716d8a3f469f67053a5c1d54ce6f49b118ce2c6018f1fa867",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-waadt-sparprogramm": {
+        "path": "media/regionen-waadt-sparprogramm-1024-r01.jpg",
+        "sha256": "5ed88e16f76adbc24c2c99bc123450ded9cc5882de7a3bc1524eaf79994947ad",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c42be46ff869b7ae4dcd1aaf2b27f5b041b9643e1698684d4105a23dbecefdd6.jpg",
+        "original_sha256": "c42be46ff869b7ae4dcd1aaf2b27f5b041b9643e1698684d4105a23dbecefdd6",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-nidwalden-schulgemeinden": {
+        "path": "media/regionen-nidwalden-schulgemeinden-1024-r01.jpg",
+        "sha256": "a16a0ac054c6b68fd773107f39eaeb6133c11bc0132e6d11215897081dbd7b25",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/73eebc2e4c4e004dc1490b9614eea1251800c2b0a8c831f651bee576fec2a358.jpg",
+        "original_sha256": "73eebc2e4c4e004dc1490b9614eea1251800c2b0a8c831f651bee576fec2a358",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-bger-obhut": {
+        "path": "media/gesellschaft-bger-obhut-1024-r01.jpg",
+        "sha256": "ece66727406c40b03fcd9923984de6ce443f5b5b66603fba9a8342adfee554dc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/742fcbbb0b616718d636fa3e24e6a75d83ca384f52669f9ceaa56c7607ebcd29.jpg",
+        "original_sha256": "742fcbbb0b616718d636fa3e24e6a75d83ca384f52669f9ceaa56c7607ebcd29",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-wisente-thal": {
+        "path": "media/gesellschaft-wisente-thal-1024-r01.jpg",
+        "sha256": "29ef24d6535952215edbdfe9a87f28ba1cb799aa7081a9c185f81fe9f016881e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0fcc3091f77753694ff8d0f3e3f0595b81bd8d6d616bf9c387fd959ad89560bb.jpg",
+        "original_sha256": "0fcc3091f77753694ff8d0f3e3f0595b81bd8d6d616bf9c387fd959ad89560bb",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-nati-slowenien": {
+        "path": "media/sport-nati-slowenien-1024-r01.jpg",
+        "sha256": "255bb0fc92cba3743bcbdc526c80caf9e99b87cd5d64f697cd7bd0aed2a4db7d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ff4ca620946f173b6fa91c8bdfdd460bc31b8948a16a3cfbebc8a596b9426b57.jpg",
+        "original_sha256": "ff4ca620946f173b6fa91c8bdfdd460bc31b8948a16a3cfbebc8a596b9426b57",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-zsc-biel": {
+        "path": "media/sport-zsc-biel-1024-r01.jpg",
+        "sha256": "138f74bd76ca49e54fe11e85ce8f8b1efabc516de9d1742ca497490b903474a6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T06:52:58+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b8f8d51bbae7bcadd823a92ccf0a8e42c33e432c917107870a3d68cd61ec0349.jpg",
+        "original_sha256": "b8f8d51bbae7bcadd823a92ccf0a8e42c33e432c917107870a3d68cd61ec0349",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
