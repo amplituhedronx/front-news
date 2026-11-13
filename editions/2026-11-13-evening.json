@@ -1,0 +1,537 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-13T17:53:42+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-ndb-neuorganisation",
+      "section": "Politik",
+      "headline": "Nachrichtendienst des Bundes stellt Führung neu auf",
+      "summary": "NDB-Direktor Serge Bavaud hat am Freitag die neue Struktur des Nachrichtendienstes vorgestellt: Statt sechs gibt es künftig vier Direktionsbereiche, was kürzere Entscheidungswege und klarere Zuständigkeiten bringen soll. Alle Kaderstellen wurden ausgeschrieben; die Operationen leiten neu Roger Thommen und Christian Sigrist gemeinsam, Stellvertreter des Direktors wird der vom Bundesrat ernannte Pascal Porchet, bisher Chef des Bündner Amts für Militär und Zivilschutz. Hintergrund ist die Unruhe und die Abgänge nach der Reform unter Bavauds Vorgänger Christian Dussey; Bavaud sagte, damals sei zu viel auf einmal verändert worden. Die neue Geschäftsleitung, in der keine Frau vertreten ist, tritt am 1. Januar 2027 an.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/nach-interner-krise-totalumbau-das-sind-die-neuen-chefspione-beim-nachrichtendienst-103666708",
+          "published_at": "2026-11-13T16:00:02+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps (Französisch)",
+          "url": "https://www.letemps.ch/suisse/le-service-de-renseignement-de-la-confederation-sera-dirige-de-maniere-plus-resserree-des-2027",
+          "published_at": "2026-11-13T16:32:04+01:00",
+          "updated_at": "2026-11-13T17:48:20+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/politik-ndb-neuorganisation-1024-r01.jpg",
+        "alt": "Organigramm mit sechs Kästchen, die zu vier zusammengeführt werden, daneben eine Lupe und eine Schweizer Fahne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-ruecktritte-nationalrat",
+      "section": "Politik",
+      "headline": "Marcel Dobler und Jean-Luc Addor treten aus dem Nationalrat zurück",
+      "summary": "Der St. Galler FDP-Nationalrat und Digitec-Mitgründer Marcel Dobler hat am Freitag angekündigt, dass die Wintersession im Dezember seine letzte sein wird; er will sich nach elf Jahren beruflich neu orientieren. Unabhängig davon gab der Walliser SVP-Nationalrat Jean-Luc Addor bekannt, Ende Februar zurückzutreten, um Platz für Nachrückende zu machen. Beide sitzen seit 2015 im Nationalrat. Wer Doblers Sitz übernimmt, ist laut NZZ noch offen, während SRF Andrea Abderhalden als Nachfolgerin nennt; die nächsten Nationalratswahlen finden im Oktober 2027 statt.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/nach-elf-jahren-marcel-dobler-tritt-aus-dem-nationalrat-zurueck",
+          "published_at": "2026-11-13T15:32:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175",
+          "published_at": null,
+          "updated_at": "2026-11-13T09:50:25+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/politik-ruecktritte-nationalrat-1024-r01.jpg",
+        "alt": "Halbrunder Parlamentssaal mit leeren Sitzreihen, zwei Plätze sind hell hervorgehoben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-sgb-lehrlingsinitiative",
+      "section": "Politik",
+      "headline": "Gewerkschaftsbund plant Initiative für 5000 Franken Mindestlohn nach der Lehre",
+      "summary": "Der Schweizerische Gewerkschaftsbund (SGB) will mit einer Volksinitiative einen Mindestlohn von 5000 Franken für Lehrabgängerinnen und Lehrabgänger sowie acht Wochen Ferien für alle Lernenden durchsetzen. Er begründet dies damit, dass ein Drittel der Lehrabgänger heute in Vollzeit weniger als 5000 Franken pro Monat verdiene und die Reallöhne gesunken seien. Die Ankündigung folgt kurz nachdem die zuständige Ständeratskommission einen Vorstoss für sechs Wochen Ferien in der Lehre abgelehnt hat. Der Initiativtext wird erst ausgearbeitet; wann die Unterschriftensammlung beginnt, ist offen.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/gewerkschafts-initiative-volk-soll-ueber-8-wochen-lehrlingsferien-mindestlohn-entscheiden-103666841",
+          "published_at": "2026-11-13T17:01:56+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS (Französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/salaire-minimum-l-uss-veut-5-000-francs-apres-l-apprentissage-29415343.html",
+          "published_at": "2026-11-13T16:30:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/politik-sgb-lehrlingsinitiative-1024-r01.jpg",
+        "alt": "Werkbank mit Werkzeugen, einer Urkunde, einem Kalender mit markierten Wochen und einem Münzstapel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-fairness-initiative-fdk",
+      "section": "Politik",
+      "headline": "Fairness-Initiative: Finanzdirektoren warnen vor zwei Steuersystemen",
+      "summary": "Vor der Abstimmung vom 29. November über die Mitte-Initiative zur Abschaffung der Heiratsstrafe warnt die Konferenz der kantonalen Finanzdirektoren in einer internen Notiz vor grossem administrativem Aufwand. Weil im März bereits die Individualbesteuerung angenommen wurde, könnten bei einem Ja Ehepaare beim Bund gemeinsam, bei Kantons- und Gemeindesteuern aber individuell besteuert werden; FDP-Co-Präsidentin Susanne Vincenz-Stauffacher spricht von drei Steuererklärungen pro Ehepaar. Mitte-Präsident Philipp Matthias Bregy entgegnet, das Parlament werde die Erhebung in der Umsetzungsgesetzgebung für alle Ebenen harmonisiert regeln. FDK-Präsident Ernst Stocker sagt, die Konferenz befürworte die gemeinsame Besteuerung grundsätzlich, eine offizielle Abstimmungsempfehlung hat sie nicht abgegeben.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/schweiz/individuell-besteuert-oder-gemeinsam-als-ehepaar-bei-einem-ja-zur-fairness-initiative-drohe-ein-desaster-warnen-die-kantonalen-finanzdirektoren-ld.10063219",
+          "published_at": "2026-11-13T15:40:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/steuer-dilemma-heiratsstrafe-erneut-abschaffen-fuehrt-das-zum-steuerchaos",
+          "published_at": "2026-11-13T06:46:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/politik-fairness-initiative-fdk-1024-r01.jpg",
+        "alt": "Zwei Steuerformulare, eines mit Eheringen und eines mit zwei Personen-Symbolen, dazwischen ein Taschenrechner und eine Urne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-microsoft-folgen-schweiz",
+      "section": "Wirtschaft",
+      "headline": "Microsoft-Störung: Richemont, Zurich und Post betroffen, Bund kaum",
+      "summary": "Die seit Donnerstag andauernde weltweite Störung von Outlook, Teams, Sharepoint und Copilot hat auch in der Schweiz den Büroalltag vieler Firmen und Behörden beeinträchtigt. Richemont veröffentlichte seine Halbjahreszahlen rund 40 Minuten später als angekündigt, die Post und der Versicherer Zurich verwiesen Kundschaft für dringende Anliegen ans Telefon, zudem waren Hochschulen wie die ETH Zürich betroffen. Die Bundesverwaltung meldete nur kleinere Probleme, weil sie ihren Mailverkehr intern betreibt; auch die Waadt, Genf, Neuenburg und der Jura blieben beim Mail verschont, während die Freiburger Kantonsverwaltung stark betroffen war. Microsoft meldet Fortschritte bei der Behebung und sieht keine Hinweise auf einen Cyberangriff.",
+      "sources": [
+        {
+          "name": "Nau.ch (Keystone-SDA)",
+          "url": "https://www.nau.ch/news/wirtschaft/grosse-microsoft-storung-behindert-schweizer-geschaftsalltag-67202029",
+          "published_at": "2026-11-13T17:00:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS (Französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/panne-de-microsoft-la-suisse-et-ses-administrations-touchees-29415140.html",
+          "published_at": "2026-11-13T13:10:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/wirtschaft-microsoft-folgen-schweiz-1024-r01.jpg",
+        "alt": "Laptop mit Wolkensymbol und Warndreieck, ausgestecktes Kabel und ein Stapel Briefumschläge auf einem Bürotisch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-tempo30-bundesgericht",
+      "section": "Zürich & Regionen",
+      "headline": "Tempo 30: Stadt Zürich unterliegt vor Bundesgericht",
+      "summary": "Das Bundesgericht hat eine Beschwerde der Stadt Zürich gegen den Gegenvorschlag zur kantonalen ÖV-Initiative abgewiesen. Damit müssen Gemeinden bauliche Massnahmen wie Busspuren selbst bezahlen, wenn der öffentliche Verkehr wegen neuer Tempo-30-Zonen den Fahrplan nicht mehr einhalten kann. Das Gericht kam zum Schluss, die Stadt sei ausreichend angehört worden, und verneinte, dass die Regel Tempo-30-Zonen verhindere; die Stadt hebt hervor, dass der Lärmschutz laut Urteil uneingeschränkt verbindlich bleibt. Ein weiteres Verfahren der Stadt gegen die Mobilitätsinitiative ist am Bundesgericht noch hängig.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/beschwerde-abgelehnt-zuercher-gemeinden-muessen-fuer-mehrkosten-durch-tempo-30-zahlen",
+          "published_at": "2026-11-13T16:04:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/streit-um-tempo-30-die-stadt-zuerich-unterliegt-dem-kanton-vor-bundesgericht-ld.10062871",
+          "published_at": "2026-11-13T12:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/regionen-tempo30-bundesgericht-1024-r01.jpg",
+        "alt": "Strasse mit Tempo-30-Signal, ein Stadtbus und eine Waage mit Münzen vor einer Stadtsilhouette (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-parkkarte",
+      "section": "Zürich & Regionen",
+      "headline": "Neue Zürcher Parkkarte kann nicht wie geplant starten",
+      "summary": "Die neue Parkkartenverordnung der Stadt Zürich tritt nicht wie vorgesehen am 1. Januar 2027 in Kraft, weil Rechtsmittel dagegen eingelegt wurden; bis auf Weiteres gilt die alte Regelung. Politiker von FDP, SVP und Mitte haben beim Bezirksrat rekurriert, weil der Stadtrat nur die höheren Gebühren und das «Bieler Modell» einführen wollte, nicht aber das Trottoirparkieren für das Gewerbe. Dieses war zuvor auf einen Rekurs von Behindertenverbänden hin in erster Instanz gestoppt worden. Die von den Stimmberechtigten angenommene Verordnung ist damit durch zwei Verfahren blockiert.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/noch-ein-rekurs-neue-parkkarte-in-der-stadt-zuerich-rueckt-in-weite-ferne-ld.10063295",
+          "published_at": "2026-11-13T16:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/regionen-zuerich-parkkarte-1024-r01.jpg",
+        "alt": "Parkfelder der blauen Zone, eine leere Parkkarte auf dem Armaturenbrett, darüber Paragrafenzeichen und Vorhängeschloss (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-basel-saubannerzug",
+      "section": "Zürich & Regionen",
+      "headline": "Basler «Saubannerzug»: Mildere Urteile in zweiter Instanz",
+      "summary": "Das Appellationsgericht Basel-Stadt hat zwölf Beschuldigte im Prozess um den Umzug mit Ausschreitungen vom Juni 2016 grösstenteils zu bedingten Geldstrafen statt zu Freiheitsstrafen verurteilt. Von den Vorwürfen der Sachbeschädigung und der einfachen Körperverletzung sprach es sie frei, verurteilte sie aber weiterhin wegen Landfriedensbruchs sowie Gewalt und Drohung gegen Behörden und Beamte. Ein Mann wurde vollständig freigesprochen, eine Frau erhielt eine bedingte Freiheitsstrafe von neun Monaten. Die Vorinstanz hatte noch unbedingte, teilbedingte und bedingte Freiheitsstrafen ausgesprochen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/ausschreitungen-in-basel-mildere-urteile-in-zweiter-instanz-fuer-basler-saubannerzug",
+          "published_at": "2026-11-13T12:37:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/mildere-urteile-in-zweiter-instanz-f%c3%bcr-basler-%22saubannerzug%22/92375453",
+          "published_at": "2026-11-13T10:14:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/regionen-basel-saubannerzug-1024-r01.jpg",
+        "alt": "Säulenfassade eines Gerichtsgebäudes mit Richterhammer und Waage im Vordergrund (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-waadt-streik",
+      "section": "Zürich & Regionen",
+      "headline": "Waadt: Regierung hält Streik für unzulässig, Personal plant zwei Streiktage",
+      "summary": "Der Waadtländer Staatsrat stuft einen Streik des Staatspersonals gegen die Budgetkürzungen 2027 als nicht rechtmässig ein, weil sich die Forderungen nicht auf die Arbeitsbedingungen, sondern auf die Budgetpolitik bezögen; Sanktionen plant er vorerst nicht. Die Gewerkschaften SSP, SUD und FSF halten an Streik- und Aktionstagen am 20. und 24. November fest und sprechen von Einschüchterung. Sie verlangen, dass die Folgen der angenommenen Steuersenkung um 12 Prozent über Reserven statt über Kürzungen aufgefangen werden. Die Regierung verweist auf die volle Lohnindexierung 2027; über das Budget entscheidet nun der Grosse Rat.",
+      "sources": [
+        {
+          "name": "Kanton Waadt (Französisch)",
+          "url": "https://www.vd.ch/actualites/communiques-de-presse-de-letat-de-vaud/detail/communique/budget-2027-le-conseil-detat-precise-sa-position-sur-la-liceite-de-la-greve",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps (Französisch, Paywall)",
+          "url": "https://www.letemps.ch/suisse/vaud/alors-que-le-conseil-d-etat-vaudois-juge-la-greve-illicite-les-syndicats-repliquent-le-soir-meme-en-annoncant-deux-journees-de-mobilisation",
+          "published_at": "2026-11-13T13:41:15+01:00",
+          "updated_at": "2026-11-13T17:12:42+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/regionen-waadt-streik-1024-r01.jpg",
+        "alt": "Regierungsgebäude, ein Budgetdokument mit rotem Stift und leere Protestschilder an einer Wand (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-tram-lausanne-renens",
+      "section": "Verkehr & Wetter",
+      "headline": "Tram Lausanne–Renens fährt ab 13. Dezember",
+      "summary": "Die Tramlinie zwischen Renens-Gare und Lausanne-Flon nimmt mit dem Fahrplanwechsel am Sonntag, 13. Dezember, den kommerziellen Betrieb auf. Das Bundesamt für Verkehr hat den Verkehrsbetrieben tl diese Woche die nötigen Bewilligungen erteilt. Das Tram fährt zunächst alle zehn Minuten und braucht für die zehn Haltestellen in Renens, Prilly und Lausanne eine Viertelstunde; im Lauf von 2027 soll der Takt auf sechs Minuten verdichtet werden. Die tl rechnen im ersten Betriebsjahr mit 13 Millionen Fahrgästen, ein Eröffnungsfest ist am 5. Dezember geplant.",
+      "sources": [
+        {
+          "name": "Le Temps (Französisch)",
+          "url": "https://www.letemps.ch/suisse/vaud/le-tramway-lausanne-renens-entrera-en-service-le-13-decembre",
+          "published_at": "2026-11-13T14:42:30+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/verkehr-tram-lausanne-renens-1024-r01.jpg",
+        "alt": "Modernes Tram auf neuen Schienen vor einer Stadt mit See und Hügeln, darüber ein Kalenderblatt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-westwind-schnee",
+      "section": "Verkehr & Wetter",
+      "headline": "Nächste Woche viel Wind, Regen und Schnee in den Bergen",
+      "summary": "SRF Meteo erwartet ab Dienstag eine kräftige Westwindströmung, die bis Ende nächster Woche wiederholt Wind, Regen und in höheren Lagen Schnee bringt. Am westlichen Alpennordhang ist bis zu einem Meter Neuschnee möglich, im Unterwallis lokal mehr, im nordöstlichen Tessin sowie in Mittel- und Südbünden weniger. Die Schneefallgrenze liegt meist zwischen 1300 und 1700 Metern und steigt in der Nacht auf Dienstag vorübergehend auf 2500 Meter. Der genaue zeitliche Ablauf der einzelnen Niederschlagsschübe ist laut den Wettermodellen noch unsicher.",
+      "sources": [
+        {
+          "name": "SRF Meteo",
+          "url": "https://www.srf.ch/meteo/meteo-stories/westwindlage-bringt-schnee-wie-viel-schnee-gibt-es-naechste-woche",
+          "published_at": "2026-11-13T16:28:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/wetter-westwind-schnee-1024-r01.jpg",
+        "alt": "Verschneite Alpengipfel, Regenwolken und Windlinien aus Westen über grünen Tälern (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-meillard-verletzung",
+      "section": "Sport",
+      "headline": "Mélanie Meillard verpasst Slalom-Auftakt in Levi",
+      "summary": "Die Walliserin Mélanie Meillard hat sich im Training im finnischen Levi eine Distorsion des rechten Kniegelenks zugezogen. Laut Swiss-Ski verzichtet die 28-Jährige deshalb auf den ersten Slalom der Saison am Samstag. Sie reist in die Schweiz zurück, wo sie weiter medizinisch untersucht wird. Wie lange sie ausfällt, ist noch nicht bekannt.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/distorsion-im-kniegelenk-melanie-meillard-verletzt-sich-und-verpasst-levi-slalom",
+          "published_at": "2026-11-13T14:26:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-13-evening/sport-meillard-verletzung-1024-r01.jpg",
+        "alt": "Slalomski und Stöcke an Slalomtoren im Schnee, daneben eine Bandage mit rotem Kreuz (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-13-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-13T17:50:35+01:00",
+    "ready_at": "2026-11-13T17:53:42+01:00",
+    "content_hash": "sha256:941462eb079d38dbc25f23a65f58b8aeea6491bba89dec6a1e5b91d3b14b5284",
+    "image_rights": {
+      "politik-ndb-neuorganisation": {
+        "rights": "ai_generated_own"
+      },
+      "politik-ruecktritte-nationalrat": {
+        "rights": "ai_generated_own"
+      },
+      "politik-sgb-lehrlingsinitiative": {
+        "rights": "ai_generated_own"
+      },
+      "politik-fairness-initiative-fdk": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-microsoft-folgen-schweiz": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-tempo30-bundesgericht": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-parkkarte": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-basel-saubannerzug": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-waadt-streik": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-tram-lausanne-renens": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-westwind-schnee": {
+        "rights": "ai_generated_own"
+      },
+      "sport-meillard-verletzung": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-ndb-neuorganisation": {
+        "path": "media/politik-ndb-neuorganisation-1024-r01.jpg",
+        "sha256": "2bcf294468f1b05b2bccc8d9865fd6161e24479bd8c516f443a1aa1572db070b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/611a854379c2727fd02c4e27a5daffc3218d79eca5d4df1ef7979302d9ac41e7.jpg",
+        "original_sha256": "611a854379c2727fd02c4e27a5daffc3218d79eca5d4df1ef7979302d9ac41e7",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-ruecktritte-nationalrat": {
+        "path": "media/politik-ruecktritte-nationalrat-1024-r01.jpg",
+        "sha256": "795a75c900dab38f011abad9bb35db9dc4b0929cc79ecc88fe60ef6c13eb03d8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cee3fa8a1243b6e434fab4b69231db9c410208794d4f2b01dd79257e5d3c0339.jpg",
+        "original_sha256": "cee3fa8a1243b6e434fab4b69231db9c410208794d4f2b01dd79257e5d3c0339",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-sgb-lehrlingsinitiative": {
+        "path": "media/politik-sgb-lehrlingsinitiative-1024-r01.jpg",
+        "sha256": "5e8d3642eb7035711c217f6a982a5710f6acb591243ee4482c15580b5145ff44",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1e5106a7e458ad4ba81d9372304cb4294ab0922ee72ef5eae39f2f7a35377c95.jpg",
+        "original_sha256": "1e5106a7e458ad4ba81d9372304cb4294ab0922ee72ef5eae39f2f7a35377c95",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-fairness-initiative-fdk": {
+        "path": "media/politik-fairness-initiative-fdk-1024-r01.jpg",
+        "sha256": "0fd40be724b623163aa84b8b4cf211227d13076d70e83e933c70d0b7130c4fd7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1885351a93ae01312b5ca46f7cc9493cb67c6aee5470cc941447ca8de3bf3354.jpg",
+        "original_sha256": "1885351a93ae01312b5ca46f7cc9493cb67c6aee5470cc941447ca8de3bf3354",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-microsoft-folgen-schweiz": {
+        "path": "media/wirtschaft-microsoft-folgen-schweiz-1024-r01.jpg",
+        "sha256": "6599fb03ae215c6aa5d6a2f0bfb95af8fb640bee6e525d40ceb083ad8cabc06f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cdb1a30a770f1362c00171a5a5b2776942ecfa946662540ada49d64c212433fd.jpg",
+        "original_sha256": "cdb1a30a770f1362c00171a5a5b2776942ecfa946662540ada49d64c212433fd",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-tempo30-bundesgericht": {
+        "path": "media/regionen-tempo30-bundesgericht-1024-r01.jpg",
+        "sha256": "fcf9dba663c2db065bcb31427b14384efd19003ac4ea915c22c4e78bdccce103",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8632157d07927960c937150046034cb9353ad5b2d82140073fe955a7634f9d81.jpg",
+        "original_sha256": "8632157d07927960c937150046034cb9353ad5b2d82140073fe955a7634f9d81",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-parkkarte": {
+        "path": "media/regionen-zuerich-parkkarte-1024-r01.jpg",
+        "sha256": "8742e8622d0d8f7747c9e4dec4d7644fb01dc9c561605a75e76e85b5110b8974",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cab9622993e3bb739a4223bfb0c2d87dc4241a69bbf2d66d9b0aa43ac4ce4660.jpg",
+        "original_sha256": "cab9622993e3bb739a4223bfb0c2d87dc4241a69bbf2d66d9b0aa43ac4ce4660",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-basel-saubannerzug": {
+        "path": "media/regionen-basel-saubannerzug-1024-r01.jpg",
+        "sha256": "dfc0010eee8e946ad61cd55ca14b4c33a8dc7dccb0b2c9085d9cb4645084ef7e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d6bbc64b7f6e58295f1e749b7af37cdaf5e51a60d4151c1d12c701a0e788c6ec.jpg",
+        "original_sha256": "d6bbc64b7f6e58295f1e749b7af37cdaf5e51a60d4151c1d12c701a0e788c6ec",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-waadt-streik": {
+        "path": "media/regionen-waadt-streik-1024-r01.jpg",
+        "sha256": "d44ca6314ef011f4e8bbd3fdfefd6096d7be31f06d99d1645bc68e425fce2c9b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b0d8ac2aafd05d0b7f0cffad1a4f72296e1ce2f207f9b1c715d07189a494a0b2.jpg",
+        "original_sha256": "b0d8ac2aafd05d0b7f0cffad1a4f72296e1ce2f207f9b1c715d07189a494a0b2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-tram-lausanne-renens": {
+        "path": "media/verkehr-tram-lausanne-renens-1024-r01.jpg",
+        "sha256": "cc45a36cc9d9b577449f56a3967958d3d2514cc1c79f96bd67a17652c0f9847f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:38+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bb880bbdeeaffe904bbe8afd60740a6ad314805f27e0743c0bfab8574d9f4d2b.jpg",
+        "original_sha256": "bb880bbdeeaffe904bbe8afd60740a6ad314805f27e0743c0bfab8574d9f4d2b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-westwind-schnee": {
+        "path": "media/wetter-westwind-schnee-1024-r01.jpg",
+        "sha256": "5402ba725ab68615bc763833e644bca28fa1bfdc52c6b9b779f42fef026dc208",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:38+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1f622c03af51b0bab1a9600996abc0da3f77d59a5a0b7165d1855b792bb1f75f.jpg",
+        "original_sha256": "1f622c03af51b0bab1a9600996abc0da3f77d59a5a0b7165d1855b792bb1f75f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-meillard-verletzung": {
+        "path": "media/sport-meillard-verletzung-1024-r01.jpg",
+        "sha256": "fde29d1a76d263a030b191049d47cfebdb8f45d58d11b13f22ab4886059f52c8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-13T17:52:38+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-13",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-13 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/5775b5bd78dc4ebc429a14b2393bf6c2c1667c9896b69b52f2915af5c5763ccc.jpg",
+        "original_sha256": "5775b5bd78dc4ebc429a14b2393bf6c2c1667c9896b69b52f2915af5c5763ccc",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
