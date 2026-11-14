@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-14T18:00:37+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-krankenkasse-online-wechsel",
+      "section": "Politik",
+      "headline": "Bundesrat unterstützt komplett digitalen Krankenkassenwechsel",
+      "summary": "Der Bundesrat empfiehlt einen Vorstoss von GLP-Nationalrat Patrick Hässig zur Annahme, der alle Krankenkassen verpflichten will, den Wechsel der Grundversicherung vollständig online zu ermöglichen. Heute sind dafür in der Regel noch Papier, Unterschrift und teils eingeschriebene Briefe nötig; Hässig sieht darin eine Hürde, die viele Versicherte vom Wechsel abhalte. Der Vergleichsdienst Comparis schätzt die Wechselquote für 2026 auf rund acht Prozent, obwohl die Prämien 2027 im Schnitt um fünf Prozent steigen und die Leistungen der Grundversicherung überall gleich sind. Der Krankenkassenverband prio.swiss hat noch keine Position bezogen; nun entscheidet das Parlament, wo das Anliegen auch Unterstützung aus SP, Grünen, Mitte und FDP hat.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/bundesrat-sagt-ja-bald-sollst-du-deine-krankenkasse-viel-einfacher-wechseln-koennen-103667395",
+          "published_at": "2026-11-14T15:28:05+01:00",
+          "updated_at": "2026-11-14T15:28:05+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/politik-krankenkasse-online-wechsel-1024-r01.jpg",
+        "alt": "Smartphone mit grünem Häkchen auf dem Bildschirm, daneben eine leere Versichertenkarte und ein durchgestrichener Briefumschlag (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-fmh-kostenziel",
+      "section": "Politik",
+      "headline": "Ärzteverband FMH kritisiert Kostenvorgabe des Bundesrats",
+      "summary": "FMH-Präsidentin Yvonne Gilli hat in der «Samstagsrundschau» von Radio SRF den Auftrag des Bundesrats kritisiert, das Kostenwachstum bei ambulanten ärztlichen Leistungen auf vier Prozent pro Jahr zu begrenzen. Der Bundesrat hatte am Mittwoch mitgeteilt, er habe von den Tarifpartnern trotz wiederholter Aufforderung kein entsprechendes Konzept erhalten, und das Departement von Elisabeth Baume-Schneider beauftragt, ein Eingreifen bei Überschreitung vorzubereiten. Gilli sagt, dafür fehle eine gesetzliche Grundlage und eine starre Obergrenze komme einem Globalbudget gleich, das die Versorgung gefährden könne. Gleichzeitig zeigt sie sich verhandlungsbereit, weil der Bundesrat in einem Schreiben angedeutet habe, gewisse Faktoren aus der Obergrenze herauszurechnen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/streit-um-gesundheitskosten-aerzte-praesidentin-bundesrat-hat-seine-kompetenz-ueberschritten",
+          "published_at": "2026-11-14T15:18:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/politik-fmh-kostenziel-1024-r01.jpg",
+        "alt": "Stethoskop vor einem steigenden Balkendiagramm mit rotem Pfeil, im Hintergrund eine Waage (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-gold-dubai",
+      "section": "Wirtschaft",
+      "headline": "Swissaid: Viel Gold aus fragwürdigen Quellen gelangt via Dubai in die Schweiz",
+      "summary": "Laut einer neuen Studie der Entwicklungsorganisation Swissaid wurden 2024 mindestens 591 Tonnen geschmuggeltes Gold oder Konfliktgold in die Vereinigten Arabischen Emirate importiert, obwohl diese ihre Regeln zwei Jahre zuvor verschärft hatten. Die Schweiz war 2025 mit 420 Tonnen der grösste Abnehmer von Gold aus den Emiraten; zwischen Januar und September 2026 wurden laut Swissaid über 400 Tonnen importiert. Gemäss Zolldaten landet ein grosser Teil davon bei der Tessiner Raffinerie Valcambi, während andere grosse Schweizer Raffinerien kaum Gold aus den Emiraten beziehen. Swissaid beteiligt sich an der Vernehmlassung zur Verordnung des revidierten Edelmetallkontrollgesetzes, die im kommenden Jahr fertiggestellt werden soll.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/umstrittener-goldhandel-studie-strengere-dubai-regeln-fuer-gold-greifen-kaum",
+          "published_at": "2026-11-14T08:08:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Swissaid (Medienmitteilung)",
+          "url": "https://www.swissaid.ch/de/media/trotz-verschaerfter-regulierung-riesige-mengen-illegalen-goldes-fliessen-weiterhin-nach-dubai/",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/wirtschaft-gold-dubai-1024-r01.jpg",
+        "alt": "Goldbarren auf einer Balkenwaage, links eine stilisierte Wüstenstadt mit Hochhäusern, rechts verschneite Berggipfel, darüber eine Lupe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-airbnb-zuerich",
+      "section": "Wirtschaft",
+      "headline": "Airbnb wirbt in Zürich mit Prämien um neue Gastgeber",
+      "summary": "Die Vermietungsplattform Airbnb bietet in der Stadt Zürich befristet erhöhte Prämien für die Weiterempfehlung neuer Gastgeberinnen und Gastgeber an, wie der «Tages-Anzeiger» berichtet. Wer jemanden vermittelt, der eine ganze Wohnung in Höngg neu inseriert, soll 500 Franken erhalten, für andere Quartiere sind tiefere Beträge vorgesehen. Airbnb erklärt, solche Prämien gebe es auch in anderen Ländern und die Plattform habe keinen wesentlichen Einfluss auf die Verfügbarkeit von Wohnraum. Die Stadtzürcher SP kritisiert das Vorgehen angesichts der Wohnungsknappheit in der Stadt.",
+      "sources": [
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/schweiz/zuerich/162579222-bis-zu-500-franken-airbnb-sucht-mit-praemien-nach-wohnungen-in-zuerich",
+          "published_at": "2026-11-14T16:33:20+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/zuerich-airbnb-wirbt-mit-500-franken-praemie-fuer-neue-hosts-622414206398",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/wirtschaft-airbnb-zuerich-1024-r01.jpg",
+        "alt": "Hausschlüssel mit leerem Anhänger auf einem Münzstapel am Seeufer, dahinter eine stilisierte Altstadt mit Kirchtürmen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-genf-demo-sparbudget",
+      "section": "Zürich & Regionen",
+      "headline": "Tausende demonstrieren in Genf gegen Sparbudget",
+      "summary": "In Genf haben am Samstag mehrere tausend Menschen gegen die Sparmassnahmen im Entwurf des Kantonsbudgets 2027 demonstriert; die Polizei zählte rund 3500 Teilnehmende, die Organisatoren 6000 bis 7000, Keystone-SDA knapp 5000. Aufgerufen hatte eine Koalition aus Gewerkschaften, Verbänden und linken Parteien, die Kundgebung verlief ohne Zwischenfälle. Der Budgetentwurf sieht Einsparungen von 247,7 Millionen Franken vor, darunter pauschale Subventionskürzungen von vier Prozent für Vereine und fünf Prozent weniger für die Leistungsaufträge der Universitätsspitäler HUG und der Spitex-Organisation IMAD. Der Grosse Rat berät das Budget Mitte Dezember, die Gewerkschaften kündigten weitere Mobilisierungen an.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen/92381862",
+          "published_at": "2026-11-14T17:00:55+01:00",
+          "updated_at": "2026-11-14T17:05:34+01:00"
+        },
+        {
+          "name": "RTS (Französisch)",
+          "url": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-des-milliers-de-manifestants-contre-l-austerite-29415964.html",
+          "published_at": "2026-11-14T13:34:03+01:00",
+          "updated_at": "2026-11-14T17:36:08+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/regionen-genf-demo-sparbudget-1024-r01.jpg",
+        "alt": "Lange Reihe gesichtsloser, stilisierter Menschen mit leeren Transparenten auf einer Brücke über einen See, im Hintergrund eine Wasserfontäne und Herbstbäume (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "regionen-thun-nord-haltestelle",
+      "section": "Zürich & Regionen",
+      "headline": "Bundesrat will Bahnhaltestelle Thun Nord nochmals prüfen",
+      "summary": "Der Bundesrat will die geplante S-Bahn-Haltestelle Thun Nord im Hinblick auf die Botschaft zu «Verkehr '45» erneut prüfen. Er hatte das Projekt für 37,1 Millionen Franken im Juni zusammen mit zahlreichen weiteren bereits beschlossenen Bahnprojekten aus der Vorlage gestrichen beziehungsweise zurückgestellt. In seiner Antwort vom 11. November auf eine Interpellation der Thuner Nationalrätin Andrea de Meuron (Grüne) schreibt er, neue Haltestellen könnten die Kapazität stark belasteter Strecken beeinträchtigen, aber auch Entwicklungsgebiete wie Thun Nord effizient erschliessen; die Vernehmlassung habe Handlungsbedarf gezeigt. Die Botschaft ans Parlament ist für 2027 vorgesehen, der Berner Regierungsrat setzt sich ebenfalls für die Haltestelle ein.",
+      "sources": [
+        {
+          "name": "Plattform J",
+          "url": "https://www.plattformj.ch/artikel/248522/",
+          "published_at": "2026-11-14T17:02:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/regionen-thun-nord-haltestelle-1024-r01.jpg",
+        "alt": "Als Bauplan skizzierter Bahnsteig neben bestehenden Gleisen, auf denen ein roter Regionalzug fährt, dahinter See und Berge (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-fdp-tessin-staatsrat",
+      "section": "Zürich & Regionen",
+      "headline": "Tessiner FDP tritt mit fünf Kandidierenden zur Staatsratswahl an",
+      "summary": "Die FDP des Kantons Tessin hat für die Regierungswahlen vom 11. April 2027 fünf Kandidierende nominiert: Nationalrat Alex Farinelli, Grossrätin Cristina Maderni, den Stadtrat von Mendrisio Samuel Maffi, Bauernverbandspräsident Omar Pedrini und den Locarneser Stadtpräsidenten Nicola Pini. Die Partei strebt damit einen zweiten Sitz in der fünfköpfigen Kantonsregierung an. Inhaltlich will sie sich auf Wettbewerbsfähigkeit, öffentliche Finanzen, Sicherheit und Bildung konzentrieren. Am gleichen Tag wird auch der 90-köpfige Grosse Rat für die Legislatur 2027 bis 2031 neu gewählt.",
+      "sources": [
+        {
+          "name": "Nau.ch (Keystone-SDA)",
+          "url": "https://www.nau.ch/politik/regional/fdp-tessin-nominiert-funferticket-fur-staatsratswahlen-67202179",
+          "published_at": "2026-11-14T11:48:00+01:00",
+          "updated_at": "2026-11-14T11:51:29+01:00"
+        },
+        {
+          "name": "RSI (Italienisch)",
+          "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Il-PLR-presenta-la-sua-squadra--4241839.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/regionen-fdp-tessin-staatsrat-1024-r01.jpg",
+        "alt": "Fünf leere Stühle in einer Reihe neben einer Urne, im Hintergrund ein See mit Palmen und Bergen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-maenner-demo-bern",
+      "section": "Gesellschaft",
+      "headline": "Mehrere hundert Männer demonstrieren in Bern gegen Gewalt an Frauen",
+      "summary": "Auf dem Bundesplatz in Bern haben am Samstag mehrere hundert Männer an einer einstündigen Kundgebung gegen Gewalt an Frauen teilgenommen. Aufgerufen hatte eine breite Allianz, darunter die SP Schweiz und das Komitee «Männer gegen Gewalt an Frauen»; unter den Rednern war SP-Co-Präsident Cédric Wermuth. Die Organisatoren riefen Männer dazu auf, nicht wegzuschauen, Betroffenen Mitgefühl zu zeigen und bei eigenem Fehlverhalten oder bei Tätern im Umfeld Verantwortung zu übernehmen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/kundgebung-maenner-demonstrieren-in-bern-gegen-gewalt-an-frauen",
+          "published_at": "2026-11-14T17:34:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/gesellschaft-maenner-demo-bern-1024-r01.jpg",
+        "alt": "Gruppe stilisierter Männer mit leeren Schildern auf einem Platz vor einem grossen Kuppelbau an einem bewölkten Herbsttag (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-opferhilfe-142",
+      "section": "Gesellschaft",
+      "headline": "Opferhilfe-Nummer 142 erhält rund 80 Anrufe pro Tag",
+      "summary": "Bei der nationalen Opferhilfe-Telefonnummer 142, die am 1. Mai gestartet ist, gehen laut der Konferenz der kantonalen Sozialdirektorinnen und -direktoren (SODK) im Schnitt rund 80 Anrufe pro Tag ein, die meisten tagsüber. Während der Bürozeiten werden die Anrufe an die zuständigen kantonalen Opferhilfestellen weitergeleitet, ausserhalb davon übernehmen Partnerorganisationen, im Kanton Bern etwa die Dargebotene Hand. Mit der kostenlosen und vertraulichen Hotline setzt die Schweiz eine Vorgabe der Istanbul-Konvention um. Die Nummer 142 ist keine Notrufnummer; in akuten Gefahrensituationen sind Polizei oder Rettungsdienst zu alarmieren.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/gesellschaft/nationales-hilfsangebot-opferhilfe-erhaelt-taeglich-80-anrufe-von-gewaltbetroffenen",
+          "published_at": "2026-11-14T13:40:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/t%C3%A4glich-gehen-rund-80-anfragen-auf-nationaler-opferhilfe-nummer-ein/92380216",
+          "published_at": "2026-11-14T10:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/gesellschaft-opferhilfe-142-1024-r01.jpg",
+        "alt": "Telefonhörer, der in einer offenen, schützenden Hand liegt, umgeben von einem warm leuchtenden Kreis in Violett und Orange (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-levi-slalom",
+      "section": "Sport",
+      "headline": "Slalom in Levi: Holdener als beste Schweizerin Zehnte",
+      "summary": "Beim ersten Slalom der Weltcupsaison in Levi hat die Deutsche Emma Aicher vor Lara Colturi (Albanien) und Katharina Truppe (Österreich) gewonnen. Wendy Holdener fiel als beste Schweizerin im zweiten Lauf vom 8. auf den 10. Rang zurück, Camille Rast wurde nach Rang 4 zur Halbzeit noch Elfte. Aline Höpli verbesserte sich mit einem starken zweiten Lauf vom 25. auf den 14. Platz und erreichte damit ihr bestes Weltcupresultat. Am Sonntag fahren in Levi die Männer ihren ersten Slalom, die Frauen setzen die Saison am kommenden Samstag in Gurgl fort.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/frauen-slalom-in-levi-aicher-kann-s-auch-im-stangenwald-hoepli-ueberzeugt",
+          "published_at": "2026-11-14T14:05:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/sport-levi-slalom-1024-r01.jpg",
+        "alt": "Rote und blaue Slalomtore auf einem steilen Schneehang in blauer Dämmerung, dazwischen eine kleine gesichtslose Skifahrer-Silhouette (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-meillard-kreuzband",
+      "section": "Sport",
+      "headline": "Mélanie Meillard fällt mit Kreuzbandriss für die Saison aus",
+      "summary": "Die bei einem Trainingssturz in Levi verletzte Slalomfahrerin Mélanie Meillard hat sich einen Kreuzbandriss im rechten Knie sowie Verletzungen an beiden Menisken zugezogen. Die Diagnose wurde am Samstag in Genf gestellt, nachdem Swiss-Ski zunächst von einer Distorsion gesprochen hatte. Damit ist die Saison der 28-jährigen Walliserin vor dem ersten Rennen beendet. Meillard hatte bereits 2018 einen Kreuzbandriss erlitten, damals im linken Knie.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/trainingssturz-in-levi-kreuzbandriss-melanie-meillards-saison-ist-bereits-wieder-vorbei",
+          "published_at": "2026-11-14T16:31:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-evening/sport-meillard-kreuzband-1024-r01.jpg",
+        "alt": "Ein Paar Ski und Krücken an einer Holzwand neben einer Knieschiene auf einer Bank, durch das Fenster verschneite Berge (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-14-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-14T18:00:00+01:00",
+    "ready_at": "2026-11-14T18:00:37+01:00",
+    "content_hash": "sha256:7f13fdbd62ed100e2e35f3abb9a4af9331fceaaa3c8ee6c720c6b393d4ce8e68",
+    "image_rights": {
+      "politik-krankenkasse-online-wechsel": {
+        "rights": "ai_generated_own"
+      },
+      "politik-fmh-kostenziel": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-gold-dubai": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-airbnb-zuerich": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-genf-demo-sparbudget": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-thun-nord-haltestelle": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-fdp-tessin-staatsrat": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-maenner-demo-bern": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-opferhilfe-142": {
+        "rights": "ai_generated_own"
+      },
+      "sport-levi-slalom": {
+        "rights": "ai_generated_own"
+      },
+      "sport-meillard-kreuzband": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-krankenkasse-online-wechsel": {
+        "path": "media/politik-krankenkasse-online-wechsel-1024-r01.jpg",
+        "sha256": "f17603577c63e81a3020b2ba901fe06ca3df324195e114c52eedb425130ab709",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9c3161548cc83285cfd0e3107e9621442817d5b2d89f70cd4e546cfe44eed102.jpg",
+        "original_sha256": "9c3161548cc83285cfd0e3107e9621442817d5b2d89f70cd4e546cfe44eed102",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-fmh-kostenziel": {
+        "path": "media/politik-fmh-kostenziel-1024-r01.jpg",
+        "sha256": "86a81ecff096096bd9b6a4a18eda8fdffba0016253ebfcb690a231e6ca1cab16",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e42bb29e9fb7d84463d0591516e0b761d9457a296a4890b0bf061d059aa75328.jpg",
+        "original_sha256": "e42bb29e9fb7d84463d0591516e0b761d9457a296a4890b0bf061d059aa75328",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-gold-dubai": {
+        "path": "media/wirtschaft-gold-dubai-1024-r01.jpg",
+        "sha256": "cf46078ae99b881548022627a20d6bfed7c9a81f8cd91bab0b5391a1e2900016",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bcc785e71bbf8b5d16c4373896756d0e919e14a41753c9b8c017dda28450d908.jpg",
+        "original_sha256": "bcc785e71bbf8b5d16c4373896756d0e919e14a41753c9b8c017dda28450d908",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-airbnb-zuerich": {
+        "path": "media/wirtschaft-airbnb-zuerich-1024-r01.jpg",
+        "sha256": "c1d0916a00e7e57d17c09e8250c15f8727fe8cc18d6213902e150425fa75046d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a341eab71757c4b9d6b247aaf5c1a823532984e5de4f48393dd9f5e9e367106c.jpg",
+        "original_sha256": "a341eab71757c4b9d6b247aaf5c1a823532984e5de4f48393dd9f5e9e367106c",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-genf-demo-sparbudget": {
+        "path": "media/regionen-genf-demo-sparbudget-1024-r01.jpg",
+        "sha256": "f248027155e6843cb02d037de8febdeae9ce20cdd8f54e3ec6b65e2337dfdbbf",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b27131b4b36025d06c7d136e068eeac0d03d5ae010d614d3f9d0452d8bb2cf02.jpg",
+        "original_sha256": "b27131b4b36025d06c7d136e068eeac0d03d5ae010d614d3f9d0452d8bb2cf02",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-thun-nord-haltestelle": {
+        "path": "media/regionen-thun-nord-haltestelle-1024-r01.jpg",
+        "sha256": "cfe034a495d362ee6ea52fc7e224c6a7a10fee1bad13e8f09189945717a6d767",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/14778148a3b4521512e316e4a6eb834ca605e5becf77fca4dd21eef247068e1b.jpg",
+        "original_sha256": "14778148a3b4521512e316e4a6eb834ca605e5becf77fca4dd21eef247068e1b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-fdp-tessin-staatsrat": {
+        "path": "media/regionen-fdp-tessin-staatsrat-1024-r01.jpg",
+        "sha256": "38706ee2b6294c3177a318cef02ca466be5156a8e62aa752e0d312d8ddfd14ca",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1bcb80b5a7e761b671fd9aa9b2caf9d8268ec88601ccc46893284272f657c7a5.jpg",
+        "original_sha256": "1bcb80b5a7e761b671fd9aa9b2caf9d8268ec88601ccc46893284272f657c7a5",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-maenner-demo-bern": {
+        "path": "media/gesellschaft-maenner-demo-bern-1024-r01.jpg",
+        "sha256": "8118461c21984e09300694bcdc27f8a75dc43a79df5f812e4a70bcf0ecf43706",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/61294608aafc80bf4eae61e5f0d2989ba858a3b2321cb147058acf3c9c83ea1e.jpg",
+        "original_sha256": "61294608aafc80bf4eae61e5f0d2989ba858a3b2321cb147058acf3c9c83ea1e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-opferhilfe-142": {
+        "path": "media/gesellschaft-opferhilfe-142-1024-r01.jpg",
+        "sha256": "4ebc5d66b6dbe4917acc0cb7d93c1ec16ca0bb4d111d8c1336b1cf7a0374c08b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6f5d6615fbfe3cd1dda64f9ef44c1237363102ec895d26c9dd23acac9b61087f.jpg",
+        "original_sha256": "6f5d6615fbfe3cd1dda64f9ef44c1237363102ec895d26c9dd23acac9b61087f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-levi-slalom": {
+        "path": "media/sport-levi-slalom-1024-r01.jpg",
+        "sha256": "a653524f5e1dd22751591b3a41c5649cb51c10c2319ee9462ec860ae7bbd9d10",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9b42d464b275967a2f42c44374511dce17a0c45b611d980628fbd177d5037182.jpg",
+        "original_sha256": "9b42d464b275967a2f42c44374511dce17a0c45b611d980628fbd177d5037182",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-meillard-kreuzband": {
+        "path": "media/sport-meillard-kreuzband-1024-r01.jpg",
+        "sha256": "7b2d90ee5681d987f807a6341e945805409567e51820e2314f50af39b37fd5d5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T17:59:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/23a163a95bcfa6437c49bc7bfb0360ec05389d31709f0b906e00c8f7544baa67.jpg",
+        "original_sha256": "23a163a95bcfa6437c49bc7bfb0360ec05389d31709f0b906e00c8f7544baa67",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
