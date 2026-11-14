@@ -1,0 +1,549 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-14T07:15:08+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-swissness-schweizerkreuz",
+      "section": "Politik",
+      "headline": "Schweizerkreuz soll nur noch für Schweizer Produktion gelten",
+      "summary": "Die Nationalratskommission für Wissenschaft, Bildung und Kultur (WBK-N) will die Regeln für das Schweizerkreuz auf Waren verschärfen: Es soll nur noch auf Produkten stehen dürfen, die in der Schweiz hergestellt oder verarbeitet werden. Hinweise wie «Swiss Design» oder Schweizer Forschung in Kombination mit dem Kreuz wären dann nicht mehr zulässig; die Kommission stimmte mit 22 zu 2 Stimmen zu. Auslöser ist eine Praxisänderung des Instituts für Geistiges Eigentum nach einem Rechtsstreit mit der Schuhmarke On, die das Kreuz auch für im Ausland gefertigte Produkte erlaubte, wenn etwa das Design vollständig in der Schweiz entstand. Nach einer Vernehmlassung soll der Ständerat die Vorlage im ersten Halbjahr 2027 beraten.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/swissness-label-wer-mit-dem-schweizerkreuz-wirbt-soll-in-der-schweiz-produzieren",
+          "published_at": "2026-11-13T19:17:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/schweizerkreuz-nationalrat-will-nutzungsregeln-verschaerfen-121404704392",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/politik-swissness-schweizerkreuz-1024-r01.jpg",
+        "alt": "Generische Produktschachtel mit rotem Quadrat und weissem Kreuz, die mit einer Lupe geprüft wird, im Hintergrund eine stilisierte Fabrik (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-e-voting-post-swisscom",
+      "section": "Politik",
+      "headline": "E-Voting: Swisscom betreibt ab 2028 Teile der Post-Infrastruktur",
+      "summary": "Die Post lagert nach einer Ausschreibung Teile des Betriebs ihres E-Voting-Systems an Swisscom aus. Ab 2028 verarbeitet Swisscom in Schweizer Rechenzentren öffentliche Informationen wie Abstimmungsfragen, Termine oder Angaben zu Kandidierenden; die elektronischen Urnen sowie die Systeme für Stimmgeheimnis und Verifizierbarkeit bleiben bei der Post. Laut Post erhält keines der beiden Unternehmen Zugriff auf persönliche Daten oder Stimminhalte, und die Post bleibt alleinige Vertragspartnerin der Kantone sowie verantwortlich für Software und Quellcode. Bei der Abstimmung vom 29. November können Stimmberechtigte in Neuenburg, Luzern, St. Gallen, Graubünden und Thurgau elektronisch abstimmen.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/bei-e-voting-wollen-post-und-swisscom-k%c3%bcnftig-zusammenarbeiten/92377344",
+          "published_at": "2026-11-13T14:40:07+01:00",
+          "updated_at": "2026-11-13T14:40:40+01:00"
+        },
+        {
+          "name": "RTS (Französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/la-poste-et-swisscom-collaboreront-sur-le-vote-electronique-a-partir-de-2028-seo-29415443.html",
+          "published_at": "2026-11-13T18:01:30+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/politik-e-voting-post-swisscom-1024-r01.jpg",
+        "alt": "Stilisierte gläserne Urne mit Vorhängeschloss, verbunden mit einem Serverschrank und einem Laptop mit Häkchen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-richemont-halbjahr",
+      "section": "Wirtschaft",
+      "headline": "Richemont steigert Umsatz und Gewinn im Halbjahr deutlich",
+      "summary": "Der Genfer Luxusgüterkonzern Richemont hat im ersten Halbjahr 2026/27 (bis Ende September) den Umsatz um 16 Prozent auf 12,3 Milliarden Euro gesteigert, währungsbereinigt um 17 Prozent. Der Betriebsgewinn (EBIT) wuchs um 33 Prozent auf 3,1 Milliarden Euro, die Marge stieg auf 25,5 Prozent, und der Reingewinn erreichte 2,5 Milliarden Euro (plus 39 Prozent). Beim Umsatz entsprachen die Zahlen etwa den Erwartungen von Analysten, der EBIT lag laut Keystone-SDA deutlich darüber. Zum Konzern gehören unter anderem Cartier, Van Cleef & Arpels, IWC und Piaget; einen Ausblick auf das Gesamtjahr gab Richemont wie üblich nicht.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/richemont-mit-deutlich-mehr-umsatz-und-gewinn-im-halbjahr/92374719",
+          "published_at": "2026-11-13T08:05:51+01:00",
+          "updated_at": "2026-11-13T13:15:59+01:00"
+        },
+        {
+          "name": "Richemont (Medienmitteilung, Englisch)",
+          "url": "https://www.richemont.com/news-media/press-releases-news/richemont-posts-strong-results-for-the-six-month-period-ended-30-september-2026-driven-by-sustained-double-digit-sales-growth/",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/wirtschaft-richemont-halbjahr-1024-r01.jpg",
+        "alt": "Armbanduhr und Ring auf dunklem Samt neben einem steigenden Balkendiagramm (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-vvardis-boersengang",
+      "section": "Wirtschaft",
+      "headline": "Zuger Dentalfirma Vvardis mit schwachem Start an der New Yorker Börse",
+      "summary": "Die Zuger Firma Vvardis der Swiss-Smile-Gründerinnen Haley und Goly Abivardi ist am Freitag an der New York Stock Exchange gestartet. Der Kurs fiel kurz nach Handelsbeginn zeitweise um mehr als 20 Prozent und schloss rund 8 Prozent unter dem Ausgabepreis. Laut SRF ergibt sich damit ein Börsenwert von knapp drei Milliarden Dollar, deutlich weniger als die vor dem Börsengang erhofften über vier Milliarden. Das Unternehmen mit rund 150 Mitarbeitenden entwickelt ein Verfahren zur Kariesbehandlung ohne Bohren und schreibt bisher Verluste.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/wirtschaft/boersengang-vvardis-swiss-smile-schwestern-mit-harter-landung-an-der-wall-street",
+          "published_at": "2026-11-14T02:06:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "finanzen.ch",
+          "url": "https://www.finanzen.ch/nachrichten/aktien/vvardis-taucht-zum-start-an-der-us-boerse-unter-ausgabepreis-1036762843",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/wirtschaft-vvardis-boersengang-1024-r01.jpg",
+        "alt": "Stilisierter Zahn neben einer Kurslinie, die zuerst abfällt und dann flach verläuft, dahinter Hochhaus-Silhouetten (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-listerien-rueckruf",
+      "section": "Gesellschaft",
+      "headline": "Listerien: Aldi ruft Pouletfilets zurück, Bund prüft Häufung von Fällen",
+      "summary": "Aldi Suisse hat Mini-Hähnchenbrust-Filetstücke (Sorten Classic, Curry und Paprika, 150 g) wegen Listerien aus dem Verkauf genommen; das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) rät vom Konsum ab. Betroffen sind Packungen mit Mindesthaltbarkeitsdaten zwischen dem 14. und 30. November aus allen Filialen. Unabhängig davon klärt der Bund einen möglichen Zusammenhang zwischen Listerien in Weichkäsen zweier Ostschweizer Hersteller und 14 Listeriose-Fällen seit Ende August ab; die meisten Betroffenen wurden hospitalisiert, eine Person starb. Ein endgültiger Nachweis des Zusammenhangs steht laut Bundesamt für Gesundheit noch aus.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/konsum-nicht-empfohlen-warnung-listerien-in-mini-pouletfilets-bei-aldi",
+          "published_at": "2026-11-13T19:40:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/thurgau-bag-meldet-14-listeriosefaelle-eine-person-verstorben-103666240",
+          "published_at": "2026-11-12T16:15:04+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/gesellschaft-listerien-rueckruf-1024-r01.jpg",
+        "alt": "Kühlregal mit generischen Lebensmittelpackungen, eine Packung mit Warndreieck markiert, daneben ein Mikroskop (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-falsche-apothekerin",
+      "section": "Gesellschaft",
+      "headline": "Von Europol gesuchte falsche Apothekerin arbeitete in der Schweiz",
+      "summary": "Eine Spanierin, die seit August auf der Europol-Liste der meistgesuchten Personen steht, lebt laut einer Recherche von «Arcinfo» unbehelligt im Kanton Neuenburg. Mit einem gefälschten, in der Schweiz nie anerkannten Apothekerdiplom wurde sie 2023 und 2024 von vier Arbeitgebern in Lausanne, Bern, Basel und Neuenburg angestellt, teils ohne dass die Anerkennung durch den Bund abgewartet wurde. Trotz zweier Verurteilungen in der Schweiz, unter anderem wegen Urkundenfälschung, ist sie auf freiem Fuss; ein Europol-Eintrag bedeutet nicht automatisch einen internationalen Haftbefehl. Ein Arbeitgeber hat den Fall der Staatsanwaltschaft übergeben.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/neuenburg-europol-sucht-falsche-apothekerin-sie-arbeitet-in-der-schweiz-103666938",
+          "published_at": "2026-11-13T19:22:54+01:00",
+          "updated_at": "2026-11-13T19:22:54+01:00"
+        },
+        {
+          "name": "Arcinfo (Französisch, Paywall möglich)",
+          "url": "https://www.arcinfo.ch/neuchatel-canton/recherchee-en-europe-cette-fausse-pharmacienne-vit-dans-le-canton-de-neuchatel-et-a-pu-se-faire-engager-dans-plusieurs-cantons-1521399",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/gesellschaft-falsche-apothekerin-1024-r01.jpg",
+        "alt": "Apothekentheke mit Medikamentenflaschen und einem gerahmten, gesprungenen Diplom unter einer Lupe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-solothurn-domherren",
+      "section": "Zürich & Regionen",
+      "headline": "Solothurn kürzt Beiträge an die Löhne der Domherren",
+      "summary": "Der Solothurner Regierungsrat kürzt ab dem 1. Dezember die kantonalen Beiträge an die Löhne der Domherren des Bistums Basel; das Sparpotenzial beziffert er auf rund 40'000 Franken pro Jahr. Wirksam wird die Kürzung erst bei neuen Amtsinhabern, weil die aktiven Domherren eine Besitzstandsgarantie haben. Das Kantonsparlament hatte eigentlich verlangt, die Zahlungen aus dem Bistumsvertrag von 1824 ganz einzustellen, 2025 rund 560'000 Franken; laut einem Bericht ist der Vertrag ohne Kündigungsklausel aber nur mit Zustimmung aller zehn Bistumskantone und des Vatikans auflösbar. Die Regierung will nun prüfen, Rechte und Pflichten schrittweise an die Synode zu übertragen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/historischer-vertrag-solothurner-regierungsrat-will-loehne-von-domherren-kuerzen",
+          "published_at": "2026-11-13T18:06:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/regionen-solothurn-domherren-1024-r01.jpg",
+        "alt": "Silhouette einer barocken Kathedrale, davor eine Waage mit Münzen auf der einen und einer alten versiegelten Urkunde auf der anderen Seite (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-davos-wohnungen",
+      "section": "Zürich & Regionen",
+      "headline": "Davos stimmt über Einschränkung von Zweitwohnungs-Umwandlungen ab",
+      "summary": "In Davos entscheidet die Stimmbevölkerung am 29. November über den sogenannten «Wohnungskompromiss», der die Umwandlung von Erst- in Zweitwohnungen erschweren soll. Bei Gebäuden mit mindestens vier altrechtlichen Wohnungen, die neu gebaut, umfassend saniert oder in Stockwerkeigentum umgewandelt werden, müssten künftig mindestens 50 Prozent der Wohnfläche Erstwohnraum bleiben; die Hälfte davon könnte mit 4500 Franken pro Quadratmeter abgegolten werden. Laut Abstimmungsbotschaft stieg der Zweitwohnungsanteil seit 2017 von 56 auf 58,9 Prozent, die Leerwohnungsziffer liegt bei 0,1 Prozent. Die Vorlage geht auf eine Volksinitiative mit 835 Unterschriften zurück und ist das Ergebnis von Gesprächen zwischen Gemeinderegierung und Initiativkomitee.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/abstimmung-gemeinde-davos-wohnung-in-ferienwohnung-umwandeln-das-soll-schwieriger-werden",
+          "published_at": "2026-11-13T18:53:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/davos-gr-will-zweitwohnungs-umwandlung-einschr%C3%A4nken/92356682",
+          "published_at": "2026-11-10T11:37:05+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/regionen-davos-wohnungen-1024-r01.jpg",
+        "alt": "Alpendorf mit Wohnblöcken, die Hälfte der Fenster warm beleuchtet, die andere Hälfte dunkel mit geschlossenen Läden, dahinter verschneite Gipfel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-sbb-blackout-test",
+      "section": "Verkehr & Wetter",
+      "headline": "SBB testen Bahnstrom-Blackout im Tessin",
+      "summary": "Die SBB haben in der Nacht auf Freitag im Tessin absichtlich den Bahnstrom abgeschaltet, um ein neues System zum raschen Wiederaufbau des Netzes zu testen. Rund zwanzig Züge blieben stehen, darunter ein Güterzug im Gotthard-Basistunnel; nach etwa drei Minuten floss der Strom wieder und die Züge konnten weiterfahren. Laut SBB Energie soll ein Blackout mit dem neuen System höchstens fünf Minuten dauern. Hintergrund ist der landesweite Bahnstromausfall vom 22. Juni 2005, bei dem rund 2000 Züge während dreieinhalb Stunden stillstanden.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
+          "published_at": "2026-11-13T22:01:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/verkehr-sbb-blackout-test-1024-r01.jpg",
+        "alt": "Roter Elektrozug nachts unter Fahrleitungen, daneben ein Ein-Aus-Symbol und eine Stoppuhr, im Hintergrund Berge (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-wochenende-sonne-nebel",
+      "section": "Verkehr & Wetter",
+      "headline": "Sonniges Wochenende, danach wieder Regen",
+      "summary": "Das Wochenende bringt in weiten Teilen der Schweiz überwiegend sonniges Wetter; am Samstagvormittag ist im Flachland mit Nebel oder Hochnebel zu rechnen. Die Höchstwerte liegen im Flachland bei rund 5 bis 10 Grad, gleichzeitig steigt die Schneefallgrenze wegen drehender Winde auf etwa 2000 Meter. Am Sonntag kann Föhn in den Alpentälern höhere Temperaturen bringen. Ab Wochenbeginn wird es laut den Prognosen wieder überwiegend bewölkt und regnerisch.",
+      "sources": [
+        {
+          "name": "Nau.ch",
+          "url": "https://www.nau.ch/news/schweiz/sonnenstrahlen-am-wochenende-dann-kommt-der-regen-zuruck-67201817",
+          "published_at": "2026-11-13T17:29:52+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/wetter/wochenendwetter-samstag-sonne-sonntag-foehn/ds3kb1d",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/wetter-wochenende-sonne-nebel-1024-r01.jpg",
+        "alt": "Schweizer Mittellandlandschaft mit Nebelmeer im Tal und Sonne darüber, verschneite Gipfel über der Nebelgrenze (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-nati-liga-a",
+      "section": "Sport",
+      "headline": "Nati steigt nach 0:0 in Slowenien in die Liga A auf",
+      "summary": "Die Schweizer Fussball-Nationalmannschaft hat in der Nations League in Maribor 0:0 gegen Slowenien gespielt und damit den Wiederaufstieg in die Liga A vorzeitig gesichert. Die Partie war chancenarm; die beste Schweizer Möglichkeit vergab Dan Ndoye in der 80. Minute, ein Tor der Slowenen wurde wegen Abseits aberkannt. In der ersten Halbzeit musste das Spiel mehrere Minuten unterbrochen werden, weil der Funk des Schiedsrichters ausfiel. Zum Abschluss der Kampagne trifft das Team von Murat Yakin am Montag in St. Gallen auf Schottland.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/maues-spiel-in-nations-league-minimalistische-nati-steigt-nach-einem-0-0-in-slowenien-auf",
+          "published_at": "2026-11-13T22:54:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps (Französisch)",
+          "url": "https://www.letemps.ch/sport/football/en-slovenie-l-equipe-de-suisse-obtient-le-point-qu-elle-etait-venue-chercher",
+          "published_at": "2026-11-13T23:48:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/sport-nati-liga-a-1024-r01.jpg",
+        "alt": "Fussball auf der obersten Stufe einer stilisierten Steintreppe auf einem Rasen, davor ein mit Kreide gezeichneter Pfeil nach oben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "sport-frauen-hockey-wm",
+      "section": "Sport",
+      "headline": "Eishockey-Frauen scheiden im WM-Viertelfinal gegen Schweden aus",
+      "summary": "Die Schweizer Eishockey-Nationalmannschaft der Frauen hat den WM-Viertelfinal in Esbjerg gegen Schweden mit 0:1 verloren. Das einzige Tor erzielte Sara Hjalmarsson in der 35. Minute mit einem Ablenker. Schweden war mit 25 zu 9 Torschüssen überlegen, die Schweizerinnen hielten das Spiel mit einem starken Unterzahlspiel lange offen. Damit endet die WM für das Team von Shannon Miller, das an den Olympischen Spielen Bronze gewonnen hatte, ohne Medaille.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-viertelfinal-eishockey-nati-der-frauen-scheitert-an-schweden",
+          "published_at": "2026-11-13T21:32:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/sport/eishockey/493301350-eishockey-wm-die-schweizerinnen-unterliegen-schweden-im-viertelfinal",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-14-morning/sport-frauen-hockey-wm-1024-r01.jpg",
+        "alt": "Eishockeypuck und zwei gekreuzte Schläger auf leerem Eis vor einem Tor, an der Bande hängt ein rot-weisser Schal (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-14-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-14T06:54:00+01:00",
+    "ready_at": "2026-11-14T07:15:08+01:00",
+    "content_hash": "sha256:b59681d5672dd391b2459d958fe5d7a2b915fdca89d52bbe0fc30378660db47b",
+    "image_rights": {
+      "politik-swissness-schweizerkreuz": {
+        "rights": "ai_generated_own"
+      },
+      "politik-e-voting-post-swisscom": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-richemont-halbjahr": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-vvardis-boersengang": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-listerien-rueckruf": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-falsche-apothekerin": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-solothurn-domherren": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-davos-wohnungen": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-sbb-blackout-test": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-wochenende-sonne-nebel": {
+        "rights": "ai_generated_own"
+      },
+      "sport-nati-liga-a": {
+        "rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-swissness-schweizerkreuz": {
+        "path": "media/politik-swissness-schweizerkreuz-1024-r01.jpg",
+        "sha256": "15cdcbdc9563f72ee94a1c925069a0cec12a3c7fd1cdad2b210b47a0a05381b0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/383178a477c627c0c25ace1a1c2c50662ae9fcf93c7814a031e23f478bb2d841.jpg",
+        "original_sha256": "383178a477c627c0c25ace1a1c2c50662ae9fcf93c7814a031e23f478bb2d841",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-e-voting-post-swisscom": {
+        "path": "media/politik-e-voting-post-swisscom-1024-r01.jpg",
+        "sha256": "52ecfefb336c3e6b8bee23c270d766830f9e1ed34b9633dc6b94d33d7ce1fe1b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c18a9f668bcce97eb009cf2f54aff72ee7a5bcd3403ca7eeab0c4121197ca861.jpg",
+        "original_sha256": "c18a9f668bcce97eb009cf2f54aff72ee7a5bcd3403ca7eeab0c4121197ca861",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-richemont-halbjahr": {
+        "path": "media/wirtschaft-richemont-halbjahr-1024-r01.jpg",
+        "sha256": "69e6f3d5db929202db09064ea6356e307bc6889e95181f56b93dc241c9ac7899",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c33addbaeb2470cbc499c0cd50f1b493a74e6ad336148c3dcc7b6a7708b612a0.jpg",
+        "original_sha256": "c33addbaeb2470cbc499c0cd50f1b493a74e6ad336148c3dcc7b6a7708b612a0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-vvardis-boersengang": {
+        "path": "media/wirtschaft-vvardis-boersengang-1024-r01.jpg",
+        "sha256": "b18c9e1270bd28c30a1edb5996764173ceaf04af5ef78fc41fda969776dbc2f0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fa2d1a6b0b8dbd6ee5ffea14b0c4c920d7fb7e5f6ff880a21441fc33acdda126.jpg",
+        "original_sha256": "fa2d1a6b0b8dbd6ee5ffea14b0c4c920d7fb7e5f6ff880a21441fc33acdda126",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-listerien-rueckruf": {
+        "path": "media/gesellschaft-listerien-rueckruf-1024-r01.jpg",
+        "sha256": "575c39e4730b077d8c97a2f79fc21ba595b020a71ebcd0a33749609b30a1bf61",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fb957c0a7886de1a4ee8aa58b6c92f4b07e8a11d7af3985e25a1c8a6b5765fd7.jpg",
+        "original_sha256": "fb957c0a7886de1a4ee8aa58b6c92f4b07e8a11d7af3985e25a1c8a6b5765fd7",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-falsche-apothekerin": {
+        "path": "media/gesellschaft-falsche-apothekerin-1024-r01.jpg",
+        "sha256": "1c389bb5f3c51ccf0ffc696f9e5d1d34127e3ee010e146e4b68dd6e78457f603",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ca1bf83081a781a271c79e3822ff421294fa689c2860df722aa433d653071f56.jpg",
+        "original_sha256": "ca1bf83081a781a271c79e3822ff421294fa689c2860df722aa433d653071f56",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-solothurn-domherren": {
+        "path": "media/regionen-solothurn-domherren-1024-r01.jpg",
+        "sha256": "6559fc635072502ae8c6279b611d7dafd79b3494eb96a040be56da40d7e9f52f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/107217156f2adfcb7a83e4a6fdc99a3476740b071ded06967a99376154069838.jpg",
+        "original_sha256": "107217156f2adfcb7a83e4a6fdc99a3476740b071ded06967a99376154069838",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-davos-wohnungen": {
+        "path": "media/regionen-davos-wohnungen-1024-r01.jpg",
+        "sha256": "52aaf72ad89695433670bddebc735eded67e6533b92cf9d9b823ebcffc4ecd77",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/789009db9cfbe418f812b7c04bc83b328a176edcafb80725d291c610a79f62b2.jpg",
+        "original_sha256": "789009db9cfbe418f812b7c04bc83b328a176edcafb80725d291c610a79f62b2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-sbb-blackout-test": {
+        "path": "media/verkehr-sbb-blackout-test-1024-r01.jpg",
+        "sha256": "0710791cbc097dfa7791b933a187ce343ac5ce0341edbff0f25ed5207de5ce97",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7d7923a1760cb5dbfc587824e58235169c0ffffea91cc85a4b78d334767c163d.jpg",
+        "original_sha256": "7d7923a1760cb5dbfc587824e58235169c0ffffea91cc85a4b78d334767c163d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-wochenende-sonne-nebel": {
+        "path": "media/wetter-wochenende-sonne-nebel-1024-r01.jpg",
+        "sha256": "2a696e1fcf3e35dc74d1fe354411138cf02a1fffb6c50d76de814f9045de37e7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/baa48d53941049d6b5822083493f11039bf96de3ab07837507698e1d85e20475.jpg",
+        "original_sha256": "baa48d53941049d6b5822083493f11039bf96de3ab07837507698e1d85e20475",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-nati-liga-a": {
+        "path": "media/sport-nati-liga-a-1024-r01.jpg",
+        "sha256": "664d3cc0971712acce8c67b81997cd562e2ba7611ce52a20c6354ec36e1f4e18",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b75bf5cb5f019f04ea0baa0c177aaac22825b7e371a2678fa47be3f1ce28f771.jpg",
+        "original_sha256": "b75bf5cb5f019f04ea0baa0c177aaac22825b7e371a2678fa47be3f1ce28f771",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-frauen-hockey-wm": {
+        "path": "media/sport-frauen-hockey-wm-1024-r01.jpg",
+        "sha256": "7b6e8ec7f4d4d435b25dd6ae7917dc232eb44e51cb8c4fea2e38fb666c89ef17",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-14T06:53:42+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-14",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-14 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cb0e7f941f56e2ca7615bcd4dd1f3375eac671ccacc6a330320d1b210c12b7d0.jpg",
+        "original_sha256": "cb0e7f941f56e2ca7615bcd4dd1f3375eac671ccacc6a330320d1b210c12b7d0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
