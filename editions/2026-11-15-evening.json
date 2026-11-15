@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-15T18:00:00+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-kriegsmaterial-alt-bundesraete",
+      "section": "Politik",
+      "headline": "Drei alt Bundesräte werben für revidiertes Kriegsmaterialgesetz",
+      "summary": "Die früheren Verteidigungsminister Kaspar Villiger (FDP), Adolf Ogi und Samuel Schmid (beide damals SVP) unterstützen im «SonntagsBlick» die Revision des Kriegsmaterialgesetzes, über die am 29. November abgestimmt wird. Sie argumentieren, eine leistungsfähige Armee brauche eine einheimische Rüstungsindustrie, die wegen des kleinen Heimmarkts auf Exporte angewiesen sei; die heutige restriktive Praxis gefährde deren Existenz und erschwere auch Waffenimporte. Die Linke bekämpft die Vorlage, weil sie befürchtet, dass Schweizer Waffen vermehrt in Kriegsgebieten eingesetzt werden. Neu in die Debatte eingeflossen sind am Wochenende auch Recherchen über Schweizer Munition, die in Russland und bei einem brasilianischen Kartell aufgetaucht ist; das Seco prüft die Fälle.",
+      "sources": [
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/politik/villiger-ogi-und-schmid-schalten-sich-ein/2gyt4le",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/politik-kriegsmaterial-alt-bundesraete-1024-r01.jpg",
+        "alt": "Drei leere Holzstühle vor einer grauen Urne, daneben ein kleines Fabrikgebäude und eine Balkenwaage (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "wirtschaft-booking-sammelklage",
+      "section": "Wirtschaft",
+      "headline": "Rund 800 Schweizer Hotels klagen gegen Booking.com",
+      "summary": "Rund 800 Schweizer Hotelbetriebe beteiligen sich an einer europäischen Sammelklage gegen die Buchungsplattform Booking.com, wie HotellerieSuisse am Sonntag mitteilte. Insgesamt verlangen 18'135 Betriebe vor einem Gericht in Amsterdam Schadenersatz für sogenannte Paritätsklauseln, die Booking.com zwischen 2004 und 2024 verwendete und die Hotels daran hinderten, Zimmer anderswo günstiger anzubieten. In der Schweiz sind solche Klauseln seit Dezember 2022 verboten; die Kläger machen geltend, sie hätten schon vorher gegen das Wettbewerbsrecht verstossen. Die Höhe der Forderung wurde nicht beziffert, HotellerieSuisse verlangt zudem strengere Regeln für Buchungsplattformen.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/schadenersatz-gefordert-800-schweizer-hotels-ziehen-gegen-booking-vor-gericht-103667931",
+          "published_at": "2026-11-15T13:14:46+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Nau.ch",
+          "url": "https://www.nau.ch/news/schweiz/streit-mit-bookingcom-schweizer-hotels-fordern-schadenersatz-67202326",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/wirtschaft-booking-sammelklage-1024-r01.jpg",
+        "alt": "Hotelgebäude, ein Stapel Akten mit Richterhammer und ein Laptop mit Buchungskalender (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-livigno-stausee",
+      "section": "Wirtschaft",
+      "headline": "Livigno will Stausee mit einem Wall teilen – Engadiner Kraftwerke skeptisch",
+      "summary": "Die italienische Gemeinde Livigno möchte im Lago di Livigno einen rund 500 Meter langen und 24 Meter hohen Wall bauen, damit der Ort ganzjährig ein Seeufer hat. Den Stausee betreiben die Engadiner Kraftwerke (EKW) seit 1968; die Wasserrechte beruhen auf einem Staatsvertrag zwischen der Schweiz und Italien von 1967. EKW-Direktor Giacum Krüger rechnet bei einer Umsetzung mit Einbussen bei der Stromproduktion und sieht wenig Chancen für das Projekt, will es aber vertieft prüfen. Hintergrund sind die Konzessionsverträge, die 2043 erneuert werden müssen.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/dialog/lago-di-livigno-warum-aus-einem-see-zwei-werden-sollen",
+          "published_at": "2026-11-15T14:59:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTR (Rätoromanisch)",
+          "url": "https://www.rtr.ch/novitads/grischun/engiadina/livigno-ord-in-lai-duai-dar-dus-lais",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/wirtschaft-livigno-stausee-1024-r01.jpg",
+        "alt": "Alpiner Stausee mit Staumauer im Hintergrund, ein niedriger Wall teilt den See, am Ufer ein Dorf (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-drogenfund",
+      "section": "Zürich & Regionen",
+      "headline": "Über zwölf Kilogramm Drogen in Zürich und Dübendorf sichergestellt",
+      "summary": "Die Kantonspolizei Zürich hat bei einer Kontrolle in Zürich-Leimbach einen 34-jährigen Deutschen mit Kokain angehalten und festgenommen. In seiner Wohnung in Dübendorf fanden die Ermittler knapp neun Kilogramm Kokain, gut zwei Kilogramm Haschisch, knapp ein Kilogramm 2C-B, rund 60'000 Franken Bargeld sowie eine Seriefeuerwaffe und weitere Waffen. Auch seine 44-jährige Mitbewohnerin, ebenfalls deutsche Staatsangehörige, wurde festgenommen. Die Staatsanwaltschaft hat für beide Untersuchungshaft beantragt.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/kanton-zuerich-12-kilogramm-drogen-polizei-fasst-mutmassliche-dealer",
+          "published_at": "2026-11-15T16:29:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Kanton Zürich (Medienmitteilung)",
+          "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/11/261115b_zuerich_bm.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/regionen-zuerich-drogenfund-1024-r01.jpg",
+        "alt": "Asservatenbeutel, Geldscheine und eine Nummernmarke auf einem Tisch, von oben gesehen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-velostation-schaffhausen",
+      "section": "Zürich & Regionen",
+      "headline": "Schaffhauser Velostation aus wiederverwendeten Bauteilen",
+      "summary": "Beim Bahnhof Schaffhausen steht eine neue Velostation mit Platz für über 200 Velos, die weitgehend aus gebrauchten Bauteilen gebaut wurde. Verwendet wurden unter anderem der alte Helikopterlandeplatz des Kinderspitals Zürich als Fassadenelement, ausgediente Eisenbahnschienen und Fahrleitungsmasten der SBB als Stahlträger sowie Bleche alter Buswartehäuschen fürs Dach. Bauherren sind die Stadt Schaffhausen und die SBB, die das Projekt als Pilot für zirkuläres Bauen («Re-Use») verstehen. Für Architekt Manuel Bergamini war es das erste grössere Projekt dieser Art.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/neue-velostation-schaffhausen-in-diesem-neubau-hat-fast-jedes-bauteil-ein-leben-hinter-sich",
+          "published_at": "2026-11-15T17:07:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/regionen-velostation-schaffhausen-1024-r01.jpg",
+        "alt": "Veloabstellanlage mit Zickzackdach aus wiederverwendetem Stahl, an der Fassade ein Helikopterlandeplatz-Zeichen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-atemwegsinfekte",
+      "section": "Gesellschaft",
+      "headline": "Deutlich mehr Arztbesuche wegen Atemwegsinfekten",
+      "summary": "In der Woche vom 2. bis 8. November stieg die hochgerechnete Zahl der Erstkonsultationen wegen akuter Atemwegsinfektionen laut dem Sentinella-Meldesystem des BAG von rund 107 auf 158 pro 100'000 Einwohner, ein Plus von knapp 48 Prozent. Laut BAG zirkulieren Corona-, Grippe- und RS-Viren, wobei die Corona-Aktivität weiter steigt; im Abwasser dominiert die Variante XFG, für die es laut WHO keine Hinweise auf schwerere Verläufe gibt. Die Grippeaktivität ist noch tief, die Grippewelle beginnt erfahrungsgemäss im Dezember oder Januar. Trotz Lieferverzögerungen bei einzelnen Grippeimpfstoffen ist laut Pharmasuisse insgesamt genügend Impfstoff vorhanden.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/influenza-corona-rsv-gefuehlt-sind-grad-alle-krank-welche-viren-wo-und-wie-stark-wueten-103666755",
+          "published_at": "2026-11-15T13:28:48+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/gesellschaft-atemwegsinfekte-1024-r01.jpg",
+        "alt": "Taschentuchbox, Fiebermesser, Teetasse und ein Probenröhrchen neben einer steigenden Kurve (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-gastro-lehre",
+      "section": "Gesellschaft",
+      "headline": "Ostschweizer Gastrobranche will Lehrabbrüche verhindern",
+      "summary": "Im Gastgewerbe und Catering werden laut Bundeszahlen rund 37 Prozent der Lehrverträge vorzeitig aufgelöst, deutlich mehr als in anderen Branchen. In der Ostschweiz begleitet deshalb seit diesem Sommer ein Lehrverbund der Stiftung Sapere als Pilotprojekt Lernende und Ausbildungsbetriebe; Bildungscoaches helfen bei der Planung und vermitteln bei Konflikten. Gastro-St.-Gallen-Präsident Walter Tobler sagt, das Problem liege nicht nur bei den Lernenden, sondern auch bei der Branche. Die Teilnahme ist im ersten Jahr kostenlos, langfristig soll sich das Angebot selbst finanzieren.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/ueber-ein-drittel-hoert-auf-viele-lehrabbrueche-gastro-nimmt-sich-selbst-in-die-pflicht",
+          "published_at": "2026-11-15T07:28:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/gesellschaft-gastro-lehre-1024-r01.jpg",
+        "alt": "Lernende in einer Profiküche, daneben ein Ausbildner am Schneidebrett (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-buchpreis",
+      "section": "Gesellschaft",
+      "headline": "Sarah Elena Müller gewinnt den Schweizer Buchpreis 2026",
+      "summary": "Der Schweizer Buchpreis 2026 geht an Sarah Elena Müller für ihren Roman «Unwucht». Das Buch erzählt von einer zerstörerischen Beziehung zwischen einer Musikerin und einem drogenabhängigen Partner und fragt, wem die gemeinsame Vergangenheit gehört. Müller war zum zweiten Mal für den Preis nominiert. Es ist die 19. Vergabe der Auszeichnung.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/kultur/literatur/schweizer-buchpreis-2026-sarah-elena-mueller-gewinnt-mit-unwucht-den-schweizer-buchpreis",
+          "published_at": "2026-11-15T11:58:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/sarah-elena-m%C3%BCller-erh%C3%A4lt-f%C3%BCr-%22unwucht%22-den-19.-schweizer-buchpreis/92384136",
+          "published_at": "2026-11-15T13:43:20+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/gesellschaft-buchpreis-1024-r01.jpg",
+        "alt": "Gebundenes Buch mit Auszeichnungsrosette auf einem Tisch, im Hintergrund ein Rad (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-eth-muskelroboter",
+      "section": "Gesellschaft",
+      "headline": "ETH-Forschende bauen Mini-Roboter mit gezüchteten Muskeln",
+      "summary": "Forschende der ETH Zürich entwickeln winzige biohybride Roboter, die von im Labor gezüchteten Muskelzellen von Mäusen angetrieben werden. Die Muskeln sitzen auf einem Kunststoffgerüst und ziehen sich bei einem elektrischen Signal zusammen; die Roboter können so springen, schwimmen und greifen, bisher aber nur in einem Nährbad. Mit einer neuen Bauweise wurden die Bewegungen um das Elffache vergrössert, an die Kraft natürlicher Muskeln reichen sie noch nicht heran. Als Nächstes will das Team um Robotikprofessor Robert Katzschmann grössere, von Kanälen durchzogene Muskeln züchten.",
+      "sources": [
+        {
+          "name": "SRF (RTS)",
+          "url": "https://www.srf.ch/news/dialog/motor-der-zukunft-wo-heute-elektromotoren-surren-koennten-morgen-muskeln-zucken",
+          "published_at": "2026-11-15T16:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/gesellschaft-eth-muskelroboter-1024-r01.jpg",
+        "alt": "Kleiner Roboter mit rosa Muskelsträngen in einer Petrischale, dahinter ein Mikroskop (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-wetter-westwind",
+      "section": "Verkehr & Wetter",
+      "headline": "Wechselhafte und windige Woche, Neuschnee in den Bergen",
+      "summary": "Laut MeteoSchweiz wird es am Montag bewölkt mit zeitweisem Niederschlag, die Schneefallgrenze liegt bei 1400 bis 1700 Metern und am Alpennordhang fallen oberhalb von 1900 Metern bis 20 Zentimeter Neuschnee. Am Dienstag steigt die Schneefallgrenze vorübergehend auf rund 2500 Meter, in den Alpentälern weht starker Föhn, im Flachland werden rund 14 Grad erwartet. Mittwoch und Donnerstag bleiben wechselhaft mit Schauern und kräftigem, in den Bergen stürmischem Westwind. In Teilen Europas, etwa in Spanien, Portugal und auf dem Balkan, sind bis Mittwoch grosse Regenmengen möglich.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/wetter-kaltfront-trifft-europa-und-bringt-sturmboeen-und-starkregen-103667804",
+          "published_at": "2026-11-15T08:43:42+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/verkehr-wetter-westwind-1024-r01.jpg",
+        "alt": "Alpenlandschaft unter dunklen Wolken mit Windlinien, Regen im Tal und Neuschnee auf den Gipfeln (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-meillard-levi",
+      "section": "Sport",
+      "headline": "Loïc Meillard fährt im Slalom von Levi auf Rang 3",
+      "summary": "Loïc Meillard hat im Weltcup-Slalom von Levi nach Zwischenrang 8 mit einem starken zweiten Lauf den dritten Platz erreicht, 0,73 Sekunden hinter Sieger Lucas Pinheiro Braathen (Brasilien); Zweiter wurde Clément Noël (Frankreich). Für den Walliser ist es der 39. Podestplatz im Weltcup, nach Rang 2 in Sölden ein gelungener Saisonstart. Meillard widmete das Resultat seiner Schwester Mélanie, die sich am Vortag einen Kreuzbandriss zugezogen hatte.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/slalom-maenner-in-levi-meillard-bei-pinheiro-braathens-naechstem-triumph-auf-dem-podest",
+          "published_at": "2026-11-15T14:01:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/sport/ski/weltcup-slalom-in-levi-loic-meillard-faehrt-auf-den-dritten-platz-lucas-pinheiro-braathen-sichert-sich-sieg-ld.10064513",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/sport-meillard-levi-1024-r01.jpg",
+        "alt": "Silhouette eines Slalomfahrers zwischen roten und blauen Toren unter Flutlicht (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-nati-schottland",
+      "section": "Sport",
+      "headline": "Nati ohne Akanji gegen Schottland – Jubiläen für Freuler und Rodriguez",
+      "summary": "Manuel Akanji hat das Nationalteam wegen leichter körperlicher Beschwerden verlassen und fehlt im letzten Nations-League-Spiel am Montag (20.45 Uhr) in St. Gallen gegen Schottland. Bereits zuvor war Dan Ndoye zu seinem Klub zurückgereist; verletzt fehlen unter anderem Captain Granit Xhaka, Johan Manzambi und Miro Muheim. Remo Freuler bestreitet voraussichtlich als achter Schweizer sein 100. Länderspiel, Ricardo Rodriguez steht vor seinem 150. Einsatz – mehr hat nur Rekordspieler Xhaka (152). Der Aufstieg in die Liga A ist bereits gesichert.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/super-league/news-zur-schweizer-nati-leichte-beschwerden-akanji-reist-vorzeitig-ab",
+          "published_at": "2026-11-15T13:25:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/rodriguez-und-freuler-die-coole-socke-und-der-unscheinbare-feiern-jubilaeen",
+          "published_at": "2026-11-15T17:18:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-evening/sport-nati-schottland-1024-r01.jpg",
+        "alt": "Leeres Fussballstadion bei Nacht unter Flutlicht, ein Ball auf dem Anstosspunkt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-15-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-15T17:59:00+01:00",
+    "ready_at": "2026-11-15T18:00:00+01:00",
+    "content_hash": "sha256:bce08a497a7184c3c03216db6bd286d549cc2528fd1d87aa149f3c6a6c9b797b",
+    "image_rights": {
+      "politik-kriegsmaterial-alt-bundesraete": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-booking-sammelklage": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-livigno-stausee": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-drogenfund": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-velostation-schaffhausen": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-atemwegsinfekte": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-gastro-lehre": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-buchpreis": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-eth-muskelroboter": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-wetter-westwind": {
+        "rights": "ai_generated_own"
+      },
+      "sport-meillard-levi": {
+        "rights": "ai_generated_own"
+      },
+      "sport-nati-schottland": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-kriegsmaterial-alt-bundesraete": {
+        "path": "media/politik-kriegsmaterial-alt-bundesraete-1024-r01.jpg",
+        "sha256": "6a36cc6627e1da4858e1b4cc335c81c7d01ea98ce56a17cbe81489e54c4435f5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1ca8aadc32c4b54e8b2e7ee6913167d70adfd29a87c303b601784ea029748609.jpg",
+        "original_sha256": "1ca8aadc32c4b54e8b2e7ee6913167d70adfd29a87c303b601784ea029748609",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-booking-sammelklage": {
+        "path": "media/wirtschaft-booking-sammelklage-1024-r01.jpg",
+        "sha256": "c7483f8c8c95b0afcf7958d026c37dfbc28b8d9aac569619b695f2ac3e083042",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/026d4e7644e7be6243a0c28f6e3d284d4ad2a639bff08aeb7b27f8ff618b9d13.jpg",
+        "original_sha256": "026d4e7644e7be6243a0c28f6e3d284d4ad2a639bff08aeb7b27f8ff618b9d13",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-livigno-stausee": {
+        "path": "media/wirtschaft-livigno-stausee-1024-r01.jpg",
+        "sha256": "9f3ae95b2a9e251ade995fe2e3ff1c91ce4d69362c48ae69fbb5fc7e55293e3b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ed86fd656bb98db6bfa27e5f10c86ce91daff090cc7489114551542b8bdd8c0e.jpg",
+        "original_sha256": "ed86fd656bb98db6bfa27e5f10c86ce91daff090cc7489114551542b8bdd8c0e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-drogenfund": {
+        "path": "media/regionen-zuerich-drogenfund-1024-r01.jpg",
+        "sha256": "dad0e6bb492634425df53ea79b09f3dbc8be2c947bf3de7d1c14437afbca5d2c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d866bc98b61a0c0e9a4c02caa9350e6ab51bdfc1eb2d7aabb8950b8238ca67c2.jpg",
+        "original_sha256": "d866bc98b61a0c0e9a4c02caa9350e6ab51bdfc1eb2d7aabb8950b8238ca67c2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-velostation-schaffhausen": {
+        "path": "media/regionen-velostation-schaffhausen-1024-r01.jpg",
+        "sha256": "99ee95bcd001ed27a8e3acd746a1038e380309241d00e02902258c990a16d021",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/996bc8a491da8e4acdb94249c8dd3dc4347e429e56c964c07c788df2a53fefac.jpg",
+        "original_sha256": "996bc8a491da8e4acdb94249c8dd3dc4347e429e56c964c07c788df2a53fefac",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-atemwegsinfekte": {
+        "path": "media/gesellschaft-atemwegsinfekte-1024-r01.jpg",
+        "sha256": "e9eb878ae88a5a1e897f832ef08a2da063d823563d0d3c0a028a4f692a850ba9",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fba159994f9b869123f7a62a57a6dadafc57a643ba0435dd5ab4e1f49fe9d55e.jpg",
+        "original_sha256": "fba159994f9b869123f7a62a57a6dadafc57a643ba0435dd5ab4e1f49fe9d55e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-gastro-lehre": {
+        "path": "media/gesellschaft-gastro-lehre-1024-r01.jpg",
+        "sha256": "f5e1a649c50563c6919114535fbc65351e6977f3cdbfe2c03955aecc182bf139",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a6feed08880ae5fd9bede5d6660e0a7665af1dfeab5443c92239b62218e64a26.jpg",
+        "original_sha256": "a6feed08880ae5fd9bede5d6660e0a7665af1dfeab5443c92239b62218e64a26",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-buchpreis": {
+        "path": "media/gesellschaft-buchpreis-1024-r01.jpg",
+        "sha256": "e397b54408a72665c651056f5d4c78d879b0812224e8b2c801d2643177cb4196",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8b313ed3c2ce4f781929c3ed14f9b4e5605a0829208e3aa4fb7b92c831cdf6b0.jpg",
+        "original_sha256": "8b313ed3c2ce4f781929c3ed14f9b4e5605a0829208e3aa4fb7b92c831cdf6b0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-eth-muskelroboter": {
+        "path": "media/gesellschaft-eth-muskelroboter-1024-r01.jpg",
+        "sha256": "69d14731f6d0a1765c340fdf2bf856ab5854785f1440ad1bcda542927e50acc9",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4ef446a08789217ec637972b666c9baaa461508ba4fce3d248274f7aa94ba2da.jpg",
+        "original_sha256": "4ef446a08789217ec637972b666c9baaa461508ba4fce3d248274f7aa94ba2da",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-wetter-westwind": {
+        "path": "media/verkehr-wetter-westwind-1024-r01.jpg",
+        "sha256": "46cce5b8d773e801133e1121292ead1761de1dc145d7989ce910992d37dc9691",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/000a48c4bc23a828c71e5a951146bce063a02c8b264514ef812b1f815a7400e2.jpg",
+        "original_sha256": "000a48c4bc23a828c71e5a951146bce063a02c8b264514ef812b1f815a7400e2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-meillard-levi": {
+        "path": "media/sport-meillard-levi-1024-r01.jpg",
+        "sha256": "4ea2bcd57423b327e186e9ce6c0d97185c5517bccd4dbf2bbc40e3b2455064f0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/38b3077022eafcaa98a4a187dfc78e894a8aa832b13553bc5c03aee45c79eccc.jpg",
+        "original_sha256": "38b3077022eafcaa98a4a187dfc78e894a8aa832b13553bc5c03aee45c79eccc",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-nati-schottland": {
+        "path": "media/sport-nati-schottland-1024-r01.jpg",
+        "sha256": "97ac2b2cacf88eacf50ff68bd80fd051b602748cc5359fce93bc079fd8d586df",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T17:58:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/04195cba0331ba55d47dca21583567971e77f972e766a29307d794e0951a345a.jpg",
+        "original_sha256": "04195cba0331ba55d47dca21583567971e77f972e766a29307d794e0951a345a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
