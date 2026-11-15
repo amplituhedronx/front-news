@@ -1,0 +1,474 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-15T11:05:25+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-ruag-munition-export",
+      "section": "Politik",
+      "headline": "Schweizer Munition in Russland und bei Kartell in Brasilien aufgetaucht",
+      "summary": "Laut Recherchen der «NZZ am Sonntag» gelangten nach Beginn der russischen Vollinvasion in der Ukraine rund 110'000 Schuss Präzisionsmunition aus Thun nach Russland; russische Behörden registrierten 60'000 Schuss im Dezember 2022 und 50'000 im April 2023. Das Seco hatte den Export an einen slowenischen Händler bewilligt, der die Munition laut Dokumenten nach Kirgistan weiterverkaufte; der heutige Hersteller SwissP Defence betont, nie in ein sanktioniertes Land geliefert zu haben, und das Seco geht den Informationen nach. Die «SonntagsZeitung» berichtet zudem gestützt auf brasilianische Gerichtsakten, dass die Polizei 2018 und 2019 Ruag-Munition sicherstellte, die teils für das Drogenkartell Comando Vermelho in Rio bestimmt war; der Lieferweg ist ungeklärt, möglicherweise führte er über Paraguay. Beide Fälle fallen in die Debatte vor der Abstimmung vom 29. November über das revidierte Kriegsmaterialgesetz; die SP sieht ihre Warnungen bestätigt, SVP-Nationalrat Michael Götte nennt die Lieferungen illegal, hält aber an der Revision fest.",
+      "sources": [
+        {
+          "name": "NZZ am Sonntag (Paywall möglich)",
+          "url": "https://www.nzz.ch/schweiz/vom-berner-oberland-nach-moskau-schweizer-scharfschuetzenmunition-gelangt-illegal-nach-russland-ld.10060901",
+          "published_at": "2026-11-14T21:45:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/schweiz/brasilien/222272479-schweizer-ruag-munition-landet-bei-drogenkartell-in-rio",
+          "published_at": "2026-11-15T06:26:54+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/politik-ruag-munition-export-1024-r01.jpg",
+        "alt": "Holzkiste mit Patronen neben einer Weltkarte, darauf eine gestrichelte Route und eine Lupe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-eu-vertragspaket-2028",
+      "section": "Politik",
+      "headline": "Abstimmung über EU-Vertragspaket frühestens 2028",
+      "summary": "Das Parlament wird das Vertragspaket mit der EU in der Wintersession nicht mehr fertig beraten. Der Grund: Der Ständerat hat keine Sitzung eingeplant, um Differenzen mit dem Nationalrat zu bereinigen. Ständeratspräsident Stefan Engler (Mitte) verweist auf das überladene Programm mit Budget, Armeefinanzierung sowie Bundesrats- und Bundesgerichtswahlen. Der Nationalrat will seine Erstberatung trotzdem mit Zusatzsitzungen abschliessen. Wegen der eidgenössischen Wahlen im Herbst 2027 ist der Juni der letzte mögliche Abstimmungstermin des Jahres. Eine Volksabstimmung ist deshalb laut Bundeskanzlei frühestens 2028 möglich. SVP-Wahlkampfleiter Manuel Strupler zeigt sich erleichtert und hält eine gründliche Beratung für nötig.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/europapolitik-abstimmung-zum-eu-vertragspaket-kommt-wohl-fruehestens-2028",
+          "published_at": "2026-11-14T19:15:33+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/politik-eu-vertragspaket-2028-1024-r01.jpg",
+        "alt": "Bundeshaus, daneben ein Kalender, eine Sanduhr, EU-Sterne und eine Schweizer Fahne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-bundesratswahl-aeschi-kritik",
+      "section": "Politik",
+      "headline": "Bundesratswahl: Kritik an SVP-Kandidat Thomas Aeschi",
+      "summary": "Vor der Wahl der Nachfolge von Bundesrat Guy Parmelin stösst die Kandidatur von SVP-Fraktionschef Thomas Aeschi auf Widerspruch aus Justizkreisen. Laut «NZZ am Sonntag» halten ehemalige Oberrichter Aeschi wegen seines Umgangs mit der richterlichen Unabhängigkeit für ungeeignet, vor allem als möglichen Vorsteher des Justizdepartements. Dazu gehören Marianne Heer (FDP, Luzern) und Martin Burger (Zürich). Die Zeitung berichtet zudem, Aeschi habe seine Selbstdeklaration als Kandidat bereits am 20. Oktober unterschrieben. Beim Fristende am 23. Oktober hatte er öffentlich noch Bedenkzeit verlangt. SP-Nationalrätin Tamara Funiciello kritisiert in einem Video die Kandidaturen von Aeschi und Michael Graber scharf. Die NZZ schätzt Aeschis Chancen auf eine Nomination durch die SVP-Fraktion als gut ein. Gewählt wird in der Wintersession.",
+      "sources": [
+        {
+          "name": "NZZ am Sonntag (Paywall möglich)",
+          "url": "https://www.nzz.ch/schweiz/als-bundesrat-ungeeignet-alt-richter-warnen-vor-svp-kandidat-thomas-aeschi-ld.10060642",
+          "published_at": "2026-11-14T22:37:55+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/bundesratswahl-funiciello-attackiert-aeschi-ex-richter-warnen-vor-ihm-103667786",
+          "published_at": "2026-11-15T03:31:33+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/politik-bundesratswahl-aeschi-kritik-1024-r01.jpg",
+        "alt": "Verhandlungssaal mit Säulen, Richterbank, Waage und Holzhammer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-vorstossflut-ki",
+      "section": "Politik",
+      "headline": "Rekord bei parlamentarischen Vorstössen, KI als möglicher Treiber",
+      "summary": "National- und Ständeräte haben 2026 bereits rund 2900 Vorstösse eingereicht, so viele wie kaum je zuvor. Die Verwaltung kostet ein Vorstoss geschätzt im Schnitt 6120 Franken. Laut Berechnung des «Tages-Anzeigers» ergibt das rund 17,7 Millionen Franken. Die Zeitung nennt Künstliche Intelligenz als möglichen Treiber der Flut und spricht davon, das Parlament produziere mit KI «einen Haufen Schrott»; ein nicht repräsentativer Test der Zeitung mit einem KI-Werkzeug sollte zeigen, wie rasch sich Vorstösse formulieren lassen.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/vorstossflut-im-parlament-kostet-2026-bereits-17-7-mio-franken-704129158667",
+          "published_at": "2026-11-14T23:44:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/politik-vorstossflut-ki-1024-r01.jpg",
+        "alt": "Person an einem Schreibtisch vor einem hohen Stapel von Papierdokumenten, durchs Fenster ist das Bundeshaus zu sehen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-cs-greenpeace-ueberwachung",
+      "section": "Wirtschaft",
+      "headline": "Rohner soll Überwachung von Greenpeace persönlich angestossen haben",
+      "summary": "Laut der «SonntagsZeitung» gab der damalige CS-Verwaltungsratspräsident Urs Rohner nach einer Greenpeace-Protestaktion an der Generalversammlung 2017 persönlich die Anweisung, einen solchen Vorfall zu verhindern und «das Nötige zu unternehmen». Im Vorfeld der Generalversammlung 2018 folgte demnach ein umfangreiches Monitoring der Aktivisten, das über öffentlich zugängliche Informationen hinausging, unter anderem mit der Teilnahme an einer Veranstaltung und der Infiltration von Chat-Gruppen. Ein Mittelsmann stellte der Bank dafür unter einem internen Projektnamen 18'309 Franken in Rechnung. Im Antwortschreiben der Credit Suisse an die Finma vom Oktober 2019 wurden die Aktionen gegen Greenpeace laut der Zeitung vollständig verschwiegen; die Bank habe später eingeräumt, dass sie das Projekt hätte erwähnen müssen. Greenpeace Schweiz prüft die Rechtslage, und gegen Rohner liegt eine noch nicht rechtskräftige Strafverfügung des Eidgenössischen Finanzdepartements wegen falscher Auskünfte vor, die er bestreitet.",
+      "sources": [
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/wirtschaft/schweiz/831674478-urs-rohner-soll-persoenlich-beschattung-von-greenpeace-angeordnet-haben",
+          "published_at": "2026-11-15T04:55:19+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/credit-suisse-rohner-liess-greenpeace-ausspionieren-502667933329",
+          "published_at": "2026-11-14T23:50:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/wirtschaft-cs-greenpeace-ueberwachung-1024-r01.jpg",
+        "alt": "Klassisches Bankgebäude, davor Fernglas und Lupe, im Hintergrund Silhouetten vor einem Banner mit Blatt-Symbol (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-erklaervideo-alterswohnungen",
+      "section": "Zürich & Regionen",
+      "headline": "Bezirksrat stoppt Zürcher Erklärvideo zur Alterswohnungs-Initiative",
+      "summary": "Der Zürcher Bezirksrat hat die Stadt angewiesen, ihr Erklärvideo zur SVP-Initiative «Mehr Alterswohnungen in städtischen Liegenschaften» zu entfernen. Laut der Beschwerde stellte das Video die Initiative starrer dar, als sie ist. Der Text erlaubt Ausnahmen bei Liegenschaften, die nur mit unverhältnismässigem Aufwand altersgerecht umgebaut werden könnten, sofern die Quote anderswo ausgeglichen wird. Die Stadt hat das Video vom Netz genommen. Abgestimmt wird am 29. November über die Initiative und einen Gegenvorschlag des Gemeinderats.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/svp-rekurs-bezirksrat-stoppt-erklaervideo-zu-alterswohnungen-735581439546",
+          "published_at": "2026-11-14T18:02:24+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tsüri",
+          "url": "https://tsri.ch/a/stadt-zuerich-muss-video-zu-alterswohnungen-offline-nehmen",
+          "published_at": "2026-11-13T18:29:47+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/regionen-zuerich-erklaervideo-alterswohnungen-1024-r01.jpg",
+        "alt": "Videoplayer mit Pause-Zeichen und Stoppschild neben einem Briefumschlag, im Hintergrund eine ältere Person mit Gehstock vor einem Wohnhaus (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-postauto-linie-stgallen",
+      "section": "Zürich & Regionen",
+      "headline": "St. Gallen will Postautolinie zwischen Engelburg und Waldkirch streichen",
+      "summary": "Im Rahmen seiner Sparmassnahmen will der Kanton St. Gallen die Postautolinie 132 zwischen Engelburg und Waldkirch aufheben. Die Linie ist die einzige ÖV-Verbindung für Weiler wie Tannenberg. Sie wird unter anderem von Schulkindern und älteren Menschen genutzt, ist aber schwach ausgelastet. Der Waldkircher Gemeindepräsident Pirmin Strauss-Sutter warnt, ein ganzer Landstrich würde abgehängt, und die Gemeinde wehrt sich gegen den Abbau.",
+      "sources": [
+        {
+          "name": "watson",
+          "url": "https://www.watson.ch/schweiz/oev/554242996-postauto-schweiz-linie-zwischen-waldkirch-und-engelburg-soll-wegfallen",
+          "published_at": "2026-11-15T04:55:40+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/regionen-postauto-linie-stgallen-1024-r01.jpg",
+        "alt": "Gelbes Postauto auf einer Landstrasse im Regen, an einer Bushaltestelle warten zwei Personen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-matratzen-recycling",
+      "section": "Gesellschaft",
+      "headline": "Matratzen-Recycling aus dem Aargau soll schweizweit kommen",
+      "summary": "In der Schweiz werden jährlich rund eine Million Matratzen entsorgt, die meisten davon verbrannt. Die «Matratzen Allianz» testet seit einem Jahr im Aargau ein Sammel- und Recyclingsystem. Die Recyclinghöfe in Spreitenbach, Oftringen und Kölliken nehmen alte Matratzen an. In der Justizvollzugsanstalt Witzwil (BE) trennen Ausschaffungshäftlinge freiwillig Stoff, Schaumstoff und Sprungfedern, die danach wiederverwertet werden. Das Modell soll nun auf die ganze Schweiz ausgeweitet werden.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/pionierprojekt-alte-matratzen-neue-chancen-aargauer-projekt-macht-schule",
+          "published_at": "2026-11-14T21:15:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/gesellschaft-matratzen-recycling-1024-r01.jpg",
+        "alt": "Matratze, Stoffstapel und Sprungfedern in einem Kreislauf mit Pfeilen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-swiss-travel-id",
+      "section": "Verkehr & Wetter",
+      "headline": "Online-Check-in bei Swiss und Edelweiss ab Zürich nur noch mit Travel ID",
+      "summary": "Ab Montag, 16. November, verlangen Swiss und Edelweiss für das Online-Check-in ab Zürich ein Login mit der Travel ID der Lufthansa-Gruppe. Das Kundenkonto ist kostenlos und erfordert unter anderem Name, Geburtsdatum, E-Mail-Adresse und Passwort. Ohne Konto kann man weiterhin am Schalter oder am Automaten im Flughafen einchecken. Ausnahmen gelten etwa für Gruppenbuchungen und gewisse Buchungen über Reiseveranstalter. Bis Ende November gilt die Regel für alle Abflugregionen der Lufthansa-Gruppe.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/swiss-online-check-in-ab-16-november-nur-noch-mit-travel-id-ab-zuerich-103661155",
+          "published_at": "2026-11-03T16:25:41+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/verkehr-swiss-travel-id-1024-r01.jpg",
+        "alt": "Smartphone mit Ausweisfeldern und Bordkarte vor einem Flugzeugleitwerk mit Schweizerkreuz (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-zsc-zug-genoni",
+      "section": "Sport",
+      "headline": "Zug dreht Spiel beim ZSC, Genoni erreicht 1000 Spiele",
+      "summary": "Der EV Zug hat beim Leader ZSC Lions nach 0:2-Rückstand mit vier Toren im Schlussdrittel 4:2 gewonnen. Es ist die zweite Saisonniederlage der Zürcher. Zugs Goalie Leonardo Genoni bestritt dabei als erster Torhüter sein 1000. Spiel in der National League. Zudem siegte Schlusslicht Kloten in Freiburg, und Davos verlor in Pruntrut 3:6 gegen Ajoie.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-4-tore-im-schlussdrittel-zug-fuegt-dem-zsc-die-2-niederlage-zu",
+          "published_at": "2026-11-14T22:10:47+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/sport-zsc-zug-genoni-1024-r01.jpg",
+        "alt": "Eishockey-Eisfläche mit der Zahl 1000, davor eine Torhütermaske und ein Schläger (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-ponti-europarekord",
+      "section": "Sport",
+      "headline": "Noè Ponti schwimmt Europarekord über 200 m Delfin",
+      "summary": "Noè Ponti hat an den Kurzbahn-Schweizer-Meisterschaften in Lausanne über 200 m Delfin in 1:48,56 Minuten einen Europarekord aufgestellt. Er unterbot die bisherige Bestmarke des Italieners Alberto Razzetti um acht Hundertstel. Antoine Viquerat verbesserte den Schweizer Rekord über 50 m Brust auf 26,41 Sekunden. Triathletin Julie Derron wurde auf der T100-Tour in Dubai Dritte.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schwimmer-ponti-mit-europarekord-triathletin-derron-auf-podest",
+          "published_at": "2026-11-14T20:31:10+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-15-morning/sport-ponti-europarekord-1024-r01.jpg",
+        "alt": "Schwimmer in einem Bahnenbecken neben einer Stoppuhr, um ihn herum Spritzwasser (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-15-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-15T06:55:00+01:00",
+    "ready_at": "2026-11-15T11:05:25+01:00",
+    "content_hash": "sha256:a5140b7df5cb183ac0733e08fe8b7685d99e19d86b1945ee5f418203f8f2ba79",
+    "image_rights": {
+      "politik-ruag-munition-export": {
+        "rights": "ai_generated_own"
+      },
+      "politik-eu-vertragspaket-2028": {
+        "rights": "ai_generated_own"
+      },
+      "politik-bundesratswahl-aeschi-kritik": {
+        "rights": "ai_generated_own"
+      },
+      "politik-vorstossflut-ki": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-cs-greenpeace-ueberwachung": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-erklaervideo-alterswohnungen": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-postauto-linie-stgallen": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-matratzen-recycling": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-swiss-travel-id": {
+        "rights": "ai_generated_own"
+      },
+      "sport-zsc-zug-genoni": {
+        "rights": "ai_generated_own"
+      },
+      "sport-ponti-europarekord": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-ruag-munition-export": {
+        "path": "media/politik-ruag-munition-export-1024-r01.jpg",
+        "sha256": "da00d044a1730b5a48eb85371dfef4f3ab54674ab282355edf53d7b0032f90c6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dca39e7e0f3f4cf053945ae3b1230ea7af6917b72964c7a4fb02cbf6cd6673f8.jpg",
+        "original_sha256": "dca39e7e0f3f4cf053945ae3b1230ea7af6917b72964c7a4fb02cbf6cd6673f8",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-eu-vertragspaket-2028": {
+        "path": "media/politik-eu-vertragspaket-2028-1024-r01.jpg",
+        "sha256": "8017a8898ffefa646885a319f682f3a41ab580826be437196d295224c700c415",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0530cbb7b01ca7ed53280a3a9e9618be9d805bd90cfc9d1a97305286febb3c66.jpg",
+        "original_sha256": "0530cbb7b01ca7ed53280a3a9e9618be9d805bd90cfc9d1a97305286febb3c66",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-bundesratswahl-aeschi-kritik": {
+        "path": "media/politik-bundesratswahl-aeschi-kritik-1024-r01.jpg",
+        "sha256": "cc39a7458ffd21843bbca2a117368d4b59720ba4cfb57d3070cc5d35856d5d9f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c288dcf549c42ce7ce76f2ad22fc992d5970559c128e27bd9308efdc4ae6a9fd.jpg",
+        "original_sha256": "c288dcf549c42ce7ce76f2ad22fc992d5970559c128e27bd9308efdc4ae6a9fd",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-vorstossflut-ki": {
+        "path": "media/politik-vorstossflut-ki-1024-r01.jpg",
+        "sha256": "5c6f23ab2f901fec8374bdc54b4d33fabdda2df81f76303e0c5aa3d71e47fa49",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/5cb2bfb472bc46ef808757e1793f019625e5525300747386805f3ee805dc2d73.jpg",
+        "original_sha256": "5cb2bfb472bc46ef808757e1793f019625e5525300747386805f3ee805dc2d73",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-cs-greenpeace-ueberwachung": {
+        "path": "media/wirtschaft-cs-greenpeace-ueberwachung-1024-r01.jpg",
+        "sha256": "45b5364eb2eb777790814221f29423f5102cf2b02540b40b153950c9111195e8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1709be8f41ae8266926263cb82b61898145b9d7fe1dd5345c8fba5a84509131a.jpg",
+        "original_sha256": "1709be8f41ae8266926263cb82b61898145b9d7fe1dd5345c8fba5a84509131a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-erklaervideo-alterswohnungen": {
+        "path": "media/regionen-zuerich-erklaervideo-alterswohnungen-1024-r01.jpg",
+        "sha256": "3028f5220c367a4933d33af6ed89226d2bc5d738e17e02d3a1ab5d1afc27d78e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d68d112606b54a8aaaa33b90716e52cf9ecdc75e8a105af8d769b1324e5afba8.jpg",
+        "original_sha256": "d68d112606b54a8aaaa33b90716e52cf9ecdc75e8a105af8d769b1324e5afba8",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-postauto-linie-stgallen": {
+        "path": "media/regionen-postauto-linie-stgallen-1024-r01.jpg",
+        "sha256": "aa7eff7e26fe49cf54081352303713cb485ccc655fd94b2d02417e1b84819ac9",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fce3a97f6b2344afdb9e998a9cf958bdfcdb2c919fbe3ea0613850362b003e0b.jpg",
+        "original_sha256": "fce3a97f6b2344afdb9e998a9cf958bdfcdb2c919fbe3ea0613850362b003e0b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-matratzen-recycling": {
+        "path": "media/gesellschaft-matratzen-recycling-1024-r01.jpg",
+        "sha256": "8ca7082faa625c314ee5bfa53b9268d1640e14da14b7d7ef23ae17467f12b60a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dbfc0481dbca2c2bd8598f3dd4d2a4cea6b74f28e1ece983f6cc5aed95b3aa2e.jpg",
+        "original_sha256": "dbfc0481dbca2c2bd8598f3dd4d2a4cea6b74f28e1ece983f6cc5aed95b3aa2e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-swiss-travel-id": {
+        "path": "media/verkehr-swiss-travel-id-1024-r01.jpg",
+        "sha256": "0f5f7c2f16399731c117c3effc5023fbc1709e34c2d5d1d878469e1c28ba2379",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7d78be446610f5c2df7f9a722ecdccffa3ce123b60162085cd2972100318ede4.jpg",
+        "original_sha256": "7d78be446610f5c2df7f9a722ecdccffa3ce123b60162085cd2972100318ede4",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-zsc-zug-genoni": {
+        "path": "media/sport-zsc-zug-genoni-1024-r01.jpg",
+        "sha256": "f25aebeccc11c5f9e22da34c67223d478e8875fcc4ed3aa97c33d40d58b6d763",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/88dd89e4e098cdfb02403e880e172ce48a3f04a7c9354dea7c53a46fb2e8d6ab.jpg",
+        "original_sha256": "88dd89e4e098cdfb02403e880e172ce48a3f04a7c9354dea7c53a46fb2e8d6ab",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-ponti-europarekord": {
+        "path": "media/sport-ponti-europarekord-1024-r01.jpg",
+        "sha256": "5766a4e894bd608d07d8d39e559ee49464423af6789b9cd5bfe85dc14455e9f0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-15T07:01:40+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-15",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-15 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1f203552ce3017465ce1f673d54a671be06c77c1810c3fed0294369a6614d306.jpg",
+        "original_sha256": "1f203552ce3017465ce1f673d54a671be06c77c1810c3fed0294369a6614d306",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
