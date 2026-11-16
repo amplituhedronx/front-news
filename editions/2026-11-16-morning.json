@@ -1,0 +1,531 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-16T07:03:29+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-crans-montana-aufsichtsbeschwerde",
+      "section": "Politik",
+      "headline": "Crans-Montana: Opferanwalt verlangt Disziplinarverfahren gegen Walliser Amtsträger",
+      "summary": "Der Anwalt Sébastien Fanti, der 24 Opfer und Angehörige der Brandkatastrophe von Crans-Montana vertritt, hat beim Kanton Wallis eine dringende Aufsichtsbeschwerde eingereicht. Er verlangt, dass die Regierung bis zum 31. Dezember Verfahren gegen fünf Kantonsangestellte aus dem Brandschutz einleitet, weil seiner Ansicht nach Anfang Januar eine einjährige Frist für Disziplinarverfahren abläuft. Zudem soll der Kanton die Gemeinde Crans-Montana zu Verfahren gegen ihre Verantwortlichen auffordern oder einen unabhängigen Experten einsetzen. Der Kanton teilte mit, er analysiere die Beschwerde; die Staatsanwaltschaft ermittelt bisher nur gegen Gemeindevertreter und die Barbetreiber.",
+      "sources": [
+        {
+          "name": "NZZ (Abo)",
+          "url": "https://www.nzz.ch/schweiz/katastrophe-von-crans-montana-opfer-anwalt-warnt-vor-verjaehrung-fuer-kantonale-amtstraeger-ld.10062877",
+          "published_at": "2026-11-16T05:30:00+01:00",
+          "updated_at": "2026-11-16T05:52:01+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/politik-crans-montana-aufsichtsbeschwerde-1024-r01.jpg",
+        "alt": "Gebündelter Aktenstapel neben einer Sanduhr und einem Feuerlöscher-Symbol vor Bergsilhouette (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-kantonsfinanzen",
+      "section": "Politik",
+      "headline": "14 Kantone budgetieren für 2027 ein Defizit",
+      "summary": "Vierzehn Kantone rechnen im kommenden Jahr mit roten Zahlen, zwölf erwarten ein knapp ausgeglichenes Budget oder einen Überschuss, wie eine Übersicht von SRF zeigt. In vielen Kantonen wächst der Aufwand stärker als der Ertrag, vor allem wegen steigender Gesundheits- und Sozialausgaben; mehrere führen deshalb Spardebatten. Graubünden budgetiert ebenfalls ein Minus, verzichtet aber auf Sparmassnahmen, weil sein frei verfügbares Eigenkapital 2025 auf über 920 Millionen Franken gestiegen ist. Laut dem Ökonomen Roland Fischer (Hochschule Luzern) hängt dieses Polster stark von der Bewertung des Vermögens ab.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/klamme-kassen-warum-einige-kantone-sparen-muessen-und-andere-ueberhaupt-nicht",
+          "published_at": "2026-11-16T05:19:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/politik-kantonsfinanzen-1024-r01.jpg",
+        "alt": "Mehrere Sparschweine auf einer Flickenkarte, einige gesprungen und fast leer, eines gut gefüllt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-cop31-strom",
+      "section": "Politik",
+      "headline": "Klimakonferenz COP31: Zweite Woche mit Rösti, Ziel «35 bis 35» auf dem Tisch",
+      "summary": "An der Weltklimakonferenz im türkischen Antalya beginnt die zweite Verhandlungswoche, in der die Ministerinnen und Minister anreisen, darunter Bundesrat Albert Rösti. Der Schweizer Umweltbotschafter Felix Wertli erwartet nach den technischen Gesprächen der ersten Woche «harte und intensive Verhandlungen». Die Gastgeber wollen, dass bis 2035 35 Prozent der weltweit verbrauchten Energie Strom sind; heute ist es weniger als ein Viertel. Ob sich die Staaten auf dieses Ziel verpflichten, entscheidet sich bis zum Konferenzende.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/uno-klimakonferenz-strom-soll-kohle-oel-und-gas-ersetzen-35-prozent-ist-das-ziel",
+          "published_at": "2026-11-16T05:45:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/schweiz-erwartet-harte-zweite-verhandlungswoche-an-der-cop31/92383264",
+          "published_at": "2026-11-15T08:59:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/politik-cop31-strom-1024-r01.jpg",
+        "alt": "Erdkugel mit Stromstecker statt rauchendem Kamin, daneben Solarpanel und Windrad (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-puk-fussfesseln",
+      "section": "Zürich & Regionen",
+      "headline": "Zürich: Untersuchungshäftling sechs Tage mit Fussfesseln in der PUK",
+      "summary": "Ein 70-jähriger Untersuchungshäftling ist wegen Suizidgefahr in die Psychiatrische Universitätsklinik Zürich verlegt worden und trug dort laut Tages-Anzeiger sechs Tage lang auch nachts Fussfesseln, isoliert von anderen. Er erlitt dabei Einschnitte an den Knöcheln. Die Behörden räumen ein, dass die Haftbedingungen nicht korrekt waren und die Zuständigkeiten bisher nicht schriftlich geregelt waren. Sein Anwalt hat Strafanzeige eingereicht und verlangt eine Entschädigung.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/zuerich-mann-70-sechs-tage-mit-fussfessel-in-zuercher-puk-952502244108",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/regionen-puk-fussfesseln-1024-r01.jpg",
+        "alt": "Leere Ecke eines Spitalzimmers mit schlichtem Bett, auf dem Boden liegen geöffnete Fussfesseln (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-avdili-verurteilt",
+      "section": "Zürich & Regionen",
+      "headline": "Drohungen gegen FDP-Politiker Avdili: Absender verurteilt",
+      "summary": "Ein 32-jähriger Mann aus dem Kanton Schwyz ist per Strafbefehl rechtskräftig wegen Missbrauchs einer Fernmeldeanlage verurteilt worden. Er hatte den Stadtzürcher FDP-Präsidenten Përparim Avdili im Wahlkampf ums Stadtpräsidium ab dem 28. Februar 2026 über Instagram beschimpft und ihm und seiner Familie gedroht; Avdili sagte danach mehrere Auftritte ab. Die Polizei identifizierte den Absender innert drei Tagen. Er erhielt eine bedingte Geldstrafe von 30 Tagessätzen à 40 Franken, eine Busse von 300 Franken und muss 1250 Franken Verfahrenskosten tragen.",
+      "sources": [
+        {
+          "name": "Nau.ch",
+          "url": "https://www.nau.ch/news/schweiz/hass-im-wahlkampf-mann-bedroht-fdp-politiker-avdili-verurteilt-67202365",
+          "published_at": "2026-11-15T18:02:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/politik/drohungsfall-gegen-fdp-politiker-avdili-taeter-verurteilt/zcx7rg4",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/regionen-avdili-verurteilt-1024-r01.jpg",
+        "alt": "Smartphone mit wütenden Sprechblasen neben einem Richterhammer auf einem Blatt Papier (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-erstfeld-polizei",
+      "section": "Zürich & Regionen",
+      "headline": "Erstfeld UR: Mann erheblich verletzt, Verdächtiger festgenommen",
+      "summary": "In Erstfeld ist am Sonntag kurz nach 15.15 Uhr im Bereich Bärenbodenweg ein 35-jähriger Mann mit erheblichen Verletzungen aufgefunden und vom Rettungsdienst versorgt worden. Bei einer Nahfahndung nahm die Polizei in Bürglen einen 56-jährigen Mann fest, der ebenfalls verletzt war. Beide sind tschechische Staatsangehörige mit Wohnsitz im Kanton Uri. Tathergang und Motiv werden von der Kantonspolizei Uri unter Leitung der Staatsanwaltschaft untersucht.",
+      "sources": [
+        {
+          "name": "Nau.ch (Mitteilung Kapo Uri)",
+          "url": "https://www.nau.ch/ort/altdorf-ur/erstfeld-ur-mann-35-erheblich-verletzt-56-jahriger-festgenommen-67202443",
+          "published_at": "2026-11-15T20:38:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/mann-bei-gewalttat-in-uri-erheblich-verletzt/92385658",
+          "published_at": "2026-11-15T20:41:03+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/regionen-erstfeld-polizei-1024-r01.jpg",
+        "alt": "Bergdorf in der Abenddämmerung, im Vordergrund ein blaues Warnlicht, keine Personen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-migros-fusion",
+      "section": "Wirtschaft",
+      "headline": "Migros-Fusion: Regionalchefs verlieren ihre Funktion",
+      "summary": "Mit der am 26. Oktober angekündigten Fusion aller zehn Migros-Regionalgenossenschaften und der Zentrale zu einer einzigen Gruppengenossenschaft fallen die Chefposten der Regionen weg. CH Media porträtiert Reto Sopranetti, Chef der Migros Aare, der seine Stelle bereits zum zweiten Mal durch eine Migros-Fusion verliert, zuletzt 1998. Er will die Überführung begleiten; seine Migros-Laufbahn endet 2028. Die Migros verspricht, an der Front keine Stellen abzubauen, im Backoffice und im Management dürften aber Stellen wegfallen.",
+      "sources": [
+        {
+          "name": "CH Media / Schweiz heute",
+          "url": "https://www.schweizheute.ch/wirtschaft/migros-grossfusion-reto-sopranetti-verliert-erneut-seinen-job-ld.4262185",
+          "published_at": "2026-11-16T05:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/wirtschaft-migros-fusion-1024-r01.jpg",
+        "alt": "Mehrere kleine orange Einkaufswagen, die in einen grossen Einkaufswagen geschoben werden, darüber ein Organigramm (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-indien-ausreise",
+      "section": "Gesellschaft",
+      "headline": "Zürcherin sitzt seit 17 Monaten in Indien fest",
+      "summary": "Eine 31-jährige Frau aus Adliswil kann Indien seit April 2025 nicht verlassen, weil dort ein Ermittlungsverfahren wegen eines mutmasslichen Verstosses gegen das Betäubungsmittelgesetz gegen sie läuft. Sie bestreitet, vom illegalen Hintergrund eines Telefonats gewusst zu haben, das sie für einen Bekannten geführt habe; ihr Visum ist inzwischen abgelaufen. Die Familie fühlt sich von den Schweizer Behörden im Stich gelassen. Das EDA hält fest, die Schweiz respektiere die Rechtsordnung anderer Staaten, könne nicht in Verfahren eingreifen und setze bei konsularischer Hilfe auf Eigenverantwortung.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/ich-will-nach-hause-zuercherin-olivia-31-steckt-seit-17-monaten-in-indien-fest-103665582",
+          "published_at": "2026-11-16T04:51:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/zuercherin-in-indien-konflikt-mit-dem-gesetz-im-ausland-muss-die-schweiz-dir-helfen-103666292",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/gesellschaft-indien-ausreise-1024-r01.jpg",
+        "alt": "Koffer, geschlossener Pass und ein Papierflieger auf einem Tisch vor einem indisch ornamentierten Fenster (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-mars-jupiter",
+      "section": "Gesellschaft",
+      "headline": "Mars und Jupiter stehen am Morgenhimmel ungewöhnlich nahe",
+      "summary": "Mitte November ziehen Mars und Jupiter am Morgenhimmel nur gut ein Grad aneinander vorbei, etwas mehr als zwei Vollmondbreiten. Die engste Annäherung fällt auf das Wochenende bzw. die Nacht auf Montag; in den Tagen danach sieht die Konstellation fast gleich aus. Am besten sind die beiden Planeten in den Stunden vor Sonnenaufgang hoch im Süden zu sehen: Jupiter als hellerer Lichtpunkt, Mars orange-rötlich daneben. Ein Teleskop ist nicht nötig, allerdings verdecken in dieser Woche häufig Wolken den Himmel.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/mars-und-jupiter-groesste-annaeherung-am-15-november-305827124012",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SkyFlux",
+          "url": "https://skyflux.app/de/aktuelles/mars-jupiter-konjunktion-morgenhimmel",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/gesellschaft-mars-jupiter-1024-r01.jpg",
+        "alt": "Nachthimmel über Hügeln mit zwei hellen Planeten dicht beieinander, einer orange-rot, einer hell gelblich (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-wetter-sturmwoche",
+      "section": "Verkehr & Wetter",
+      "headline": "Wetter: Regen jeden Tag, am Dienstag Sturm und milde Luft",
+      "summary": "Tiefdruckgebiete vom Atlantik bringen der Schweiz diese Woche täglich Regen und kräftigen Westwind. Am Montag gibt es Schauer bei 10 bis 12 Grad, über rund 1900 Metern sind am Alpennordhang 5 bis 15 Zentimeter Neuschnee möglich. Am Dienstag steigt die Schneefallgrenze mit einer Warmfront auf über 2200 Meter, bei bis zu 17 Grad; im Flachland sind stürmische Böen, auf den Bergen Orkanböen von 100 bis 150 km/h möglich. Bis Samstag sinkt die Schneefallgrenze wieder gegen 1000 Meter.",
+      "sources": [
+        {
+          "name": "Nau.ch",
+          "url": "https://www.nau.ch/news/schweiz/wetter-jeden-tag-regen-schnee-bis-auf-1300-meter-67202458",
+          "published_at": "2026-11-16T04:01:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/wetter-kaltfront-trifft-europa-und-bringt-sturmboeen-und-starkregen-103667804",
+          "published_at": "2026-11-15T08:43:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/verkehr-wetter-sturmwoche-1024-r01.jpg",
+        "alt": "Stürmischer Himmel über einem See mit Regen, gebogenen Bäumen, Wetterfahne und verschneiten Bergen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-nati-schottland",
+      "section": "Sport",
+      "headline": "Nati: Gegen Schottland mit vielen Wechseln",
+      "summary": "Die bereits in die Liga A aufgestiegene Schweizer Nationalmannschaft beendet die Nations-League-Kampagne am Montagabend gegen Schottland im fast ausverkauften Stadion in St. Gallen. Trainer Murat Yakin hat angekündigt, Spielern aus der zweiten Reihe eine Chance zu geben; nach Dan Ndoye ist auch Manuel Akanji vorzeitig abgereist. Remo Freuler soll bei seinem 100. Länderspiel als Captain auflaufen, Nico Elvedi die Abwehr anführen. Ricardo Rodriguez könnte sein 150. Länderspiel bestreiten.",
+      "sources": [
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/sport/fussball/nati/schweizer-nati-yakin-gibt-gegen-schottland-reservisten-auslauf/hwh1ys3",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Sarganserländer",
+          "url": "https://www.sarganserlaender.ch/artikel/murat-yakin-kuendigt-wie-erwartet-viele-wechsel-an",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/sport-nati-schottland-1024-r01.jpg",
+        "alt": "Fussball auf dem Anstosspunkt eines nächtlichen Stadions unter Flutlicht, rote Streifen auf den Rängen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-eishockey-sonntag",
+      "section": "Sport",
+      "headline": "National League: Servette siegt in Kloten, Ambri holt sechsten Heimsieg in Serie",
+      "summary": "Genf-Servette hat am Sonntag bei Kloten mit 5:3 gewonnen; die Genfer führten nach zwei Dritteln 5:1, Kloten kam in der 42. Minute auf 3:5 heran. Ein spätes viertes Klotener Tor in der Schlussminute wurde aberkannt. Ambri-Piotta besiegte Lausanne 4:0, feierte den sechsten Heimsieg in Folge und liegt nun punktgleich mit Bern als erster Verfolger der ZSC Lions.",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-sonntag-effiziente-genfer-lassen-kloten-verzweifeln-ambri-mit-4-0-sieg",
+          "published_at": "2026-11-15T18:18:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-morning/sport-eishockey-sonntag-1024-r01.jpg",
+        "alt": "Eishockeypuck und zwei gekreuzte Stöcke auf frischem Eis, im Hintergrund eine Anzeigetafel ohne Zahlen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-16-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-16T07:03:00+01:00",
+    "ready_at": "2026-11-16T07:03:29+01:00",
+    "content_hash": "sha256:54b3d14a773eeb233253d940d7ef7cf0d4dc373739d87f2247810d79fe57e22e",
+    "image_rights": {
+      "politik-crans-montana-aufsichtsbeschwerde": {
+        "rights": "ai_generated_own"
+      },
+      "politik-kantonsfinanzen": {
+        "rights": "ai_generated_own"
+      },
+      "politik-cop31-strom": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-puk-fussfesseln": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-avdili-verurteilt": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-erstfeld-polizei": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-migros-fusion": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-indien-ausreise": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-mars-jupiter": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-wetter-sturmwoche": {
+        "rights": "ai_generated_own"
+      },
+      "sport-nati-schottland": {
+        "rights": "ai_generated_own"
+      },
+      "sport-eishockey-sonntag": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-crans-montana-aufsichtsbeschwerde": {
+        "path": "media/politik-crans-montana-aufsichtsbeschwerde-1024-r01.jpg",
+        "sha256": "2ebcfc32cec028d7ccc284085f4d3f8b44781f742e16d7ef8e603590385b4daf",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3c50253f475da45e648a091996990b8fbbd633b42f40eb458ed41d9a638f1b84.jpg",
+        "original_sha256": "3c50253f475da45e648a091996990b8fbbd633b42f40eb458ed41d9a638f1b84",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-kantonsfinanzen": {
+        "path": "media/politik-kantonsfinanzen-1024-r01.jpg",
+        "sha256": "91f09f9ffab1238577b8752b6cf42bde51a0cc901f7d7a31a89e144f4e0f2947",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/71be9f6e22ea7c1747f784e2bf0fdfa6133b4154f30b75294ff46362aff40576.jpg",
+        "original_sha256": "71be9f6e22ea7c1747f784e2bf0fdfa6133b4154f30b75294ff46362aff40576",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-cop31-strom": {
+        "path": "media/politik-cop31-strom-1024-r01.jpg",
+        "sha256": "a1da54da53133697c74c00680149b364d1f9d4f0db99c4abf0756610ed434ac0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0b01d4970e3d7cc7ac170f7eb69e9ac9b6accbd5d22b106fa97673d3997d3f30.jpg",
+        "original_sha256": "0b01d4970e3d7cc7ac170f7eb69e9ac9b6accbd5d22b106fa97673d3997d3f30",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-puk-fussfesseln": {
+        "path": "media/regionen-puk-fussfesseln-1024-r01.jpg",
+        "sha256": "c0f5168bcd38a2b1578a03266815b42be768cd4b35a8fdb26020c113fe52af89",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ff83cab27dcb6bbcf2c3104b124643c116f43a31cec88d09375f886464bbacfd.jpg",
+        "original_sha256": "ff83cab27dcb6bbcf2c3104b124643c116f43a31cec88d09375f886464bbacfd",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-avdili-verurteilt": {
+        "path": "media/regionen-avdili-verurteilt-1024-r01.jpg",
+        "sha256": "36d5d75f4c935b7b46d5b199521fdd389fa693753f138e2367f7a29bb87415ea",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3680c70606948e6760f4d14b27899c04ffff3dd2ab9e77f31384b2af6e444edf.jpg",
+        "original_sha256": "3680c70606948e6760f4d14b27899c04ffff3dd2ab9e77f31384b2af6e444edf",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-erstfeld-polizei": {
+        "path": "media/regionen-erstfeld-polizei-1024-r01.jpg",
+        "sha256": "a81205b8c8cca8a22b0b6bdfe24f1db969346948c1443c0fb91982779d19889c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dd27f7a3cd7851ba3eb9cca6c5e120d8e4503359bacd560ca8ed86c0df762ef1.jpg",
+        "original_sha256": "dd27f7a3cd7851ba3eb9cca6c5e120d8e4503359bacd560ca8ed86c0df762ef1",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-migros-fusion": {
+        "path": "media/wirtschaft-migros-fusion-1024-r01.jpg",
+        "sha256": "3f6b36912c6e3a6201f405f5addeab52b8b28f93ec80766aeb9a92b80018d147",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f298f36367cafce90ced336f217007950b473befc92c37637352d98f75f4fcfd.jpg",
+        "original_sha256": "f298f36367cafce90ced336f217007950b473befc92c37637352d98f75f4fcfd",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-indien-ausreise": {
+        "path": "media/gesellschaft-indien-ausreise-1024-r01.jpg",
+        "sha256": "eb888ea8ebb3c10974f5be0459aca9f4ac275dfbf0c745e1b5bd8d43cfc91dc4",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9a7b0ff943a47e601f2ee9f01dd42a312b1c060c5b2aa217bd746ae1ecf08c01.jpg",
+        "original_sha256": "9a7b0ff943a47e601f2ee9f01dd42a312b1c060c5b2aa217bd746ae1ecf08c01",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-mars-jupiter": {
+        "path": "media/gesellschaft-mars-jupiter-1024-r01.jpg",
+        "sha256": "851c5bc7b11cbff0aec0152b978a8575c705026ad4e16ef203d9dbf26c556e2b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b957e75b19b33408a7eebb99359c32027b2523a340346c659df3990bd1899702.jpg",
+        "original_sha256": "b957e75b19b33408a7eebb99359c32027b2523a340346c659df3990bd1899702",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-wetter-sturmwoche": {
+        "path": "media/verkehr-wetter-sturmwoche-1024-r01.jpg",
+        "sha256": "cc34047f4cec1b103382cc63fffdc36ac06756c427acd18fe6d54121766d5544",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/98499c857be610e550924c91e8fe10182d4f98136131f6435534e0d05842004f.jpg",
+        "original_sha256": "98499c857be610e550924c91e8fe10182d4f98136131f6435534e0d05842004f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-nati-schottland": {
+        "path": "media/sport-nati-schottland-1024-r01.jpg",
+        "sha256": "eb38ca36cca744763cfda4f27f65207a5f2e2aea9e868b8e77c3a3ff7935d931",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e99b3cdae79362e255850f9f1bc0f18dbe1c91e1e9cdeb41f6643c2b4de7e847.jpg",
+        "original_sha256": "e99b3cdae79362e255850f9f1bc0f18dbe1c91e1e9cdeb41f6643c2b4de7e847",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-eishockey-sonntag": {
+        "path": "media/sport-eishockey-sonntag-1024-r01.jpg",
+        "sha256": "28b457ceb0d0340a2eff330433117c73dbdedf9ea7f63f796b745f4a2486e5d2",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T07:03:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/42b99dc7d80a2364b616499222bb2f0ae968520ad6cc45f18d9c98ceb4682804.jpg",
+        "original_sha256": "42b99dc7d80a2364b616499222bb2f0ae968520ad6cc45f18d9c98ceb4682804",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
