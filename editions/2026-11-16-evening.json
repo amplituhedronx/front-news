@@ -1,0 +1,531 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-16T17:59:16+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-eu-staendemehr",
+      "section": "Politik",
+      "headline": "EU-Vertragspaket: Nationalratskommission verlangt Volks- und Ständemehr",
+      "summary": "Die Staatspolitische Kommission des Nationalrats (SPK-N) will das EU-Vertragspaket einem obligatorischen Referendum unterstellen, bei dem neben dem Volks- auch das Ständemehr nötig ist. Sie folgt damit der Variante des Ständerats für ein obligatorisches Referendum «sui generis» und verwarf das vom Bundesrat vorgeschlagene fakultative Referendum, einen Übergangsartikel in der Bundesverfassung sowie einen Kompromiss mit der Kompass-Initiative. Die Ausführungsgesetze sollen zusammen mit dem Stabilisierungsteil zur Abstimmung kommen und dem fakultativen Referendum unterstehen. Zur Schutzklausel bei Zuwanderung fasste die Kommission noch keinen Beschluss; der Nationalrat entscheidet in der Wintersession über die Referendumsfrage.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/eu-vertragspaket-nationalratskommission-will-staendemehr-fuer-eu-vertragspaket",
+          "published_at": "2026-11-16T13:58:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/politik-eu-staendemehr-1024-r01.jpg",
+        "alt": "Zwei Waagschalen links und rechts einer Urne vor einer Schweizer Kartensilhouette und einem Sternenkreis (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "wirtschaft-bip-q3",
+      "section": "Wirtschaft",
+      "headline": "Schweizer Wirtschaft wächst im dritten Quartal um 0,2 Prozent",
+      "summary": "Das Bruttoinlandprodukt der Schweiz ist im dritten Quartal 2026 gemäss einer ersten Schätzung des Staatssekretariats für Wirtschaft (Seco) um 0,2 Prozent gegenüber dem Vorquartal gewachsen. Im zweiten Quartal hatte das Plus noch 1,5 Prozent betragen, vor allem dank der Chemie- und Pharmaindustrie; laut Seco ist nun die erwartete Normalisierung eingetreten, andere Industriebereiche stützten das Wachstum. Ökonominnen und Ökonomen hatten im Schnitt mit einer Stagnation gerechnet, teils auch mit einem leichten Rückgang. Für das vierte Quartal sehen mehrere Bankökonomen positive Signale, für 2027 wird teilweise eine leichte Verlangsamung erwartet.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/0-2-prozent-zum-vorquartal-schweizer-wirtschaft-waechst-im-dritten-quartal-leicht",
+          "published_at": "2026-11-16T09:26:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/wirtschaft-bip-q3-1024-r01.jpg",
+        "alt": "Balkendiagramm mit leicht steigendem letztem Balken vor Fabrik, Zahnrädern und Laborkolben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-cyber-tourismus",
+      "section": "Wirtschaft",
+      "headline": "Hackerangriffe: Reka, Kempinski und Zermatt Tourismus warnen vor Betrug",
+      "summary": "Die Schweizer Reisekasse Reka ist Ziel eines Hackerangriffs geworden; Kundinnen und Kunden erhalten betrügerische Nachrichten per Whatsapp, SMS oder E-Mail mit echten Angaben zu ihren Buchungen. Reka hat rund 8200 Betroffene informiert, einen Krisenstab eingesetzt und rät, keine Links anzuklicken; wer Kartendaten eingegeben hat, soll die Karte sperren lassen. Auch die Hotelgruppe Kempinski, die in St. Moritz und Engelberg Häuser betreibt, bestätigte einen Zugriff auf Reservationsdaten über Zugangsdaten eines externen Technologiepartners, und Zermatt Tourismus hatte bereits einen Angriff bei einem Gutscheinanbieter gemeldet. Florian Schütz, Direktor des Bundesamts für Cybersicherheit, sagte gegenüber SRF, die Zahl der Meldungen steige und die Angriffe würden aggressiver.",
+      "sources": [
+        {
+          "name": "SRF Espresso",
+          "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/ferienanbieter-gehackt-vorsicht-vor-phishing-im-namen-von-reka",
+          "published_at": "2026-11-16T11:06:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/kempinski-datenleck-betrueger-fordern-gaeste-als-hotelpersonal-zur-zahlung-auf-103668443",
+          "published_at": "2026-11-16T12:30:31+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/kriminelle-hackerangriffe-cyber-chef-des-bundes-warnt-vor-aggressiveren-cyberangriffen",
+          "published_at": "2026-11-16T16:40:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/wirtschaft-cyber-tourismus-1024-r01.jpg",
+        "alt": "Chalet und Hotel neben einem aufgebrochenen Vorhängeschloss und einem Smartphone mit Angelhaken-Symbol (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-tempo30-kantonsrat",
+      "section": "Zürich & Regionen",
+      "headline": "Zürcher Kantonsrat streitet über verzögerte Tempo-30-Gesuche",
+      "summary": "Im Zürcher Kantonsrat haben SP, Grüne, GLP und AL am Montag mit einer dringlichen Interpellation den Bewilligungsstau bei 24 Tempo-30-Projekten der Städte Zürich und Winterthur thematisiert. Die Linke wirft Volkswirtschaftsdirektorin Carmen Walker Späh (FDP) vor, die Gesuche verzögert zu haben, bis seit 1. Juni neue, vom Stimmvolk beschlossene Regeln gelten; Bürgerliche warfen dem Zürcher Stadtrat vor, kurz vor der Abstimmung gezielt Gesuche eingereicht zu haben. Walker Späh sagte, die Bearbeitungsdauer hänge vom einzelnen Projekt ab, und die Städte seien frühzeitig über das neue Verfahren informiert worden. Die Gesuche müssen nun bei der Kantonspolizei neu eingereicht werden; laut Walker Späh hat die Stadt Zürich dies bisher für kein Projekt getan.",
+      "sources": [
+        {
+          "name": "NZZ (Abo)",
+          "url": "https://www.nzz.ch/zuerich/zoff-um-tempo-30-in-zuerich-linke-und-rechte-im-schlagabtausch-ld.10065241",
+          "published_at": "2026-11-16T16:30:14+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/regionen-tempo30-kantonsrat-1024-r01.jpg",
+        "alt": "Leeres rundes Verkehrsschild an einer Stadtstrasse mit Tramgleisen, daneben gestapelte Aktenordner und eine Sanduhr (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-hausaufgabenhilfe",
+      "section": "Zürich & Regionen",
+      "headline": "Zürich: Kantonsrat lehnt Pflicht zu Gratis-Aufgabenhilfe ab",
+      "summary": "Der Zürcher Kantonsrat hat eine Parlamentarische Initiative der SP mit 107 zu 65 Stimmen abgelehnt, welche die Gemeinden zu kostenlosen betreuten Aufgabenstunden und individuellen Lernzeiten verpflichten wollte. SP und AL argumentierten mit Chancengleichheit, da nicht alle Kinder zu Hause Unterstützung oder einen ruhigen Platz zum Lernen hätten. FDP und SVP lehnten einen Zwang für die Gemeinden ab und betonten den Wert von Hausaufgaben für die Selbständigkeit. Auch Bildungsdirektorin Silvia Steiner (Mitte) hielt eine kantonsweite Pflicht für nicht zielführend; die Aufgabenhilfe bleibt damit freiwillig.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/die-hausaufgabenhilfe-an-z%c3%bcrcher-volksschulen-bleibt-freiwillig/92387371",
+          "published_at": "2026-11-16T10:21:02+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/regionen-hausaufgabenhilfe-1024-r01.jpg",
+        "alt": "Schulpult mit Heften, Bleistift und Schreibtischlampe in einem leeren Klassenzimmer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-foerderberatung-kindergarten",
+      "section": "Zürich & Regionen",
+      "headline": "Stadt Zürich: Beratung wird Pflicht bei späterem Kindergarteneintritt",
+      "summary": "Eltern in der Stadt Zürich, die ihr Kind ein Jahr später in den Kindergarten schicken möchten, müssen ab dem Schuljahr 2027/28 neben der ärztlichen Empfehlung auch eine kostenlose Förderberatung bei einer Familienberatung besuchen. Dabei soll geklärt werden, weshalb eine Rückstellung erwogen wird und wie das zusätzliche Jahr zur Förderung des Kindes genutzt werden kann; die Beratungsstelle wählen die Eltern selbst. Laut Stadt ist eine Rückstellung im Einzelfall sinnvoll, aber nicht automatisch ein Vorteil für das Kind. Der Kantonsrat hatte im August eine Verschiebung des Stichtags für den Kindergarteneintritt abgelehnt.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/stadt-z%C3%BCrich-bietet-f%C3%B6rderberatung-vor-kindergarteneintritt/92387850",
+          "published_at": "2026-11-16T11:20:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Stadt Zürich (Medienmitteilung)",
+          "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/11/foerderberatung-bei-gesuchen-um-rueckstellung-kindergarten.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/regionen-foerderberatung-kindergarten-1024-r01.jpg",
+        "alt": "Kinderrucksack und bunte Bauklötze auf einem niedrigen Tisch zwischen zwei Stühlen für ein Beratungsgespräch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-bern-lex-airbnb",
+      "section": "Zürich & Regionen",
+      "headline": "Bern: Verwaltungsgericht bestätigt «Lex Airbnb» für die Altstadt",
+      "summary": "Das Berner Verwaltungsgericht hat eine Beschwerde gegen die Teilrevision der städtischen Bauordnung abgewiesen, welche die gewerbsmässige Vermietung von Zweitwohnungen in der Berner Altstadt einschränkt. Die Stimmberechtigten hatten die Revision 2022 angenommen; laut Gericht hält sie der Rechtskontrolle stand. Wie die Präsidentin des Hauseigentümerverbands Bern und Umgebung gegenüber Keystone-SDA sagte, wird der Entscheid nicht weitergezogen. Die neuen Regeln treten laut Gemeinderat frühestens Anfang 2027 in Kraft.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/gegner-der-stadtberner-lex-airbnb-scheitern-vor-verwaltungsgericht/92390628",
+          "published_at": "2026-11-16T16:45:30+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/regionen-bern-lex-airbnb-1024-r01.jpg",
+        "alt": "Laubengänge einer Altstadt mit Rollkoffer, Schlüsselbund und Richterhammer im Vordergrund (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-basel-nacht",
+      "section": "Zürich & Regionen",
+      "headline": "Basel: Unruhige Nacht mit Bombendrohung, Fan-Schlägereien und Feuerwerk",
+      "summary": "Die Basler Blaulichtorganisationen waren in der Nacht auf Sonntag stark gefordert: Die Sanität verzeichnete 85 Einsätze und damit mehr als üblich. Die Kantonspolizei meldete unter anderem eine Auseinandersetzung zwischen Fussballfans in der Steinenvorstadt, eine falsche Meldung über eine Rheinrettung sowie eine Bombendrohung für die Innenstadt, bei der keine gefährlichen Gegenstände gefunden wurden. Auf der Johanniterbrücke zündeten Unbekannte Feuerwerksbatterien, vor einem Hotel an der Grosspeterstrasse kam es zu einer Schlägerei mit Pyrotechnik. Wegen der Bombendrohung hat die Staatsanwaltschaft ein Strafverfahren eröffnet.",
+      "sources": [
+        {
+          "name": "Bajour",
+          "url": "https://bajour.ch/a/85-einsaetze-und-mehrere-schlaegereien-unruhige-nacht-in-basel",
+          "published_at": "2026-11-16T13:49:52+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/feuerwerk-in-basel-unbekannte-zuenden-pyrotechnik-am-rheinufer-103668581",
+          "published_at": "2026-11-16T16:58:40+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/regionen-basel-nacht-1024-r01.jpg",
+        "alt": "Nächtliche Flusslandschaft mit Brücke, abstrakten Feuerwerksbögen und blauen Lichtreflexen im Wasser (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-oberegg-luchse",
+      "section": "Zürich & Regionen",
+      "headline": "Oberegg AI: Tote Luchse wurden nicht am Fundort erschossen",
+      "summary": "Die drei am 7. November im Bezirk Oberegg tot aufgefundenen Luchse – ein Muttertier und zwei diesjährige Jungtiere – wurden laut Kantonspolizei Appenzell Innerrhoden nicht dort getötet, wo man sie fand. Die Polizei geht davon aus, dass die geschützten Tiere zwischen dem 4. und dem 7. November erschossen wurden; alle drei wiesen Schussverletzungen auf. Die Ermittlungen laufen, und die Polizei bittet die Bevölkerung weiterhin um sachdienliche Hinweise.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/oberegg-ai-getoetete-luchse-fundort-ist-nicht-der-tatort-103668438",
+          "published_at": "2026-11-16T11:53:35+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/regionen-oberegg-luchse-1024-r01.jpg",
+        "alt": "Verschneiter Waldhang in der Abenddämmerung mit Luchs-Pfotenabdruck und Lupe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-bergunfaelle",
+      "section": "Zürich & Regionen",
+      "headline": "Uri und Berner Oberland: 17-Jähriger tödlich verunglückt, Höhlengängerin gerettet",
+      "summary": "Im Kanton Uri ist ein 17-jähriger Berggänger beim Klettern tödlich verunglückt; er war am frühen Montagmorgen als vermisst gemeldet und bei einer Suchaktion unterhalb des Höch Nossen gefunden worden. Nach ersten Erkenntnissen war er allein unterwegs, den Unfallhergang untersuchen Kantonspolizei und Staatsanwaltschaft Uri. Am Hasliberg BE rettete die Rega am Sonntag zusammen mit drei Bergrettern der Alpinen Rettung Schweiz eine Höhlengängerin, die in der sogenannten Eishöhle oberhalb von Meiringen gestürzt war und kopfüber in einer Strickleiter hing. Die Frau wurde mit leichten Verletzungen ins Spital geflogen.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/buerglen-ur-er-ging-alleine-klettern-17-jaehriger-tot-aufgefunden-103668649",
+          "published_at": "2026-11-16T17:49:44+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/h%C3%B6hleng%C3%A4ngerin-am-hasliberg-aus-misslicher-lage-befreit/92390478",
+          "published_at": "2026-11-16T16:28:42+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/regionen-bergunfaelle-1024-r01.jpg",
+        "alt": "Silhouette eines Rettungshelikopters über steilem Felsgelände mit dunklem Höhleneingang und Seilrolle (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-luchs-erbkrankheit",
+      "section": "Gesellschaft",
+      "headline": "Forschende finden tödliche Erbkrankheit bei Schweizer Luchsen",
+      "summary": "Forschende der Universität Bern haben die genetische Ursache einer tödlichen Erbkrankheit bei Schweizer Luchsen gefunden: Eine rezessiv vererbte Variante im Gen FGF23 führt bei Jungtieren zu Verkalkungen innerer Organe. Erkranken können nur Tiere, die die Variante von beiden Elternteilen erben; Träger mit einer Kopie bleiben gesund, geben sie aber weiter. Die heutige Population geht auf rund 30 Gründertiere zurück, die in den 1970er-Jahren aus den Karpaten in die Schweiz gebracht wurden, was die genetische Vielfalt verringerte. Die Mutation gelangte laut Studie mit Umsiedlungen aus den Alpen in die Nordostschweiz; die Erkenntnisse sollen bei der Auswahl von Tieren für künftige Wiederansiedlungen helfen.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/erbkrankheit-f%C3%BChrt-bei-schweizer-luchsen-zum-tod/92387004",
+          "published_at": "2026-11-16T09:47:28+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Universität Bern (Medienmitteilung)",
+          "url": "https://mediarelations.unibe.ch/medienmitteilungen/2026/medienmitteilungen_2026/toedliche_erbkrankheit_bei_schweizer_luchsen_entdeckt/index_ger.html",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RTS Info (fr)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/lynx-en-suisse-une-maladie-hereditaire-mortelle-decouverte-29417684.html",
+          "published_at": "2026-11-16T17:28:36+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/gesellschaft-luchs-erbkrankheit-1024-r01.jpg",
+        "alt": "Stilisierter Luchskopf aus geometrischen Formen neben einer DNA-Doppelhelix und einem Mikroskop (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-fifa-praesidentschaft",
+      "section": "Sport",
+      "headline": "Fifa-Wahl: Uefa schickt Philippe Diallo gegen Gianni Infantino ins Rennen",
+      "summary": "Die Uefa hat sich auf einen Gegenkandidaten zum amtierenden Fifa-Präsidenten Gianni Infantino geeinigt: Der französische Verbandspräsident Philippe Diallo soll bei der Wahl im März 2027 antreten. Der 63-Jährige habe einstimmig die volle Unterstützung erhalten, teilte die Uefa mit und verwies auf «ernsthafte Bedenken» zur Ausrichtung der Fifa. Zunächst hatte die Uefa auf eine Kandidatur von Arsène Wenger gehofft, der jedoch verzichtete. Diallos Kandidatur soll am Dienstag vom Exekutivkomitee des französischen Verbands offiziell bestätigt werden.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/uefa-hat-sich-entschieden-diallo-wird-gegenkandidat-von-infantino-fuer-fifa-praesidentschaft",
+          "published_at": "2026-11-16T16:39:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-16-evening/sport-fifa-praesidentschaft-1024-r01.jpg",
+        "alt": "Fussball auf einem Podest zwischen zwei leeren Rednerpulten, daneben eine Urne, im Hintergrund ein Globus und Stadionlichter (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-16-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-16T17:59:15+01:00",
+    "ready_at": "2026-11-16T17:59:16+01:00",
+    "content_hash": "sha256:2901670a94c1d100f9aff4ed92461b991a1001599ee37843364a792d89e659ef",
+    "image_rights": {
+      "politik-eu-staendemehr": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-bip-q3": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-cyber-tourismus": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-tempo30-kantonsrat": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-hausaufgabenhilfe": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-foerderberatung-kindergarten": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-bern-lex-airbnb": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-basel-nacht": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-oberegg-luchse": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-bergunfaelle": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-luchs-erbkrankheit": {
+        "rights": "ai_generated_own"
+      },
+      "sport-fifa-praesidentschaft": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-eu-staendemehr": {
+        "path": "media/politik-eu-staendemehr-1024-r01.jpg",
+        "sha256": "c0676f538fc4b52495428eb0ca941f07703efe1c00a3a539d9048715e6d37aa7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0e5d3b9778416560db7e393a1ae7b3362436395829a69db5a48e6c925e3eea75.jpg",
+        "original_sha256": "0e5d3b9778416560db7e393a1ae7b3362436395829a69db5a48e6c925e3eea75",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-bip-q3": {
+        "path": "media/wirtschaft-bip-q3-1024-r01.jpg",
+        "sha256": "0c6784fea6b9e40d104a6247b2c612e2e23bd4153ca9a6dd97d488a976d2f620",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e3f05f0dd4c7021595a14007d9f639deaeffc257e5b8db5c34cf7f9bddfc17db.jpg",
+        "original_sha256": "e3f05f0dd4c7021595a14007d9f639deaeffc257e5b8db5c34cf7f9bddfc17db",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-cyber-tourismus": {
+        "path": "media/wirtschaft-cyber-tourismus-1024-r01.jpg",
+        "sha256": "65fd870a07839848301629c3567719a116a249cd8b29068dbf26e016d1a99597",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/55a0bc4c98ed43b6865efdaeb0a8aa43bca32a1587d71ff96578a35ed2f2745d.jpg",
+        "original_sha256": "55a0bc4c98ed43b6865efdaeb0a8aa43bca32a1587d71ff96578a35ed2f2745d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-tempo30-kantonsrat": {
+        "path": "media/regionen-tempo30-kantonsrat-1024-r01.jpg",
+        "sha256": "bc16bef5157c1aaeb9f3f61bed88081fa5d468dfb8e4f2ccac1c5b286fbd480e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6cc0764f30115e052b7fc0e70180dddc948cb866e6cf77cf7cedc334eb0c4c6f.jpg",
+        "original_sha256": "6cc0764f30115e052b7fc0e70180dddc948cb866e6cf77cf7cedc334eb0c4c6f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-hausaufgabenhilfe": {
+        "path": "media/regionen-hausaufgabenhilfe-1024-r01.jpg",
+        "sha256": "e8c4a47775d8a602407067eb1ff1805c7050448b3b42225c9d78d0938504af0c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a24e6d833d7171418304a151d9130d7a0e3917125bcb82957343792e478ac2a1.jpg",
+        "original_sha256": "a24e6d833d7171418304a151d9130d7a0e3917125bcb82957343792e478ac2a1",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-foerderberatung-kindergarten": {
+        "path": "media/regionen-foerderberatung-kindergarten-1024-r01.jpg",
+        "sha256": "aa793ea2a5f0689fdba6ab5ce1b766cfdbb080d75157eb03117093a2fb90afbc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/58a714d50973434ccd91a8c97767c1c3fdb3eb01debd9f1a35862b334d0214ed.jpg",
+        "original_sha256": "58a714d50973434ccd91a8c97767c1c3fdb3eb01debd9f1a35862b334d0214ed",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-bern-lex-airbnb": {
+        "path": "media/regionen-bern-lex-airbnb-1024-r01.jpg",
+        "sha256": "5055d24438cd6a1af7bda19cddbbbc4929c05f651fd6cd5eca0d674c18de9bf6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/101dc222d65260216006836cb1eb4999d8853051d9487506e59a15a4b175e222.jpg",
+        "original_sha256": "101dc222d65260216006836cb1eb4999d8853051d9487506e59a15a4b175e222",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-basel-nacht": {
+        "path": "media/regionen-basel-nacht-1024-r01.jpg",
+        "sha256": "dce256461df716a30f5caabb91383e12b99bdc59d3f6a5e51fe3659458535290",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a19c62137746aa876e8b74fc628e919d2636f7683284674cebcc774d6aeb4480.jpg",
+        "original_sha256": "a19c62137746aa876e8b74fc628e919d2636f7683284674cebcc774d6aeb4480",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-oberegg-luchse": {
+        "path": "media/regionen-oberegg-luchse-1024-r01.jpg",
+        "sha256": "f6c8e3ccb42acbacb97f7e49b0f328ca9f3ff098522da321fa263d5538c3c0e5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fbcea09e81b14eb02c4220cb0d5bf0e508548f8b9fb9dd115ee1d750db8bc682.jpg",
+        "original_sha256": "fbcea09e81b14eb02c4220cb0d5bf0e508548f8b9fb9dd115ee1d750db8bc682",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-bergunfaelle": {
+        "path": "media/regionen-bergunfaelle-1024-r01.jpg",
+        "sha256": "a18cae6946efcdd195be3d1e84bcd44f7d20c069175c7e82a7a337c31037d1e5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6ccabc965023d96d364541fee12b966e461d45a67cb99d50f8164a29a6ca7056.jpg",
+        "original_sha256": "6ccabc965023d96d364541fee12b966e461d45a67cb99d50f8164a29a6ca7056",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-luchs-erbkrankheit": {
+        "path": "media/gesellschaft-luchs-erbkrankheit-1024-r01.jpg",
+        "sha256": "e95a39c637552204a358c9fe19a4e9f2fa752b899bc5457b2f87fb2e615d0bd0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/84e52401ae61fdb5b18a4df08f83de8df434bbdd95decb37f6f5a757598216df.jpg",
+        "original_sha256": "84e52401ae61fdb5b18a4df08f83de8df434bbdd95decb37f6f5a757598216df",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-fifa-praesidentschaft": {
+        "path": "media/sport-fifa-praesidentschaft-1024-r01.jpg",
+        "sha256": "27e0b872ece03d9b1b138145ee416e7841f4a7321d327e8caf2408e902677609",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-16T17:59:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-16",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-16 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7334ac19b971282a53eb0c523002b8cda9a8da976a1c372afe54077d83167146.jpg",
+        "original_sha256": "7334ac19b971282a53eb0c523002b8cda9a8da976a1c372afe54077d83167146",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
