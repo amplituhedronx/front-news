@@ -1,0 +1,543 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-17T17:57:54+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-iv-melderecht-waffen",
+      "section": "Politik",
+      "headline": "Bundesrat unterstützt Melderecht der IV an Waffenbehörden",
+      "summary": "Kantonale IV-Stellen sollen den Behörden Versicherte melden dürfen, die aus ihrer Sicht keine Waffe besitzen sollten. Der Bundesrat empfiehlt einen entsprechenden Vorstoss des jurassischen SP-Nationalrats Loïc Dobler zur Annahme; Anlass ist die Tat von Aarau Ende August, bei der eine junge Frau getötet und sechs Menschen verletzt wurden. Laut seinen Eltern bezog der Täter wegen psychischer Probleme eine IV-Rente und besass legal Waffen. Über die Meldung sollen IV-Ärztinnen und -Ärzte entscheiden; organisierter Widerstand ist bisher nicht bekannt, auch die Organisation Pro Tell, die sich gegen strengere Waffengesetze wehrt, akzeptiert die Forderung. Nun ist das Parlament am Zug.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/nach-amoktat-von-aarau-iv-soll-gefaehrliche-personen-der-waffenbehoerde-melden-duerfen",
+          "published_at": "2026-11-17T08:39:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall)",
+          "url": "https://www.tagesanzeiger.ch/iv-soll-waffenbehoerden-vor-gefaehrlichen-personen-warnen-231838279450",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/politik-iv-melderecht-waffen-1024-r01.jpg",
+        "alt": "Stilisierte Akte mit medizinischem Kreuz, mit gestrichelter Linie verbunden mit einem verschlossenen Waffenschrank vor einem Regierungsgebäude (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-e-id-initiative",
+      "section": "Politik",
+      "headline": "E-ID-Gegner lancieren Volksinitiative für Freiwilligkeit",
+      "summary": "Ein Komitee um SVP-Nationalrat Rémy Wyssmann, EDU-Nationalrat Andreas Gafner sowie Mitglieder des Vereins Freunde der Verfassung und der Partei Aufrecht hat die Initiative «Digital Ja, aber frei» lanciert. Sie verlangt, dass die Nutzung der elektronischen Identität in der Bundesverfassung als freiwillig verankert wird und digitale Angebote ohne E-ID zugänglich bleiben. Die Initianten verweisen darauf, dass ein späteres Obligatorium laut Abstimmungsunterlagen per Gesetz möglich wäre; das Stimmvolk hatte die E-ID im September 2025 angenommen. Für eine Abstimmung sind 100'000 gültige Unterschriften innert 18 Monaten nötig.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/e-id-gegner-lancieren-volksinitiative-fuer-freiwilligkeit-in-der-verfassung-103669039",
+          "published_at": "2026-11-17T17:28:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS (französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/e-id-les-opposants-lancent-une-initiative-pour-le-libre-choix-29418752.html",
+          "published_at": "2026-11-17T15:39:43+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/politik-e-id-initiative-1024-r01.jpg",
+        "alt": "Smartphone mit symbolischem digitalem Ausweis, Stimmzettel und eine Hand, die einen Unterschriftenbogen unterzeichnet, vor dem Bundeshaus (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-petition-psychotherapie",
+      "section": "Politik",
+      "headline": "Über 100'000 Unterschriften gegen neue Hürden bei der Psychotherapie",
+      "summary": "In Bern ist die Petition «Hilfe statt Hürden – Zugang zur Psychotherapie sichern» mit über 100'000 Unterschriften übergeben worden. Sie richtet sich gegen eine Motion der zuständigen Nationalratskommission, wonach Patientinnen und Patienten vor einer psychologischen Psychotherapie eine Diagnose durch eine Psychiaterin oder einen Psychiater benötigen sollen. Die Kommission will damit Kosten senken und Schwerkranken besseren Zugang verschaffen; die Petentinnen und drei Berufsverbände warnen, ein Pflichttermin binde knappe Kapazitäten, vor allem bei Jugendlichen und auf dem Land. Seit Mitte 2022 können psychologische Psychotherapeutinnen und -therapeuten auf ärztliche Anordnung selbstständig über die Grundversicherung abrechnen.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/psychische-gesundheit-ueber-100-000-unterschriften-gegen-neue-huerden-fuer-psychotherapie",
+          "published_at": "2026-11-17T17:18:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/politik-petition-psychotherapie-1024-r01.jpg",
+        "alt": "Gestapelte Kartons mit Unterschriften vor einem stilisierten Parlamentsgebäude, daneben eine Sprechblase mit Herz und Kopfsilhouette (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-roche-zulassung",
+      "section": "Wirtschaft",
+      "headline": "Roche erhält US-Zulassung für Brustkrebsmittel Giredestrant",
+      "summary": "Die US-Arzneimittelbehörde FDA hat das Roche-Medikament Wilserdly mit dem Wirkstoff Giredestrant zugelassen. Es darf in Kombination mit dem Novartis-Präparat Everolimus (Afinitor) bei einer bestimmten Form von fortgeschrittenem oder metastasiertem, hormonrezeptor-positivem Brustkrebs mit ESR1-Mutation eingesetzt werden. Es ist die erste Zulassung für das Mittel; Roche erwartet einen Spitzenumsatz von über drei Milliarden Franken pro Jahr. Ein weiterer FDA-Entscheid zum Einsatz in einem früheren Krankheitsstadium steht noch aus.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/schweizer-pharmariese-roche-erhaelt-erste-us-zulassung-fuer-brustkrebs-medikament-103669201",
+          "published_at": "2026-11-17T16:38:51+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "FDA (englisch)",
+          "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-giredestrant-combination-everolimus-er-positive-her2-negative-esr1-mutated-locally",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/wirtschaft-roche-zulassung-1024-r01.jpg",
+        "alt": "Stilisierte Tabletten, rosa Schleife und Laborkolben mit Häkchen-Symbol (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-gucci-cortaillod",
+      "section": "Wirtschaft",
+      "headline": "Gucci will in Cortaillod rund 30 Stellen streichen",
+      "summary": "Die Uhrensparte von Gucci plant laut der Gewerkschaft Unia am Standort Cortaillod NE den Abbau von rund 30 der 95 Stellen. Betroffen ist die Logistik, die im italienischen Trecate gebündelt werden soll; am Dienstag wurde ein Konsultationsverfahren eröffnet. Entlassungen dürften frühestens 2027 erfolgen, die Uhrenmanufaktur in Cortaillod soll grundsätzlich verschont bleiben. Bereits 2025 hatten dort 21 Personen ihre Stelle verloren; Gucci gehört zum französischen Luxuskonzern Kering.",
+      "sources": [
+        {
+          "name": "swissinfo.ch / Keystone-SDA",
+          "url": "https://www.swissinfo.ch/ger/gucci-soll-abbau-von-rund-30-stellen-in-der-schweiz-planen/92396082",
+          "published_at": "2026-11-17T16:08:34+01:00",
+          "updated_at": "2026-11-17T16:20:48+01:00"
+        },
+        {
+          "name": "Watson",
+          "url": "https://www.watson.ch/wirtschaft/schweiz/194040711-abbau-in-uhrensparte-gucci-will-offenbar-30-stellen-streichen",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/wirtschaft-gucci-cortaillod-1024-r01.jpg",
+        "alt": "Stilisierte Armbanduhr neben Logistikkartons auf einem Förderband, ein Pfeil zeigt in Richtung einer Seelandschaft (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-skan-urteil",
+      "section": "Wirtschaft",
+      "headline": "Skan-Finanzchef wegen Insiderhandels verurteilt",
+      "summary": "Das Bundesstrafgericht in Bellinzona hat den Finanzchef des Pharmaausrüsters Skan wegen Insiderhandels zu einer bedingten Freiheitsstrafe von zehn Monaten verurteilt. Laut Anklage kaufte er zwischen Dezember 2020 und Januar 2021 Aktien der damaligen BV Holding im Wissen um den geplanten Börsengang von Skan. Er muss dem Bund eine Ersatzforderung von rund 230'000 Franken bezahlen; ein weiteres Kadermitglied wurde freigesprochen. Das Urteil ist nicht rechtskräftig und kann angefochten werden.",
+      "sources": [
+        {
+          "name": "swissinfo.ch / Keystone-SDA",
+          "url": "https://www.swissinfo.ch/ger/insiderhandel%3a-kadermitglied-des-pharmaausr%c3%bcsters-skan-verurteilt/92394717",
+          "published_at": "2026-11-17T13:06:31+01:00",
+          "updated_at": "2026-11-17T13:10:36+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall)",
+          "url": "https://www.tagesanzeiger.ch/insiderhandel-skan-finanzchef-zu-10-monaten-verurteilt-284257975215",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/wirtschaft-skan-urteil-1024-r01.jpg",
+        "alt": "Stilisiertes Gerichtsgebäude mit Richterhammer und einem Bildschirm mit steigender Kurslinie (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-biodiversitaet-zuerich",
+      "section": "Zürich & Regionen",
+      "headline": "Kanton Zürich will Flächen für die Natur stark ausbauen",
+      "summary": "Der Kanton Zürich hat eine von WSL, ETH Zürich und Akademie der Naturwissenschaften erarbeitete Grundlage für eine «Ökologische Infrastruktur» vorgestellt. Demnach braucht es 15 Prozent der Kantonsfläche als Kerngebiete und 11 Prozent als Vernetzungsgebiete; heute sind es 8 beziehungsweise 3,5 Prozent. Grundbesitzende, die Land aufwerten, sollen höhere Beiträge erhalten, zudem sind regionale Beratungsstellen geplant; ab Anfang 2027 arbeitet die Baudirektion das Anreizsystem aus. Der Bauernverband befürchtet laut NZZ Nachteile für die Landwirtschaft.",
+      "sources": [
+        {
+          "name": "Kanton Zürich (Medienmitteilung)",
+          "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/11/neue-grundlage-fuer-effiziente-und-wirksame-biodiversitaetsfoerderung.html",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/zuerich/der-kanton-will-die-oekologisch-wertvollen-flaechen-im-kanton-zuerich-verdoppeln-der-bauernverband-befuerchtet-nachteile-fuer-die-landwirtschaft-ld.10066310",
+          "published_at": "2026-11-17T16:22:07+01:00",
+          "updated_at": "2026-11-17T17:20:22+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/regionen-biodiversitaet-zuerich-1024-r01.jpg",
+        "alt": "Flickenteppich aus Wiesen, Hecken, Feuchtgebiet und Waldstücken, verbunden durch Trittsteine, mit Schmetterlingen und Bienen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-hagelschaeden-aargau-solothurn",
+      "section": "Zürich & Regionen",
+      "headline": "Unwetter vom August: Schäden deutlich höher als erwartet",
+      "summary": "Die Aargauische Gebäudeversicherung rechnet nach dem Unwetter vom 28. August mit Schäden von rund 120 Millionen Franken; anfänglich war sie von 30 Millionen ausgegangen. Sie zählte 14'000 Schadenmeldungen, darunter rund 2000 grössere Schäden an Dächern und Solaranlagen. In Solothurn geht die Gebäudeversicherung von über 150 Millionen Franken und rund 15'000 betroffenen Gebäuden aus, dem grössten Ereignis in ihrer über 200-jährigen Geschichte. Beide Versicherungen decken die Kosten aus Reserven und planen für 2027 keine Prämienerhöhung.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/unwetter-ende-august-schadenssummen-in-den-kantonen-aargau-und-solothurn-gestiegen",
+          "published_at": "2026-11-17T17:30:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/regionen-hagelschaeden-aargau-solothurn-1024-r01.jpg",
+        "alt": "Stilisierte Hausdächer mit Solarpanels unter einer dunklen Wolke mit Hagelkörnern, daneben ein Versicherungsdokument (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-budget-waadt",
+      "section": "Zürich & Regionen",
+      "headline": "Waadtländer Finanzkommission lehnt Budget 2027 ab",
+      "summary": "Die Finanzkommission des Waadtländer Grossen Rats empfiehlt, das Budget 2027 der Regierung abzulehnen; der Entscheid fiel in der Schlussabstimmung mit 8 zu 7 Stimmen. Unterstützt wird der Entwurf nur von FDP und SVP, während die Linke und die Grünliberalen ihn ablehnen; eine solche Konstellation gilt im Kanton als Novum. Die Gegner bemängeln laut Le Temps eine fehlende glaubwürdige Strategie nach der Annahme der Steuerinitiative «12 Prozent» im September. Das letzte Wort hat das Kantonsparlament.",
+      "sources": [
+        {
+          "name": "Le Temps (französisch, Paywall)",
+          "url": "https://www.letemps.ch/suisse/vaud/le-budget-vaudois-2027-rejete-en-commission-une-premiere-historique-dans-le-canton",
+          "published_at": "2026-11-17T16:55:11+01:00",
+          "updated_at": "2026-11-17T17:25:03+01:00"
+        },
+        {
+          "name": "24 heures (französisch, Paywall)",
+          "url": "https://www.24heures.ch/vaud-le-projet-de-budget-2027-rejete-par-la-cofin-180803961082",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/regionen-budget-waadt-1024-r01.jpg",
+        "alt": "Waage mit Münzen und einem Dokument vor einem stilisierten Parlamentssaal mit Seelandschaft (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-krebsstatistik",
+      "section": "Gesellschaft",
+      "headline": "BFS: Weniger Krebstote, mehr Diagnosen bei jüngeren Frauen",
+      "summary": "Das Bundesamt für Statistik zeigt erstmals die Entwicklung von Krebserkrankungen und -todesfällen in der Schweiz von 1984 bis 2023. Die altersstandardisierte Krebssterberate hat sich bei Männern seit den 1980er-Jahren fast halbiert und ist bei Frauen um rund ein Drittel gesunken. Bei Frauen zwischen 25 und 44 Jahren wird Krebs heute häufiger festgestellt, was laut Fachleuten auf frühere Erkennung, aber auch auf eine tatsächliche Zunahme etwa von Dickdarm- und Gebärmutterkrebs zurückgeht. Von 2019 bis 2023 gab es im Schnitt rund 49'700 Diagnosen pro Jahr; am meisten Todesfälle verursacht Lungenkrebs.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/erkrankung-und-sterblichkeit-so-hat-sich-krebs-in-der-schweiz-veraendert",
+          "published_at": "2026-11-17T16:50:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/gesellschaft-krebsstatistik-1024-r01.jpg",
+        "alt": "Abstrakte Kurvengrafik mit zwei Trendlinien vor einer aus Punkten gebildeten menschlichen Silhouette und eine Lupe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-herbststurm",
+      "section": "Verkehr & Wetter",
+      "headline": "Herbststurm mit Orkanböen auf den Bergen",
+      "summary": "Für Teile der Nordschweiz vom Jura über Basel und das nördliche Mittelland bis Zürich, Schaffhausen und die Ostschweiz gilt am Dienstag Sturmwarnstufe 3 von 5. Auf exponierten Gipfeln von Jura, Voralpen und Alpen sind Böen von 100 bis 150 Kilometern pro Stunde möglich, im nördlichen Flachland 70 bis 90, stellenweise rund 100. MeteoSchweiz rät, Wälder zu meiden; am Alpennordhang und in Teilen der Westschweiz können bis Mittwochmorgen 35 bis 60 Liter Regen pro Quadratmeter fallen. Laut SRF Meteo bleibt das Wetter wegen eines kräftigen Jetstreams die ganze Woche windig und nass.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/unwetter-schweiz-spitzen-von-100-bis-150-kmh-hier-wirds-heute-stuermisch-103668933",
+          "published_at": "2026-11-17T08:59:41+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF Meteo",
+          "url": "https://www.srf.ch/news/schweiz/wetterwechsel-jetstream-bringt-sturm-und-wind-mit-gefahrenstufe-zwei",
+          "published_at": "2026-11-16T14:27:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/wetter-herbststurm-1024-r01.jpg",
+        "alt": "Stilisierte Bäume, die sich im Sturm biegen, mit Windlinien, Regen und fliegendem Herbstlaub über Hügeln und Bergen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-frauen-nati-playoff",
+      "section": "Sport",
+      "headline": "Frauen-Nati: Navarro bietet 25 Spielerinnen für WM-Playoff auf",
+      "summary": "Nationaltrainer Rafel Navarro hat für die entscheidende WM-Playoff-Runde gegen Österreich 25 Spielerinnen nominiert, darunter alle 23 vom Zusammenzug im Oktober. Zurück im Kader sind Alayah Pilgrim (AS Roma) und Amina Muratovic (Servette FCCF). Das Hinspiel findet am 1. Dezember im Berner Wankdorf statt, das Rückspiel am 5. Dezember in Wien. Es geht um die Teilnahme an der Weltmeisterschaft 2027.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/frauen-nationalteam/nati-aufgebot-zwei-rueckkehrerinnen-im-schweizer-kader-fuer-wm-quali-playoffs",
+          "published_at": "2026-11-17T14:29:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/wm-quali-mit-lehmann-und-waelti-ein-nati-ass-ist-nach-tor-show-zurueck-103669128",
+          "published_at": "2026-11-17T14:10:18+01:00",
+          "updated_at": "2026-11-17T14:11:45+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-evening/sport-frauen-nati-playoff-1024-r01.jpg",
+        "alt": "Stilisierter Fussball auf einem Rasen unter Stadionlicht mit abstrakten rot-weissen Farbflächen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-17-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-17T17:57:00+01:00",
+    "ready_at": "2026-11-17T17:57:54+01:00",
+    "content_hash": "sha256:52716ea9e8150465e82eca1cb6bb9861c97c1b1657e5e623164263774e160884",
+    "image_rights": {
+      "politik-iv-melderecht-waffen": {
+        "rights": "ai_generated_own"
+      },
+      "politik-e-id-initiative": {
+        "rights": "ai_generated_own"
+      },
+      "politik-petition-psychotherapie": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-roche-zulassung": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-gucci-cortaillod": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-skan-urteil": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-biodiversitaet-zuerich": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-hagelschaeden-aargau-solothurn": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-budget-waadt": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-krebsstatistik": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-herbststurm": {
+        "rights": "ai_generated_own"
+      },
+      "sport-frauen-nati-playoff": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-iv-melderecht-waffen": {
+        "path": "media/politik-iv-melderecht-waffen-1024-r01.jpg",
+        "sha256": "3e4934e58a0709e267a1a09ab0dc6f506b7f64309b7d62c8e49d203cd4a8d72e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b11163225bcd19daa1b56fcfeaba46de44a0b735a3631971b5b45f9193d64768.jpg",
+        "original_sha256": "b11163225bcd19daa1b56fcfeaba46de44a0b735a3631971b5b45f9193d64768",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-e-id-initiative": {
+        "path": "media/politik-e-id-initiative-1024-r01.jpg",
+        "sha256": "9b6966cb243d3af4f462a95d4445868537f460c9286807c0f0afe94499178abf",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ac8abcac280401e23b8f7d01c6eb957b48f9892959441bf45693fa1e7ee6abaf.jpg",
+        "original_sha256": "ac8abcac280401e23b8f7d01c6eb957b48f9892959441bf45693fa1e7ee6abaf",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-petition-psychotherapie": {
+        "path": "media/politik-petition-psychotherapie-1024-r01.jpg",
+        "sha256": "d38a99f9f39f9a7549e4bbd2d198da42773a806eafe0d94dded0e67747aa81ee",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/966cc6b7ab0a826c9967c20a3777e1c5502883545d04b634a07f372e27085343.jpg",
+        "original_sha256": "966cc6b7ab0a826c9967c20a3777e1c5502883545d04b634a07f372e27085343",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-roche-zulassung": {
+        "path": "media/wirtschaft-roche-zulassung-1024-r01.jpg",
+        "sha256": "934d29fc46f0a19f284e0f10a4a5f55cde2a042ab7b02488908b0733c37001a7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a51fd2f72a4832965118c69b9f3227b50bdde123fdf1327e4565c46e70d9641d.jpg",
+        "original_sha256": "a51fd2f72a4832965118c69b9f3227b50bdde123fdf1327e4565c46e70d9641d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-gucci-cortaillod": {
+        "path": "media/wirtschaft-gucci-cortaillod-1024-r01.jpg",
+        "sha256": "f5d9a987c07d0d1c8916fc0add99d980c9208a0791c97ccba4bf98474b52d3ef",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e18a615fda6735039bf26a06099fe34ab46bc3a932d676b16708b6ec934b5548.jpg",
+        "original_sha256": "e18a615fda6735039bf26a06099fe34ab46bc3a932d676b16708b6ec934b5548",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-skan-urteil": {
+        "path": "media/wirtschaft-skan-urteil-1024-r01.jpg",
+        "sha256": "3a259c384f20ecd5117cdd49a00175504e47e9dd987f0350f4c28241eaae36ff",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6fd4a932ecd9896c999bbfe67cf72b5a32fcf8fc903d57c7fee854b09f844321.jpg",
+        "original_sha256": "6fd4a932ecd9896c999bbfe67cf72b5a32fcf8fc903d57c7fee854b09f844321",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-biodiversitaet-zuerich": {
+        "path": "media/regionen-biodiversitaet-zuerich-1024-r01.jpg",
+        "sha256": "e44261f8bbafefaf89d2b1d2e67f0133e7c107852572e363bf5b650176f03805",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fbabcabe66f058c96c933684c497c0d0b41f4b748f973d2ae37dcd4804105ee3.jpg",
+        "original_sha256": "fbabcabe66f058c96c933684c497c0d0b41f4b748f973d2ae37dcd4804105ee3",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-hagelschaeden-aargau-solothurn": {
+        "path": "media/regionen-hagelschaeden-aargau-solothurn-1024-r01.jpg",
+        "sha256": "38fe7b43c36fb57514fea7f37eac2375497c0e155a558852cbb513424aec5d9e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7cfb5d9643cf61e36be36929d83aff2159ff9a25246594f75ede054f94f58d98.jpg",
+        "original_sha256": "7cfb5d9643cf61e36be36929d83aff2159ff9a25246594f75ede054f94f58d98",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-budget-waadt": {
+        "path": "media/regionen-budget-waadt-1024-r01.jpg",
+        "sha256": "4051e05992d2c829c2af519f321d0929d52588a49ece23365f4b422bd621e9bb",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1645ef0ae51acd88fc40b4acef00954b3e9538814314b88cfd9abf3150ecbe87.jpg",
+        "original_sha256": "1645ef0ae51acd88fc40b4acef00954b3e9538814314b88cfd9abf3150ecbe87",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-krebsstatistik": {
+        "path": "media/gesellschaft-krebsstatistik-1024-r01.jpg",
+        "sha256": "1f09bb2c9eacc5db1f5da9b777c5d60a167ac266cb711c4623d89a96691a476b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f778a48944574dfb013e798aee65a3c7a4944a2b08a01d870f30838000dd04f6.jpg",
+        "original_sha256": "f778a48944574dfb013e798aee65a3c7a4944a2b08a01d870f30838000dd04f6",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-herbststurm": {
+        "path": "media/wetter-herbststurm-1024-r01.jpg",
+        "sha256": "22825209d558fef8d4d7f49f2c2ce564cba571d8567388422e23f51a6ed930e2",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0c580a85532de3348d273683858c19af51324244bbaa2414bd7bb060f5092ac3.jpg",
+        "original_sha256": "0c580a85532de3348d273683858c19af51324244bbaa2414bd7bb060f5092ac3",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-frauen-nati-playoff": {
+        "path": "media/sport-frauen-nati-playoff-1024-r01.jpg",
+        "sha256": "b304316c1cb3e4ab21b792817cb99d616bbb5c2a4489b3eaed888251e80d305b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T17:57:54+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d7e123b633ff3eee9cb9db864cf51508d42bf3a26dccff5411d3306cd653482f.jpg",
+        "original_sha256": "d7e123b633ff3eee9cb9db864cf51508d42bf3a26dccff5411d3306cd653482f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
