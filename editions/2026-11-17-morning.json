@@ -1,0 +1,501 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-17T06:54:12+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-ruanda-rueckkehrzentren",
+      "section": "Politik",
+      "headline": "Fünf EU-Staaten verhandeln mit Ruanda über Rückkehrzentrum",
+      "summary": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande nehmen mit Ruanda Verhandlungen über ein Zentrum für abgewiesene Asylsuchende auf. Ziel ist, ausreisepflichtige Personen, die nicht in ihr Herkunftsland zurückgebracht werden können, ab 2027 dorthin zu bringen; das gab Österreichs Kanzler Christian Stocker nach einem Ministertreffen in Wien bekannt. Die EU hatte im Oktober die rechtliche Grundlage für solche «Return Hubs» in Drittstaaten geschaffen. Laut Tages-Anzeiger hat der Ständerat eine Beteiligung der Schweiz gefordert; ein Entscheid darüber steht aus.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/international/migration-nach-europa-neue-zentren-fuer-asylsuchende-aus-europa-in-ostafrika",
+          "published_at": "2026-11-16T18:04:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall)",
+          "url": "https://www.tagesanzeiger.ch/ruanda-abschiebezentrum-beteiligt-sich-die-schweiz-207215364365",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/politik-ruanda-rueckkehrzentren-1024-r01.jpg",
+        "alt": "Stilisierte Karte von Europa und Ostafrika mit gestrichelter Fluglinie und Aktensymbolen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-akw-spende",
+      "section": "Politik",
+      "headline": "AKW-Abstimmung: Früherer Nuklearingenieur spendet eine Million für Nein-Kampagne",
+      "summary": "Der 91-jährige Nuklearingenieur Hans-Rudolf Zulliger spendet eine Million Franken für die Kampagne gegen die Aufhebung des Neubauverbots für Atomkraftwerke. Über die Vorlage wird im Februar abgestimmt. Zulliger hatte in Stanford Nukleartechnik studiert und war früher ein Befürworter der Kernenergie; heute lehnt er neue Werke ab. Die Befürworter der Vorlage wollen den Bau neuer Kernkraftwerke wieder grundsätzlich zulassen.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/der-nuklearingenieur-hans-rudolf-zulliger-war-einst-der-groesste-atom-aficionado-jetzt-spendet-er-eine-million-gegen-neue-akw-ld.10065009",
+          "published_at": "2026-11-17T05:30:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/politik-akw-spende-1024-r01.jpg",
+        "alt": "Kühlturm eines Kernkraftwerks in einer Hügellandschaft neben einer Urne mit Stimmcouvert (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-schaffhausen-budget",
+      "section": "Politik",
+      "headline": "Schaffhauser Kantonsrat genehmigt Budget 2027 mit Defizit",
+      "summary": "Der Schaffhauser Kantonsrat hat das Budget 2027 mit roten Zahlen am Montagabend mit 45 zu 8 Stimmen genehmigt. Er kürzte 250'000 Franken im Asylwesen und strich einen Kredit von einer Million Franken für eine Asylunterkunft für 25 Personen in Beringen. Ein SVP-Antrag, für Lohnerhöhungen des Personals nur 0,6 statt 1,0 Prozent einzusetzen, wurde deutlich abgelehnt; der Steuerfuss bleibt unverändert. Hintergrund sind stagnierende Unternehmenssteuern und steigende Zahlungen an den Nationalen Finanzausgleich.",
+      "sources": [
+        {
+          "name": "SWI swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/schaffhauser-kantonsrat-genehmigt-budget-mit-roten-zahlen/92386767",
+          "published_at": "2026-11-16T20:18:03+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/regionen-schaffhausen-budget-1024-r01.jpg",
+        "alt": "Parlamentspult mit aufgeschlagenem Budgetordner, Taschenrechner und Balkendiagramm (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-smi-rekord",
+      "section": "Wirtschaft",
+      "headline": "SMI erreicht erneut ein Allzeithoch",
+      "summary": "Der Swiss Market Index stieg am Montag im Verlauf auf ein neues Rekordhoch von 15'272 Punkten und schloss 0,6 Prozent höher bei 15'192 Punkten. Gefragt waren Richemont (+2,7 Prozent) sowie die Gesundheitswerte Alcon, Novartis, Roche und Lonza. Aktien aus dem Chip- und KI-Umfeld wie ABB, VAT oder Comet gaben nach; Händler verwiesen auf Unsicherheit im Technologiesektor. Dax und CAC 40 schlossen tiefer, mit Spannung erwartet werden die Quartalszahlen von Nvidia.",
+      "sources": [
+        {
+          "name": "SWI swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/schweizer-b%c3%b6rse-setzt-schon-wieder-neue-rekordmarke/92391049",
+          "published_at": "2026-11-16T18:10:06+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall)",
+          "url": "https://www.tagesanzeiger.ch/smi-erreicht-neues-rekordhoch-bei-15272-punkten-454053753402",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/wirtschaft-smi-rekord-1024-r01.jpg",
+        "alt": "Steigende Börsenkurve, die einen neuen Höchststand erreicht (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-lnm-schifffahrt",
+      "section": "Verkehr & Wetter",
+      "headline": "Weniger Schiffe auf dem Neuenburger- und Murtensee",
+      "summary": "Die Kantone Neuenburg, Waadt und Freiburg passen das Angebot der Schifffahrtsgesellschaft LNM an die tiefe Nachfrage an. Die Anlegestellen Auvernier, Cortaillod, Bevaix, Gorgier und Serrières, die zusammen ein Prozent der Nachfrage ausmachen, werden nicht mehr bedient; Yverdon-les-Bains soll dafür ab 2027 wieder per Schiff erreichbar sein. Die Flotte wird von sieben auf vier Schiffe verkleinert, die über fünf Jahre für rund 20 Millionen Franken erneuert werden; das historische Dampfschiff soll erhalten bleiben. Wie die Kosten unter den Kantonen aufgeteilt werden, ist noch offen.",
+      "sources": [
+        {
+          "name": "SWI swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/k%c3%bcnftig-weniger-schiffe-auf-dem-neuenburger-und-murtensee/92390718",
+          "published_at": "2026-11-16T16:54:54+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/verkehr-lnm-schifffahrt-1024-r01.jpg",
+        "alt": "Weisses Passagierschiff auf einem ruhigen See vor Jurahügeln, daneben ein leerer Steg (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-adventskranz-zuerich",
+      "section": "Zürich & Regionen",
+      "headline": "Zürich: Riesen-Adventskranz auf dem Sechseläutenplatz",
+      "summary": "Auf dem Sechseläutenplatz steht ein Adventskranz mit 40 Metern Durchmesser und einer begehbaren Plattform in fünf Metern Höhe. Er ist Teil des neuen Weihnachtsmarkts «Bellevue Noël», der am Donnerstag eröffnet; gleichzeitig dürfen höchstens 480 Personen auf die Plattform, der Zugang ist kostenlos, aber nur mit Zeitfenster-Ticket. Am Donnerstag beginnt in Zürich offiziell die Weihnachtszeit mit der Beleuchtung «Lucy» an der Bahnhofstrasse. Um 18 Uhr ist dort mit vielen Zuschauern und stillstehenden Trams zu rechnen.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall)",
+          "url": "https://www.nzz.ch/zuerich/riesen-adventskranz-lucy-maerlitram-alles-zur-weihnachtszeit-in-zuerich-ld.10065081",
+          "published_at": "2026-11-17T05:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/regionen-adventskranz-zuerich-1024-r01.jpg",
+        "alt": "Riesiger ringförmiger Adventskranz mit vier Kerzen auf einem Stadtplatz am Winterabend, umgeben von Marktständen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-halloween-krawall-gericht",
+      "section": "Zürich & Regionen",
+      "headline": "Halloween-Krawalle in Zürich: Fall kommt vor Gericht",
+      "summary": "Einer von zwei in der Halloween-Nacht in Zürich festgenommenen Schweizern im Alter von 19 und 21 Jahren hat Einsprache gegen seinen Strafbefehl erhoben, wie die Oberstaatsanwaltschaft mitteilte. Damit kommt sein Fall vor Gericht; auch der zweite Strafbefehl ist noch nicht rechtskräftig. Bei einer unbewilligten Kundgebung Ende Oktober wurden Barrikaden errichtet, ein Auto angezündet und Einsatzkräfte mit Pyrotechnik, Flaschen und Steinen angegriffen. Die Polizei setzte Wasserwerfer, Reizgas und Gummischrot ein.",
+      "sources": [
+        {
+          "name": "SWI swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/krawall-an-halloween-nacht-kommt-vor-z%c3%bcrcher-gericht/92391021",
+          "published_at": "2026-11-16T18:02:21+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/regionen-halloween-krawall-gericht-1024-r01.jpg",
+        "alt": "Richterhammer und geschlossene Gerichtsakte auf einem Tisch vor Säulen eines Gerichtsgebäudes (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-basejumper-lauterbrunnen",
+      "section": "Zürich & Regionen",
+      "headline": "Lauterbrunnen BE: Vermisster Basejumper tot aufgefunden",
+      "summary": "Ein seit Samstagabend vermisster Basejumper ist am Wandfuss der Staldenfluh in Lauterbrunnen tot aufgefunden worden, wie die Kantonspolizei Bern mitteilte. An der Suche beteiligt waren die Rega, die Alpine Rettung Schweiz und ein Notarzt der Air-Glaciers. Die formelle Identifikation des Verstorbenen stand am Montag noch aus. Die Kantonspolizei Bern ermittelt zum Unfallhergang.",
+      "sources": [
+        {
+          "name": "SWI swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/vermisster-basejumper-in-lauterbrunnen-tot-aufgefunden/92390687",
+          "published_at": "2026-11-16T16:52:59+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/regionen-basejumper-lauterbrunnen-1024-r01.jpg",
+        "alt": "Steiles Alpental mit Felswänden und Wasserfall, in der Ferne ein kleiner Rettungshelikopter (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-multiresistente-keime",
+      "section": "Gesellschaft",
+      "headline": "BAG warnt vor Zunahme multiresistenter Keime in Spitälern",
+      "summary": "BAG-Direktorin Anne Lévy fordert von den Spitälern grössere Anstrengungen gegen multiresistente Erreger. In der Schweiz stecken sich jährlich rund 60'000 Menschen während eines Spitalaufenthalts an, teils mit schwer behandelbaren Keimen. Besonders gefährdet sind Patientinnen und Patienten auf Intensivstationen, von denen rund drei Viertel Antibiotika erhalten. Das Lausanner Universitätsspital CHUV testet Intensivpatienten wöchentlich auf vier multiresistente Bakterien; als wichtigste Massnahme gilt die Handhygiene.",
+      "sources": [
+        {
+          "name": "SWI swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/bag-direktorin-warnt-vor-zunehmenden-multiresistenten-keimen/92390797",
+          "published_at": "2026-11-16T17:13:07+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/gesellschaft-multiresistente-keime-1024-r01.jpg",
+        "alt": "Vergrösserte Bakterien unter dem Mikroskop, Petrischale und durchgestrichenes Antibiotika-Symbol (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-gewalt-spital",
+      "section": "Gesellschaft",
+      "headline": "Basler Unispitäler melden mehr Gewalt gegen Personal",
+      "summary": "Das Universitätsspital Basel und das Universitäts-Kinderspital beider Basel verzeichneten 2025 insgesamt 1512 Vorfälle, deutlich mehr als in den Vorjahren. Meist handelt es sich um Beschimpfungen und Drohungen, gut ein Fünftel betrifft körperliche Gewalt; die Polizei rückte 217 Mal aus, zwei Jahre zuvor 132 Mal. Laut Basler Regierung geht Gewalt oft auch von Angehörigen und Besuchenden aus. Eine Pflegeforscherin der Berner Fachhochschule sieht schweizweit eher stabile Zahlen, aber eine höhere Sensibilisierung; das Unispital setzt auf Deeskalationsschulungen und Hausverbote.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/gewalt-gegen-spitalpersonal-neue-zahlen-gewalt-in-basler-spitaelern-nimmt-deutlich-zu",
+          "published_at": "2026-11-17T05:46:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/gesellschaft-gewalt-spital-1024-r01.jpg",
+        "alt": "Leerer Spitalkorridor mit Empfangstheke und einem Warnschild an der Wand (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-roboter-rollstuhl",
+      "section": "Gesellschaft",
+      "headline": "Flughafen Zürich testet selbstfahrende Rollstühle",
+      "summary": "Der Flughafen Zürich testet selbstfahrende Rollstühle, die Passagiere mit eingeschränkter Mobilität zwischen dem Wartebereich und den Gates im Dock A transportieren. Die Fahrzeuge erfassen ihre Umgebung mit über 30 Sensoren, bremsen bei Hindernissen automatisch und haben einen SOS-Knopf. Laut Flughafen sind sie eine Ergänzung und kein Ersatz für persönliche Betreuung; das Personal soll mehr Zeit für Reisende mit intensivem Betreuungsbedarf erhalten. Ähnliche Systeme laufen bereits in München, Amsterdam und Rom.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/hilfe-fuer-mehr-selbstaendigkeit-flughafen-zuerich-testet-roboter-rollstuehle",
+          "published_at": "2026-11-16T19:30:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/gesellschaft-roboter-rollstuhl-1024-r01.jpg",
+        "alt": "Leerer, moderner selbstfahrender Rollstuhl in einem hellen Flughafenkorridor mit Flugzeug vor dem Fenster (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-nati-schottland",
+      "section": "Sport",
+      "headline": "Nati schliesst Länderspieljahr mit 4:0 gegen Schottland ab",
+      "summary": "Die Schweizer Nationalmannschaft hat zum Abschluss der Nations League in St. Gallen Schottland 4:0 besiegt. Nach einem schottischen Eigentor (22.) trafen nach der Pause Winsley Boteli und Alvyn Sanches erstmals für die Nati, Zeki Amdouni erzielte in der 89. Minute das 4:0. Remo Freuler führte das Team in seinem 100. Länderspiel als Captain an, Ricardo Rodriguez kam zu seinem 150. Einsatz. Die Schweiz beendet die Liga-B-Kampagne mit 16 von 18 Punkten und dem Aufstieg; am 6. Dezember wird die EM-Qualifikation ausgelost.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/4-0-gegen-schottland-zwei-jubilare-und-zwei-debuet-tore-erfolgreiche-nati-feiert-sieg",
+          "published_at": "2026-11-16T22:42:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-17-morning/sport-nati-schottland-1024-r01.jpg",
+        "alt": "Fussball im Tornetz eines nächtlichen Stadions mit Flutlicht, ohne Spieler (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-17-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-17T06:53:00+01:00",
+    "ready_at": "2026-11-17T06:54:12+01:00",
+    "content_hash": "sha256:269bf699bc1a0a0e6823d0562335c139563df0083e866b478c59d3fe80367e95",
+    "image_rights": {
+      "politik-ruanda-rueckkehrzentren": {
+        "rights": "ai_generated_own"
+      },
+      "politik-akw-spende": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-schaffhausen-budget": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-smi-rekord": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-lnm-schifffahrt": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-adventskranz-zuerich": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-halloween-krawall-gericht": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-basejumper-lauterbrunnen": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-multiresistente-keime": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-gewalt-spital": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-roboter-rollstuhl": {
+        "rights": "ai_generated_own"
+      },
+      "sport-nati-schottland": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-ruanda-rueckkehrzentren": {
+        "path": "media/politik-ruanda-rueckkehrzentren-1024-r01.jpg",
+        "sha256": "deecf93ee440facd693db7254b39abf595a43379217bf318548c50593297148f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e720794a2f502ea8b24a7f0f8f1971d1196d55bcbf1d38fb6024b48962cda850.jpg",
+        "original_sha256": "e720794a2f502ea8b24a7f0f8f1971d1196d55bcbf1d38fb6024b48962cda850",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-akw-spende": {
+        "path": "media/politik-akw-spende-1024-r01.jpg",
+        "sha256": "1229d43e58441bfe04db40de6ffe1f891ae28a161ec727d81cf1935a408c1974",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f27b07b34c8aeed4ab6cb2a5493d40bae1ab6b5e54c83c20199d5d3b6bb60a1e.jpg",
+        "original_sha256": "f27b07b34c8aeed4ab6cb2a5493d40bae1ab6b5e54c83c20199d5d3b6bb60a1e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-schaffhausen-budget": {
+        "path": "media/regionen-schaffhausen-budget-1024-r01.jpg",
+        "sha256": "9178a7675cfb4a11a82c12733b0cab7dd8b83ef5860043afef0b50c3425fd4a3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a190fa1e212f8e0a48bdd0f94c098273af4bcabae6cbed6eec145f0bcfe9b669.jpg",
+        "original_sha256": "a190fa1e212f8e0a48bdd0f94c098273af4bcabae6cbed6eec145f0bcfe9b669",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-smi-rekord": {
+        "path": "media/wirtschaft-smi-rekord-1024-r01.jpg",
+        "sha256": "439a31657acbb418fbcb2081dac8547e1f6f27ea853e0e0b540f2ae4ab374d3c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b20a7521a7cf0a12ada8fd9b0dd7539c07feba5f452010ddd71c1fa868562916.jpg",
+        "original_sha256": "b20a7521a7cf0a12ada8fd9b0dd7539c07feba5f452010ddd71c1fa868562916",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-lnm-schifffahrt": {
+        "path": "media/verkehr-lnm-schifffahrt-1024-r01.jpg",
+        "sha256": "739aded1e82e70bb863c7c80c2adaac814073b2d091451628a3d1df69ff1de2e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/01c0361e9e71398d62c0050e8a42239e5f961ea6874cdb893c7b7ef0d483d808.jpg",
+        "original_sha256": "01c0361e9e71398d62c0050e8a42239e5f961ea6874cdb893c7b7ef0d483d808",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-adventskranz-zuerich": {
+        "path": "media/regionen-adventskranz-zuerich-1024-r01.jpg",
+        "sha256": "7d3bc6709b93c8ea1bc60a199aa876a741cc524236458be92445a5b4982e0efc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ac5c2641c1f1a6a6318e9f786a593d86ef3e53d5345b01167991c2be8061d497.jpg",
+        "original_sha256": "ac5c2641c1f1a6a6318e9f786a593d86ef3e53d5345b01167991c2be8061d497",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-halloween-krawall-gericht": {
+        "path": "media/regionen-halloween-krawall-gericht-1024-r01.jpg",
+        "sha256": "041c38f497814937ac82b7642c6fec60940971b8ac3a777f7907796a89f77484",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4f0c3b5b454ee613f60a5abc77723a49bbbc27620ddfe0649db0b793b526490e.jpg",
+        "original_sha256": "4f0c3b5b454ee613f60a5abc77723a49bbbc27620ddfe0649db0b793b526490e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-basejumper-lauterbrunnen": {
+        "path": "media/regionen-basejumper-lauterbrunnen-1024-r01.jpg",
+        "sha256": "e901d4ebd5901e1ab807e529c114282c0bc1d839394a95acc21ae6ede6714945",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/09a748e3bddfd097cd3f23b0a43e7fd42deb7baa39dcf929d2f6651d9cc793da.jpg",
+        "original_sha256": "09a748e3bddfd097cd3f23b0a43e7fd42deb7baa39dcf929d2f6651d9cc793da",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-multiresistente-keime": {
+        "path": "media/gesellschaft-multiresistente-keime-1024-r01.jpg",
+        "sha256": "22f04b7a4c935bf9b79e8436740153d0264de924a2efe01125f8424fea1b0d82",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/abc2ab5afe5d14e8cd004ea50773294cc158c5ba580c1bde18a525091593e7c1.jpg",
+        "original_sha256": "abc2ab5afe5d14e8cd004ea50773294cc158c5ba580c1bde18a525091593e7c1",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-gewalt-spital": {
+        "path": "media/gesellschaft-gewalt-spital-1024-r01.jpg",
+        "sha256": "c89e65539783b769e756d47de0f4bbb7eda282473fc82d6841463652a26f2e43",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8bf38ffc1e69ffc170163ac7bab80387c33017249114099e87d23f0e1cab7da1.jpg",
+        "original_sha256": "8bf38ffc1e69ffc170163ac7bab80387c33017249114099e87d23f0e1cab7da1",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-roboter-rollstuhl": {
+        "path": "media/gesellschaft-roboter-rollstuhl-1024-r01.jpg",
+        "sha256": "6afa14c651c56f85855481f20188f8ca8e34f01bd8ede3ebbfb06bfefd608a34",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d170c07a26d89cf271b43a9bc2615d4f26d014a3dd71ed41eca40373be1edd29.jpg",
+        "original_sha256": "d170c07a26d89cf271b43a9bc2615d4f26d014a3dd71ed41eca40373be1edd29",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-nati-schottland": {
+        "path": "media/sport-nati-schottland-1024-r01.jpg",
+        "sha256": "9bf723460f42416bd2297da83e4b0fa3fb97fa494a1bf80c9d0f5cb2f4d02f86",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-17T06:54:12+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-17",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-17 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3539a94a1d0accb7e289cfb56aea12f4c1e57cb56fc8018704fe28cfe15c13cc.jpg",
+        "original_sha256": "3539a94a1d0accb7e289cfb56aea12f4c1e57cb56fc8018704fe28cfe15c13cc",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
