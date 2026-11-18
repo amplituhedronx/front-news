@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-18T17:58:41+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-svp-zweierticket",
+      "section": "Politik",
+      "headline": "Parmelin-Nachfolge: SVP-Fraktionsvorstand empfiehlt Zweierticket",
+      "summary": "Der Vorstand der SVP-Bundeshausfraktion empfiehlt für die Bundesratswahl vom 9. Dezember ein Zweierticket und folgt damit dem Antrag der Findungskommission. Diese erachtet alle acht Kandidierenden – eine Kandidatin und sieben Kandidaten – als wählbar und hat bei keiner Person ein Ausschlusskriterium gefunden. Laut Sitzungsleiter Franz Grüter und Kommissionspräsident Caspar Baader soll die Fraktion die zwei am besten geeigneten Personen für das VBS oder das EJPD bestimmen; die regionale Herkunft sei zweitrangig. Die Fraktion entscheidet am Freitag über das Ticket.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/bundesratswahl-am-9-dezember-fraktionsvorstand-der-svp-empfiehlt-zweierticket",
+          "published_at": "2026-11-18T15:55:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/parmelin-nachfolge-findungskommission-schlaegt-alle-8-kandidierenden-zur-wahl-vor-103669513",
+          "published_at": "2026-11-18T11:06:50+01:00",
+          "updated_at": "2026-11-18T16:05:37+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/politik-svp-zweierticket-1024-r01.jpg",
+        "alt": "Zwei leere Holzstühle vor einem stilisierten Regierungsgebäude mit Kuppel, davor Namenskarten auf einem Tisch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-eu-paket-staendemehr",
+      "section": "Politik",
+      "headline": "EU-Paket: Aussenpolitische Kommission des Nationalrats gegen Ständemehr",
+      "summary": "Die Aussenpolitische Kommission des Nationalrats (APK-N) will das Vertragspaket mit der EU nur dem fakultativen Referendum mit einfachem Volksmehr unterstellen; der Entscheid fiel mit 15 zu 10 Stimmen. Sie stellt sich damit gegen den Ständerat und gegen die Staatspolitische Kommission des Nationalrats, die am Montag ein obligatorisches Referendum mit Volks- und Ständemehr verlangt hatte. Inhaltlich unterstützt die APK-N das ausgehandelte Paket und passt die Umsetzungsgesetze des Ständerats nur punktuell an, etwa mit mehr Mitwirkungsrechten von Parlament und Kantonen bei der dynamischen Rechtsübernahme. Bei der Personenfreizügigkeit lehnt sie Regelungen ab, die dem Abkommen widersprechen würden.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/gegen-staenderatsentscheid-eu-paket-nationalratskommission-gegen-staendemehr",
+          "published_at": "2026-11-18T15:59:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/politik-eu-paket-staendemehr-1024-r01.jpg",
+        "alt": "Stilisierte Waage mit Schweizer Fahne auf der einen und EU-Sternenkreis auf der anderen Seite, darunter Stimmzettel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-ausweiskontrolle",
+      "section": "Politik",
+      "headline": "Bundesrat will strengere Prüfung von Ausweisen bei Ausländern",
+      "summary": "Kantone und Gemeinden sollen beim ersten Behördenkontakt die Ausweise von Ausländerinnen und Ausländern lückenlos auf Echtheit und Zugehörigkeit zur Person prüfen müssen. Der Bundesrat hat dazu eine Vernehmlassung zur Änderung der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE) eröffnet. Hintergrund ist eine Umfrage bei Einwohnerkontrollen und Migrationsämtern, wonach Identitätsdokumente vielerorts nicht ausreichend kontrolliert werden. Künftig sollen Originaldokumente verlangt werden; Kopien wären nicht mehr zulässig.",
+      "sources": [
+        {
+          "name": "admin.ch (Bundesrat)",
+          "url": "https://www.admin.ch/de/newnsb/-RMIt04qqm5L",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/bundesrat-verschaerft-ausweiskontrolle-bei-auslaendern-311411805019",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/politik-ausweiskontrolle-1024-r01.jpg",
+        "alt": "Stilisierter Behördenschalter, an dem eine Lupe einen neutralen, leeren Ausweis prüft (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-budget-2027",
+      "section": "Politik",
+      "headline": "Bundesbudget 2027: Ständeratskommission sagt Ja, Nationalratskommission Nein",
+      "summary": "Die Finanzkommission des Ständerats hat dem Voranschlag 2027 des Bundes mit 11 zu 0 Stimmen bei einer Enthaltung zugestimmt. Die Finanzkommission des Nationalrats beantragt dagegen, das Budget abzulehnen und an den Bundesrat zurückzuweisen, weil sie die unterschiedlichen Forderungen der Pole nicht auf einen Nenner bringen konnte. In der Wintersession entscheidet zuerst der Nationalrat; auch bei einer Rückweisung berät danach der Ständerat. Der vom Parlament im März beschlossene Entlastungsplan des Bundes tritt 2027 in Kraft.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/budget-2027-staenderatskommission-stellt-sich-hinter-voranschlag-des-bundes",
+          "published_at": "2026-11-18T17:18:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/politik-budget-2027-1024-r01.jpg",
+        "alt": "Münzstapel, Taschenrechner, geschlossener Ordner und Füllfeder auf einem Tisch als Symbol für eine Budgetdebatte (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-staatsbesuch-katar",
+      "section": "Politik",
+      "headline": "Emir von Katar auf Staatsbesuch in Bern",
+      "summary": "Der Bundesrat unter Leitung von Bundespräsident Guy Parmelin hat den Emir von Katar, Scheich Tamim bin Hamad Al Thani, auf dem Bundesplatz mit militärischen Ehren empfangen. An den Gesprächen nahmen auch die Bundesräte Ignazio Cassis, Karin Keller-Sutter und Albert Rösti teil; im Zentrum standen laut Bund Wirtschaft, Wissenschaft und internationale Zusammenarbeit. Thematisiert wurden insbesondere Infrastruktur, Finanzen, Logistik, Energie und Wassermanagement sowie der Austausch von Hochschulen. Die Delegation war am Dienstag bei stürmischem Wind in Bern-Belp gelandet.",
+      "sources": [
+        {
+          "name": "admin.ch (Bundesrat)",
+          "url": "https://www.admin.ch/de/newnsb/pO3OKwqL2w-5",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/staatsbesuch-sturm-schuettelt-katar-delegation-bei-landung-in-bern-durch-103669464",
+          "published_at": "2026-11-18T10:50:21+01:00",
+          "updated_at": "2026-11-18T10:50:21+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/politik-staatsbesuch-katar-1024-r01.jpg",
+        "alt": "Zwei kleine abstrakte Tischfahnen und ein roter Teppich vor einem stilisierten historischen Regierungsgebäude, ohne Personen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-gueterverkehr-alpen",
+      "section": "Wirtschaft",
+      "headline": "Bund will Bahngüterverkehr durch die Alpen länger fördern",
+      "summary": "Der Bundesrat will die Betriebsbeiträge an den unbegleiteten kombinierten Verkehr durch die Alpen bis 2035 verlängern und erst ab 2030 schrittweise senken. Für 2027 bis 2030 sind jährlich rund 59 Millionen Franken vorgesehen, bis 2035 insgesamt 486 Millionen, finanziert über die Mineralölsteuer. Grund ist der sinkende Bahnanteil im alpenquerenden Güterverkehr, der 2025 bei 68,6 Prozent lag und damit das vierte Jahr in Folge zurückging, vor allem wegen Baustellen und Unterbrüchen in Deutschland. Der Bundesrat beantragt dem Parlament ein beschleunigtes Verfahren, damit die Änderungen 2027 in Kraft treten können.",
+      "sources": [
+        {
+          "name": "admin.ch (Bundesrat)",
+          "url": "https://www.admin.ch/de/newnsb/S3WEs4OtA44L",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RTS Info (Französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/fret-ferroviaire-transalpin-486-millions-prevus-jusqu-en-2035-29419841.html",
+          "published_at": "2026-11-18T16:26:47+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/wirtschaft-gueterverkehr-alpen-1024-r01.jpg",
+        "alt": "Güterzug mit Containern fährt durch verschneite Alpen auf ein Tunnelportal zu, im Hintergrund Lastwagen auf einer Strasse (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-bls-boni",
+      "section": "Wirtschaft",
+      "headline": "BLS zahlte Ex-Chef trotz Subventionsaffäre verdeckt Boni",
+      "summary": "Der frühere BLS-Chef Bernard Guillelmon erhielt trotz Subventionsaffäre und Freistellung Boni von insgesamt fast 185'000 Franken: 94'023 Franken für 2020 und 90'716 Franken für 2021. Laut einem Bericht der Geschäftsprüfungskommission des Berner Grossen Rats wurde die Auszahlung über eine geheime Anpassung der Aufhebungsvereinbarung bis 2022 hinausgezögert, um eine erneute mediale Diskussion zu vermeiden; selbst der Verwaltungsrat sei nicht informiert worden. Aufgedeckt hatte die Zahlungen die bernische Finanzkontrolle, die sich zuvor gerichtlich Einsicht in die Bücher erstritten hatte. Die BLS hatte 2020 eingeräumt, über Jahre zu hohe Subventionen bezogen zu haben; Guillelmon war für eine Stellungnahme nicht erreichbar.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/bls-in-der-kritik-fast-185-000-franken-fuer-ex-chef-bls-verschleierte-boni",
+          "published_at": "2026-11-18T17:07:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/wirtschaft-bls-boni-1024-r01.jpg",
+        "alt": "Stilisierter Regionalzug neben einem übergrossen Briefumschlag, aus dem Banknoten ragen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-usz-maisano",
+      "section": "Zürich & Regionen",
+      "headline": "Unispital Zürich nennt erstmals Entschädigungen im Fall Maisano",
+      "summary": "Das Universitätsspital Zürich hat im Fall des ehemaligen Herzchirurgen Francesco Maisano rund 20 Staatshaftungsbegehren von Patientinnen, Patienten und Angehörigen erhalten. Die Vergleichszahlungen liegen laut USZ gesamthaft im tiefen sechsstelligen Bereich; 14 Fälle waren schon vor dem Untersuchungsbericht eingereicht worden und sind grösstenteils abgeschlossen. Bisher konnte sich das Spital mit allen Gesuchstellenden aussergerichtlich einigen, ein Gerichtsverfahren gab es nicht. Nach der Veröffentlichung des Berichts gingen weitere Begehren ein, deren Schaden noch nicht beziffert ist.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/universitaetsspital-zuerich-usz-zahlte-im-fall-maisano-entschaedigungen-in-sechsstelliger-hoehe",
+          "published_at": "2026-11-18T11:49:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/unispital-zuerich-entschaedigungen-fuer-opfer-im-fall-maisano-197416681156",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/regionen-usz-maisano-1024-r01.jpg",
+        "alt": "Stilisiertes Spitalgebäude mit Herzsymbol neben einem Dokument mit Siegel und Füllfeder (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-heimatschutz-ruecktritt",
+      "section": "Gesellschaft",
+      "headline": "Heimatschutz-Präsident Martin Killias tritt per sofort zurück",
+      "summary": "Martin Killias, seit 2017 Präsident des Schweizer Heimatschutzes, ist mit sofortiger Wirkung zurückgetreten. Er gab den Schritt am Samstag an der Konferenz der Sektionspräsidien in Biel bekannt, an der auch die Vergabe des nächsten Wakkerpreises traktandiert war; hinter der geplanten Auszeichnung hätte er nicht stehen können, sagte er Keystone-SDA. Der Wakkerpreis wird seit 1972 an Gemeinden für die Pflege ihres Ortsbildes vergeben und ist mit 20'000 Franken dotiert. Interimistisch übernimmt Vizepräsidentin Muriel Thalmann die Leitung des Verbands.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/vorzeitiger-ruecktritt-praesident-des-schweizer-heimatschutzes-per-sofort-zurueckgetreten",
+          "published_at": "2026-11-18T15:39:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS Info (Französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/patrimoine-suisse-le-president-martin-killias-demissionne-29419819.html",
+          "published_at": "2026-11-18T13:25:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/gesellschaft-heimatschutz-ruecktritt-1024-r01.jpg",
+        "alt": "Stilisiertes traditionelles Dorf mit alten Häusern und Kirchturm, im Vordergrund ein leerer Stuhl (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-loetschenpass-halsring",
+      "section": "Gesellschaft",
+      "headline": "4000 Jahre alter Bronze-Halsring auf dem Lötschenpass gefunden",
+      "summary": "Auf dem über 2600 Meter hohen Lötschenpass zwischen Berner Oberland und Wallis ist Mitte Oktober ein bronzener Halsring aus der Frühbronzezeit (2000 bis 1700 v. Chr.) entdeckt worden. Der rund 13 Zentimeter grosse Ring mit ösenförmigen Enden ist laut der Berner Bildungs- und Kulturdirektion überraschend gut erhalten und wird nun vom Archäologischen Dienst konserviert. Vermutet wird, dass er absichtlich als Opfergabe deponiert wurde, etwa für eine gelungene Reise. Am Pass waren seit 2011 bereits ein Bogen, Pfeile und Lederstücke aus der Bronzezeit aufgetaucht, die durch den Eisrückgang freigelegt wurden.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/spektakulaerer-fund-4000-jahre-alter-bronze-halsring-auf-dem-loetschenpass-entdeckt",
+          "published_at": "2026-11-18T13:33:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/gesellschaft-loetschenpass-halsring-1024-r01.jpg",
+        "alt": "Gezeichneter antiker Bronzering mit eingerollten Enden auf Felsen und schmelzendem Eis an einem Alpenpass (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-sturm-november",
+      "section": "Verkehr & Wetter",
+      "headline": "Sturm: Orkanböe auf dem Pilatus, weitere Windspitzen bis Freitag",
+      "summary": "Seit Dienstag hat der Sturm auf Voralpen- und Juragipfeln am stärksten gewütet: Auf dem Pilatus wurden 145 km/h gemessen, in Rünenberg BL 135 km/h, in Thun 99 km/h. Grössere Schäden sind laut SRF Meteo nicht bekannt, die Landeanflüge auf Flughäfen waren teils turbulent. Am Donnerstag und Freitag frischt der Wind erneut auf, in den Bergen bleibt es bis Samstag stürmisch; ein stabiles Hoch ist bis Ende November nicht in Sicht. Die Regenmengen dieser Woche entsprechen etwa einem durchschnittlichen November, reichen nach der langen Trockenheit aber noch nicht aus.",
+      "sources": [
+        {
+          "name": "SRF Meteo",
+          "url": "https://www.srf.ch/news/schweiz/tosendes-novemberwetter-keine-stabile-hochdruckphase-bis-ende-november-in-sicht",
+          "published_at": "2026-11-18T16:36:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/wetter-sturm-november-1024-r01.jpg",
+        "alt": "Stürmische Herbstlandschaft mit sich biegendem Baum, fliegendem Laub, dunklen Wolken und Regen über einem See (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-ragettli-pause",
+      "section": "Sport",
+      "headline": "Andri Ragettli legt Wettkampfpause ein",
+      "summary": "Ski-Freestyler Andri Ragettli bestreitet in diesem Winter keine Weltcup-Wettkämpfe und verzichtet auch auf die X-Games sowie auf die Freestyle-WM 2027 im Montafon. Der 28-jährige Bündner begründet den Schritt auf Instagram damit, dass ihm sein Körper im Sommer signalisiert habe, einen Gang zurückzuschalten. Nach 13 Jahren im Weltcup wolle er sich neuen Herausforderungen auf den Ski widmen. Einen Rücktritt schliesst er ausdrücklich aus.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/verzicht-auch-auf-wm-x-games-ragettli-wird-diese-saison-keine-grossen-wettkaempfe-bestreiten",
+          "published_at": "2026-11-18T17:47:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-evening/sport-ragettli-pause-1024-r01.jpg",
+        "alt": "Gesichtslose, generische Freeski-Silhouette sitzt im Schnee neben eingesteckten Ski, im Hintergrund eine leere Sprungschanze (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-18-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-18T17:58:37+01:00",
+    "ready_at": "2026-11-18T17:58:41+01:00",
+    "content_hash": "sha256:5816fbe0a4ea09072e4fef87148935304121b917eb10a44dd0b88649d513debb",
+    "image_rights": {
+      "politik-svp-zweierticket": {
+        "rights": "ai_generated_own"
+      },
+      "politik-eu-paket-staendemehr": {
+        "rights": "ai_generated_own"
+      },
+      "politik-ausweiskontrolle": {
+        "rights": "ai_generated_own"
+      },
+      "politik-budget-2027": {
+        "rights": "ai_generated_own"
+      },
+      "politik-staatsbesuch-katar": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-gueterverkehr-alpen": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-bls-boni": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-usz-maisano": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-heimatschutz-ruecktritt": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-loetschenpass-halsring": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-sturm-november": {
+        "rights": "ai_generated_own"
+      },
+      "sport-ragettli-pause": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-svp-zweierticket": {
+        "path": "media/politik-svp-zweierticket-1024-r01.jpg",
+        "sha256": "93bcc81c6499d8eec90de4d8928f8da9c1314e787fc8dbc04d1e534bb6e42474",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e5590022167fe88975f8dd63f5313b8e7339d7d08918c0f25e0849abbe5010fe.jpg",
+        "original_sha256": "e5590022167fe88975f8dd63f5313b8e7339d7d08918c0f25e0849abbe5010fe",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-eu-paket-staendemehr": {
+        "path": "media/politik-eu-paket-staendemehr-1024-r01.jpg",
+        "sha256": "28f364903415a44682a97711745201fd6264943f2227c0d90576527db997ab25",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cdb4fc903632d74c020b5289b9add46edd92ced4edd1a30f5d8c55dfca6d61a3.jpg",
+        "original_sha256": "cdb4fc903632d74c020b5289b9add46edd92ced4edd1a30f5d8c55dfca6d61a3",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-ausweiskontrolle": {
+        "path": "media/politik-ausweiskontrolle-1024-r01.jpg",
+        "sha256": "fcff721140b150ef41d441506359dc02e16df430ac6dc4a00370b323b1995534",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/97625b6d7ff95f88b3419a1574746584574716f397bbcdda1719b5d7d29b351e.jpg",
+        "original_sha256": "97625b6d7ff95f88b3419a1574746584574716f397bbcdda1719b5d7d29b351e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-budget-2027": {
+        "path": "media/politik-budget-2027-1024-r01.jpg",
+        "sha256": "940df116f13b89cd48c6767a1b766fb41ddb764b935c09ecee9f74417f4d2675",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9d1474c6977c2817c0b71e39feb62432112e200ba236938928c0061065bbe5ed.jpg",
+        "original_sha256": "9d1474c6977c2817c0b71e39feb62432112e200ba236938928c0061065bbe5ed",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-staatsbesuch-katar": {
+        "path": "media/politik-staatsbesuch-katar-1024-r01.jpg",
+        "sha256": "6591dba505a2b503432ec5f75d5e4b287702dc2e43dfc999094ee65338ecc44e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1fd5f43896f248ab528ecfdaad2e4109ae19ad7425a89973de1f42b371fad138.jpg",
+        "original_sha256": "1fd5f43896f248ab528ecfdaad2e4109ae19ad7425a89973de1f42b371fad138",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-gueterverkehr-alpen": {
+        "path": "media/wirtschaft-gueterverkehr-alpen-1024-r01.jpg",
+        "sha256": "0e9cb6a466864c6710312b60aaef1c9d2b81d8a87d31ab9756358ea4da9de181",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0afaffab00e972d753e734d6ed19c0686ade29076f05a002455c1f6369ffbd39.jpg",
+        "original_sha256": "0afaffab00e972d753e734d6ed19c0686ade29076f05a002455c1f6369ffbd39",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-bls-boni": {
+        "path": "media/wirtschaft-bls-boni-1024-r01.jpg",
+        "sha256": "bcf6f9ab2c206c60bdbf965062e7b1728a1166b6d8af0af69a4a5355c862b929",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3a6e0b9fff24235c02266fcea4990888335b1703ab6e2ff259bf22074a06b8b9.jpg",
+        "original_sha256": "3a6e0b9fff24235c02266fcea4990888335b1703ab6e2ff259bf22074a06b8b9",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-usz-maisano": {
+        "path": "media/regionen-usz-maisano-1024-r01.jpg",
+        "sha256": "5cb914f219b01c8aedcca04b158bff504965c5987f316972a79999f7565b7228",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/285f2d9b89d8510062c2bb2814ec24c440c462f9d15b8c9ebfa958884f5c6234.jpg",
+        "original_sha256": "285f2d9b89d8510062c2bb2814ec24c440c462f9d15b8c9ebfa958884f5c6234",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-heimatschutz-ruecktritt": {
+        "path": "media/gesellschaft-heimatschutz-ruecktritt-1024-r01.jpg",
+        "sha256": "5ce5c7aef6caba91d063ad51f69363bbd1fbaac0c221ee21b2079ff5cb22b749",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/942d8fe0d02848a2f2b6914969f16b41a09e1bf1301f4773bcfd303d2c3a7724.jpg",
+        "original_sha256": "942d8fe0d02848a2f2b6914969f16b41a09e1bf1301f4773bcfd303d2c3a7724",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-loetschenpass-halsring": {
+        "path": "media/gesellschaft-loetschenpass-halsring-1024-r01.jpg",
+        "sha256": "a732e0627ad3ef6dfee5c8abe058019594830e1694830b0a14ff2095b67285b6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e764a4abc8e3fb8e7d54a98b3efb05762581e04372cb367dfa96ee5f8b0ee069.jpg",
+        "original_sha256": "e764a4abc8e3fb8e7d54a98b3efb05762581e04372cb367dfa96ee5f8b0ee069",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-sturm-november": {
+        "path": "media/wetter-sturm-november-1024-r01.jpg",
+        "sha256": "213a14301bc374d2306dd3d385e72e8c8c7ee573a004325183bbe31bef487dd6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:38+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c3239749d29594f78d3218683fceab9155d6c1202c0c065c2d003522d1373fe8.jpg",
+        "original_sha256": "c3239749d29594f78d3218683fceab9155d6c1202c0c065c2d003522d1373fe8",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-ragettli-pause": {
+        "path": "media/sport-ragettli-pause-1024-r01.jpg",
+        "sha256": "ad31a7ed6986bf7b75ee2947b829e782dbff513386fd34d1d30f598beb543567",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T17:58:38+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/73bf98aad420449770e893240b95d2134eebd8137c0c695d153ec1f42672556d.jpg",
+        "original_sha256": "73bf98aad420449770e893240b95d2134eebd8137c0c695d153ec1f42672556d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
