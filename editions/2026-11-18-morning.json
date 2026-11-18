@@ -1,0 +1,543 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-18T07:00:28+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-umfrage-ahv-heiratsstrafe",
+      "section": "Politik",
+      "headline": "Umfragen: AHV-Mehrwertsteuer und Mitte-Initiative verlieren an Rückhalt",
+      "summary": "Gut zehn Tage vor der Abstimmung vom 29. November hätte die Zusatzfinanzierung der 13. AHV-Rente über eine um 0,4 Prozentpunkte höhere Mehrwertsteuer laut der zweiten SRG-Umfrage von GFS Bern keine Mehrheit: 51 Prozent wären dagegen, 46 Prozent dafür. Die zweite Umfrage von Leewas für Tamedia und 20 Minuten zeigt 57 Prozent Nein und 41 Prozent Ja, wobei das Ja-Lager dort zugelegt hat. Bei der Mitte-Initiative gegen die Heiratsstrafe hat sich das Bild gedreht: GFS Bern misst 54 Prozent Nein und 40 Prozent Ja, Leewas 59 zu 37 Prozent. Die Befürworter wollen bei der direkten Bundessteuer an der gemeinsamen Besteuerung von Ehepaaren festhalten, Bundesrat und Parlament warnen vor zwei widersprüchlichen Steuersystemen nach dem Ja zur Individualbesteuerung.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/zweite-srg-umfrage-finanzierung-13-ahv-jetzt-doch-ein-kleiner-nein-vorsprung",
+          "published_at": "2026-11-18T05:55:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/zweite-srg-umfrage-deutlicher-nein-trend-bei-der-initiative-gegen-die-heiratsstrafe",
+          "published_at": "2026-11-18T05:56:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/abstimmungsumfrage-feuerwerksverbot-vorn-mehrwertsteuer-erhoehung-unter-druck-103669037",
+          "published_at": "2026-11-18T05:13:57+01:00",
+          "updated_at": "2026-11-18T05:13:57+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/politik-umfrage-ahv-heiratsstrafe-1024-r01.jpg",
+        "alt": "Stilisierte Abstimmungsurne mit Stimmzetteln, daneben ein Balkendiagramm und ein Prozentzeichen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-umfrage-feuerwerk-kriegsmaterial",
+      "section": "Politik",
+      "headline": "Feuerwerksinitiative vorne, Kriegsmaterialgesetz offen",
+      "summary": "Die Volksinitiative für eine Einschränkung von lärmigem Feuerwerk käme laut der zweiten SRG-Umfrage auf 63 Prozent Ja und 35 Prozent Nein, laut Leewas auf 62 Prozent Ja; die Zustimmung ist in beiden Umfragen um rund sechs Prozentpunkte gesunken. Bewilligte Grossfeuerwerke, etwa am 1. August, blieben bei einem Ja möglich. Beim geänderten Kriegsmaterialgesetz, das Exporte erleichtern soll, zeichnet sich ein knappes Resultat ab: 49 Prozent Ja und 46 Prozent Nein bei GFS Bern, 49 zu 48 Prozent bei Leewas. Bürgerliche Parteien unterstützen die Vorlage, SP und Grüne lehnen sie ab; Männer und Ältere sind eher dafür, Frauen und Jüngere eher dagegen.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/zweite-srg-umfrage-feuerwerksinitiative-ja-anteil-schrumpft-erfolgschancen-nicht",
+          "published_at": "2026-11-18T05:55:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/zweite-srg-umfrage-kriegsmaterialgesetz-pattsituation-mit-leichtem-ja-vorteil",
+          "published_at": "2026-11-18T05:55:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/abstimmungsumfrage-feuerwerksverbot-vorn-mehrwertsteuer-erhoehung-unter-druck-103669037",
+          "published_at": "2026-11-18T05:13:57+01:00",
+          "updated_at": "2026-11-18T05:13:57+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/politik-umfrage-feuerwerk-kriegsmaterial-1024-r01.jpg",
+        "alt": "Stilisierte Waage, auf einer Seite eine Feuerwerksrakete, auf der anderen ein Frachtcontainer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-ubs-kapitalregeln",
+      "section": "Wirtschaft",
+      "headline": "UBS gibt Widerstand gegen strengere Kapitalregeln offenbar weitgehend auf",
+      "summary": "Die UBS sieht laut mit der Sache vertrauten Personen, auf die sich die Nachrichtenagentur Reuters beruft, kaum noch Chancen, die geplanten Eigenkapitalvorgaben grundlegend abzuschwächen. Kern der Vorlage ist, dass die Bank ihre Auslandstöchter mit hartem Kernkapital (CET1) unterlegen muss; der Ständerat hat eine Lockerung auf 90 statt 100 Prozent beschlossen. Die UBS kommentiert dies nicht und will im Februar mit den Jahreszahlen ihre strategischen Optionen erläutern, dazu gehört laut den Quellen auch die Frage eines Wegzugs. Das Parlament könnte die Regeln bereits im Dezember verabschieden.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/widerstand-gebrochen-ubs-gibt-im-streit-um-strengere-kapitalvorgaben-offenbar-nach-103669278",
+          "published_at": "2026-11-17T18:39:02+01:00",
+          "updated_at": "2026-11-17T18:39:02+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/wirtschaft-ubs-kapitalregeln-1024-r01.jpg",
+        "alt": "Stilisierte Bankfassade mit einem Stapel Goldbarren als Fundament und einem Schutzschild davor (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-deutsche-bank-leak",
+      "section": "Wirtschaft",
+      "headline": "Deutsche-Bank-Leak: Geschäfte mit russischen Oligarchen liefen über die Schweiz",
+      "summary": "Unter dem Titel «Inside Deutsche Bank» sind mehr als 15 Millionen interne Dokumente der grössten deutschen Bank öffentlich geworden. Gemäss den Daten wickelte die Bank zumindest 2015 den Grossteil ihrer Geschäftsbeziehungen mit russischen Oligarchen über ihre Schweizer Einheit ab. Strafrechtsprofessor Mark Pieth spricht von möglichen Verstössen gegen das Geldwäschereigesetz, Belege dafür lieferten die publizierten Daten aber nicht; Aktienrechtler Peter V. Kunz sieht keine illegalen Handlungen, aber ein Imagerisiko für den Finanzplatz. Die Finma erklärt, sie gehe Hinweisen auf Verletzungen des Finanzmarktrechts konsequent nach.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/wirtschaft/datenleck-bei-deutsche-bank-die-schweiz-als-drehscheibe-fuer-heikle-geschaefte-mit-oligarchen",
+          "published_at": "2026-11-17T21:02:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall)",
+          "url": "https://www.tagesanzeiger.ch/deutsche-bank-unser-autor-ueber-die-hintergruende-des-datenlecks-331955249707",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/wirtschaft-deutsche-bank-leak-1024-r01.jpg",
+        "alt": "Stilisierte Aktenordner, aus denen Dokumente als Datenstrom zu einem Schloss fliessen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-landwirtschaft-duerre",
+      "section": "Wirtschaft",
+      "headline": "Dürresommer: Einkommen der Bauernbetriebe sinkt um 17 Prozent",
+      "summary": "Hitze und Trockenheit haben der Schweizer Landwirtschaft 2026 stark zugesetzt, wie erste Schätzungen des Bundesamts für Statistik zeigen. Die Wertschöpfung sinkt gegenüber dem Vorjahr um 11,7 Prozent, das Einkommen der Betriebe um 17 Prozent. Bei Zuckerrüben (minus 33 Prozent) und Kartoffeln (minus 25 Prozent) waren die Ernten so schlecht wie seit 30 Jahren nicht mehr, zudem sank der Wert der Schweineproduktion wegen Überangebots um fast 31 Prozent. Der Bauernverband verweist darauf, dass das gute Jahr 2025 mit einem Einkommensplus von 7,5 Prozent die Einbussen nicht ausgleiche.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/rekordsommer-so-litt-die-landwirtschaft-2026-die-zahlen",
+          "published_at": "2026-11-17T19:04:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "BFS (Medienmitteilung)",
+          "url": "https://statistik.admin.ch/de/asset/36995055",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/wirtschaft-landwirtschaft-duerre-1024-r01.jpg",
+        "alt": "Stilisierter ausgetrockneter Acker mit Rissen, einige Kartoffeln und eine Zuckerrübe im Vordergrund, darüber eine grelle Sonne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-glencore-flyer-zug",
+      "section": "Zürich & Regionen",
+      "headline": "Zuger Obergericht erlaubt Flyer gegen Glencore",
+      "summary": "Die Koalition für Konzernverantwortung darf ihre rund 600'000 Flugblätter zu Umweltschäden rund um die Antamina-Mine in Peru, an der Glencore beteiligt ist, nun doch verteilen. Das Zuger Obergericht hob ein im September auf Antrag des Rohstoffkonzerns erlassenes Verbot auf. Es geht von einem Zusammenhang zwischen dem Minenbetrieb und Gesundheitsproblemen der Bevölkerung aus und hält fest, dass Glencore als Minderheitsaktionärin Einfluss auf den Betrieb nehmen könne. Bestimmte, bereits gelöschte Social-Media-Beiträge bleiben verboten, weil sie laut Gericht ein verfälschtes Bild der Verantwortung von Glencore zeichneten.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/zuger-obergericht-l%c3%a4sst-flugbl%c3%a4tter-gegen-glencore-zu/92392567",
+          "published_at": "2026-11-17T08:39:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Nau.ch",
+          "url": "https://www.nau.ch/news/schweiz/zuger-obergericht-lasst-flugblatter-gegen-glencore-zu-67202934",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/regionen-glencore-flyer-zug-1024-r01.jpg",
+        "alt": "Stilisierter Stapel Flugblätter neben einem Richterhammer, im Hintergrund abstrakte Berge und ein Hafenkran (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-jugendproteste",
+      "section": "Zürich & Regionen",
+      "headline": "Städte bereiten sich auf Jugendproteste vom Freitag vor",
+      "summary": "Am Freitag, 20. November, wollen Jugendliche in mehreren Schweizer Städten gegen Aufrüstung und Sparmassnahmen demonstrieren, unter anderem in Basel, Zürich, Bern, im Tessin und in der Westschweiz. In Basel ist die Kundgebung bewilligt und eine Route von der Elisabethenanlage zum Theodorskirchplatz vereinbart; das Gewerbe wurde vorab informiert. In Zürich war das Gesuch laut Stadtpolizei noch hängig, sie will mit Unterstützung der Kantonspolizei präsent sein und die Ausschreitungen vom 31. Oktober in die Planung einbeziehen. Die Organisatoren betonen, die Proteste sollen friedlich verlaufen.",
+      "sources": [
+        {
+          "name": "Blick",
+          "url": "https://www.blick.ch/schweiz/jugendproteste-am-20-november-staedte-bereiten-sich-vor/2mkssh0",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/regionen-jugendproteste-1024-r01.jpg",
+        "alt": "Stilisierte Gruppe leerer Protestschilder vor einer abstrakten Stadtsilhouette mit Tram (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-cyberangriffe-gemeinden",
+      "section": "Zürich & Regionen",
+      "headline": "Bern und Aargau rüsten Gemeinden gegen Cyberangriffe",
+      "summary": "Im Kanton Bern gilt seit Anfang November ein neues Cybersicherheitsgesetz: Dienststellen müssen Angriffe und Sicherheitsvorfälle binnen 24 Stunden melden, bei betroffenen Personendaten binnen 72 Stunden. Der Kanton bietet Gemeinden zudem Onlineschulungen an, der Berner Gemeindeverband rät zu regelmässigen Phishing-Tests und sorgfältiger Auswahl externer IT-Dienstleister. Der Kanton Aargau eröffnet ab nächstem Jahr eine Cyber-Koordinationsstelle für Gemeinden, Bevölkerung und Wirtschaft. Wie verwundbar auch kleine Betriebe sind, zeigte kürzlich ein Angriff auf eine Metzgerei in Köniz, deren Kühlanlagen danach heizten statt kühlten.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/gefahr-cyberattacke-gemeinden-im-kampf-gegen-hackerangriffe-gefordert",
+          "published_at": "2026-11-18T06:30:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/regionen-cyberangriffe-gemeinden-1024-r01.jpg",
+        "alt": "Stilisiertes Gemeindehaus hinter einem digitalen Schutzschild mit Schloss-Symbol (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-wohnkosten",
+      "section": "Gesellschaft",
+      "headline": "Wohnkosten sind 2024 deutlich gestiegen",
+      "summary": "Laut der Haushaltsbudgeterhebung des Bundesamts für Statistik stiegen die durchschnittlichen Wohnkosten der Haushalte von 2023 auf 2024 von 1449 auf 1546 Franken pro Monat. Sie bleiben damit der grösste Posten der Konsumausgaben, die insgesamt 5244 Franken oder 50,2 Prozent des Bruttoeinkommens ausmachten. Für obligatorische Ausgaben wie Steuern, Sozialversicherungen und Krankenkassenprämien wendeten die Haushalte 31 Prozent auf, zum Sparen blieben im Schnitt 1578 Franken. Das verfügbare Einkommen ist ungleich verteilt: Bei 61 Prozent der Haushalte lag es unter dem Mittelwert.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/haushaltsbudget-erhebung-wohnkosten-in-der-schweiz-sind-2024-stark-angestiegen",
+          "published_at": "2026-11-17T19:33:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "BFS (Medienmitteilung)",
+          "url": "https://www.bfs.admin.ch/de/newnsb/6f7-asx4KxXe",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/gesellschaft-wohnkosten-1024-r01.jpg",
+        "alt": "Stilisiertes Wohnhaus auf einer Münzrolle, daneben ein ansteigender Pfeil (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-tschernobyl-studie",
+      "section": "Gesellschaft",
+      "headline": "Umstrittene Studie: Mehr Säuglingstodesfälle nach Tschernobyl",
+      "summary": "Die Ärztevereinigung PSR/IPPNW Schweiz hat eine Studie veröffentlicht, wonach zwischen 1987 und 2024 rund 2000 zusätzliche Säuglingstodesfälle in der Schweiz auf die Reaktorkatastrophe von Tschernobyl zurückzuführen sein könnten. Untersucht wurden über 4,5 Millionen Geburten seit 1969; der Anstieg der Sterblichkeit sei in Kantonen mit höherem Cäsium-137-Niederschlag stärker, besonders in der Zentralschweiz. Als mögliche Erklärung nennt die Vereinigung belastete Tessiner Milch, die damals in der Zentralschweiz verarbeitet wurde. Das BAG stellt die Ergebnisse infrage, hält eine solche Zuordnung bei den in der Schweiz gemessenen Dosen für nicht möglich und will die Eidgenössische Strahlenschutzkommission um eine Stellungnahme bitten.",
+      "sources": [
+        {
+          "name": "Nau.ch (Keystone-SDA)",
+          "url": "https://www.nau.ch/news/europa/studie-weist-hohere-sauglingssterblichkeit-nach-tschernobyl-aus-67203204",
+          "published_at": "2026-11-17T17:29:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS",
+          "url": "https://www.rts.ch/info/suisse/2026/article/tchernobyl-2000-deces-de-nourrissons-en-suisse-au-total-selon-une-etude-contestee-29419196.html",
+          "published_at": "2026-11-17T21:16:50+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/gesellschaft-tschernobyl-studie-1024-r01.jpg",
+        "alt": "Stilisierte Statistikkurve über einer abstrakten Schweizer Landschaft, daneben ein Atom-Symbol und eine Lupe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-trockenheit-seen",
+      "section": "Verkehr & Wetter",
+      "headline": "Regen lindert Trockenheit nur langsam",
+      "summary": "Trotz des nassen Wetters ist die Trockenheit laut SRF Meteo noch nicht vorbei. Dem Bodensee fehlen 48 Zentimeter und dem Zürichsee 45 Zentimeter zum durchschnittlichen Pegel für die Jahreszeit; das Bafu rechnet nur mit einem langsamen Anstieg. Bis Ende Woche werden im Unterwallis bis 150 Millimeter Regen erwartet, entlang des Juras rund 100 und im Mittelland etwa 60 Millimeter, in Graubünden und im Tessin wenig. Die Schneefallgrenze sinkt allmählich von über 2000 gegen 1000 Meter, der Schnee in den Bergen füllt Seen und Flüsse erst bei der Schmelze im Frühling.",
+      "sources": [
+        {
+          "name": "SRF Meteo",
+          "url": "https://www.srf.ch/meteo/meteo-stories/regenwetter-ist-die-trockenheit-nun-vom-tisch",
+          "published_at": "2026-11-17T17:17:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/wetter-trockenheit-seen-1024-r01.jpg",
+        "alt": "Stilisierter See mit sichtbarer Pegelmarkierung am Ufer, darüber Regenwolken und verschneite Berggipfel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-hcd-chl-viertelfinal",
+      "section": "Sport",
+      "headline": "HC Davos erreicht Viertelfinal der Champions Hockey League",
+      "summary": "Der HC Davos hat sich in Pilsen für die Viertelfinals der Champions Hockey League qualifiziert. Nach dem 5:4-Heimsieg verlor das Team das Rückspiel in der regulären Spielzeit 1:2, womit eine Verlängerung nötig wurde. Dort traf Joseph Blandisi nach knapp fünf Minuten auf Zuspiel von Yannick Frehner zum Weiterkommen. Im Viertelfinal trifft Davos auf die Adler Mannheim.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-blandisi-schiesst-den-hc-davos-in-den-viertelfinal",
+          "published_at": "2026-11-17T20:08:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-18-morning/sport-hcd-chl-viertelfinal-1024-r01.jpg",
+        "alt": "Stilisierter Eishockeypuck und zwei gekreuzte Schläger auf einer Eisfläche vor abstrakten Bergen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-18-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-18T07:00:00+01:00",
+    "ready_at": "2026-11-18T07:00:28+01:00",
+    "content_hash": "sha256:c7e73cad4f42bf486e192265b16c5c5b73e521f498420167c1d37531bba15801",
+    "image_rights": {
+      "politik-umfrage-ahv-heiratsstrafe": {
+        "rights": "ai_generated_own"
+      },
+      "politik-umfrage-feuerwerk-kriegsmaterial": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-ubs-kapitalregeln": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-deutsche-bank-leak": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-landwirtschaft-duerre": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-glencore-flyer-zug": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-jugendproteste": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-cyberangriffe-gemeinden": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-wohnkosten": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-tschernobyl-studie": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-trockenheit-seen": {
+        "rights": "ai_generated_own"
+      },
+      "sport-hcd-chl-viertelfinal": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-umfrage-ahv-heiratsstrafe": {
+        "path": "media/politik-umfrage-ahv-heiratsstrafe-1024-r01.jpg",
+        "sha256": "1551b944bcdb516bf78060f96efd5fecfacd26e07e45b53d6890efccec27f7de",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c7ad83464a9ccd615a6fd1a75a380da5609a13985f7f38119a0048e1b20ce70e.jpg",
+        "original_sha256": "c7ad83464a9ccd615a6fd1a75a380da5609a13985f7f38119a0048e1b20ce70e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-umfrage-feuerwerk-kriegsmaterial": {
+        "path": "media/politik-umfrage-feuerwerk-kriegsmaterial-1024-r01.jpg",
+        "sha256": "5bab525b68ffed306d193030a228c4a8c37a2cf8fe93acedbe148afdaba3b435",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e38b0fe9dde5c8fbfb35be8e5ee3d73b0ace94ffbd3ee8cb343e811900ea446f.jpg",
+        "original_sha256": "e38b0fe9dde5c8fbfb35be8e5ee3d73b0ace94ffbd3ee8cb343e811900ea446f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-ubs-kapitalregeln": {
+        "path": "media/wirtschaft-ubs-kapitalregeln-1024-r01.jpg",
+        "sha256": "57d454dea5278bdbc81451103671977fd4930031f1d3818a2317d1cd2d401543",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/5d02c16a865dd00ed557e0af4c64131ee854d846eb52fb6b2c5c9b798ca6a557.jpg",
+        "original_sha256": "5d02c16a865dd00ed557e0af4c64131ee854d846eb52fb6b2c5c9b798ca6a557",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-deutsche-bank-leak": {
+        "path": "media/wirtschaft-deutsche-bank-leak-1024-r01.jpg",
+        "sha256": "a1600bd9b8bf01fbb335e76e6d48e7f29eb1a827cf8272a6b02e147fe4ba344d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/efcbbfe55dd944514eef0ce33570f890e6668a6de89cf655284f3b75890a1787.jpg",
+        "original_sha256": "efcbbfe55dd944514eef0ce33570f890e6668a6de89cf655284f3b75890a1787",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-landwirtschaft-duerre": {
+        "path": "media/wirtschaft-landwirtschaft-duerre-1024-r01.jpg",
+        "sha256": "c17f2261e508bd5dc63890016a34259e8e121bbfbc475a4f0fed9113aaa626d7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d789e057010365efc619a676f499fd67f2f67675c1fc94b082030013e12c8d29.jpg",
+        "original_sha256": "d789e057010365efc619a676f499fd67f2f67675c1fc94b082030013e12c8d29",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-glencore-flyer-zug": {
+        "path": "media/regionen-glencore-flyer-zug-1024-r01.jpg",
+        "sha256": "134c0d21f14349ba346dbeb8ac9dbfa4a8245285f9fc1f1fa7275b53828e3fa8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/49a24d8d4da215af1f7be4b8ca161474f538fc6e4b66102cd2d34c3555c1fb28.jpg",
+        "original_sha256": "49a24d8d4da215af1f7be4b8ca161474f538fc6e4b66102cd2d34c3555c1fb28",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-jugendproteste": {
+        "path": "media/regionen-jugendproteste-1024-r01.jpg",
+        "sha256": "78ea993aaf8bf356089789bb74bd1ac283232aeb30e3d239d2e20a98423b3823",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/384b0250d901421b36eb279df6a4f2c4e52854231775ccd90b62860dd8ed90cc.jpg",
+        "original_sha256": "384b0250d901421b36eb279df6a4f2c4e52854231775ccd90b62860dd8ed90cc",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-cyberangriffe-gemeinden": {
+        "path": "media/regionen-cyberangriffe-gemeinden-1024-r01.jpg",
+        "sha256": "c537e7283fb4262d8883d45bce3aeb78c0ce823c87a9c12a93d4be1db7572e00",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cd031acb1b30113110b14256ad9a7e094e5cf176a4e00f370afa3f6639ce3ca1.jpg",
+        "original_sha256": "cd031acb1b30113110b14256ad9a7e094e5cf176a4e00f370afa3f6639ce3ca1",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-wohnkosten": {
+        "path": "media/gesellschaft-wohnkosten-1024-r01.jpg",
+        "sha256": "719d637cd24ac1d499c93c516d6a3966508a2dd667cfbc393dc11b9a2c0abf78",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/846b2969bcba3a87fdcc6c25e1c6e795829840732a714c04b910109abb2eb118.jpg",
+        "original_sha256": "846b2969bcba3a87fdcc6c25e1c6e795829840732a714c04b910109abb2eb118",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-tschernobyl-studie": {
+        "path": "media/gesellschaft-tschernobyl-studie-1024-r01.jpg",
+        "sha256": "d4fa96f92506fb3b996b90b4caa0337418c992af47e21eb567179c8262f19f83",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ece77b7410f0399ec32a0d89c6c7187f33666d8c54d7ce882f8b302c6992f31d.jpg",
+        "original_sha256": "ece77b7410f0399ec32a0d89c6c7187f33666d8c54d7ce882f8b302c6992f31d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-trockenheit-seen": {
+        "path": "media/wetter-trockenheit-seen-1024-r01.jpg",
+        "sha256": "00026105be49d9fab575ee31616fa8141d6456b383ea9cc5605c050a0cf8cc00",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/80d36f6c5b22b33d3553b34444fd32ca6b7ae2ad46cbb26dbd397176fa557725.jpg",
+        "original_sha256": "80d36f6c5b22b33d3553b34444fd32ca6b7ae2ad46cbb26dbd397176fa557725",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-hcd-chl-viertelfinal": {
+        "path": "media/sport-hcd-chl-viertelfinal-1024-r01.jpg",
+        "sha256": "ffb3cfc45a0d98a1040d08a0962e8fef65d33968ec34e7d96ab30065e7ef3cb3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-18T07:00:24+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-18",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-18 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a16457733be4bb1d404f1cd5ea71304fcad7464b513431e94144b6581f4032fc.jpg",
+        "original_sha256": "a16457733be4bb1d404f1cd5ea71304fcad7464b513431e94144b6581f4032fc",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
