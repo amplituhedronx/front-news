@@ -1,0 +1,555 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-19T18:01:55+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-praemien-initiative",
+      "section": "Politik",
+      "headline": "Linke Allianz lanciert Initiative für zwei Gratis-Monatsprämien pro Jahr",
+      "summary": "SP, Gewerkschaftsbund, Travail Suisse und der Westschweizer Konsumentenverband FRC haben die Volksinitiative «Für tiefere Krankenkassenprämien» lanciert: Erwachsene sollen jährlich zwei mittlere Monatsprämien gutgeschrieben erhalten (2027 rund 975 Franken), Kinder sechs (rund 770 Franken). Die Kosten von laut Komitee rund 8 Milliarden Franken pro Jahr sollen über Zuschläge auf die direkte Bundessteuer von Gutverdienenden und Unternehmen finanziert werden; die Initianten sprechen von einer Entlastung für 90 Prozent der Bevölkerung. Vertreterinnen und Vertreter von Mitte und FDP lehnen den Vorschlag ab, weil er Steuererhöhungen bedinge und das Kostenwachstum im Gesundheitswesen nicht bremse. Für das Zustandekommen braucht es bis Mitte Mai 2028 100'000 gültige Unterschriften.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/volksinitiative-lanciert-linke-allianz-nimmt-neuen-anlauf-fuer-tiefere-praemien",
+          "published_at": "2026-11-19T17:11:08+01:00",
+          "updated_at": "2026-11-19T17:11:08+01:00"
+        },
+        {
+          "name": "Aargauer Zeitung (Abo)",
+          "url": "https://www.aargauerzeitung.ch/schweiz/sp-und-gewerkschaften-wollen-praemien-fuer-90-prozent-senken-ld.4270033",
+          "published_at": "2026-11-19T16:18:42+01:00",
+          "updated_at": "2026-11-19T16:50:04+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/politik-praemien-initiative-1024-r01.jpg",
+        "alt": "Stilisierte Krankenkassen-Prämienrechnung, von der zwei Monatsfelder wie Gutscheine abgetrennt werden, daneben ein Stethoskop und Münzen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-maya-graf-ruecktritt",
+      "section": "Politik",
+      "headline": "Ständerätin Maya Graf tritt 2027 nicht mehr an",
+      "summary": "Die Baselbieter Grünen-Ständerätin Maya Graf verzichtet bei den eidgenössischen Wahlen 2027 auf eine erneute Kandidatur und tritt Ende der Legislatur ab. Graf gehört dem Bundesparlament seit 2001 an, war 2013 die erste grüne Nationalratspräsidentin und wurde 2019 in den Ständerat gewählt. Die Parteileitung der Grünen empfiehlt Nationalrätin Florence Brenzikofer für die Verteidigung des Sitzes. Ohne die bisherige Amtsinhaberin gilt das Rennen um den einzigen Baselbieter Ständeratssitz als offen.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/wahlen-2027-gruene-maya-graf-tritt-2027-nicht-mehr-als-staenderaetin-an",
+          "published_at": "2026-11-19T08:33:05+01:00",
+          "updated_at": "2026-11-19T16:29:30+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/maya-graf-tritt-2027-nicht-mehr-an-brenzikofer-als-nachfolgerin-664904519118",
+          "published_at": "2026-11-19T07:54:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/politik-maya-graf-ruecktritt-1024-r01.jpg",
+        "alt": "Ein leerer Stuhl in einem abstrakt dargestellten Ratssaal mit warmem Licht, daneben eine Sanduhr (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-publica-untersuchung",
+      "section": "Politik",
+      "headline": "Publica lässt Cyberangriff und eigene Kontrollen extern untersuchen",
+      "summary": "Die Pensionskasse des Bundes Publica hat nach dem Cyberangriff auf ihren Softwarelieferanten PK Softech eine unabhängige externe Untersuchung beschlossen. Geklärt werden soll, wie es trotz Sicherheitsvorkehrungen zu einem möglichen Datenabfluss kommen konnte, ob die Verantwortlichkeiten angemessen wahrgenommen wurden und wo Verbesserungen nötig sind; erste Ergebnisse werden bis März 2027 erwartet. Welche Personendaten tatsächlich abgeflossen sind, ist laut Publica noch nicht abschliessend geklärt. Parallel laufen eine Strafuntersuchung und Abklärungen des Eidgenössischen Datenschutzbeauftragten.",
+      "sources": [
+        {
+          "name": "admin.ch (Publica)",
+          "url": "https://www.admin.ch/de/newnsb/A40p0VPerHSv",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/dialog/pensionskasse-des-bundes-publica-leitet-nach-cyberattacke-eine-externe-untersuchung-ein",
+          "published_at": "2026-11-19T17:27:59+01:00",
+          "updated_at": "2026-11-19T17:27:59+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/politik-publica-untersuchung-1024-r01.jpg",
+        "alt": "Ein Aktenordner mit einem digitalen Schloss, aus dem einzelne Datenpunkte entweichen, darüber eine Lupe (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-landessprachen-schule",
+      "section": "Politik",
+      "headline": "Lateinische Kantone wollen den Unterricht der zweiten Landessprache stärken",
+      "summary": "Die Westschweizer Kantone und das Tessin haben über ihre Bildungsdirektorenkonferenz CIIP einen Aktionsplan lanciert, der den Unterricht einer zweiten Landessprache ab der Primarschule verbessern soll. Vorgesehen sind unter anderem neue, stärker auf mündliche Kommunikation ausgerichtete Deutsch-Lehrmittel, eine gemeinsame Position zu den Sprachanforderungen in der Lehrerbildung, die in die Erziehungsdirektorenkonferenz EDK eingebracht werden soll, sowie mehr Partnerschaften über die Sprachgrenze hinweg. CIIP-Präsident und Waadtländer Bildungsdirektor Frédéric Borloz bezeichnete die Ergebnisse beim Deutschlernen in der Romandie als nicht zufriedenstellend. Als Beispiel für die neuen Kantons-Tandems stellten St. Gallen und die Waadt ihre Zusammenarbeit vor.",
+      "sources": [
+        {
+          "name": "RTS Info (fr)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/allemand-a-l-ecole-les-cantons-latins-lancent-une-offensive-29421316.html",
+          "published_at": "2026-11-19T17:00:40+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch / Keystone-SDA",
+          "url": "https://www.swissinfo.ch/ger/spracherwerb-per-tandem%3a-st%2e-gallen-und-waadt-setzen-auf-austausch/92408402",
+          "published_at": "2026-11-19T14:53:05+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/politik-landessprachen-schule-1024-r01.jpg",
+        "alt": "Zwei Sprechblasen in unterschiedlichen Farben, die sich über einer stilisierten Schulbank und einem aufgeschlagenen Buch überlappen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-diesel-pflichtlager",
+      "section": "Wirtschaft",
+      "headline": "Bund gibt weitere 35'000 Kubikmeter Diesel aus Pflichtlagern frei",
+      "summary": "Wegen anhaltender Lieferengpässe verlängert der Bund die Bezüge aus den Diesel-Pflichtlagern um vier Wochen bis zum 20. Dezember und erhöht die Menge um 35'000 auf insgesamt 80'000 Kubikmeter, was 6,5 Prozent der Pflichtlagermenge entspricht. Gründe sind laut dem Bundesamt für wirtschaftliche Landesversorgung die monatelang eingeschränkte Rheinschifffahrt, Lieferprobleme von Raffinerien und stark ausgelastete Bahntransporte; die jüngsten Niederschläge könnten die fehlenden Mengen nicht ausgleichen. Auch die Versorgung mit Flugpetrol wird derzeit mit Pflichtlagerbezügen gestützt. Benzin und Heizöl seien gesichert, beim Heizöl sei die Lage aber sehr angespannt.",
+      "sources": [
+        {
+          "name": "admin.ch (BWL)",
+          "url": "https://www.admin.ch/de/newnsb/adAI-bWMQ7Rq",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "cash.ch",
+          "url": "https://www.cash.ch/news/bund-gibt-weiteres-dieselol-aus-pflichtlagern-frei-986647",
+          "published_at": "2026-11-19T16:33:18+01:00",
+          "updated_at": "2026-11-19T16:35:01+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/wirtschaft-diesel-pflichtlager-1024-r01.jpg",
+        "alt": "Stilisierte Reihe von Tanks mit einer Messskala, davor ein Tropfen-Symbol und ein Kalenderblatt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-exporte-oktober",
+      "section": "Wirtschaft",
+      "headline": "Exporte steigen im Oktober um 6,3 Prozent",
+      "summary": "Die Schweizer Exporte sind im Oktober saisonbereinigt um 6,3 Prozent auf 24,7 Milliarden Franken gestiegen, real um 2,4 Prozent, und liegen damit nach einer Berg- und Talfahrt wieder auf dem Niveau vom Juni. Treiber war die Chemie-Pharma-Branche mit einem Plus von 15,6 Prozent, während nur vier der zehn wichtigsten Warengruppen zulegten und etwa Maschinen sowie Bijouterie zurückgingen. Die Ausfuhren nach Nordamerika stiegen um 17,5 Prozent, jene nach Asien gaben leicht nach. Bei um 2,2 Prozent tieferen Importen wuchs der Handelsbilanzüberschuss auf 3,2 Milliarden Franken.",
+      "sources": [
+        {
+          "name": "swissinfo.ch / Keystone-SDA",
+          "url": "https://www.swissinfo.ch/ger/schweizer-exporte-steigen-im-oktober-erneut/92405179",
+          "published_at": "2026-11-19T08:23:54+01:00",
+          "updated_at": "2026-11-19T08:25:54+01:00"
+        },
+        {
+          "name": "admin.ch (BAZG)",
+          "url": "https://www.admin.ch/de/newnsb/PG-1wawWxh1V",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/wirtschaft-exporte-oktober-1024-r01.jpg",
+        "alt": "Stilisiertes Balkendiagramm mit steigender Linie, davor Frachtcontainer und eine Medikamentenkapsel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-kof-gesundheitskosten",
+      "section": "Wirtschaft",
+      "headline": "KOF: Gesundheitsausgaben steigen bis 2028 auf 114,5 Milliarden Franken",
+      "summary": "Die Konjunkturforschungsstelle KOF der ETH Zürich erwartet, dass die Schweizer Gesundheitsausgaben innert vier Jahren um 17,3 Milliarden auf 114,5 Milliarden Franken im Jahr 2028 steigen, im Schnitt um 4,2 Prozent pro Jahr. Nach 4,6 Prozent im Jahr 2025 soll sich das Wachstum bis 2028 auf 3,9 Prozent abschwächen, bleibe aber hoch. Haupttreiber sind ambulante Behandlungen und die Langzeitpflege, etwa die Spitex, während stationäre Spitalaufenthalte langsamer wachsen. Als zusätzliche Unsicherheit nennt die KOF den seit 2026 geltenden Ärztetarif Tardoc.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/prognose-des-kof-instituts-gesundheitskosten-steigen-laut-kof-institut-bis-2028-weiter",
+          "published_at": "2026-11-19T12:27:17+01:00",
+          "updated_at": "2026-11-19T12:27:17+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/wirtschaft-kof-gesundheitskosten-1024-r01.jpg",
+        "alt": "Ansteigende Treppe aus Münzstapeln, auf der ein stilisiertes Herz mit Pulslinie steht (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-puk-rhone-hochwasser",
+      "section": "Zürich & Regionen",
+      "headline": "PUK: Rhone-Hochwasser in Siders-Chippis wäre vermeidbar gewesen",
+      "summary": "Die parlamentarische Untersuchungskommission des Walliser Grossen Rats spricht in ihrem 202-seitigen Bericht zum Hochwasser von Ende Juni 2024 von einem «kollektiven Versagen mit verheerenden Folgen»; schon die erste Etappe des 2008 aufgelegten Schutzprojekts hätte die Überschwemmung mit grosser Wahrscheinlichkeit verhindert. Kritisiert werden ein mangelhaft ausgearbeitetes Ursprungsprojekt, jahrelange Konflikte zwischen kantonalen Dienststellen und fehlende politische Führung, insbesondere auch unter dem heutigen Staatsrat und SVP-Bundesratskandidaten Franz Ruppen. Ruppen weist den Vorwurf zurück, das Projekt habe unter ihm an Priorität verloren, und verweist auf die Neuorganisation der Projektführung; auch sein Vorgänger Jacques Melly wehrt sich gegen die Kritik. Laut PUK muss der Kanton die Steuerung von Grossprojekten wie der Rhonekorrektion verbessern.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/nach-unwetter-2024-puk-ortet-schwere-versaeumnisse-beim-hochwasserschutz-im-wallis",
+          "published_at": "2026-11-19T11:56:04+01:00",
+          "updated_at": "2026-11-19T16:42:11+01:00"
+        },
+        {
+          "name": "Nau.ch / Keystone-SDA",
+          "url": "https://www.nau.ch/politik/regional/ruppen-weist-kritik-am-hochwasserschutz-im-wallis-zuruck-67204460",
+          "published_at": "2026-11-19T11:46:45+01:00",
+          "updated_at": "2026-11-19T11:53:26+01:00"
+        },
+        {
+          "name": "NZZ (Abo)",
+          "url": "https://www.nzz.ch/schweiz/rhone-hochwasser-die-puk-attestiert-den-walliser-behoerden-ein-kollektives-versagen-ld.10068821",
+          "published_at": "2026-11-19T17:00:00+01:00",
+          "updated_at": "2026-11-19T17:00:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/regionen-puk-rhone-hochwasser-1024-r01.jpg",
+        "alt": "Stilisierter Fluss, der über einen unvollendeten Damm aus Bauklötzen tritt, daneben ein dicker Untersuchungsbericht (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerichsee-faehre",
+      "section": "Zürich & Regionen",
+      "headline": "Zürichsee-Fähre nimmt wieder alle Fahrzeuge mit",
+      "summary": "Die Zürichsee-Fähre hebt die seit September geltenden Einschränkungen wegen des tiefen Wasserstands auf. Durch den sinkenden Pegel war der Übergang zwischen Landungsanlage und Fähre so steil geworden, dass schwere Fahrzeuge nicht mehr sicher verladen werden konnten und tiefergelegte Sportwagen aufzusetzen drohten. Da sich der Pegel langsam erholt, werden ab sofort wieder alle Fahrzeuge transportiert. Der Wasserstand bleibe aber unter Beobachtung; sinke er erneut stark, seien neue Einschränkungen möglich.",
+      "sources": [
+        {
+          "name": "swissinfo.ch / Keystone-SDA",
+          "url": "https://www.swissinfo.ch/ger/z%c3%bcrichsee-f%c3%a4hre-hebt-einschr%c3%a4nkungen-wegen-tiefem-wasserpegel-auf/92409358",
+          "published_at": "2026-11-19T17:11:49+01:00",
+          "updated_at": "2026-11-19T17:15:36+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/zuerichsee-faehre-wieder-alle-fahrzeuge-an-bord-erlaubt-761505735146",
+          "published_at": "2026-11-19T13:19:18+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/regionen-zuerichsee-faehre-1024-r01.jpg",
+        "alt": "Stilisierte Autofähre auf einem ruhigen See mit einer Pegellatte am Ufer, die einen steigenden Wasserstand anzeigt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-viertagewoche",
+      "section": "Gesellschaft",
+      "headline": "Pilotstudie: Weniger Fehltage bei Viertagewoche",
+      "summary": "Eine Pilotstudie der Berner Fachhochschule und der Beratungsfirma Tempora Labs mit vier Betrieben – einem Bauunternehmen, einer Bank, einer Personalberatung und einem Sozialbetrieb – zeigt weniger Absenzen bei einer Viertagewoche. In der Bank sanken die Fehltage gegenüber dem Vorjahr um 31 Prozent, beim Bauunternehmen ging die krankheitsbedingte Abwesenheit in der Pilotgruppe von 10,1 auf 5,5 Prozent zurück. Die Betriebe wählten unterschiedliche Modelle, etwa längere Arbeitstage mit freiem Freitag oder je nach Kundenterminen flexibel gewählte freie Tage. Laut den Projektverantwortlichen setzt eine solche Umstellung angepasste Abläufe wie kürzere Sitzungen und klare Prioritäten voraus; die Aussagekraft ist wegen der kleinen Zahl teilnehmender Betriebe begrenzt.",
+      "sources": [
+        {
+          "name": "swissinfo.ch / Keystone-SDA",
+          "url": "https://www.swissinfo.ch/ger/studie-zeigt-weniger-fehltage-von-angestellten-bei-viertagewoche/92408337",
+          "published_at": "2026-11-19T14:36:16+01:00",
+          "updated_at": "2026-11-19T14:40:36+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/viertagewoche-pilotstudie-zeigt-weniger-fehltage-151436173123",
+          "published_at": "2026-11-19T12:39:07+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/gesellschaft-viertagewoche-1024-r01.jpg",
+        "alt": "Ein Wochenkalender mit fünf Spalten, von denen die letzte als freier Tag mit einer Sonne markiert ist (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-streik-italien",
+      "section": "Verkehr & Wetter",
+      "headline": "Streiks in Italien: Tilo-Züge fahren am Wochenende nicht über die Grenze",
+      "summary": "Wegen eines landesweiten Bahnstreiks in Italien von Freitag, 21 Uhr, bis Samstag, 20 Uhr, verkehren die Tilo-Linien RE80, S30, S40 und S50 nicht auf italienischem Boden; auf Schweizer Gebiet fahren sie normal. Für die S50 sind Direktbusse von Stabio zum Flughafen Mailand-Malpensa vorgesehen, zudem Ersatzbusse vom Mailänder Bahnhof Cadorna nach Malpensa. Mehrere Eurocity-Züge aus Basel und Zürich nach Mailand sollen laut Trenitalia trotzdem verkehren; Billette für ausgefallene Züge lassen sich in der Regel kostenlos umbuchen oder zurückerstatten. Für Sonntagnachmittag ist zudem ein vierstündiger Fluglotsenstreik in Mailand-Malpensa angekündigt, die Swiss prüft mögliche Auswirkungen.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/streik-in-italien-tilo-linien-fallen-am-wochenende-aus-busse-als-ersatz-103670099",
+          "published_at": "2026-11-19T14:28:17+01:00",
+          "updated_at": "2026-11-19T14:28:17+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/verkehr-streik-italien-1024-r01.jpg",
+        "alt": "Stilisierter Regionalzug vor einem Grenzschild ohne Schrift und einem Bus, der eine Ausweichroute nimmt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-sihf-ceo-baumann",
+      "section": "Sport",
+      "headline": "Eishockeyverband trennt sich per sofort von CEO Martin Baumann",
+      "summary": "Swiss Ice Hockey und CEO Martin Baumann gehen nach zwei Jahren per sofort getrennte Wege; Gründe nannte der Verband nicht. Interimistisch übernimmt Monika Reinhard, bisher Leiterin Digital, Marketing und Kommunikation, die operative Führung, die Suche nach einer Nachfolge läuft. Baumann hatte das Amt im November 2024 angetreten und zuvor zehn Jahre die Champions Hockey League geleitet. Der Schritt folgt auf den Wechsel an der Verbandsspitze, wo Ende August Marc Lüthi das Präsidium von Urs Kessler übernommen hatte.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-sihf-trennt-sich-von-ceo-baumann-worge-kreue-zu-freiburg",
+          "published_at": "2026-11-19T10:26:34+01:00",
+          "updated_at": "2026-11-19T15:39:35+01:00"
+        },
+        {
+          "name": "bluewin.ch / Keystone-SDA",
+          "url": "https://www.bluewin.ch/de/sport/eishockey/martin-baumann-nicht-mehr-ceo-des-eishockeyverbandes-li.3679698",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-evening/sport-sihf-ceo-baumann-1024-r01.jpg",
+        "alt": "Ein Eishockeypuck und ein Schläger auf leerem Eis vor einer abstrakten Bürotür mit Namensschild ohne Schrift (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-19-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-19T17:56:53+01:00",
+    "ready_at": "2026-11-19T18:01:55+01:00",
+    "content_hash": "sha256:1269be7d68efd199713e16bf8ee00f74add01b486b22146d9a321b5f23a8b2f8",
+    "image_rights": {
+      "politik-praemien-initiative": {
+        "rights": "ai_generated_own"
+      },
+      "politik-maya-graf-ruecktritt": {
+        "rights": "ai_generated_own"
+      },
+      "politik-publica-untersuchung": {
+        "rights": "ai_generated_own"
+      },
+      "politik-landessprachen-schule": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-diesel-pflichtlager": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-exporte-oktober": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-kof-gesundheitskosten": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-puk-rhone-hochwasser": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerichsee-faehre": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-viertagewoche": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-streik-italien": {
+        "rights": "ai_generated_own"
+      },
+      "sport-sihf-ceo-baumann": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-praemien-initiative": {
+        "path": "media/politik-praemien-initiative-1024-r01.jpg",
+        "sha256": "08e42c00c2cf47af9a4ecf8fc28ebc9593982a0459e9e68726e3ddeb6c0b58d8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/773afd73f0b7c8fcddbb2dc5bd30031b6d1c26e6f2ca7e10b40c1ffd27ec72b2.jpg",
+        "original_sha256": "773afd73f0b7c8fcddbb2dc5bd30031b6d1c26e6f2ca7e10b40c1ffd27ec72b2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-maya-graf-ruecktritt": {
+        "path": "media/politik-maya-graf-ruecktritt-1024-r01.jpg",
+        "sha256": "4f3363fa31439fc2bd39a491f24fc7f39dec893c5472d94622e5069d3d323041",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ec3b2edadd9767ad0677df2f4beec1295900abe68b9248f6e61ec76894c075ed.jpg",
+        "original_sha256": "ec3b2edadd9767ad0677df2f4beec1295900abe68b9248f6e61ec76894c075ed",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-publica-untersuchung": {
+        "path": "media/politik-publica-untersuchung-1024-r01.jpg",
+        "sha256": "c3d61607037fe2b160a8402780ae50e4213d51e0b014f8d7e79b024094f06f67",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7cfb734d6a507d3b640d1c0e4b39b2b64dbb2b2661616515189243a84a39c88b.jpg",
+        "original_sha256": "7cfb734d6a507d3b640d1c0e4b39b2b64dbb2b2661616515189243a84a39c88b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-landessprachen-schule": {
+        "path": "media/politik-landessprachen-schule-1024-r01.jpg",
+        "sha256": "a097bb6a5740a64ab80639ab2bea130720915f1bcc3898b6eb5ee4008b23b6e2",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/672aee2a8eae2b822c6a8a14afd918a0625d211cebcec0c44cf3bfa8df0e4c38.jpg",
+        "original_sha256": "672aee2a8eae2b822c6a8a14afd918a0625d211cebcec0c44cf3bfa8df0e4c38",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-diesel-pflichtlager": {
+        "path": "media/wirtschaft-diesel-pflichtlager-1024-r01.jpg",
+        "sha256": "717c6a3d61c6396b60d808909892e3b2279273484c88d887cdf8e4c5ca2913bc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/41180381c7b79fe90f5e37720a9bcb67b0679c3adba64a825e858af3f019c420.jpg",
+        "original_sha256": "41180381c7b79fe90f5e37720a9bcb67b0679c3adba64a825e858af3f019c420",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-exporte-oktober": {
+        "path": "media/wirtschaft-exporte-oktober-1024-r01.jpg",
+        "sha256": "ae7171a50a480eedb12d0c02ad8eb139ec5bb0ebaf83f9d257ceae2444856997",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/5abc8eceb53679e092ccd6902e096572c94dbc5e70b4a00a765bb25581ac9196.jpg",
+        "original_sha256": "5abc8eceb53679e092ccd6902e096572c94dbc5e70b4a00a765bb25581ac9196",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-kof-gesundheitskosten": {
+        "path": "media/wirtschaft-kof-gesundheitskosten-1024-r01.jpg",
+        "sha256": "148388b6ba4f8695237d52a7241b8b523d1ed80193fb63695a75d59a6d97296d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e3bf9ad9e64072520091dcea8cdf23606d21bcb5b8d60359370dd6a661ab616f.jpg",
+        "original_sha256": "e3bf9ad9e64072520091dcea8cdf23606d21bcb5b8d60359370dd6a661ab616f",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-puk-rhone-hochwasser": {
+        "path": "media/regionen-puk-rhone-hochwasser-1024-r01.jpg",
+        "sha256": "5b61c6b56e82c69e84f21c294d31f46098758750c065f6fa85bd12cb3c651a06",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6af738b18720e46de6c77faa8d0c450b8d19edac6bb49d37bc1b5b4d36637a10.jpg",
+        "original_sha256": "6af738b18720e46de6c77faa8d0c450b8d19edac6bb49d37bc1b5b4d36637a10",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerichsee-faehre": {
+        "path": "media/regionen-zuerichsee-faehre-1024-r01.jpg",
+        "sha256": "3c53546c546e04feabe59cd9903d513823e70cc94d84fda380bed064e4b91c3f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d1b7fec1bd20df510f99ad34cc71e121593bd6b46490cc1d934a58569d3d5341.jpg",
+        "original_sha256": "d1b7fec1bd20df510f99ad34cc71e121593bd6b46490cc1d934a58569d3d5341",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-viertagewoche": {
+        "path": "media/gesellschaft-viertagewoche-1024-r01.jpg",
+        "sha256": "0f8c899a7c974648c68feaf59ffb263e7cd0c1e946173dfaa9c53f8265ec22d0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a10a339aeee17b21e2ae6db2b1e35b7aa729bdca2eb2a9adfd04b7a5383f3b4d.jpg",
+        "original_sha256": "a10a339aeee17b21e2ae6db2b1e35b7aa729bdca2eb2a9adfd04b7a5383f3b4d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-streik-italien": {
+        "path": "media/verkehr-streik-italien-1024-r01.jpg",
+        "sha256": "36e240ec6b90eab523bd679934228cf9bd4df55f8a4be16781776a8c437de8f3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1c51a84b71ee1c71303fe23e2ced7601956530eb390275feba83ba03b31ae7d8.jpg",
+        "original_sha256": "1c51a84b71ee1c71303fe23e2ced7601956530eb390275feba83ba03b31ae7d8",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-sihf-ceo-baumann": {
+        "path": "media/sport-sihf-ceo-baumann-1024-r01.jpg",
+        "sha256": "a93cbd5ad3e61b1631b113e27fa6902b75130c334cedd6950df485f2aac33d8f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T18:01:55+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cefecfd3969b12ec92d3d7893af0c6cbe2a81fbffc95ecaa2541384b459b1167.jpg",
+        "original_sha256": "cefecfd3969b12ec92d3d7893af0c6cbe2a81fbffc95ecaa2541384b459b1167",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
