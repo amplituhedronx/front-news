@@ -1,0 +1,543 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-19T06:52:43+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-eu-paket-bruessel",
+      "section": "Politik",
+      "headline": "EU-Vertragspaket: Brüssel wirbt vor der Abstimmung im EU-Parlament um die Schweiz",
+      "summary": "Während in der Schweiz die Kommissionen des Nationalrats noch über das Vertragspaket mit der EU beraten, ist die EU einen Schritt weiter: Das EU-Parlament stimmt kommende Woche über das Paket ab, eine grosse Mehrheit gilt als wahrscheinlich. EU-Kommissar Maros Sefcovic bezeichnete die Schweiz vor Schweizer Journalisten in Brüssel als natürlichen Partner, auf den man sich in einer unruhigen Welt verlassen könne. Für die EU bleiben die Gleichbehandlung der Mitgliedstaaten und gleich lange Spiesse für EU- und Schweizer Unternehmen zentrale Elemente. In der Schweiz ist weiterhin offen, ob das Paket dem Ständemehr unterstellt wird.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/bilaterale-vertraege-mit-der-eu-eine-positive-story-charmeoffensive-aus-bruessel",
+          "published_at": "2026-11-18T20:16:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Luzerner Zeitung (Abo)",
+          "url": "https://www.luzernerzeitung.ch/schweiz/bilaterale-iii-bruessel-setzt-auf-schnelle-zustimmung-der-schweiz-ld.4269253",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/politik-eu-paket-bruessel-1024-r01.jpg",
+        "alt": "Zwei stilisierte Hände beim Handschlag über einem Tisch mit einer kleinen Schweizer und einer EU-Fahne, im Hintergrund ein abstrakter Parlamentssaal (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-praeventionsabgabe-nikotin",
+      "section": "Politik",
+      "headline": "Bundesrat will Präventionsabgabe auf E-Zigaretten und Snus ausweiten",
+      "summary": "Der Bundesrat will die Präventionsabgabe künftig auf alle nikotinhaltigen Produkte erheben, also auch auf E-Zigaretten und Snus. Er begründet dies damit, dass der Tabakpräventionsfonds über immer weniger Mittel verfüge und die neuen Produkte bei Minderjährigen und jungen Erwachsenen besonders beliebt seien. Heute fliessen pro verkaufter Zigarettenpackung 2,6 Rappen in den Fonds, aus dem der Bund Präventionsprojekte finanziert; 20 Prozent gehen an Sport- und Bewegungsprojekte. Umgesetzt werden soll die Ausweitung mit der nächsten Revision des Tabaksteuergesetzes.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/tabakpraevention-bundesrat-will-praeventionsabgabe-auf-e-zigaretten-und-snus",
+          "published_at": "2026-11-18T19:04:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS Info",
+          "url": "https://www.rts.ch/info/suisse/2026/article/cigarettes-electroniques-le-conseil-federal-veut-les-taxer-29420310.html",
+          "published_at": "2026-11-18T20:47:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/politik-praeventionsabgabe-nikotin-1024-r01.jpg",
+        "alt": "Stillleben mit einer neutralen E-Zigarette, einer runden Snus-Dose, einer Zigarettenschachtel ohne Marke, einer Münze und einem Pfeil nach unten (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-sanktionen-russland",
+      "section": "Politik",
+      "headline": "Schweiz verzichtet vorerst auf Sanktionen gegen Medinski und Dworkowitsch",
+      "summary": "Die Schweiz hat beim Nachvollzug des 21. EU-Sanktionspakets gegen Russland zwei Personen vorläufig nicht auf ihre Liste gesetzt. Laut Auskunft des Staatssekretariats für Wirtschaft (Seco) gegenüber «Le Temps» handelt es sich um den russischen Chefunterhändler in den Ukraine-Gesprächen, Wladimir Medinski, und den früheren Präsidenten des Weltschachverbands mit Sitz in Lausanne, Arkadi Dworkowitsch. Der Bund begründet den Entscheid mit einer Abwägung rechtlicher und aussenpolitischer Interessen. Insgesamt hatte die Schweiz Anfang November 254 weitere Personen, Unternehmen und Organisationen sanktioniert.",
+      "sources": [
+        {
+          "name": "Le Temps (Abo)",
+          "url": "https://www.letemps.ch/de/schweiz/die-schweiz-verzichtet-auf-sanktionen-gegen-den-russischen-unterhandler-wladimir-medinski",
+          "published_at": "2026-11-18T20:50:00+01:00",
+          "updated_at": "2026-11-18T21:02:00+01:00"
+        },
+        {
+          "name": "Seco",
+          "url": "https://www.seco.admin.ch/de/newnsb/KsmEWk4E-bHM",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/politik-sanktionen-russland-1024-r01.jpg",
+        "alt": "Stilisiertes amtliches Dokument mit leerer Checkliste und rotem Stempel auf einem Schreibtisch, daneben ein Füllfederhalter (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-salt-stoerung",
+      "section": "Wirtschaft",
+      "headline": "Grossflächige Störung im Festnetz von Salt behoben",
+      "summary": "Beim Telekomanbieter Salt ist am Mittwochabend ab etwa 20 Uhr in der ganzen Schweiz das Festnetzinternet ausgefallen, teilweise auch Salt Home und Fernsehanschlüsse. Auf Störungsportalen gingen zeitweise rund 8000 Meldungen ein; das Mobilfunknetz funktionierte laut Betroffenen weiter. Kurz vor Mitternacht meldete Salt die Störung als behoben und entschuldigte sich bei der Kundschaft. Die Ursache ist laut Salt noch unklar, die technische Analyse läuft.",
+      "sources": [
+        {
+          "name": "Luzerner Zeitung",
+          "url": "https://www.luzernerzeitung.ch/schweiz/salt-meldet-behobene-stoerung-im-festnetzinternet-ld.4270010",
+          "published_at": "2026-11-18T22:21:22+01:00",
+          "updated_at": "2026-11-19T06:17:24+01:00"
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/zahlreiche-meldungen-wegen-gta-6-stoerung-bei-salt-swisscom-und-playstation-103669821",
+          "published_at": "2026-11-18T21:33:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/wirtschaft-salt-stoerung-1024-r01.jpg",
+        "alt": "Wohnzimmer bei Nacht mit einem WLAN-Router ohne leuchtende Statuslampen, einem schwarzen Fernseher und einem durchgestrichenen Funksymbol (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-alterswohnungen-rekurs",
+      "section": "Zürich & Regionen",
+      "headline": "Stadt Zürich: Stimmrechtsrekurs gegen Abstimmung über Alterswohnungen",
+      "summary": "SVP-Gemeinderat Samuel Balsiger hat beim Bezirksrat einen Stimmrechtsrekurs gegen die Abstimmungsinformationen zur Alterswohnungs-Vorlage vom 29. November eingereicht. Er verlangt eine umfassende Richtigstellung oder die Absage der Abstimmung und beanstandet unter anderem Aussagen von Stadtrat Daniel Leupi zu möglichen Wohnungskündigungen. Die SVP-Initiative verlangt, dass 20 Prozent der städtischen Wohnungen für Personen über 60 vorgesehen sind; zur Abstimmung kommt auch ein Gegenvorschlag des Gemeinderats. Der Bezirksrat hatte bereits zuvor ein fehlerhaftes Erklärvideo der Stadt gestoppt.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/stimmrechtsrekurs-gegen-alterswohnungs-abstimmung-eingereicht/92403666",
+          "published_at": "2026-11-18T19:36:46+01:00",
+          "updated_at": "2026-11-18T19:40:49+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/alterswohnungen-zuerich-svp-verlangt-absage-der-abstimmung-118270836032",
+          "published_at": "2026-11-18T18:02:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/regionen-alterswohnungen-rekurs-1024-r01.jpg",
+        "alt": "Stilisierter städtischer Wohnblock mit beleuchteten Fenstern, in einem Fenster die Silhouette eines älteren Paares, davor eine Urne und ein Ordner mit Akten (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-schaffhausen-prozess",
+      "section": "Zürich & Regionen",
+      "headline": "Schaffhausen: Anklage fordert 20 Jahre Haft im Prozess um Tötung in der Safrangasse",
+      "summary": "Vor dem Schaffhauser Kantonsgericht hat der Prozess um den Tod eines 25-jährigen Mannes in der Safrangasse im Jahr 2023 begonnen. Die Staatsanwaltschaft wirft dem Beschuldigten Mord vor und fordert eine Freiheitsstrafe von 20 Jahren sowie einen Landesverweis. Die Verteidigung bestreitet eine Tötungsabsicht, plädiert auf schwere Körperverletzung und verlangt eine Strafe von rund zweieinhalb Jahren. Das Urteil wird voraussichtlich am 26. November eröffnet.",
+      "sources": [
+        {
+          "name": "Radio Munot",
+          "url": "https://www.radiomunot.ch/p/mutmasslicher-mord-in-der-safrangasse-staatsanwaltschaft-fordert-20-jahre-haft-fuer-beschuldigten-4ptMeAiY6vkV5VMB1UQZMa",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/schaffhausen-staatsanwaltschaft-fordert-20-jahre-haft-758445540346",
+          "published_at": "2026-11-18T21:47:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/regionen-schaffhausen-prozess-1024-r01.jpg",
+        "alt": "Leerer Gerichtssaal mit hölzerner Richterbank, Waage als Symbol der Justiz und Richterhammer, weiches Licht durch hohe Fenster (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-james-studie",
+      "section": "Gesellschaft",
+      "headline": "James-Studie: Zwei Drittel der Jugendlichen informieren sich mit KI",
+      "summary": "Laut der neuen James-Studie der ZHAW und der Swisscom informieren sich zwei Drittel der 12- bis 19-Jährigen in der Schweiz regelmässig mit KI-Anwendungen, dreimal so viele wie 2024. Befragt wurden 1088 Jugendliche; 89 Prozent sind täglich online, an Wochentagen durchschnittlich drei Stunden. 37 Prozent gaben an, in den letzten zwei Jahren mindestens einmal online mit unerwünschten sexuellen Absichten angesprochen worden zu sein, drei Prozent wurden mit intimen Bildern erpresst. Fast drei Viertel treiben zugleich regelmässig Sport.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/wirtschaft/mediennutzung-der-jugendlichen-kuenstliche-intelligenz-haelt-einzug-ins-kinderzimmer",
+          "published_at": "2026-11-19T05:32:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/12-bis-19-jaehrige-drei-stunden-am-tag-das-tun-jugendliche-auf-ihrem-handy-103669743",
+          "published_at": "2026-11-19T04:56:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/gesellschaft-james-studie-1024-r01.jpg",
+        "alt": "Silhouetten von drei Jugendlichen auf einer Bank mit Smartphones, darüber abstrakte Sprechblasen und ein stilisiertes Chatbot-Symbol (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-kitas-schliessen",
+      "section": "Gesellschaft",
+      "headline": "Mehrere Kitas schliessen wegen tiefer Auslastung",
+      "summary": "In verschiedenen Regionen geben Kindertagesstätten ihren Betrieb auf, etwa in Solothurn, Uerkheim AG und Wohlen AG; die Stadt Bern schloss bereits im August zwei Kitas. Betreiberinnen nennen sinkende Geburtenzahlen, ein gewachsenes Angebot und hohe Fixkosten; besonders betroffen sind kleinere Einrichtungen ohne Reserven. Der Branchenverband Kibesuisse verweist zudem auf Fachkräftemangel und hohe Betreuungskosten für Familien. Der Bund erarbeitet derzeit die Verordnung zum neuen Kita-Gesetz mit einer Betreuungszulage, die Ende 2026 oder Anfang 2027 in die Vernehmlassung gehen soll.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/kinderbetreuung-in-der-schweiz-weshalb-in-staedten-und-auf-dem-land-vermehrt-kitas-schliessen",
+          "published_at": "2026-11-19T06:43:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/gesellschaft-kitas-schliessen-1024-r01.jpg",
+        "alt": "Leerer Kita-Raum mit kleinen Stühlen auf niedrigen Tischen, einer Kiste mit Bauklötzen und einer geschlossenen Tür (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-bistum-praevention",
+      "section": "Gesellschaft",
+      "headline": "Bistum Lausanne, Genf und Freiburg zieht Bilanz zur Missbrauchsprävention",
+      "summary": "Das Bistum Lausanne, Genf und Freiburg hat einen 56-seitigen Bericht über seine Massnahmen gegen Missbrauch veröffentlicht. Dazu gehören sechs Ansprechpersonen im Bistumsgebiet, Weiterbildungen für Seelsorgende und ein seit 2023 geltender Verhaltenskodex. Laut Bericht sollen komplexe Meldungen künftig systematisch der staatlichen Justiz übergeben werden. Die Publikation erschien zum Gebetstag für Betroffene von Missbrauch.",
+      "sources": [
+        {
+          "name": "RTS Info",
+          "url": "https://www.rts.ch/info/suisse/2026/article/eglise-catholique-le-diocese-lgf-fait-le-point-sur-les-abus-29420224.html",
+          "published_at": "2026-11-18T18:40:03+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/gesellschaft-bistum-praevention-1024-r01.jpg",
+        "alt": "Ruhiges Kirchenschiff mit Holzbänken, im Vordergrund ein Stapel Dokumente und eine brennende Kerze auf einem Tisch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-ski-wm-crans-montana",
+      "section": "Sport",
+      "headline": "Ski-WM Crans-Montana: Gemeinden haften für FIS-Gelder bei Absage",
+      "summary": "Eine Recherche von Radio SRF und RTS zeigt, dass die Gastgebergemeinden der Ski-WM 2027 der FIS bei einer Absage bis zu 37,6 Millionen Franken zurückzahlen müssten; die Bevölkerung wurde darüber nicht informiert. Die WM ist gegen wetterbedingte Absagen versichert, nicht aber gegen Force-Majeure-Ereignisse wie Pandemien oder Cyberangriffe. Gemeinden, Kanton Wallis und Bund leisten insgesamt über 60 Millionen Franken, während Swiss-Ski im Vorstand des Organisationskomitees vier von acht Sitzen und den Stichentscheid hat. Swiss-Ski verweist darauf, dass sich solche Risiken heute nicht versichern liessen; die Gemeinden halten das Risiko für vertretbar.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/recherche-zur-ski-wm-crans-montana-2027-der-staat-zahlt-der-skiverband-entscheidet",
+          "published_at": "2026-11-19T06:18:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/sport-ski-wm-crans-montana-1024-r01.jpg",
+        "alt": "Zielgelände eines Skirennens mit leerer Tribüne und Slalomtor im Schnee vor Bergen, am Himmel ein stilisiertes Vertragsdokument und Münzen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-eishockey-chl",
+      "section": "Sport",
+      "headline": "Eishockey: Freiburg im CHL-Viertelfinal, Zug schlägt Ajoie 3:0",
+      "summary": "Fribourg-Gottéron hat sich trotz einem 3:3 im Achtelfinal-Rückspiel gegen Servette für den Viertelfinal der Champions Hockey League qualifiziert, nach einem 6:1 im Hinspiel. Gegner im Viertelfinal ist Skellefteå. In der National League gewann der EV Zug zu Hause 3:0 gegen Ajoie; Verteidiger Livio Stadler traf erstmals nach 114 Spielen ohne Tor. Goalie Leonardo Genoni feierte seinen zweiten Shutout der Saison.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-keine-genfer-wunder-wende-freiburg-verwaltet-vorsprung-souveraen",
+          "published_at": "2026-11-18T22:02:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/zug-feiert-heimsieg-ueber-ajoie-nach-114-torlosen-spielen-stadler-trifft-und-wird-matchwinner",
+          "published_at": "2026-11-18T21:59:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/sport-eishockey-chl-1024-r01.jpg",
+        "alt": "Eishockeyfeld von oben mit Puck und zwei gekreuzten Stöcken am Mittelkreis, abstrakte Stadionlichter, ohne Teamfarben (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-radsport-romandie",
+      "section": "Sport",
+      "headline": "Radsport: Roglic wechselt zu NSN, Tour de Romandie Féminin gerettet",
+      "summary": "Der 37-jährige Slowene Primoz Roglic fährt 2027 für das Team NSN, das mit Schweizer Lizenz aus dem früheren Israel-Premier Tech hervorgegangen ist. Die 80. Tour de Romandie findet vom 27. April bis 2. Mai statt und startet mit einem Prolog in Yverdon; Etappenorte sind unter anderem Romont, La Chaux-de-Fonds und Sierre, die Schlussetappe führt ab Moutier durch den Jura. Dank des Basler Energieunternehmens Primeo Energie als Hauptsponsor für zwei Austragungen kann auch die Tour de Romandie Féminin wieder stattfinden.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/rad/news-aus-dem-radsport-roglic-zu-team-mit-schweizer-lizenz-romandie-route-bekannt",
+          "published_at": "2026-11-18T22:44:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps (Abo)",
+          "url": "https://www.letemps.ch/sport/cyclisme/le-tour-de-romandie-se-consolide-et-sauve-son-epreuve-feminine",
+          "published_at": "2026-11-19T06:35:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-19-morning/sport-radsport-romandie-1024-r01.jpg",
+        "alt": "Silhouette eines Rennvelofahrers auf einer kurvigen Strasse entlang eines Sees und Rebbergen vor grünen Jurahügeln (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-19-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-19T06:52:32+01:00",
+    "ready_at": "2026-11-19T06:52:43+01:00",
+    "content_hash": "sha256:603973ef7b7f80492efc587a2f1b54f7575b4164543a88d2a14a021d32d9533b",
+    "image_rights": {
+      "politik-eu-paket-bruessel": {
+        "rights": "ai_generated_own"
+      },
+      "politik-praeventionsabgabe-nikotin": {
+        "rights": "ai_generated_own"
+      },
+      "politik-sanktionen-russland": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-salt-stoerung": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-alterswohnungen-rekurs": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-schaffhausen-prozess": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-james-studie": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-kitas-schliessen": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-bistum-praevention": {
+        "rights": "ai_generated_own"
+      },
+      "sport-ski-wm-crans-montana": {
+        "rights": "ai_generated_own"
+      },
+      "sport-eishockey-chl": {
+        "rights": "ai_generated_own"
+      },
+      "sport-radsport-romandie": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-eu-paket-bruessel": {
+        "path": "media/politik-eu-paket-bruessel-1024-r01.jpg",
+        "sha256": "38bc1b8e5f46668fd562c29a81dd4ddd6b6d477b65c1154e63133221b22cf5a4",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c611460939bc3be95af69a9469372b8dea7af3d6c3a78d4fcda107e23a360bd1.jpg",
+        "original_sha256": "c611460939bc3be95af69a9469372b8dea7af3d6c3a78d4fcda107e23a360bd1",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-praeventionsabgabe-nikotin": {
+        "path": "media/politik-praeventionsabgabe-nikotin-1024-r01.jpg",
+        "sha256": "4ac1d9e6cb85be2d6ca1c5f7b5b2080b925ba06a8eb331a868938dd5dff8c69c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/edb941839ba9142c48fb9a3e50cba1d8df1aaaf7d0e3427b9cdb4d22c6e85590.jpg",
+        "original_sha256": "edb941839ba9142c48fb9a3e50cba1d8df1aaaf7d0e3427b9cdb4d22c6e85590",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-sanktionen-russland": {
+        "path": "media/politik-sanktionen-russland-1024-r01.jpg",
+        "sha256": "ff98f259d9f534018d23e8f410511c83a119c1d2aca633a98a773b3fc998a3b6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c691f47d6f86905ca0e26619a7c3b91b68482007713af46af2ebcebf452c8016.jpg",
+        "original_sha256": "c691f47d6f86905ca0e26619a7c3b91b68482007713af46af2ebcebf452c8016",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-salt-stoerung": {
+        "path": "media/wirtschaft-salt-stoerung-1024-r01.jpg",
+        "sha256": "c2be2a227d016e9e33c56240b525b215189021fc448b6eff7f48972cabb12ff8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0a10205ac6f565eb4e33ff6497004c1801b2676cf0f26d9e47cb5cd66d3e8a6e.jpg",
+        "original_sha256": "0a10205ac6f565eb4e33ff6497004c1801b2676cf0f26d9e47cb5cd66d3e8a6e",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-alterswohnungen-rekurs": {
+        "path": "media/regionen-alterswohnungen-rekurs-1024-r01.jpg",
+        "sha256": "9a5fdf33ec42d009fa5d6c6f03999554aa355ce2171105de468aa58d01d9e871",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/06db1d5ea973bd98a0d76a71611d7d4edff81a7fa2e420a580540f36dcd6d59c.jpg",
+        "original_sha256": "06db1d5ea973bd98a0d76a71611d7d4edff81a7fa2e420a580540f36dcd6d59c",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-schaffhausen-prozess": {
+        "path": "media/regionen-schaffhausen-prozess-1024-r01.jpg",
+        "sha256": "0b895237a3c1035ff34016c5b518a8387627faad8cd26536cf47d6b2418d23ca",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/192dd901490ded6ba6bb964fe2826c61631d7d507e8ef43e11dbb743203df32a.jpg",
+        "original_sha256": "192dd901490ded6ba6bb964fe2826c61631d7d507e8ef43e11dbb743203df32a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-james-studie": {
+        "path": "media/gesellschaft-james-studie-1024-r01.jpg",
+        "sha256": "79a4f9729b44fdf75511ac1d80f61307f0f8f39c04701b9e503cd5a3109ac1e4",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/186ebba43e7243ccc0f6424883081cd08157f6d9210235780e592fd09b4c736b.jpg",
+        "original_sha256": "186ebba43e7243ccc0f6424883081cd08157f6d9210235780e592fd09b4c736b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-kitas-schliessen": {
+        "path": "media/gesellschaft-kitas-schliessen-1024-r01.jpg",
+        "sha256": "de6a4cf958de7739c954c3313ff8789ec2dfd65edc560db77c0d81448be01afc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6fbc3f8c6a1189dbc0a469e852d284dab79d0a0b5149ddf3cea25e9642d0555b.jpg",
+        "original_sha256": "6fbc3f8c6a1189dbc0a469e852d284dab79d0a0b5149ddf3cea25e9642d0555b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-bistum-praevention": {
+        "path": "media/gesellschaft-bistum-praevention-1024-r01.jpg",
+        "sha256": "0f11575cbd7719a73fd0ce0c4d303a77f1171a229844b5ad3176f8b0636f0b68",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0a8022d2c21afe1ff5ec181f1290ab003856c2f7a9b8cc1b4656bf2b6cdfd707.jpg",
+        "original_sha256": "0a8022d2c21afe1ff5ec181f1290ab003856c2f7a9b8cc1b4656bf2b6cdfd707",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-ski-wm-crans-montana": {
+        "path": "media/sport-ski-wm-crans-montana-1024-r01.jpg",
+        "sha256": "ed6cb52cb57031b16363e6b75d8d39e83b68e1815ae6cd25a5f9991838a916db",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/da9e3c9ae7ae3062288df9b43eb900148cd6dda3547513d318d974378318900b.jpg",
+        "original_sha256": "da9e3c9ae7ae3062288df9b43eb900148cd6dda3547513d318d974378318900b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-eishockey-chl": {
+        "path": "media/sport-eishockey-chl-1024-r01.jpg",
+        "sha256": "8c2ff74957ea8c65f427dd23e8db14e2c4d568b581022179927fa356bc9e4e87",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b8d1344464e039ea0f27cbb6676fa0ed5b007c20a35a9b1ba1666a95f87d6675.jpg",
+        "original_sha256": "b8d1344464e039ea0f27cbb6676fa0ed5b007c20a35a9b1ba1666a95f87d6675",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-radsport-romandie": {
+        "path": "media/sport-radsport-romandie-1024-r01.jpg",
+        "sha256": "e9ee33460b96ad89116c5725585f9e8471f11c4fe391573ced7366f821f9e0c2",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-19T06:52:43+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-19",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-19 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7daf84a66bac94a237e4adc7622c62ad0379a4bd6a69c73dd2864e95f64be582.jpg",
+        "original_sha256": "7daf84a66bac94a237e4adc7622c62ad0379a4bd6a69c73dd2864e95f64be582",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
