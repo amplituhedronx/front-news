@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-20T18:28:58+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-svp-ticket-entscheid",
+      "section": "Politik",
+      "headline": "SVP-Fraktion setzt auf Zweierticket – Namen noch offen",
+      "summary": "Die SVP-Bundeshausfraktion hat am Freitag in Bern alle acht Kandidierenden für die Nachfolge von Bundesrat Guy Parmelin angehört und anschliessend mit der Wahl ihres Tickets für die Bundesratswahl vom 9. Dezember begonnen. Zur Wahl stehen Thomas Aeschi, Céline Amaudruz, Marco Chiesa, Michael Graber, Rémy Wyssmann, Pierre Alain Schnegg, Franz Ruppen und Jean-Pierre Gallati. Laut NZZ, gestützt auf einen SRF-Bericht, hat sich die Fraktion wie vom Vorstand empfohlen auf ein Zweierticket geeinigt; die beiden Plätze werden in mehreren Wahlgängen einzeln besetzt. Welche Namen auf dem Ticket stehen, soll im Verlauf des Abends bekanntgegeben werden und war bei Redaktionsschluss noch offen.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/ticket-fuer-bundesratswahl-wer-kommt-aufs-svp-ticket-jetzt-laufen-die-beratungen",
+          "published_at": "2026-11-20T17:30:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ (Live-Ticker, Paywall möglich)",
+          "url": "https://www.nzz.ch/schweiz/wen-nominiert-die-svp-fuer-den-bundesrat-alle-entwicklungen-im-ticker-ld.10069881",
+          "published_at": null,
+          "updated_at": "2026-11-20T16:38:26+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/politik-svp-ticket-entscheid-1024-r01.jpg",
+        "alt": "Geschlossene Holztür mit Lichtschein, davor ein Tisch mit zwei leeren Namenskarten und einer Abstimmungsurne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-eu-maschinen-mra",
+      "section": "Politik",
+      "headline": "EU passt Abkommen für Maschinenexporte vorerst nicht an",
+      "summary": "Ab dem 20. Januar 2027 gilt in der EU die neue Maschinenverordnung; das Abkommen über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) verweist aber noch auf die alte Richtlinie. Laut CH Media weigert sich die EU-Kommission derzeit, das Abkommen zu aktualisieren, sodass Schweizer Firmen bestimmte Maschinen mit erhöhten Sicherheitsanforderungen nicht mehr in der Schweiz für den EU-Markt zertifizieren lassen könnten. Betroffen wären nach Schätzungen rund zehn Prozent der exportierten Maschinen, etwa Metallpressen oder Hebebühnen; die Medtech-Branche befindet sich seit 2021 in einer ähnlichen Lage. Bundespräsident Guy Parmelin hat in Brüssel interveniert, eine Lösung ist offen.",
+      "sources": [
+        {
+          "name": "Luzerner Zeitung (CH Media)",
+          "url": "https://www.luzernerzeitung.ch/schweiz/neuer-nadelstich-aus-bruessel-jetzt-trifft-es-die-maschinenbauer-ld.4271080",
+          "published_at": "2026-11-20T15:56:48+01:00",
+          "updated_at": "2026-11-20T16:02:30+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/politik-eu-maschinen-mra-1024-r01.jpg",
+        "alt": "Stilisierte Metallpresse auf einem Förderband vor einer geschlossenen Schranke, darüber ein Zertifikat ohne Siegel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-nestle-orbe",
+      "section": "Wirtschaft",
+      "headline": "Nestlé eröffnet Technologiezentrum in Orbe",
+      "summary": "Nestlé hat am Freitag in Orbe VD ein «Deep Tech Center» eröffnet. Fachleute sollen dort Anwendungen mit künstlicher Intelligenz, Sensoren, Robotik und vernetzten Systemen entwickeln, testen und konzernweit einführen – von der Produktentwicklung bis zur Fabrik. Konzernchef Philipp Navratil bekannte sich bei der Eröffnung laut Tages-Anzeiger zum Standort Schweiz. Nestlé will damit Innovation beschleunigen und die Produktion effizienter machen.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/nestle-eroeffnet-deep-tech-center-in-orbe-fokus-auf-ai-610962339656",
+          "published_at": "2026-11-20T14:30:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Nestlé (Medienmitteilung, englisch)",
+          "url": "https://www.nestle.com/media/news/deep-tech-center-orbe-ai-robotics",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/wirtschaft-nestle-orbe-1024-r01.jpg",
+        "alt": "Moderner Laborraum mit Roboterarm, der eine Lebensmittelprobe hält, dazu abstrakte Sensor- und Netzwerksymbole (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-kvpi-praemien",
+      "section": "Wirtschaft",
+      "headline": "BFS: Prämien bremsen Wachstum der verfügbaren Einkommen",
+      "summary": "Der Krankenversicherungsprämien-Index des Bundesamts für Statistik ist für das Prämienjahr 2026 um 3,3 Prozent gestiegen und liegt bei 230,3 Punkten (1999 = 100). Gemäss Modellrechnung des BFS reduziert der Prämienanstieg das Wachstum des durchschnittlichen verfügbaren Einkommens 2026 um 0,2 Prozentpunkte. Der Index misst die Prämienentwicklung, nicht die individuelle Belastung einzelner Haushalte.",
+      "sources": [
+        {
+          "name": "admin.ch (BFS)",
+          "url": "https://www.admin.ch/de/newnsb/qAbDPn4NMLOe",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/wirtschaft-kvpi-praemien-1024-r01.jpg",
+        "alt": "Ein Portemonnaie, das von einem wachsenden Block in Form eines medizinischen Kreuzes leicht zusammengedrückt wird, daneben Münzen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-bfs-migration-arbeitsmarkt",
+      "section": "Wirtschaft",
+      "headline": "Eingewanderte finden meist rasch eine Stelle",
+      "summary": "Mehr als vier von zehn Personen ab 15 Jahren in der Schweiz hatten 2025 einen Migrationshintergrund, wie das Bundesamt für Statistik mitteilt. Über zwei Drittel jener, die zum Arbeiten einwanderten, hatten schon vor der Ankunft eine Stelle; von den übrigen fanden zwei Drittel innert drei Monaten eine. Fast die Hälfte der Eingewanderten beherrschte bereits vor der Ankunft eine Amtssprache ihres Wohnkantons, ein Anteil, der seit 2021 gestiegen ist.",
+      "sources": [
+        {
+          "name": "admin.ch (BFS)",
+          "url": "https://www.admin.ch/de/newnsb/YskdJK6LxRTM",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/wirtschaft-bfs-migration-arbeitsmarkt-1024-r01.jpg",
+        "alt": "Mehrere Koffer vor einer offenen Tür, hinter der Arbeitsgegenstände wie Helm, Laptop und Stethoskop liegen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-baselland-cyberangriff",
+      "section": "Zürich & Regionen",
+      "headline": "Cyberangriff: Daten von 97'000 Grenzgänger-Gesuchen abgeflossen",
+      "summary": "Beim Cyberangriff auf die IT-Infrastruktur der Baselbieter Kantonsverwaltung sind rund 97'000 Datensätze abgeflossen, wie der Kanton Basel-Landschaft mitteilt. Betroffen sind Grenzgängerbewilligungen, die seit dem 28. November 2016 beantragt wurden, mit Angaben wie Name, Adresse, Geburtsdatum, Zivilstand, Berufsfunktion und ZEMIS-Nummer sowie Kontaktdaten von Arbeitgebern. Der Kanton rät Betroffenen zu erhöhter Wachsamkeit wegen möglicher Phishing-Versuche und Identitätsdiebstahl. Er hat Strafanzeige gegen Unbekannt eingereicht und unter anderem das Bundesamt für Cybersicherheit sowie die Botschaften Deutschlands und Frankreichs informiert.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/97%27000-datens%C3%A4tze-aus-baselbieter-verwaltung-abgeflossen/92413680",
+          "published_at": "2026-11-20T14:46:31+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Kanton Basel-Landschaft (Medienmitteilung)",
+          "url": "https://www.baselland.ch/politik-und-behorden/besondere-behoerden/landeskanzlei/medienmitteilungen/cyberangriff-auf-die-it-infrastruktur-der-kantonalen-verwaltung-fuehrte-zu-datenabfluss",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/regionen-baselland-cyberangriff-1024-r01.jpg",
+        "alt": "Stilisiertes Verwaltungsgebäude mit Serverschrank, aus einem gesprungenen digitalen Schild entweichen Dokumentsymbole (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-kanti-hottingen-hack",
+      "section": "Zürich & Regionen",
+      "headline": "Prozess um Hackerangriff auf Kantonsschule Hottingen",
+      "summary": "Vor dem Bezirksgericht Zürich steht ein heute 23-jähriger ehemaliger Schüler der Kantonsschule Hottingen, der 2022 das Schul-Intranet manipuliert haben soll. Laut Anklage loggte sich der Täter mit Passwörtern von Lehrpersonen ein, erstellte über das Konto des Prorektors 6072 falsche Absenzeneinträge und verschickte E-Mails im Namen von Lehrern; die Maturaprüfungen mussten neu erstellt werden. Vorgeworfen werden ihm unbefugtes Eindringen in ein Datenverarbeitungssystem und Datenbeschädigung. Der Beschuldigte bestreitet die Vorwürfe; laut NZZ gibt es Indizien, aber keine direkten Beweise.",
+      "sources": [
+        {
+          "name": "NZZ (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/cyberangriff-auf-kantonsschule-hottingen-schueler-unter-verdacht-ld.10068471",
+          "published_at": "2026-11-20T08:49:34+01:00",
+          "updated_at": "2026-11-20T17:07:37+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/regionen-kanti-hottingen-hack-1024-r01.jpg",
+        "alt": "Schulgebäude-Silhouette neben einem Laptop mit aufgebrochenem Schloss-Symbol, Häkchen-Symbolen und einem Richterhammer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-aargau-suchthilfe",
+      "section": "Zürich & Regionen",
+      "headline": "Aargau beantragt 15,4 Millionen für Suchthilfe",
+      "summary": "Der Aargauer Regierungsrat beantragt einen Verpflichtungskredit von 15,4 Millionen Franken für neue Angebote der Schadensminderung wie Gassenküchen, Notschlafstellen und Kontakt- und Anlaufstellen. Hintergrund sind die offenen Drogenszenen rund um die Bahnhöfe Aarau und Brugg; die gesetzliche Grundlage hatte der Grosse Rat im Juni geschaffen. Die jährlichen Betriebskosten werden auf 3,8 Millionen Franken geschätzt. Die Anhörung läuft bis zum 26. Februar 2027.",
+      "sources": [
+        {
+          "name": "Aargauer Zeitung (CH Media)",
+          "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/kanton-aargau-plant-millionen-fuer-suchtangebote-ld.4270849",
+          "published_at": "2026-11-20T12:16:23+01:00",
+          "updated_at": "2026-11-20T14:58:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/regionen-aargau-suchthilfe-1024-r01.jpg",
+        "alt": "Ruhiger Aufenthaltsraum mit Teekanne, Tassen und warmer Lampe, im Hintergrund eine offene Tür und eine Bahnhofsuhr (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-jugendstreik-demos",
+      "section": "Gesellschaft",
+      "headline": "Jugendstreik: Wasserwerfer in Basel, friedliche Demo in Bern",
+      "summary": "Am internationalen Jugendstreiktag haben in mehreren Schweizer Städten junge Menschen gegen Sparmassnahmen und Aufrüstung und für mehr Mittel für Klima, Bildung und Soziales demonstriert. In Bern verlief die bewilligte Kundgebung laut SRF friedlich. In Basel errichteten Demonstrierende Barrikaden, warfen laut Kantonspolizei Steine und zündeten Feuerwerk; die Polizei setzte einen Wasserwerfer ein und sagte eine bewilligte Versammlung ab. In Zürich begann die bewilligte Demo um 17 Uhr beim Landesmuseum unter grossem Polizeiaufgebot.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/schweizweiter-jugendstreik-jugend-demos-friedliche-stimmung-in-bern-wasserwerfer-in-basel",
+          "published_at": "2026-11-20T16:06:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten (Live-Ticker)",
+          "url": "https://www.20min.ch/story/jugendproteste-schweiz-20-november-live-ticker-103670504",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/gesellschaft-jugendstreik-demos-1024-r01.jpg",
+        "alt": "Leere Transparente und Schilder von hinten vor einem Stadtplatz in der Dämmerung, in der Ferne ein Wasserstrahl (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-bepicolombo-merkur",
+      "section": "Gesellschaft",
+      "headline": "Merkur-Sonde mit Schweizer Bauteilen erreicht ihr Ziel",
+      "summary": "Die europäisch-japanische Raumsonde BepiColombo soll am 21. November nach acht Jahren Flug den Merkur erreichen; sie ist erst die dritte Sonde, die den sonnennächsten Planeten besucht. An Bord sind Komponenten, die die Empa in Dübendorf mit der Universität Bern hergestellt hat, unter anderem für Messinstrumente zur Analyse von Teilchen. Nach der Ankunft trennen sich die beiden Orbiter von ESA und Jaxa und sollen Merkur mindestens ein Jahr lang untersuchen, etwa seine Oberfläche und sein Magnetfeld.",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/bepicolombo-sonde-erreicht-merkur-nach-8-jahren-mit-schweizer-technik-103669932",
+          "published_at": "2026-11-19T10:27:49+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "admin.ch (Empa)",
+          "url": "https://www.admin.ch/de/newnsb/v5OzuizBk-A3",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/gesellschaft-bepicolombo-merkur-1024-r01.jpg",
+        "alt": "Raumsonde mit Solarpanelen nähert sich einem grauen, kraterübersäten Planeten nahe der Sonne (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-schnee-montag",
+      "section": "Verkehr & Wetter",
+      "headline": "Schneefallgrenze sinkt bis Montag auf 500 bis 900 Meter",
+      "summary": "Nach einem milden Samstag mit 8 bis 10 Grad wird es laut MeteoSchweiz ab Sonntag deutlich kühler. Die Schneefallgrenze sinkt in der Ostschweiz am Sonntag auf 600 bis 900 Meter und liegt am Montagvormittag voraussichtlich zwischen 500 und 900 Metern, bei Höchstwerten um 5 Grad. Am Alpennordhang sind oberhalb von 1800 Metern bis Sonntag lokal bis zu 50 Zentimeter Neuschnee möglich; in Teilen des Wallis gilt weiterhin grosse Lawinengefahr (Stufe 4).",
+      "sources": [
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/viel-neuschnee-hier-herrscht-in-den-bergen-bereits-grosse-lawinengefahr-103670516",
+          "published_at": "2026-11-20T08:11:32+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/wetter-schnee-montag-1024-r01.jpg",
+        "alt": "Schweizer Dorf im Flachland mit leicht verschneiten Dächern, fallende Schneeflocken und Berge unter grauen Wolken (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-carr-verfahren",
+      "section": "Sport",
+      "headline": "Strafverfahren gegen Ajoie-Stürmer Daniel Carr",
+      "summary": "Die Staatsanwaltschaft Berner Jura-Seeland führt gegen Ajoie-Stürmer Daniel Carr ein Verfahren wegen versuchter schwerer Körperverletzung, wie die Kantonspolizei Bern am Freitag mitteilte. Eröffnet wurde es bereits am 23. Oktober von Amtes wegen, gestützt auf TV-Bilder des Spiels vom 16. Oktober in Biel. Carr hatte dort den am Boden liegenden Bieler Captain Gaëtan Haas mit der Faust gegen den Kopf geschlagen; Haas erlitt eine Gehirnerschütterung. Die Ermittlungen dauern an, weitere Befragungen folgen.",
+      "sources": [
+        {
+          "name": "Kantonspolizei Bern",
+          "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=0e16927b-f6cc-4c08-a51d-a3ca1b20f84c",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/nach-faustschlag-im-spiel-staatsanwaltschaft-eroeffnet-verfahren-gegen-daniel-carr",
+          "published_at": "2026-11-20T10:12:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-evening/sport-carr-verfahren-1024-r01.jpg",
+        "alt": "Eishockeystock, Helm und Puck auf dem Eis, an der Bande ein Dokument und ein Richterhammer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-20-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-20T18:28:58+01:00",
+    "ready_at": "2026-11-20T18:28:58+01:00",
+    "content_hash": "sha256:4d66ae766f1f6a7a90ebb4d868d5be713d193a3b18516a09263e8dcd7a7f8db5",
+    "image_rights": {
+      "politik-svp-ticket-entscheid": {
+        "rights": "ai_generated_own"
+      },
+      "politik-eu-maschinen-mra": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-nestle-orbe": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-kvpi-praemien": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-bfs-migration-arbeitsmarkt": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-baselland-cyberangriff": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-kanti-hottingen-hack": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-aargau-suchthilfe": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-jugendstreik-demos": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-bepicolombo-merkur": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-schnee-montag": {
+        "rights": "ai_generated_own"
+      },
+      "sport-carr-verfahren": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-svp-ticket-entscheid": {
+        "path": "media/politik-svp-ticket-entscheid-1024-r01.jpg",
+        "sha256": "ff459ca769a060a1f6488b4d43e29f5d25facdc590fbab13e4e98f1f4b530053",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/aedd354ee00c435fef1f111c348d8386d310066f30fd876bb9575be3a0c53bb0.jpg",
+        "original_sha256": "aedd354ee00c435fef1f111c348d8386d310066f30fd876bb9575be3a0c53bb0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-eu-maschinen-mra": {
+        "path": "media/politik-eu-maschinen-mra-1024-r01.jpg",
+        "sha256": "9f9cdcd17e35b936f596541fce84b1586e795dcbb0622b37ec4160f87c2b6be1",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9411ba99ef5ab3af843f82a53aa23827970ed6522903cd293cfc3b48a582cd6b.jpg",
+        "original_sha256": "9411ba99ef5ab3af843f82a53aa23827970ed6522903cd293cfc3b48a582cd6b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-nestle-orbe": {
+        "path": "media/wirtschaft-nestle-orbe-1024-r01.jpg",
+        "sha256": "a1dc443a42a89a6a9ac2ad8279d672795302b3c54c6f4f3e960f10499192dab0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7f170bb3acddf8e515366df210afc2015365986fd759f7dc72a251c08338464d.jpg",
+        "original_sha256": "7f170bb3acddf8e515366df210afc2015365986fd759f7dc72a251c08338464d",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-kvpi-praemien": {
+        "path": "media/wirtschaft-kvpi-praemien-1024-r01.jpg",
+        "sha256": "acdb94e4172565c59f05dbdf63b322d7f4049f6b47780bf1b1708e582acd5e78",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d56ba6312030630b88f63e790a66c0bf2d62d63e1b05a0cee16c6c3512d14d59.jpg",
+        "original_sha256": "d56ba6312030630b88f63e790a66c0bf2d62d63e1b05a0cee16c6c3512d14d59",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-bfs-migration-arbeitsmarkt": {
+        "path": "media/wirtschaft-bfs-migration-arbeitsmarkt-1024-r01.jpg",
+        "sha256": "a1285d0c9dddd89d5d6783c65c4f9683381765077d438d82b482c496bcffbf95",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/de70fbf57dd0cb8b9742fa8c029ffe6c19fa8d264dc4bd9ad5345c8ffa2c7404.jpg",
+        "original_sha256": "de70fbf57dd0cb8b9742fa8c029ffe6c19fa8d264dc4bd9ad5345c8ffa2c7404",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-baselland-cyberangriff": {
+        "path": "media/regionen-baselland-cyberangriff-1024-r01.jpg",
+        "sha256": "b60ed9f4c7896858689002e42f7a9e4dbd28a6674720bda608613c1389762c29",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/db9f06c6ecd03530dab194fb4b60a41c9df7980206d6ac7dbff7ffba7f01e5a0.jpg",
+        "original_sha256": "db9f06c6ecd03530dab194fb4b60a41c9df7980206d6ac7dbff7ffba7f01e5a0",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-kanti-hottingen-hack": {
+        "path": "media/regionen-kanti-hottingen-hack-1024-r01.jpg",
+        "sha256": "9b4a2bb50e5eee33647527dbc5b80e56d622432af50d6dd8f23b987951dadaa7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/97a28004b05409cc00bb4ea9f5b416be64ec2e1e5b265b709d96c92917f5f295.jpg",
+        "original_sha256": "97a28004b05409cc00bb4ea9f5b416be64ec2e1e5b265b709d96c92917f5f295",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-aargau-suchthilfe": {
+        "path": "media/regionen-aargau-suchthilfe-1024-r01.jpg",
+        "sha256": "d094e406716a476bd41cf66760ac808e86e6fa7b7398fd5e34213d12ea1f625d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:06+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/428bda9029d33245f71d7c797ff3990e0a888c88a018b01cfb3fe7b6a8fe4663.jpg",
+        "original_sha256": "428bda9029d33245f71d7c797ff3990e0a888c88a018b01cfb3fe7b6a8fe4663",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-jugendstreik-demos": {
+        "path": "media/gesellschaft-jugendstreik-demos-1024-r01.jpg",
+        "sha256": "fef33144d4f992b62cd762c0a91071d55c1f4f6dae3cb0f10dbf3ca7f7fd5087",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:06+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/702539e554d39f84edadcfaa9b240ca665aaa3dc6025d20f4e1020bcb1d44f5c.jpg",
+        "original_sha256": "702539e554d39f84edadcfaa9b240ca665aaa3dc6025d20f4e1020bcb1d44f5c",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-bepicolombo-merkur": {
+        "path": "media/gesellschaft-bepicolombo-merkur-1024-r01.jpg",
+        "sha256": "30b88c70b8dafcd17a63fecd85ae1ee133d02905f1a8b4dae5676ab0c462cca2",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:06+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/48ba8f8350c9a996b1c1539c4c560bee27b6c9378b444a1fefe8d068c7c51849.jpg",
+        "original_sha256": "48ba8f8350c9a996b1c1539c4c560bee27b6c9378b444a1fefe8d068c7c51849",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-schnee-montag": {
+        "path": "media/wetter-schnee-montag-1024-r01.jpg",
+        "sha256": "f3c27dca5eb23e54c712a028746aaef014ce31b4743fa908ca77d1360390003a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:06+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1680d1acb46999455e9ba70c192c719a052777ab64d6fe8b392caebac34d8c36.jpg",
+        "original_sha256": "1680d1acb46999455e9ba70c192c719a052777ab64d6fe8b392caebac34d8c36",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-carr-verfahren": {
+        "path": "media/sport-carr-verfahren-1024-r01.jpg",
+        "sha256": "ba57258fe4a0beb0a19d0814d466709745c04387c7bbf4fec12474b0ec02972d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T17:56:06+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b7b9637c2fd2a44f526a9377efe37a6ce65ff4b579816157bac72101aa508b48.jpg",
+        "original_sha256": "b7b9637c2fd2a44f526a9377efe37a6ce65ff4b579816157bac72101aa508b48",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
