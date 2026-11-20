@@ -1,0 +1,555 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-20T06:58:40+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-svp-bundesratsticket",
+      "section": "Politik",
+      "headline": "SVP-Fraktion bestimmt heute ihr Ticket für die Parmelin-Nachfolge",
+      "summary": "Die SVP-Bundeshausfraktion entscheidet am Freitag, wen sie der Bundesversammlung für die Wahl vom 9. Dezember als Nachfolge von Bundesrat Guy Parmelin vorschlägt. Findungskommission und Fraktionsvorstand empfehlen ein Zweierticket; als Kandidierende gelten unter anderem Fraktionschef Thomas Aeschi (ZG) und die Genfer Nationalrätin Céline Amaudruz. Laut RTS hat Aeschi den Neuenburger SVP-Nationalrat Didier Calame vorübergehend aus der Aussenpolitischen Kommission verdrängt, um während der Beratungen zu den EU-Verträgen selbst Einsitz zu nehmen; dieses Vorgehen wird im Parlament auch in den eigenen Reihen kritisiert. Nach den SVP-Statuten wird ausgeschlossen, wer eine Wahl annimmt, ohne auf dem offiziellen Ticket zu stehen.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-die-svp-praesentiert-ihr-bundesratsticket-die-ausgangslage",
+          "published_at": "2026-11-20T05:56:12+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS Info (französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-les-methodes-de-thomas-aeschi-critiquees-29421457.html",
+          "published_at": "2026-11-19T20:42:26+01:00",
+          "updated_at": "2026-11-19T22:48:38+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/politik-svp-bundesratsticket-1024-r01.jpg",
+        "alt": "Abstrakter Ratssaal mit einer Abstimmungsurne, in die zwei leere Stimmzettel fallen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-unterschriften-kontrollen",
+      "section": "Politik",
+      "headline": "Unterschriftensammlungen: Bundesrat sieht Wirkung, Stiftung kritisiert Streichungen",
+      "summary": "Der Bundesrat hat am Mittwoch einen Bericht verabschiedet, wonach die nach dem «Unterschriften-Bschiss» ergriffenen Massnahmen wirken: Zwischen September 2025 und September 2026 seien der Bundeskanzlei nur noch rund 60 verdächtige Unterschriften gemeldet worden, Gesetzesänderungen seien nicht nötig. Die Stiftung für direkte Demokratie kritisiert hingegen die seit Oktober 2025 einheitlich strengere Praxis bei sogenannten Familienfällen, bei denen Angehörige die Personalien für andere eintragen. Bei vier 2026 eingereichten Initiativen seien 1,62 Prozent der Unterschriften ungültig erklärt worden, gegenüber 0,88 Prozent 2024; eine Petition mit 7800 Unterschriften verlangt ein Recht auf Assistenz. Die Bundeskanzlei hält fest, sie setze geltendes Recht einheitlich um; eine Assistenzlösung bräuchte eine Gesetzesänderung.",
+      "sources": [
+        {
+          "name": "Luzerner Zeitung (Abo)",
+          "url": "https://www.luzernerzeitung.ch/schweiz/unterschriften-bschiss-stiftung-warnt-vor-folgen-der-kontrollen-ld.4270137",
+          "published_at": "2026-11-20T05:00:00+01:00",
+          "updated_at": "2026-11-20T05:00:00+01:00"
+        },
+        {
+          "name": "admin.ch (Bundesrat)",
+          "url": "https://www.admin.ch/de/newnsb/3SQ3K4BkzfiU",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/politik-unterschriften-kontrollen-1024-r01.jpg",
+        "alt": "Leerer Unterschriftenbogen auf einem Tisch, darüber eine Lupe, daneben ein Stempel (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-osze-vorsitze",
+      "section": "Politik",
+      "headline": "OSZE: Schweiz schlägt Dreijahrespaket für künftige Vorsitze vor",
+      "summary": "Bundesrat Ignazio Cassis hat als amtierender OSZE-Vorsitzender am Donnerstag an einer Sondersitzung in Wien ein Paket für die Vorsitze der Jahre 2027 bis 2029 vorgeschlagen. Laut EDA unterstützt eine breite Mehrheit der 57 Teilnehmerstaaten das Prinzip einer dreijährigen Lösung, die Planbarkeit und regionales Gleichgewicht verbessern soll. Für einen künftigen Vorsitz stellten sich Armenien, Aserbaidschan, Norwegen und Österreich zur Verfügung; Zypern und Georgien bekräftigten bestehende Kandidaturen. Eine Einigung steht noch aus, weitere Verhandlungen sind vorgesehen – unter anderem vor dem OSZE-Ministerrat vom 3. und 4. Dezember in Lugano.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/schweiz-unterbreitet-dreijahrespaket-f%c3%bcr-k%c3%bcnftige-osze-vorsitze/92410166",
+          "published_at": "2026-11-19T20:33:14+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "admin.ch (EDA)",
+          "url": "https://www.admin.ch/de/newnsb/FdToHy268dEJ",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/politik-osze-vorsitze-1024-r01.jpg",
+        "alt": "Runder Konferenztisch von oben mit leeren Stühlen und kreisförmigen Pfeilen in der Mitte, Symbol für einen rotierenden Vorsitz (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-roesti-cop31",
+      "section": "Politik",
+      "headline": "Bundesrat Rösti fordert an der COP31 Ausstiegspläne für fossile Energien",
+      "summary": "Umweltminister Albert Rösti hat an der Klimakonferenz COP31 in Antalya die Staaten aufgerufen, eigene Fahrpläne für den Ausstieg aus fossilen Energien zu entwickeln. Die Schweiz habe mit dem Klima- und Innovationsgesetz eine solche Roadmap, sagte Rösti; er nannte dabei auch die Kernenergie und verwies auf den Entscheid von Bundesrat und Parlament, das Neubauverbot für Kernkraftwerke aufzuheben, worüber voraussichtlich im Februar 2027 abgestimmt wird. Ein Entwurf der Konferenz enthielt laut Berichten vom Donnerstag keine Hinweise mehr auf fossile Brennstoffe. Die Verhandlungen gehen in die Schlussphase.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/r%c3%b6sti-ruft-staaten-zu-ausstiegspl%c3%a4nen-f%c3%bcr-fossile-energien-auf/92410005",
+          "published_at": "2026-11-19T19:53:53+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/international/klimakonferenz-in-antalya-cop31-entwurf-streicht-alle-hinweise-auf-fossile-brennstoffe",
+          "published_at": "2026-11-19T18:15:05+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/politik-roesti-cop31-1024-r01.jpg",
+        "alt": "Weltkugel, über der eine Strasse von einem Ölfass zu Windrad und Solarpanel führt (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-ubs-tbtf",
+      "section": "Wirtschaft",
+      "headline": "UBS lehnt Kernpunkte des dritten Too-big-to-fail-Pakets ab",
+      "summary": "Die UBS hat in ihrer Stellungnahme zur Vernehmlassung über die Änderung des Bankengesetzes, die am Donnerstag endete, wesentliche Teile des dritten Massnahmenpakets abgelehnt. Die Bank unterstützt nach eigenen Angaben das Ziel der Finanzstabilität, verlangt aber «substanzielle Änderungen», damit zusätzliche Anforderungen verhältnismässig blieben; die deutlich höheren Eigenkapitalanforderungen lehnt sie ab. Der Bundesrat will unter anderem die Sanktionsmöglichkeiten der Finma ausbauen; Finanzministerin Karin Keller-Sutter bezeichnete das Paket bei der Vorstellung im August als gezielt und verhältnismässig. Die Wirtschaftskommission des Nationalrats berät am kommenden Montag über mögliche Änderungen.",
+      "sources": [
+        {
+          "name": "NZZ (Abo)",
+          "url": "https://www.nzz.ch/wirtschaft/die-ubs-lehnt-wesentliche-teile-des-dritten-pakets-der-grossbankenregulierung-ab-und-fordert-substanzielle-aenderungen-ld.10068757",
+          "published_at": "2026-11-19T19:43:51+01:00",
+          "updated_at": "2026-11-19T19:43:51+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/wirtschaft-ubs-tbtf-1024-r01.jpg",
+        "alt": "Stilisierte klassische Bankfassade, davor eine Waage mit Goldbarren in der einen und einem Steinblock in der anderen Schale (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-uetlihof-verkauf",
+      "section": "Wirtschaft",
+      "headline": "UBS-Immobilienfonds kaufen den Üetlihof für 850 Millionen Franken",
+      "summary": "Der norwegische Staatsfonds verkauft den Zürcher Bürokomplex Üetlihof für 850 Millionen Franken an Immobilienfonds von UBS Asset Management, wie Norges Bank Investment Management am Donnerstag mitteilte. Die Transaktion soll im Januar 2027 abgeschlossen werden; die Fonds übernehmen die bestehenden langfristigen Mietverträge. Mieterin ist seit der Übernahme der Credit Suisse die UBS, der Vertrag läuft laut früheren Angaben bis 2037. Der Üetlihof zählt mit Platz für rund 8500 Arbeitsplätze und rund 100'000 Quadratmetern Fläche zu den grössten Bürogebäuden der Schweiz.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/ubs-fondsgesellschaften-kaufen-z%c3%bcrcher-%c3%9cetlihof-b%c3%bcrokomplex/92409907",
+          "published_at": "2026-11-19T19:21:59+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/ueetlihof-zuerich-ubs-fonds-kaufen-fuer-850-millionen-franken-336872231113",
+          "published_at": "2026-11-19T19:54:58+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/wirtschaft-uetlihof-verkauf-1024-r01.jpg",
+        "alt": "Grosser stilisierter Bürokomplex am Hang, davor ein symbolischer Schlüssel, der übergeben wird (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-ksbl-standorte",
+      "section": "Zürich & Regionen",
+      "headline": "Baselbieter Landrat hält an beiden Spitalstandorten fest",
+      "summary": "Der Landrat des Kantons Basel-Landschaft hat am Donnerstag mit 67 zu 18 Stimmen die beiden Akutspital-Standorte des Kantonsspitals Baselland in Liestal und auf dem Bruderholz in Binningen bestätigt. Er bewilligte eine Kreditsicherungsgarantie von 750 Millionen Franken bis 2075 für die anstehenden Sanierungen und eine Erhöhung der Kantonsbeteiligung um 200 Millionen Franken. GLP, Teile der FDP sowie einzelne Mitglieder von SVP und Grünen wollten das Geschäft zurückweisen und eine Gesamtstrategie mit den Nachbarkantonen verlangen; der Antrag scheiterte mit 61 zu 24 Stimmen. Gesundheitsdirektor Thomi Jourdan (EVP) sagte, es sei keine bessere Variante übrig geblieben.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/kantonsspital-baselland-nach-jahrelangem-ringen-will-der-landrat-beide-standorte-behalten",
+          "published_at": "2026-11-19T19:02:13+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/baselbieter-landrat-ist-deutlich-f%c3%bcr-zwei-bisherige-spitalstandorte/92409138",
+          "published_at": "2026-11-19T17:31:38+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/regionen-ksbl-standorte-1024-r01.jpg",
+        "alt": "Zwei stilisierte Spitalgebäude auf grünen Hügeln, verbunden durch eine Linie (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-bern-gemeinderat",
+      "section": "Zürich & Regionen",
+      "headline": "Stadt Bern bleibt bei fünf Gemeinderatsmitgliedern",
+      "summary": "Der Berner Stadtrat hat am Donnerstag mit 52 zu 4 Stimmen bei 4 Enthaltungen darauf verzichtet, die Stadtregierung von fünf auf sieben Mitglieder zu vergrössern. Nur die AL/PdA/TIF-Fraktion stimmte für die Erweiterung; die SP/Juso-Fraktion, die die Teilrevision einst mitbestellt hatte, änderte ihre Haltung und verwies unter anderem auf jährliche Mehrkosten von rund sechs Millionen Franken. Der Gemeinderat hatte sich von Beginn an für fünf Sitze ausgesprochen und will die ungleiche Arbeitslast der Direktionen mit einer Reorganisation angehen, die Anfang 2027 aufgegleist werden soll. Die Stimmberechtigten hatten 2004 die Initiative «5 statt 7» angenommen.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA)",
+          "url": "https://www.swissinfo.ch/ger/berner-stadtrat-beerdigt-pl%c3%a4ne-f%c3%bcr-siebenk%c3%b6pfigen-gemeinderat/92410347",
+          "published_at": "2026-11-19T22:32:23+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Berner Zeitung (Abo)",
+          "url": "https://www.bernerzeitung.ch/stadtrat-bern-lehnt-groesseren-gemeinderat-mit-52-zu-4-ab-565431057935",
+          "published_at": "2026-11-19T21:58:54+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/regionen-bern-gemeinderat-1024-r01.jpg",
+        "alt": "Sitzungszimmer in einem historischen Sandsteinraum mit Stühlen um einen langen Tisch (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-jugendstreik",
+      "section": "Gesellschaft",
+      "headline": "Jugendstreik: Bewilligte Demonstrationen in mehreren Städten",
+      "summary": "Am heutigen europaweiten Jugendstreiktag gegen Aufrüstung und Sparpolitik finden laut dem Organisationsbündnis in mehreren Schweizer Städten bewilligte Kundgebungen statt, unter anderem in Basel ab 14 Uhr, in Zürich ab 17 Uhr beim Landesmuseum und in Bern ab 17.30 Uhr auf dem Münsterplatz. Unterstützt wird der Aufruf unter anderem von Juso, Jungen Grünen, VPOD und Klimastreik. Laut SRF verbreitete eine Schweizer Jugendstreik-Sektion auf Instagram ein Video mit Bildern der Zürcher Halloween-Krawalle; Fachleute kritisieren, solche Inhalte normalisierten Gewalt. Die Junge SVP kündigte an, Strafanzeigen vorzubereiten; die Polizeikorps in den betroffenen Städten haben sich auf die Anlässe vorbereitet.",
+      "sources": [
+        {
+          "name": "SRF News",
+          "url": "https://www.srf.ch/news/schweiz/internationaler-protesttag-schweizer-jugendstreik-sektion-verbreitete-gewalt-video",
+          "published_at": "2026-11-20T05:54:46+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Basler Zeitung (Abo)",
+          "url": "https://www.bazonline.ch/jugendstreik-basel-demonstration-am-20-november-ab-14-uhr-636184335752",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/gesellschaft-jugendstreik-1024-r01.jpg",
+        "alt": "Stilisierte leere Stadtstrasse mit Transparenten ohne Schrift und Megafon auf dem Boden (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-kulturschaffende",
+      "section": "Gesellschaft",
+      "headline": "Umfrage: Mehr als ein Drittel der Kulturschaffenden erwägt Berufsausstieg",
+      "summary": "Laut dem ersten nationalen Lagebarometer «Swiss Arts Pulse» der Zürcher Hochschule der Künste haben 37 Prozent der befragten Kulturschaffenden in den letzten sechs Monaten ernsthaft über einen Ausstieg aus dem Kultursektor nachgedacht. Befragt wurden 1122 Personen aus acht Kulturbereichen; als grösste Sorge nannten 52 Prozent fehlende Aufträge und Nachfrage, gefolgt von finanzieller Unsicherheit (36 Prozent) und Projektfinanzierung (30 Prozent). Weniger als ein Fünftel kann vollständig von der kulturellen Tätigkeit leben, jede sechste Person käme ohne Einkommen keinen Monat aus. Zwei Drittel verfügen über höchstens 4000 Franken pro Monat für private und berufliche Ausgaben.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/kulturschaffende-schweiz-37-prozent-denken-ans-aufhoeren-490011294636",
+          "published_at": "2026-11-20T06:25:29+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-ATS, französisch)",
+          "url": "https://www.swissinfo.ch/fre/plus-d%27un-tiers-des-artistes-songent-%C3%A0-quitter-le-secteur-culturel/92410877",
+          "published_at": "2026-11-20T06:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/gesellschaft-kulturschaffende-1024-r01.jpg",
+        "alt": "Leere Theaterbühne mit Scheinwerferkegel, daneben ein Notenständer und ein halb gepackter Koffer (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-lawinengefahr",
+      "section": "Verkehr & Wetter",
+      "headline": "Grosse Lawinengefahr in Teilen des Unterwallis und der Waadtländer Alpen",
+      "summary": "Nach starken Schneefällen hat das WSL-Institut für Schnee- und Lawinenforschung SLF für Teile des Unterwallis, der Waadtländer Alpen und das Wildhorngebiet die Gefahrenstufe 4 («gross») ausgerufen, die zweithöchste Stufe. Oberhalb von rund 2200 Metern fielen in vier Tagen 80 bis 120 Zentimeter Schnee, starker Westwind verfrachtete zusätzlich Schnee. Laut SLF sind spontane Lawinen möglich, die vereinzelt sehr gross werden und höher gelegene Verkehrswege gefährden können. Mit dem Ende der Niederschläge soll die Gefahr allmählich abnehmen.",
+      "sources": [
+        {
+          "name": "RTS Info (französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/avalanches-risque-eleve-de-niveau-4-dans-les-alpes-romandes-29421462.html",
+          "published_at": "2026-11-19T21:26:25+01:00",
+          "updated_at": "2026-11-19T23:06:37+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Abo)",
+          "url": "https://www.tagesanzeiger.ch/westwindwetter-ueber-einen-meter-schnee-im-wallis-484501217568",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/wetter-lawinengefahr-1024-r01.jpg",
+        "alt": "Steile verschneite Berghänge unter grauem Himmel, an einem Grat löst sich ein Schneebrett, tief unten eine Bergstrasse (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-zsc-servette",
+      "section": "Sport",
+      "headline": "ZSC Lions drehen Spiel in Lausanne, Servette-Frauen chancenlos in Barcelona",
+      "summary": "Leader ZSC Lions hat in der National League in Lausanne nach 0:2-Rückstand 5:2 gewonnen; Balcers, Riedi, Lehtonen, Knak und erneut Balcers trafen. Für die Zürcher war es im zehnten Auswärtsspiel der zehnte Sieg, der Vorsprung auf den ersten Verfolger SC Bern beträgt 16 Punkte. In der Women's Champions League unterlagen die Servette-Frauen am fünften Spieltag beim Titelverteidiger FC Barcelona 0:6. Bei Barcelona spielte die Schweizerin Sydney Schertenleib durch.",
+      "sources": [
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-vom-0-2-zum-5-2-lions-glueckt-reaktion-in-lausanne",
+          "published_at": "2026-11-19T22:35:45+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF Sport",
+          "url": "https://www.srf.ch/sport/fussball/frauen-fussball/women-s-champions-league-schertenleib-und-barcelona-lassen-servette-keine-chance",
+          "published_at": "2026-11-19T22:49:58+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-20-morning/sport-zsc-servette-1024-r01.jpg",
+        "alt": "Eishockeypuck und Fussball nebeneinander auf einer geteilten Fläche aus Eis und Rasen (KI-Illustration).",
+        "caption": "KI-Illustration – symbolisches Bild, keine Aufnahme des Ereignisses.",
+        "credit": "KI-generierte Illustration (Front News)",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-20-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-20T06:55:15+01:00",
+    "ready_at": "2026-11-20T06:58:40+01:00",
+    "content_hash": "sha256:7327544c31ddb959c61660c9596be7c31f3fa0965a94d9a151027c36b0fdb4be",
+    "image_rights": {
+      "politik-svp-bundesratsticket": {
+        "rights": "ai_generated_own"
+      },
+      "politik-unterschriften-kontrollen": {
+        "rights": "ai_generated_own"
+      },
+      "politik-osze-vorsitze": {
+        "rights": "ai_generated_own"
+      },
+      "politik-roesti-cop31": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-ubs-tbtf": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-uetlihof-verkauf": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-ksbl-standorte": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-bern-gemeinderat": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-jugendstreik": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-kulturschaffende": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-lawinengefahr": {
+        "rights": "ai_generated_own"
+      },
+      "sport-zsc-servette": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-svp-bundesratsticket": {
+        "path": "media/politik-svp-bundesratsticket-1024-r01.jpg",
+        "sha256": "5b168124c8e15f797dac043baf77b830b2021c44a80bff14efc764745eb5da3b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/63be78decd7283e0ef574a558f9bc117cbdaec981190479aea7f6948799f6ba5.jpg",
+        "original_sha256": "63be78decd7283e0ef574a558f9bc117cbdaec981190479aea7f6948799f6ba5",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-unterschriften-kontrollen": {
+        "path": "media/politik-unterschriften-kontrollen-1024-r01.jpg",
+        "sha256": "6b1dc38166bcdeb76d4c84f06ecc4169311b158621b4bdf25b1c832309b11259",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/45c135e7bf4c2adeb9b7c03458ccb0852919c5714faac42ea2368821cc09bf8b.jpg",
+        "original_sha256": "45c135e7bf4c2adeb9b7c03458ccb0852919c5714faac42ea2368821cc09bf8b",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-osze-vorsitze": {
+        "path": "media/politik-osze-vorsitze-1024-r01.jpg",
+        "sha256": "bc5b5ce964a53e925cdb502d7e83806393fb9ca24f0ea6271626030615901922",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/de3c949db0020fa732857ba7714c5bafec14aa1b0a8865b16d3f882f7798c069.jpg",
+        "original_sha256": "de3c949db0020fa732857ba7714c5bafec14aa1b0a8865b16d3f882f7798c069",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-roesti-cop31": {
+        "path": "media/politik-roesti-cop31-1024-r01.jpg",
+        "sha256": "2c511fbc7feb930cd98b802c6723963ba6a2d8103de5e65d12f05e35d3afa4a7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ebde57682925d40fabbc43c4d7309e74c6ea1e3be2adff7eb7b7b8b1b385d0fd.jpg",
+        "original_sha256": "ebde57682925d40fabbc43c4d7309e74c6ea1e3be2adff7eb7b7b8b1b385d0fd",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-ubs-tbtf": {
+        "path": "media/wirtschaft-ubs-tbtf-1024-r01.jpg",
+        "sha256": "6fe2fda545ba66c345f9425ade3dc798ed9f74487f37a8bb54eb67ba780b44af",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/95f624ae634438ab9523d10af8b8361f14eb988b253475b36defbc1d152624ca.jpg",
+        "original_sha256": "95f624ae634438ab9523d10af8b8361f14eb988b253475b36defbc1d152624ca",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-uetlihof-verkauf": {
+        "path": "media/wirtschaft-uetlihof-verkauf-1024-r01.jpg",
+        "sha256": "bd110a9611365cf982831725d13da115971dff7b1f19f27397046d664f76acd5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/699243f94adaa33026a4677b4a57e4f1a18c3073c9115ef8ca3fbc915a96f314.jpg",
+        "original_sha256": "699243f94adaa33026a4677b4a57e4f1a18c3073c9115ef8ca3fbc915a96f314",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-ksbl-standorte": {
+        "path": "media/regionen-ksbl-standorte-1024-r01.jpg",
+        "sha256": "01f005acba080e670e4f63a15a48046c980811b1355e54cdd5a80bdb176ef02d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/56082e4f1f632cedc4fef9ea5f400ec1d9f962f9a11cd14a973374e74ab48942.jpg",
+        "original_sha256": "56082e4f1f632cedc4fef9ea5f400ec1d9f962f9a11cd14a973374e74ab48942",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-bern-gemeinderat": {
+        "path": "media/regionen-bern-gemeinderat-1024-r01.jpg",
+        "sha256": "09a1d1967b90dd16412c866562eb2e0d5c399a21ffe62df1877f011efd874511",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d6c9dfab31418721f2f23986e8aecee93a7dbe4e4648c7c2c6ce9ff4b012c36c.jpg",
+        "original_sha256": "d6c9dfab31418721f2f23986e8aecee93a7dbe4e4648c7c2c6ce9ff4b012c36c",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-jugendstreik": {
+        "path": "media/gesellschaft-jugendstreik-1024-r01.jpg",
+        "sha256": "342369cb09809ce7d3b6fd9f990c2cf691cecf215aa2e6738f8dc8af3d934bad",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0fc563c9ff648e2c5dc2f8865ac6af65891326d2c05a5befde6e200053727620.jpg",
+        "original_sha256": "0fc563c9ff648e2c5dc2f8865ac6af65891326d2c05a5befde6e200053727620",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-kulturschaffende": {
+        "path": "media/gesellschaft-kulturschaffende-1024-r01.jpg",
+        "sha256": "1594f11e309b6fc94984c79023fcd6fe513791c37313fe24fbec885ea450eadd",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:25+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/da76155b86450526f2c7409f9f27e5d39d1fdf0d2e1bc3abc380c1f22db9abd2.jpg",
+        "original_sha256": "da76155b86450526f2c7409f9f27e5d39d1fdf0d2e1bc3abc380c1f22db9abd2",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-lawinengefahr": {
+        "path": "media/wetter-lawinengefahr-1024-r01.jpg",
+        "sha256": "f3769c0c79051ab3a0ac51e7b81e6fa22d68cab23e4b33d9f6872027ba7e4ebd",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:26+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6c87b8d07e092a335d37b713add01ee2f0e1595ae5b88ca80ff12ad093194940.jpg",
+        "original_sha256": "6c87b8d07e092a335d37b713add01ee2f0e1595ae5b88ca80ff12ad093194940",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-zsc-servette": {
+        "path": "media/sport-zsc-servette-1024-r01.jpg",
+        "sha256": "3b12107468daf96547da059ab9fd390862205345cb92727ad972be2138df0e66",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-20T06:58:26+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-20",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-20 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/45302690ac1789b0a9c7c72dabe1bb8b7e6ce6e271e9efed33f8d3652b5aa04a.jpg",
+        "original_sha256": "45302690ac1789b0a9c7c72dabe1bb8b7e6ce6e271e9efed33f8d3652b5aa04a",
+        "credit": "KI-generierte Illustration (Front News)",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
