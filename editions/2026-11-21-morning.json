@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-21T06:53:06+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-svp-ticket-aeschi-graber",
+      "section": "Politik",
+      "headline": "SVP schickt Aeschi und Graber ins Rennen um Parmelins Sitz",
+      "summary": "Die SVP-Bundeshausfraktion hat am Freitagabend in Bern ein Zweierticket für die Nachfolge von Bundesrat Guy Parmelin bestimmt: Fraktionschef Thomas Aeschi (ZG) und Nationalrat Michael Graber (VS). Aeschi wurde nach sechs Wahlgängen mit 37 Stimmen gewählt, Graber setzte sich im zweiten Wahlverfahren im siebten Wahlgang mit 42 Stimmen durch. Damit blieben unter anderem Céline Amaudruz, Marco Chiesa, Pierre Alain Schnegg und Jean-Pierre Gallati ohne Nomination. Für Aeschi ist es nach 2015 die zweite offizielle Bundesratskandidatur; die Vereinigte Bundesversammlung wählt am 9. Dezember.",
+      "sources": [
+        {
+          "name": "SRF News: SVP setzt Aeschi und Graber aufs Bundesratsticket",
+          "url": "https://www.srf.ch/news/schweiz/parmelin-nachfolge-svp-setzt-aeschi-und-graber-aufs-bundesratsticket",
+          "published_at": "2026-11-20T22:35:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Die SVP nominiert Aeschi und Graber (Paywall möglich)",
+          "url": "https://www.nzz.ch/schweiz/nachfolge-von-guy-parmelin-im-bundesrat-die-svp-nominiert-thomas-aeschi-und-michael-graber-ld.10070030",
+          "published_at": "2026-11-20T20:34:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/politik-svp-ticket-aeschi-graber-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: zwei leere Holzstühle und eine Wahlurne vor halbrunden, leeren Parlamentsbänken.",
+        "caption": "Symbolbild zur Nomination für die Bundesratswahl",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-reaktionen-svp-ticket",
+      "section": "Politik",
+      "headline": "SVP-Ticket stösst bei anderen Parteien auf Kritik",
+      "summary": "Nach der Nomination von Thomas Aeschi und Michael Graber haben Vertreter anderer Parteien Vorbehalte geäussert. Mitte-Nationalrat Reto Nause sagte gegenüber «20 Minuten», er könne niemanden wählen, der auf Polizisten losgegangen sei; er bezog sich damit auf ein Handgemenge mit Fedpol-Beamten, das zuvor Schlagzeilen gemacht hatte; GLP-Vizepräsident Patrick Hässig brachte eine Wahl ausserhalb des offiziellen Tickets ins Spiel, ohne einen Namen zu nennen. Die SVP-Verantwortlichen betonen dagegen, die Fraktion biete mit dem Zweierticket eine echte Auswahl. Der nicht nominierte Aargauer Regierungsrat Jean-Pierre Gallati erklärte, er würde eine allfällige Wahl nicht annehmen.",
+      "sources": [
+        {
+          "name": "20 Minuten: Reaktionen der Parteien auf das SVP-Ticket",
+          "url": "https://www.20min.ch/story/bundesrats-ticket-waehlen-nicht-hobbyboxer-glp-vize-droht-der-svp-mit-wilder-wahl-103670800",
+          "published_at": "2026-11-20T20:55:48+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Aargauer Zeitung: Gallati würde Wahl nicht annehmen (Paywall möglich)",
+          "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/jean-pierre-gallatis-bundesrats-traum-ist-vorbei-ich-nehme-eine-wahl-nicht-an-ld.4271612",
+          "published_at": "2026-11-20T22:38:31+01:00",
+          "updated_at": "2026-11-20T22:50:46+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/politik-reaktionen-svp-ticket-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: farbige Sprechblasen über leeren Parlamentsbänken, davor eine Waage.",
+        "caption": "Symbolbild zu den Reaktionen auf das SVP-Ticket",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-cop31-verlaengert",
+      "section": "Politik",
+      "headline": "Klimakonferenz COP31 geht in die Verlängerung",
+      "summary": "Die Weltklimakonferenz im türkischen Antalya ist wegen ungelöster Streitpunkte ins Wochenende verlängert worden. Umstritten sind vor allem, ob der Ausstieg aus Öl, Gas und Kohle ausdrücklich in der Abschlusserklärung steht, ein neues Ziel zur Elektrifizierung sowie die Auszahlung zugesagter Klimagelder an Entwicklungsländer. Bundesrat Albert Rösti hatte am Freitag gefordert, dass der Ausstieg aus fossilen Energien samt Zeitplan in die Erklärung aufgenommen wird, und verwies auf das Netto-Null-Ziel 2050 aus dem Klima- und Innovationsgesetz. Ein überarbeiteter Entwurf der Konferenzleitung wurde für Samstagmorgen erwartet.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA): Klimagipfel verlängert",
+          "url": "https://www.swissinfo.ch/ger/klimagipfel-verl%C3%A4ngert-nur-trippelschritte-in-sicht/92415908",
+          "published_at": "2026-11-21T04:49:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF News: Albert Röstis Versprechen an der Klimakonferenz",
+          "url": "https://www.srf.ch/news/schweiz/cop31-albert-roestis-versprechen-an-der-klimakonferenz",
+          "published_at": "2026-11-20T21:01:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/politik-cop31-verlaengert-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: Konferenztisch mit Uhr, Globus mit Thermometer, Papierstapel, Kohle und Öltropfen neben Windrad und Solarpanel.",
+        "caption": "Symbolbild zur verlängerten Klimakonferenz",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-killerroboter-genf",
+      "section": "Politik",
+      "headline": "Genf: Gespräche über autonome Waffen enden mit Minimalkonsens",
+      "summary": "Die Konferenz der 128 Vertragsstaaten der UNO-Waffenkonvention (CCW) in Genf hat sich in der Nacht auf Samstag nicht auf ein Mandat für Verhandlungen über ein rechtsverbindliches Verbot vollautonomer Waffensysteme geeinigt. Fast 100 Staaten hatten solche Verhandlungen unterstützt, unter anderem die USA stellten sich laut Keystone-SDA dagegen. Stattdessen sollen Regierungsexpertinnen und -experten bis 2028 weitere Elemente erörtern und vorschlagen, ob daraus ein verbindlicher Vertrag entstehen soll. Nichtregierungsorganisationen wie «Stop Killer Robots» bezeichneten das Ergebnis als enttäuschend.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA): Regeln für Killerroboter – Minimalkonsens",
+          "url": "https://www.swissinfo.ch/ger/regeln-f%c3%bcr-killerroboter%3a-gespr%c3%a4che-enden-mit-minimalkonsens/92415938",
+          "published_at": "2026-11-21T05:38:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Deutschlandfunk: UNO-Gespräche über autonome Waffen ohne verbindliche Zusage",
+          "url": "https://www.deutschlandfunk.de/uno-gespraeche-ueber-autonome-waffen-enden-ohne-verbindliche-zusage-100.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/politik-killerroboter-genf-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: gesichtslose Drohne und Roboterarm hinter einer roten Absperrkordel, davor ein runder Verhandlungstisch mit leeren Stühlen.",
+        "caption": "Symbolbild zu den Genfer Gesprächen über autonome Waffen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-rechenzentren-umfrage",
+      "section": "Wirtschaft",
+      "headline": "Umfrage: Bevölkerung akzeptiert Rechenzentren unter Bedingungen",
+      "summary": "Eine von Deloitte im Auftrag des Verbands Schweizerischer Elektrizitätsunternehmen (VSE) erstellte Studie zeigt eine überwiegend neutrale Haltung der Bevölkerung gegenüber Rechenzentren in der Schweiz. Nur 12 Prozent der Befragten möchten, dass solche Anlagen ausschliesslich im Ausland stehen. Als Bedingungen nennen viele Datensicherheit, neue Arbeitsplätze und die Nutzung der Abwärme etwa zum Heizen von Wohnungen oder Schulen. Laut Studie könnte der Stromverbrauch der Rechenzentren bis 2050 auf 8 bis 12 Prozent des Schweizer Gesamtverbrauchs steigen, nach 3,6 Prozent im Jahr 2024.",
+      "sources": [
+        {
+          "name": "RTS Info (französisch): La population suisse pose des conditions aux centres de données",
+          "url": "https://www.rts.ch/info/suisse/2026/article/data-centers-la-population-suisse-favorable-sous-conditions-29421951.html",
+          "published_at": "2026-11-20T18:54:10+01:00",
+          "updated_at": "2026-11-20T19:43:11+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/wirtschaft-rechenzentren-umfrage-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: Serverschränke, deren warme Abluft über ein Rohr zu einem Wohnhaus und einem Heizkörper geleitet wird.",
+        "caption": "Symbolbild zu Rechenzentren und Abwärmenutzung",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-baustelle-unfall",
+      "section": "Zürich & Regionen",
+      "headline": "Zürich: Bauarbeiter nach Baggerunfall gestorben",
+      "summary": "Ein Bauarbeiter, der am 16. November auf einer Baustelle an der Badenerstrasse im Zürcher Kreis 9 schwer verletzt worden war, ist am Donnerstag im Spital gestorben. Das teilte die Stadtpolizei Zürich am Freitagnachmittag mit. Der 55-jährige Portugiese war bei Abbrucharbeiten in einem mehrstöckigen Gebäude aus noch unbekannten Gründen mit einem Bagger mehrere Meter in die Tiefe gestürzt und darunter eingeklemmt worden. Die Umstände des Unfalls werden untersucht.",
+      "sources": [
+        {
+          "name": "NZZ: Mann auf Zürcher Baustelle von Bagger eingeklemmt (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/mann-wird-auf-zuercher-baustelle-von-bagger-eingeklemmt-im-spital-gestorben-ld.10041727",
+          "published_at": null,
+          "updated_at": "2026-11-20T16:08:16+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/regionen-zuerich-baustelle-unfall-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: ruhige Baustelle in der Dämmerung mit Absperrzaun, orangem Schutzhelm und einem Bagger in der Ferne.",
+        "caption": "Symbolbild zum Arbeitsunfall auf einer Baustelle",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-jugendstreik-bilanz",
+      "section": "Gesellschaft",
+      "headline": "Jugendstreik: Bilanz mit Festnahmen in Zürich",
+      "summary": "Am schweizweiten Jugendstreik vom Freitag beteiligten sich in rund zehn Städten nach Angaben der Organisatoren rund 40'000 Personen; die Bewegung fordert unter anderem weniger Geld für Rüstung und mehr für Bildung, Soziales und Klimaschutz. In Zürich zogen laut Stadtpolizei über 1000 Personen durch die Stadt; kurz nach 20 Uhr verhinderte die Polizei beim Bahnhof Selnau mit einem kurzen Mitteleinsatz den Durchbruch einer Sperre. Stadt- und Kantonspolizei nahmen 29 Personen vorübergehend fest, vier weitere werden wegen Hinderung einer Amtshandlung der Staatsanwaltschaft zugeführt, rund 60 Personen wurden weggewiesen. In Bern verlief die Kundgebung laut SRF friedlich.",
+      "sources": [
+        {
+          "name": "Stadt Zürich: Medienmitteilung zum Polizeieinsatz",
+          "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/11/polizeieinsatz-anlaesslich-bewilligter-demonstration.html",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF News: Tausende auf der Strasse, wenige Zwischenfälle",
+          "url": "https://www.srf.ch/news/schweiz/schweizweiter-jugendstreik-jugend-demos-tausende-auf-der-strasse-wenige-zwischenfaelle",
+          "published_at": "2026-11-20T22:48:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Bilanz der Protestnacht (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/der-jugendstreik-war-laut-und-wuetend-doch-schwere-krawalle-blieben-aus-ld.10069931",
+          "published_at": "2026-11-21T04:34:05+01:00",
+          "updated_at": "2026-11-21T04:40:04+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/gesellschaft-jugendstreik-bilanz-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: gesichtslose Menschenmenge mit leeren Schildern in einer Strasse mit Tramgleisen, am Rand stilisierte Polizeihelme.",
+        "caption": "Symbolbild zum Jugendstreik",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-swiss-game-awards",
+      "section": "Gesellschaft",
+      "headline": "«Tom the Postgirl» ist Schweizer Videospiel des Jahres",
+      "summary": "An den Swiss Game Awards in Zürich ist am Freitagabend «Tom the Postgirl» zum Schweizer Videospiel des Jahres gekürt worden; das Spiel erhielt zusätzlich den Preis für die beste Art Direction. Das schwarz-weisse, comichafte Story-Game stammt vom fünfköpfigen Winterthurer Studio Oopsie Daisies und erschien bei Arte France für PC und Mac. Spielende schlüpfen darin in die Rolle einer neugierigen Briefträgerin in einem nur scheinbar idyllischen Dorf. Weitere Preise gingen unter anderem an «Pathogenic» für Spieldesign und an «Au Cœur de Walter» als Spiel mit gesellschaftlicher Relevanz.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA): Schweizer Videospiel des Jahres",
+          "url": "https://www.swissinfo.ch/ger/das-schweizer-videospiel-des-jahres-heisst-%22tom-the-postgirl%22/92415279",
+          "published_at": "2026-11-20T20:45:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "The Intelligent: Tom the Postgirl gekürt",
+          "url": "https://theintelligent.ch/videospiele/2026/tom-postgirl-zum-schweizer-videospiel-des-jahres-gekuert",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/gesellschaft-swiss-game-awards-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: goldener Pokal, Gamecontroller, Briefumschlag und Posttasche im Scheinwerferlicht auf einer kleinen Bühne.",
+        "caption": "Symbolbild zu den Swiss Game Awards",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-schnee-wochenbilanz",
+      "section": "Verkehr & Wetter",
+      "headline": "Über zwei Meter Neuschnee im Unterwallis – nächste Front ab Sonntag",
+      "summary": "Im Unterwallis sind innert einer Woche lokal über zwei Meter Neuschnee gefallen, wie SRF Meteo gestützt auf SLF-Messungen berichtet; den Höchstwert registrierte die Station Glacier de l'Evole auf 2800 Metern. In Graubünden und im Tessin fiel deutlich weniger Schnee, in der Region Lenzerheide–Arosa nur rund 5 bis 10 Zentimeter. Die Lawinengefahr ist verbreitet mässig bis erheblich, im Unterwallis gross. Nach einer kurzen Beruhigung am Samstag folgt am Sonntag und Montag die nächste Schneefront mit den grössten Mengen erneut in der Westschweiz, die Schneefallgrenze sinkt in der Nacht auf Montag deutlich.",
+      "sources": [
+        {
+          "name": "SRF Meteo: Wochenbilanz – wo am meisten Schnee fiel",
+          "url": "https://www.srf.ch/meteo/meteo-stories/wochenbilanz-wo-am-meisten-schnee-fiel",
+          "published_at": "2026-11-20T17:54:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Luzerner Zeitung: Bis zu einem Meter Neuschnee – Lawinengefahr steigt (Paywall möglich)",
+          "url": "https://www.luzernerzeitung.ch/schweiz/neuschnee-im-unterwallis-erhoeht-die-lawinengefahr-ld.4271358",
+          "published_at": "2026-11-20T18:20:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/wetter-schnee-wochenbilanz-1024-r01.jpg",
+        "alt": "KI-generiertes, fotorealistisches Symbolbild: verschneites Alpental mit tief verschneiten Fichten und einem Messpfahl im Schnee, keine Aufnahme eines realen Ortes.",
+        "caption": "Symbolbild zu den Schneefällen in den Alpen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-slf-lawinenbulletin",
+      "section": "Verkehr & Wetter",
+      "headline": "SLF-Lawinenbulletin wird regionaler und detaillierter",
+      "summary": "Das WSL-Institut für Schnee- und Lawinenforschung SLF hat sein Lawinenbulletin auf die neue Wintersaison hin überarbeitet. Neu gibt es für jede der 149 Warnregionen einen eigenen Text mit Angaben etwa zum Schneedeckenaufbau und zum Bergwetter, zudem eine Gefahrenprognose für den übernächsten Tag. Die Karte zeigt Unterstufen der fünf Gefahrenstufen und beim Hineinzoomen Symbole zu Lawinenproblemen wie Triebschnee oder schwachen Altschneeschichten. Die Neuerungen sind auf der Website aufgeschaltet, in der App «White Risk» sollen sie laut SLF in den nächsten Tagen folgen.",
+      "sources": [
+        {
+          "name": "SRF Wissen: Lawinenbulletin erhält Update",
+          "url": "https://www.srf.ch/wissen/forschung/lawinengefahr-erkennen-besser-informiert-auf-die-skitour-lawinenbulletin-erhaelt-update",
+          "published_at": "2026-11-20T17:06:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/wetter-slf-lawinenbulletin-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: Tablet mit farbiger, in viele Regionen geteilter Bergkarte und Warnsymbolen, daneben Rucksack mit Lawinenschaufel vor verschneiten Gipfeln.",
+        "caption": "Symbolbild zum neuen Lawinenbulletin",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-national-league-freitag",
+      "section": "Sport",
+      "headline": "National League: Zug feiert 7:1, Martschini wird Rekordtorschütze",
+      "summary": "Der EV Zug hat Genf-Servette am Freitag 7:1 geschlagen; Lino Martschini ist mit seinem 261. Tor neu alleiniger Rekordtorschütze der Zuger. Der SC Bern gewann gegen Schlusslicht Kloten 5:2 und feierte den vierten Sieg in Serie, die SCL Tigers setzten sich gegen Ambri-Piotta 6:4 durch. Meister Fribourg-Gottéron besiegte die Rapperswil-Jona Lakers 3:0, Goalie Ludovic Waeber blieb erstmals in dieser Saison ohne Gegentor. Ajoie gewann in Lugano 3:2 nach Penaltyschiessen, wobei Daniel Carr den entscheidenden Penalty verwertete.",
+      "sources": [
+        {
+          "name": "SRF Sport: National League am Freitag",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-bern-und-langnau-mit-heimsiegen-zug-im-torrausch",
+          "published_at": "2026-11-20T22:02:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/sport-national-league-freitag-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: Eishockeyfeld von oben mit Puck, der ins leere Tor fliegt, gekreuzten Stöcken und leerer Anzeigetafel.",
+        "caption": "Symbolbild zur National League",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-schach-wm-genf",
+      "section": "Sport",
+      "headline": "Schach-WM in Genf: Gukesh gegen Sindarov ab Dienstag",
+      "summary": "In Cologny bei Genf beginnt am Sonntag mit der Eröffnungsfeier die Schach-Weltmeisterschaft zwischen Titelverteidiger Gukesh D (Indien) und Herausforderer Javokhir Sindarov (Usbekistan). Die erste klassische Partie ist laut Weltschachverband Fide auf Dienstag, 24. November, angesetzt, die letzte reguläre auf den 11. Dezember, allfällige Tiebreaks folgen am 12. Dezember. Austragungsort ist die Fondation Martin Bodmer; es ist der erste WM-Kampf in der Schweiz seit Brissago 2004. Beide Spieler sind 20 Jahre alt, die Weltnummer eins Magnus Carlsen verzichtet seit 2022 auf die klassische WM.",
+      "sources": [
+        {
+          "name": "Fide: Format und Spielplan der WM 2026 (englisch)",
+          "url": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF Sport: Warum Magnus Carlsen in Genf fehlt",
+          "url": "https://www.srf.ch/sport/mehr-sport/nummer-1-nicht-an-schach-wm-warum-magnus-carlsen-in-genf-fehlt",
+          "published_at": "2026-11-20T20:01:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-morning/sport-schach-wm-genf-1024-r01.jpg",
+        "alt": "KI-generiertes, fotorealistisches Symbolbild: Holzschachbrett mit Figuren mitten in einer Partie und eine Schachuhr in weichem Fensterlicht, keine Aufnahme der WM.",
+        "caption": "Symbolbild zur Schach-Weltmeisterschaft",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-21-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-21T06:53:05+01:00",
+    "ready_at": "2026-11-21T06:53:06+01:00",
+    "content_hash": "sha256:2de6e003fb352cd1685648cab02dcba049cddba5620c08ad72068f3ba9cbcc48",
+    "image_rights": {
+      "politik-svp-ticket-aeschi-graber": {
+        "rights": "ai_generated_own"
+      },
+      "politik-reaktionen-svp-ticket": {
+        "rights": "ai_generated_own"
+      },
+      "politik-cop31-verlaengert": {
+        "rights": "ai_generated_own"
+      },
+      "politik-killerroboter-genf": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-rechenzentren-umfrage": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-baustelle-unfall": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-jugendstreik-bilanz": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-swiss-game-awards": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-schnee-wochenbilanz": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-slf-lawinenbulletin": {
+        "rights": "ai_generated_own"
+      },
+      "sport-national-league-freitag": {
+        "rights": "ai_generated_own"
+      },
+      "sport-schach-wm-genf": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-svp-ticket-aeschi-graber": {
+        "path": "media/politik-svp-ticket-aeschi-graber-1024-r01.jpg",
+        "sha256": "5b9705f48ec79acf7a9813ab6f39c3f6ec0bbc79eb1117e14d0042e8c4fb0379",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a0f0ec0395678cd7dd4b4bf4758e7336151616f83f5ca2b4ba78fd02e9d015f8.jpg",
+        "original_sha256": "a0f0ec0395678cd7dd4b4bf4758e7336151616f83f5ca2b4ba78fd02e9d015f8",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two identical empty wooden chairs side by side in front of a stylized parliament-style semicircle of benches, a ballot box with folded slips on a small table. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-reaktionen-svp-ticket": {
+        "path": "media/politik-reaktionen-svp-ticket-1024-r01.jpg",
+        "sha256": "17e1331891491eeefbe339404f35d3e298d67eb589107622a066154499221a9b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c0cd7d6417d523f9198b7b891c2495dce32c42645c964b614bbbcd301e4a5b7c.jpg",
+        "original_sha256": "c0cd7d6417d523f9198b7b891c2495dce32c42645c964b614bbbcd301e4a5b7c",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Several abstract speech bubbles in different muted colours rising above a semicircle of empty parliament benches, a balance scale in the foreground. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-cop31-verlaengert": {
+        "path": "media/politik-cop31-verlaengert-1024-r01.jpg",
+        "sha256": "a7b6a80313c591c24f7799b73655ca86402666aad4ce2d804c84f46125d9e7f0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/aa6ad86c1d2f69082665660004800a1de67c469cf4151a8d505be89ea742f138.jpg",
+        "original_sha256": "aa6ad86c1d2f69082665660004800a1de67c469cf4151a8d505be89ea742f138",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A conference table with a large clock showing overtime, a globe with a thermometer, a stack of draft documents with blank pages, a coal lump and an oil drop on one side and a wind turbine and solar panel on the other. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-killerroboter-genf": {
+        "path": "media/politik-killerroboter-genf-1024-r01.jpg",
+        "sha256": "fc59ca194bfcb4562787ca855afa2d5616bce86b8e9d9f95a26e187b12cbdb56",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/02eccd5746b0d5abf911a6b6c1697232f6f774f3d87611dc4eb61e3c02337173.jpg",
+        "original_sha256": "02eccd5746b0d5abf911a6b6c1697232f6f774f3d87611dc4eb61e3c02337173",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A stylized faceless drone and robotic arm behind a thin red barrier rope, a round negotiating table with empty chairs and blank papers, a generic lakeside city skyline silhouette in the distance. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-rechenzentren-umfrage": {
+        "path": "media/wirtschaft-rechenzentren-umfrage-1024-r01.jpg",
+        "sha256": "2ed630f6269e298252e61e62e748ce471f5731e982fdbedeb23d429e766dee76",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/46c925eb684dd2ddee179e2cf8309a9c11f4f49f2ff29eaa2a06d098bf5fa9dc.jpg",
+        "original_sha256": "46c925eb684dd2ddee179e2cf8309a9c11f4f49f2ff29eaa2a06d098bf5fa9dc",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Rows of server racks with small green lights, warm air arrows flowing out through a pipe into a cosy apartment building radiator, a power line and a simple bar-shaped meter. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-baustelle-unfall": {
+        "path": "media/regionen-zuerich-baustelle-unfall-1024-r01.jpg",
+        "sha256": "c3db780bbaa4799c65720003c9b2084fbfdba307f62bc05894ba6ba9673914a0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bc68bd8bade2c13c8cd3e1d87e7ee6bada5aa9554c21471d2dc459d3dbaf21b2.jpg",
+        "original_sha256": "bc68bd8bade2c13c8cd3e1d87e7ee6bada5aa9554c21471d2dc459d3dbaf21b2",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A quiet construction site at dusk with a safety barrier, an orange hard hat resting on a closed site fence, a small excavator in the distance, calm and respectful mood. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-jugendstreik-bilanz": {
+        "path": "media/gesellschaft-jugendstreik-bilanz-1024-r01.jpg",
+        "sha256": "e5e1bebcaf692d3ee5c259a4d0b27bb2ac843a7094845c721fcbac3717bc61a7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4b553dd0333013a5f0b990fb35168c4b970cdcc617ac94b1ae52007ebca5edb5.jpg",
+        "original_sha256": "4b553dd0333013a5f0b990fb35168c4b970cdcc617ac94b1ae52007ebca5edb5",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Abstract crowd shapes without faces seen from far away as coloured silhouettes, blank protest placards without any writing, a city street with tram lines, police helmets as simple shapes at the edge. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-swiss-game-awards": {
+        "path": "media/gesellschaft-swiss-game-awards-1024-r01.jpg",
+        "sha256": "b782747070e945dd35bb07bc1312f693c7e50e66b6a3b38cddd1cb480c5addb7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4cfef7f1be2db2ef5cf366df5ca54cf88a682de0e906327c0a734df71c307eaf.jpg",
+        "original_sha256": "4cfef7f1be2db2ef5cf366df5ca54cf88a682de0e906327c0a734df71c307eaf",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A golden trophy next to a game controller and a black-and-white comic-style envelope and postbag, spotlight on a small stage. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-schnee-wochenbilanz": {
+        "path": "media/wetter-schnee-wochenbilanz-1024-r01.jpg",
+        "sha256": "635ccf2722bf7e9bffe21f357ec4f99717b08e4e18c3d991fce47d5e30e47675",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2ae159c6faf39e79819a51f89b9a9ac13767c5d7d314e21931dd306c5d7fc120.jpg",
+        "original_sha256": "2ae159c6faf39e79819a51f89b9a9ac13767c5d7d314e21931dd306c5d7fc120",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic, natural-light documentary-style photograph look, 4:3, symbolic stock-style image. A snowy alpine valley under heavy grey clouds, deep fresh snow on spruce trees and slopes, snowflakes falling, a wooden snow measuring pole without markings half buried in snow. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-slf-lawinenbulletin": {
+        "path": "media/wetter-slf-lawinenbulletin-1024-r01.jpg",
+        "sha256": "65a3ef861e2483fc4a65838fd84528371613ed32a8eaaeef3c21a34935046afb",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3b528ac35f5dcdd69a1a4b89363f8219214c4f834595d7fa46583255285ba755.jpg",
+        "original_sha256": "3b528ac35f5dcdd69a1a4b89363f8219214c4f834595d7fa46583255285ba755",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A tablet screen showing an abstract coloured mountain map divided into many small regions with simple warning triangle symbols, a backpack with avalanche shovel and probe beside it, snowy peaks behind. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-national-league-freitag": {
+        "path": "media/sport-national-league-freitag-1024-r01.jpg",
+        "sha256": "8e49013080bec8ac60db67efcda24a03150f43bbe33df3c857aa512745c9be63",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:05+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/50111059607a6ce65c1ba5bb7807f345bde34519694d9cf99da629f9d2c7a07f.jpg",
+        "original_sha256": "50111059607a6ce65c1ba5bb7807f345bde34519694d9cf99da629f9d2c7a07f",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An ice hockey rink seen from above with a puck flying into an empty net, crossed hockey sticks, a scoreboard with blank panels. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-schach-wm-genf": {
+        "path": "media/sport-schach-wm-genf-1024-r01.jpg",
+        "sha256": "2c2f72af3dbca934b348052c9b37e417ba0f45949fc22c7f350609a9ae368e23",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T06:53:06+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0462c5325ba7ebe759057ff9b0818737dd70745ffbe3c3daa989360f4bf58a57.jpg",
+        "original_sha256": "0462c5325ba7ebe759057ff9b0818737dd70745ffbe3c3daa989360f4bf58a57",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic, natural-light documentary-style photograph look, 4:3, symbolic stock-style image. Close-up of a classic wooden chessboard with pieces mid-game on a table in an elegant room, soft window light, shallow depth of field, an analogue chess clock beside the board without readable digits. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
