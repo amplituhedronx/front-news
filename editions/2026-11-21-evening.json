@@ -1,0 +1,561 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-21T17:54:10+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-svp-ticket-amaudruz-stimmen",
+      "section": "Politik",
+      "headline": "SVP-Ticket: Zweiter Platz für Graber war knapp umkämpft",
+      "summary": "Gemäss Recherchen von SRF lag Michael Graber im sechsten Wahlgang der SVP-Fraktion mit 27 Stimmen nur knapp vor dem Berner Regierungsrat Pierre-Alain Schnegg mit 25 Stimmen; Céline Amaudruz schied mit 19 Stimmen aus. Im siebten Wahlgang gingen laut mehreren Fraktionsmitgliedern 15 ihrer 19 Stimmen an Graber, der sich so mit 42 zu 29 Stimmen durchsetzte. In der Fraktion wird spekuliert, Amaudruz habe ihren Unterstützern eine Stimme für Graber empfohlen; bestätigt ist das nicht. Weil das Ticket niemanden aus der Romandie enthält, schliessen Parlamentarier aus FDP, SP, Grünen und Teilen der Mitte laut SRF eine Wahl ausserhalb des Tickets nicht aus; die Bundesversammlung wählt am 9. Dezember.",
+      "sources": [
+        {
+          "name": "SRF News: Enges Rennen um den zweiten Ticketplatz",
+          "url": "https://www.srf.ch/news/schweiz/enges-rennen-um-ticketplatz-graber-wegen-amaudruz-manoever-auf-dem-svp-ticket",
+          "published_at": "2026-11-21T13:55:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: SVP-Nominierungen stossen in der Westschweiz auf Kritik",
+          "url": "https://www.20min.ch/story/aeschi-und-graber-unertraeglich-svp-nominierungen-erzuernen-die-westschweiz-103671101",
+          "published_at": "2026-11-21T09:36:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/politik-svp-ticket-amaudruz-stimmen-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: Stimmzettel, die von einem Stapel zu einem anderen wandern, vor leeren halbrunden Parlamentsbänken.",
+        "caption": "Symbolbild zur SVP-Nomination für den Bundesrat",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-graubuenden-praemienabzug-initiative",
+      "section": "Politik",
+      "headline": "Graubünden: Private lancieren Initiative für höhere Prämienabzüge",
+      "summary": "Sieben Privatpersonen haben in Graubünden eine kantonale Volksinitiative lanciert, die höhere Steuerabzüge für Krankenkassenprämien verlangt. Der Abzug soll für gemeinsam Steuerpflichtige von 9000 auf 14'400 Franken, für übrige Personen von 4500 auf 7200 Franken und pro Kind von 1000 auf 1900 Franken steigen. Die Initianten wollen damit die Abzugswirkung auf den Stand von 2001 zurückführen; als Vorbild nennen sie eine Lega-Initiative, die im Tessin 2025 mit 60,5 Prozent angenommen wurde. Für das Zustandekommen braucht es bis Ende Februar 3000 Unterschriften; Initiativen von Privatpersonen sind im Kanton laut Standeskanzlei selten.",
+      "sources": [
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Private lancieren erneut Volksinitiative",
+          "url": "https://www.swissinfo.ch/ger/private-lancieren-erneut-volksinitiative-in-graub%C3%BCnden/92416436",
+          "published_at": "2026-11-21T09:49:01+01:00",
+          "updated_at": "2026-11-21T09:50:35+01:00"
+        },
+        {
+          "name": "Nau.ch: Volksinitiative zu Prämienabzügen in Graubünden",
+          "url": "https://www.nau.ch/politik/regional/private-lancieren-erneut-volksinitiative-in-graubunden-67205152",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/politik-graubuenden-praemienabzug-initiative-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: Steuerformular ohne Schrift, Krankenkassenkarte und Taschenrechner auf einem Tisch vor stilisierten Bergen.",
+        "caption": "Symbolbild zu Steuerabzügen für Krankenkassenprämien",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-mediendemo-bern",
+      "section": "Gesellschaft",
+      "headline": "Über tausend Menschen demonstrieren in Bern gegen Medienabbau",
+      "summary": "Auf dem Bundesplatz in Bern haben am Samstag laut Keystone-SDA über tausend Personen gegen Stellenabbau in der Medienbranche demonstriert; die Organisatoren sprachen von rund 2000 Teilnehmenden. Die Kundgebung unter dem Motto «Weniger Journalismus – weniger Demokratie» wurde von der «Media Alliance» organisiert, einem Zusammenschluss von Medienschaffenden, Personalvertretungen und Berufsverbänden. Anlass sind Entlassungen bei mehreren Schweizer Medienhäusern in den vergangenen Monaten. Auf dem Programm standen Reden von Journalistinnen und Gewerkschaftsvertretern.",
+      "sources": [
+        {
+          "name": "SRF News: Medienschaffende protestieren in Bern",
+          "url": "https://www.srf.ch/news/schweiz/demonstration-in-bern-medienschaffende-protestieren-fuer-journalismus-und-demokratie",
+          "published_at": "2026-11-21T16:18:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Demonstration gegen Abbau der Medien",
+          "url": "https://www.swissinfo.ch/ger/%C3%9Cber-tausend-personen-demonstrieren-in-bern-gegen-abbau-der-medien/92417554",
+          "published_at": "2026-11-21T15:41:33+01:00",
+          "updated_at": "2026-11-21T15:45:38+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/gesellschaft-mediendemo-bern-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: gefaltete Zeitungen ohne lesbare Schrift und ein Mikrofon vor einer stilisierten Platzkulisse.",
+        "caption": "Symbolbild zur Kundgebung für den Journalismus",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-essenskuriere-kontrollen",
+      "section": "Wirtschaft",
+      "headline": "Arbeitsbedingungen von Essenskurieren werden kaum kontrolliert",
+      "summary": "Eine Umfrage von SRF bei allen Kantonen zeigt, dass nur fünf Kantone die Arbeitsbedingungen von Essenskurieren kontrollieren; 17 Kantone tun dies nicht, vier gaben keine Auskunft. Einige begründen dies damit, dass Kuriere selbstständig erwerbend seien, andere mit der ungeklärten Statusfrage. Hintergrund ist, dass Just Eat künftig vermehrt mit Selbstständigen arbeiten will, wie es Konkurrent Uber Eats tut; Gerichte hatten Uber-Eats-Kuriere faktisch als Angestellte eingestuft. Sozialrechtsprofessor Kurt Pärli sagt, solange sich das Geschäftsmodell nicht grundlegend ändere, gälten die Kuriere als angestellt; Just Eat erklärt, sein neues Modell entspreche den gesetzlichen Standards.",
+      "sources": [
+        {
+          "name": "SRF News: Lieferdienste in den meisten Kantonen nicht kontrolliert",
+          "url": "https://www.srf.ch/news/wirtschaft/uber-eats-und-just-eat-lieferdienste-werden-in-den-meisten-kantonen-nicht-kontrolliert",
+          "published_at": "2026-11-21T07:40:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/wirtschaft-essenskuriere-kontrollen-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: ein Fahrrad mit neutraler Liefertasche vor einer Strassenzeile mit Klemmbrett.",
+        "caption": "Symbolbild zu Kontrollen bei Essenskurieren",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-zivilpolizei-jugendstreik",
+      "section": "Zürich & Regionen",
+      "headline": "Kritik am Einsatz vermummter Zivilpolizisten am Zürcher Jugendstreik",
+      "summary": "Am Jugendstreik vom Freitagabend in Zürich waren laut übereinstimmenden Berichten zivile Polizisten mit Schutzbrillen und teils vermummt im Demonstrationszug unterwegs, mindestens einer mit Schlagstock. Mehrere Festnahmen wurden durch diese Beamten ausgelöst; nachdem Zivilpolizisten angegangen worden waren, setzten uniformierte Kräfte Tränengas und Gummischrot ein. Die Stadtpolizei bestätigte den Einsatz und erklärte, die Beamten hätten potenziell gewalttätige Personen gezielt festnehmen sollen. Aus dem linken Milieu und von einem Fotojournalisten kommt Kritik am Vorgehen, während die Kundgebung insgesamt grösstenteils friedlich verlief; die Stadtpolizei meldete 29 vorübergehende Festnahmen, vier Zuführungen zur Staatsanwaltschaft und rund 60 Wegweisungen.",
+      "sources": [
+        {
+          "name": "20 Minuten: Vermummte Zivilbeamte an Zürcher Demo",
+          "url": "https://www.20min.ch/story/zuercher-jugendstreik-vermummt-und-mit-schlagstock-polizisten-undercover-an-protest-103671135",
+          "published_at": "2026-11-21T12:40:57+01:00",
+          "updated_at": "2026-11-21T14:34:14+01:00"
+        },
+        {
+          "name": "Watson: Kritik an vermummter Polizei – das sagt die Stadtpolizei",
+          "url": "https://www.watson.ch/schweiz/gesellschaft-politik/854893527-kritik-an-vermummter-polizei-bei-protesten-das-sagt-die-stapo-zuerich",
+          "published_at": "2026-11-21T15:22:41+01:00",
+          "updated_at": "2026-11-21T16:00:12+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger: Reportage vom Zürcher Jugendstreik (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/jugendstreik-zuerich-33-festnahmen-keine-krawalle-430138678865",
+          "published_at": "2026-11-21T17:34:19+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/regionen-zuerich-zivilpolizei-jugendstreik-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: eine Schutzbrille und eine schwarze Kappe auf nassem Strassenpflaster unter Strassenlaternen.",
+        "caption": "Symbolbild zum Polizeieinsatz am Jugendstreik",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerichsee-segelboot-rettung",
+      "section": "Zürich & Regionen",
+      "headline": "Seepolizei rettet zwei Jugendliche nach Kentern auf dem Zürichsee",
+      "summary": "Zwei Jugendliche sind am Freitagabend mit einem Segelboot vor Au (Gemeinde Wädenswil) auf dem Zürichsee gekentert. Die beiden 17 und 14 Jahre alten Jugendlichen trieben mit Schwimmwesten im Wasser und machten mit Pfeife und Blinklicht auf sich aufmerksam. Die Seepolizei fand sie rund 380 Meter vom Ufer entfernt; sie waren unverletzt, aber unterkühlt und wurden ins Spital gebracht. Das gesunkene Boot wurde laut Kantonspolizei Zürich bisher nicht gefunden.",
+      "sources": [
+        {
+          "name": "SRF News: Segelboot sinkt auf dem Zürichsee",
+          "url": "https://www.srf.ch/news/schweiz/waedenswil-zh-segelboot-sinkt-auf-zuerichsee-polizei-rettet-zwei-jugendliche",
+          "published_at": "2026-11-21T15:09:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger: Seepolizei fischt zwei Jugendliche aus dem See",
+          "url": "https://www.tagesanzeiger.ch/zuerichsee-seepolizei-rettet-zwei-jugendliche-aus-wasser-733483203256",
+          "published_at": "2026-11-21T14:12:40+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/regionen-zuerichsee-segelboot-rettung-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: zwei orange Schwimmwesten und eine Signalpfeife auf dunklem, bewegtem Seewasser.",
+        "caption": "Symbolbild zur Rettung auf dem Zürichsee",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-belp-autodiebe-flucht",
+      "section": "Zürich & Regionen",
+      "headline": "Nach Garageneinbruch in Belp: Fluchtfahrten über mehrere Kantone",
+      "summary": "Nach einem Einbruch in eine Autogarage in Belp in der Nacht auf Donnerstag sind die mutmasslichen Täter mit drei gestohlenen Fahrzeugen in verschiedene Richtungen geflüchtet, wie die Kantonspolizei Bern am Samstag mitteilte. Ein Lieferwagen durchbrach in Kriegstetten SO eine Polizeisperre und kollidierte mit einem Einsatzfahrzeug; die Insassen flohen in Derendingen zu Fuss. Ein zweites Fahrzeug wurde in Pontarlier (F) entdeckt und kam bei Mont-d'Orzières VD zum Stillstand, wobei sich ein flüchtender Mann schwer verletzte. Das dritte Auto fand die Neuenburger Polizei in La Chaux-de-Fonds, wo eine Person festgenommen wurde; die Ermittlungen laufen.",
+      "sources": [
+        {
+          "name": "Kantonspolizei Bern: Fluchtfahrten nach Einbruchdiebstahl in Autogarage",
+          "url": "https://www.police.be.ch/de/start.html?newsID=b6a94583-55fc-4aa3-a959-4f1f5db6efc4",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Diebe flüchten mit drei Autos",
+          "url": "https://www.20min.ch/story/belp-be-diebe-fluechten-mit-drei-autos-polizei-jagt-sie-durch-die-schweiz-103671306",
+          "published_at": "2026-11-21T16:18:52+01:00",
+          "updated_at": "2026-11-21T16:18:52+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/regionen-belp-autodiebe-flucht-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: Autobahn bei Nacht mit Lichtspuren und einem stilisierten Blaulicht.",
+        "caption": "Symbolbild zu den Fluchtfahrten nach dem Einbruch",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-luzern-gesundheitsbus-crack",
+      "section": "Gesellschaft",
+      "headline": "Luzern setzt Gesundheitsbus für Crack-Abhängige ein",
+      "summary": "Stadt und Kanton Luzern testen in einem zweijährigen Pilotprojekt einen Gesundheitsbus des Vereins Tragwerk, der viermal pro Woche Orte aufsucht, an denen sich Suchtbetroffene aufhalten. Im umgebauten Ambulanzfahrzeug gibt es Beratung, frische Spritzen, Mundstücke für Crackpfeifen und Verbandsmaterial; einmal pro Woche ist ein Arzt an Bord. Ziel ist, Betroffene niederschwellig zu erreichen und ihnen bei Bedarf direkt den Einstieg in eine Therapie zu ermöglichen. In der Stadt Luzern geht man laut SRF von rund 200 Suchtbetroffenen auf der Gasse aus; der Crack-Konsum hat stark zugenommen.",
+      "sources": [
+        {
+          "name": "SRF News: Luzern schickt Gesundheitsbus zu Crack-Abhängigen",
+          "url": "https://www.srf.ch/news/schweiz/umgang-mit-crack-sucht-luzern-schickt-gesundheitsbus-zu-crack-abhaengigen",
+          "published_at": "2026-11-21T15:05:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/gesellschaft-luzern-gesundheitsbus-crack-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: ein umgebauter Kleinbus mit offener Seitentür und einem Tisch mit Teebechern am Abend.",
+        "caption": "Symbolbild zum mobilen Gesundheitsangebot",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-sbb-easyride-missbrauch",
+      "section": "Verkehr & Wetter",
+      "headline": "SBB wollen Missbrauch bei Easyride technisch erschweren",
+      "summary": "Die SBB gehen stärker gegen Fahrgäste vor, die ihr Easyride-Ticket nach der Kontrolle vorzeitig ausschalten, obwohl sie weiterfahren. Laut «Schweiz heute» wird fast jedes fünfte über die SBB-App verkaufte Billett mit Easyride abgerechnet; offizielle Zahlen zum Missbrauch gibt es nicht. Seit April müssen Nutzer Bluetooth aktivieren, damit das System Standort- und Bewegungsdaten auswerten und Unstimmigkeiten erkennen kann. Zudem testet die Branche das Prinzip «Be-in, Be-out», bei dem das Smartphone Ein- und Ausstieg automatisch erkennt; wann es eingeführt wird, ist offen.",
+      "sources": [
+        {
+          "name": "20 Minuten: SBB bekämpft Easyride-Missbrauch mit neuer Technologie",
+          "url": "https://www.20min.ch/story/be-in-be-out-sbb-bekaempft-easyride-missbrauch-mit-neuer-technologie-103671097",
+          "published_at": "2026-11-21T08:34:55+01:00",
+          "updated_at": "2026-11-21T08:34:55+01:00"
+        },
+        {
+          "name": "Watson: SBB gehen gegen Easyride-Schwarzfahrer vor",
+          "url": "https://www.watson.ch/schweiz/oev/876206495-sbb-gehen-gegen-easyride-schwarzfahrer-vor-mit-neuer-technik",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/verkehr-sbb-easyride-missbrauch-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: ein Smartphone mit abstraktem Schaltsymbol vor einem stilisierten Zugabteil.",
+        "caption": "Symbolbild zum digitalen Bahnticket",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-kunstschnee-wasserreserven",
+      "section": "Verkehr & Wetter",
+      "headline": "Skigebiete haben trotz trockenem Sommer genug Wasser für Kunstschnee",
+      "summary": "Mehrere Skigebiete in der Romandie und der Deutschschweiz können laut Keystone-ATS die Beschneiung ohne Einschränkungen starten, obwohl der Sommer sehr trocken war. In Villars-Gryon-Diablerets sichert ein im Frühling gefüllter Speichersee von 45'000 Kubikmetern den Saisonstart, obwohl die Quelle rund zehn Prozent weniger Wasser liefert. Auch Téléverbier und Crans-Montana melden keine Wasserbeschränkungen; entscheidend seien vor allem tiefe Temperaturen und passende Luftfeuchtigkeit. Die Betreiber betonen zugleich, dass sie Wasser und Energie sparsam einsetzen und grössere Speicher mehr Spielraum bei Trockenheit gäben.",
+      "sources": [
+        {
+          "name": "RTS Info: Les stations de ski ont assez d'eau pour la neige artificielle (franz.)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/neige-artificielle-les-stations-de-ski-suisses-ont-assez-d-eau-29422944.html",
+          "published_at": "2026-11-21T10:33:52+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/wetter-kunstschnee-wasserreserven-1024-r01.jpg",
+        "alt": "Fotorealistisches, KI-generiertes Symbolbild: eine Schneekanone sprüht Kunstschnee auf eine leere Skipiste, daneben ein kleiner Speichersee.",
+        "caption": "Symbolbild zur Beschneiung im Skigebiet",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-ski-slalom-gurgl-rast",
+      "section": "Sport",
+      "headline": "Slalom in Gurgl: Rast nach Aufholjagd Fünfte, Colturi siegt",
+      "summary": "Beim Weltcup-Slalom der Frauen in Gurgl hat Lara Colturi ihren ersten Weltcupsieg gefeiert, zugleich der erste für Albanien; sie übernahm damit die Führung im Gesamtweltcup. Sara Hector und Anna Swenn-Larsson aus Schweden belegten die Ränge zwei und drei. Camille Rast lag nach dem ersten Lauf nur auf Rang 18, fuhr im zweiten Durchgang Laufbestzeit und wurde Fünfte; Selina Egloff erreichte erstmals den zweiten Lauf und klassierte sich in den Top 15. Wendy Holdener schied im ersten Lauf aus, ihr erster Ausfall seit Januar 2025; weiter geht es kommendes Wochenende in Killington (USA).",
+      "sources": [
+        {
+          "name": "SRF Sport: Rast Fünfte, Colturi siegt in Gurgl",
+          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/rast-5-nach-aufholjagd-colturi-sorgt-in-gurgl-fuer-albanische-premiere",
+          "published_at": "2026-11-21T14:46:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/sport-ski-slalom-gurgl-rast-1024-r01.jpg",
+        "alt": "Flache KI-Illustration: rote und blaue Slalomstangen auf einer steilen, leeren Piste im Nebel.",
+        "caption": "Symbolbild zum Weltcup-Slalom",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-bjkc-schweiz-thailand",
+      "section": "Sport",
+      "headline": "Billie Jean King Cup: Schweiz liegt gegen Thailand 0:2 zurück",
+      "summary": "Im Playoff des Billie Jean King Cups in Nonthaburi hat die Schweiz nach dem ersten Tag einen 0:2-Rückstand. Simona Waltert (WTA 136) verlor das erste Einzel, Jil Teichmann (WTA 149) unterlag Lanlana Tararudee (WTA 62) mit 6:1, 4:6, 4:6, nachdem sie drei Matchbälle abgewehrt hatte. Thailand bestreitet zum ersten Mal ein Playoff. Die Entscheidung fällt am Sonntag mit einem Doppel und maximal zwei Einzeln.",
+      "sources": [
+        {
+          "name": "SRF Sport: Teichmann und Waltert verlieren",
+          "url": "https://www.srf.ch/sport/tennis/billie-jean-king-cup/bjkc-playoffs-gegen-thailand-teichmann-und-waltert-verlieren-schweiz-liegt-mit-0-2-zurueck",
+          "published_at": "2026-11-21T13:22:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-21-evening/sport-bjkc-schweiz-thailand-1024-r01.jpg",
+        "alt": "Fotorealistisches, KI-generiertes Symbolbild: ein Tennisschläger und ein gelber Ball auf einem leeren Hartplatz.",
+        "caption": "Symbolbild zum Billie Jean King Cup",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-21-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-21T17:52:36+01:00",
+    "ready_at": "2026-11-21T17:54:10+01:00",
+    "content_hash": "sha256:7923ec2f13fcc9fb17372805f24ed5f2867f842591045a3d82ce76c9e80accc4",
+    "image_rights": {
+      "politik-svp-ticket-amaudruz-stimmen": {
+        "rights": "ai_generated_own"
+      },
+      "politik-graubuenden-praemienabzug-initiative": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-mediendemo-bern": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-essenskuriere-kontrollen": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-zivilpolizei-jugendstreik": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerichsee-segelboot-rettung": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-belp-autodiebe-flucht": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-luzern-gesundheitsbus-crack": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-sbb-easyride-missbrauch": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-kunstschnee-wasserreserven": {
+        "rights": "ai_generated_own"
+      },
+      "sport-ski-slalom-gurgl-rast": {
+        "rights": "ai_generated_own"
+      },
+      "sport-bjkc-schweiz-thailand": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-svp-ticket-amaudruz-stimmen": {
+        "path": "media/politik-svp-ticket-amaudruz-stimmen-1024-r01.jpg",
+        "sha256": "2be35669fbbf2b6ac59b897140fb65b66435cadb6d6b04f27762140d97958fdc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3c29191b359f60a52dc30d0626bee7334b98a8cc79635df24c94ab28911b0f09.jpg",
+        "original_sha256": "3c29191b359f60a52dc30d0626bee7334b98a8cc79635df24c94ab28911b0f09",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Folded blank ballot slips flowing in an arc from one small pile to another between three empty ballot boxes, in front of a stylized semicircle of empty parliament benches. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-graubuenden-praemienabzug-initiative": {
+        "path": "media/politik-graubuenden-praemienabzug-initiative-1024-r01.jpg",
+        "sha256": "afdde25372bd5e36e82707a0df0ce24f954e2cc1d3a72a29b7adcf7b939c2ac7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/947eb2ac35de5309d7b4d9670dc2a2db78ccdbd910984b4eca72dcb83cf9b5c8.jpg",
+        "original_sha256": "947eb2ac35de5309d7b4d9670dc2a2db78ccdbd910984b4eca72dcb83cf9b5c8",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A blank tax form without any writing, a plain health insurance card with a simple cross-free heart symbol, a pocket calculator and a stack of coins on a wooden table, stylized mountain silhouettes in the background window. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-mediendemo-bern": {
+        "path": "media/gesellschaft-mediendemo-bern-1024-r01.jpg",
+        "sha256": "12bcf2c6a3e975a597a177406e84cc216481c751b8610a7e89973ca3ca6bc299",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e27b7acb1a7127e25d5dca1509b9663d0b65bc9250a45f277868639625988d36.jpg",
+        "original_sha256": "e27b7acb1a7127e25d5dca1509b9663d0b65bc9250a45f277868639625988d36",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A stack of folded newspapers with only grey abstract lines instead of text, a vintage microphone and a notebook with pen on top, in front of a stylized empty city square with a generic domed building silhouette. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-essenskuriere-kontrollen": {
+        "path": "media/wirtschaft-essenskuriere-kontrollen-1024-r01.jpg",
+        "sha256": "0366ca59a32f7807a2cc34d609d130cf044d4b06e98274b647216459da360672",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d5a0bdb34571c6ee0694d63e1dd3a669c2fb1442b01ed4b176fa3e49636ea48f.jpg",
+        "original_sha256": "d5a0bdb34571c6ee0694d63e1dd3a669c2fb1442b01ed4b176fa3e49636ea48f",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A parked bicycle with a plain unbranded cube-shaped food delivery backpack on the rack, standing on a city street at dusk, a large clipboard with an empty checklist floating beside it. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-zivilpolizei-jugendstreik": {
+        "path": "media/regionen-zuerich-zivilpolizei-jugendstreik-1024-r01.jpg",
+        "sha256": "bf25920eb05a430fe0984b278eedbf171c3aad71296457b0e55c0f82d557d0f3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f134416e44505769aa73d53a3ecdc6ddaf75ac249253a4b1f803275131e6591d.jpg",
+        "original_sha256": "f134416e44505769aa73d53a3ecdc6ddaf75ac249253a4b1f803275131e6591d",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A pair of clear protective goggles and a plain black cap lying on wet cobblestone pavement at night under street lamps, faint haze in the air, empty street. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerichsee-segelboot-rettung": {
+        "path": "media/regionen-zuerichsee-segelboot-rettung-1024-r01.jpg",
+        "sha256": "62f6da9af364a376f49c5370b8ece892e7784ef226fc83cde1a2fd6344a8f4ef",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/07e35ab28ee673b4e77d69241e4afc965ea6db5299ffd1d2906d9cea4eda8d65.jpg",
+        "original_sha256": "07e35ab28ee673b4e77d69241e4afc965ea6db5299ffd1d2906d9cea4eda8d65",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two bright orange life jackets and a small signal whistle floating on dark choppy lake water at dusk, a small flashing light beside them, distant generic shoreline hills. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-belp-autodiebe-flucht": {
+        "path": "media/regionen-belp-autodiebe-flucht-1024-r01.jpg",
+        "sha256": "5c2221743508dc9113b2b8f9d33f42ce55287b121cac7e00cf1dfed0f4fef6d6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6dc303f6974dd20eb95c354f0500fe4caad1aa39fb7e112b16e9652c1dbbc7f0.jpg",
+        "original_sha256": "6dc303f6974dd20eb95c354f0500fe4caad1aa39fb7e112b16e9652c1dbbc7f0",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A motorway at night seen from above with long light trails of anonymous vehicles curving through a rural landscape, a single stylized blue emergency light glowing in the foreground. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-luzern-gesundheitsbus-crack": {
+        "path": "media/gesellschaft-luzern-gesundheitsbus-crack-1024-r01.jpg",
+        "sha256": "0e9bfeb21c13ac8d4bbe29e78548b404b238f90adb5dca23944c53babe94e2aa",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3d56c3944e60b0fa0dcb6fbc78a8a0a4ea013a09e470d138120ed4d1306fc78e.jpg",
+        "original_sha256": "3d56c3944e60b0fa0dcb6fbc78a8a0a4ea013a09e470d138120ed4d1306fc78e",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A converted white minibus with an open side door parked in a quiet city courtyard in the evening, warm light inside, a small folding table with paper cups of tea and a first-aid kit beside it. No real people, no faces, no text, no letters, no numbers, no logos, no flags, no red cross.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-sbb-easyride-missbrauch": {
+        "path": "media/verkehr-sbb-easyride-missbrauch-1024-r01.jpg",
+        "sha256": "7c76f3a5fb51eeaa5289e3a390392c9224eaae41886c0e6398cca3f23e2f556f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4c7144cb465bc1413ad9885ba9a98d07366f6b7c6c09e609c2bc0ffb121d9b1a.jpg",
+        "original_sha256": "4c7144cb465bc1413ad9885ba9a98d07366f6b7c6c09e609c2bc0ffb121d9b1a",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A smartphone held up on a train seat table showing only an abstract swipe toggle switch icon, a stylized empty train compartment with windows and passing landscape behind. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-kunstschnee-wasserreserven": {
+        "path": "media/wetter-kunstschnee-wasserreserven-1024-r01.jpg",
+        "sha256": "c3acf1b1e207df5fa83bad7ecbb0fb2795b02f51d091f31b4c55691311d22513",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2e4ba79233ea68055b36ea3c12408fa963e4d0026f99c16b27df8b0351a964ae.jpg",
+        "original_sha256": "2e4ba79233ea68055b36ea3c12408fa963e4d0026f99c16b27df8b0351a964ae",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic, natural-light documentary-style photograph look, 4:3, symbolic stock-style image. A generic snow cannon on a tower spraying a plume of artificial snow onto an empty groomed ski slope at blue hour, a small partly frozen storage pond in the foreground, snowy spruce trees and unspecific mountain ridges behind. No real people, no faces, no text, no letters, no numbers, no logos, no flags, no recognisable landmarks.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-ski-slalom-gurgl-rast": {
+        "path": "media/sport-ski-slalom-gurgl-rast-1024-r01.jpg",
+        "sha256": "8578f8a55d39025e03c2fa3001591ad5f639d89398afd7821267022171f17597",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/833211a182f42e2dd3091fc59bf76eaf23c3137d5d9b5b49838854f5474f5e12.jpg",
+        "original_sha256": "833211a182f42e2dd3091fc59bf76eaf23c3137d5d9b5b49838854f5474f5e12",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Alternating red and blue slalom poles on a steep empty ski slope in light fog, ski tracks carved in the snow, snowy fir trees on the side. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-bjkc-schweiz-thailand": {
+        "path": "media/sport-bjkc-schweiz-thailand-1024-r01.jpg",
+        "sha256": "d776319db50d17a6df5deb91c24ea8f497ec32839d61e27c0bd27291a9254022",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-21T17:54:10+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-21",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-21 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/afea9a15c5ad63af73feb7e1d9c27659398e61a9162bea9a78bf45870ef86c36.jpg",
+        "original_sha256": "afea9a15c5ad63af73feb7e1d9c27659398e61a9162bea9a78bf45870ef86c36",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic, natural-light documentary-style photograph look, 4:3, symbolic stock-style image. A tennis racket without any brand marks lying on a blue hard court next to a yellow tennis ball, white baseline, warm late-afternoon light, shallow depth of field, empty court. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
