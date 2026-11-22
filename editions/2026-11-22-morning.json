@@ -1,0 +1,555 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-22T06:57:17+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-pfister-bleibt-vbs",
+      "section": "Politik",
+      "headline": "Pfister will Verteidigungsminister bleiben",
+      "summary": "Bundesrat Martin Pfister (Mitte) will das Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) weiterhin führen. Laut «SonntagsBlick» informierte er die Mitte-Fraktion am Freitag, dass er nicht in das frei werdende Wirtschaftsdepartement (WBF) wechseln will. Das WBF wird frei, weil Guy Parmelin (SVP) Ende Jahr aus dem Bundesrat ausscheidet; damit steigen laut den Berichten die Chancen von Justizminister Beat Jans (SP) auf einen Wechsel ins WBF. Über die Verteilung der Departemente entscheidet der Bundesrat nach der Ersatzwahl vom 9. Dezember.",
+      "sources": [
+        {
+          "name": "Blick: Pfister will VBS-Chef bleiben",
+          "url": "https://www.blick.ch/politik/pfister-will-vbs-chef-bleiben/hjxx6gv",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Pfister bleibt wohl im VBS – Jans könnte profitieren",
+          "url": "https://www.20min.ch/story/medienbericht-bundesrat-pfister-bleibt-wohl-im-vbs-jans-koennte-profitieren-103671615",
+          "published_at": "2026-11-22T03:24:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/politik-pfister-bleibt-vbs-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): ein langer Holztisch mit sieben leeren Namensschildern ohne Schrift und mehreren Aktenordnern in einem hellen Büroraum.",
+        "caption": "Symbolbild zur Verteilung der Departemente im Bundesrat",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-svp-ticket-sprengkandidatur",
+      "section": "Politik",
+      "headline": "SVP-Ticket: Debatte über mögliche Kandidatur ausserhalb des Tickets",
+      "summary": "Nach der Nomination von Thomas Aeschi und Michael Graber für die Nachfolge von Guy Parmelin wird in mehreren Parteien über Alternativen gesprochen. Gegenüber der «SonntagsZeitung» bezeichnete SVP-Nationalrat Jean-Luc Addor das Ticket als «Risiko»; SP-Co-Präsidentin Mattea Meyer sagte, man halte sich «alles offen», und die Grünen prüfen nach eigenen Angaben die Chancen einer Kandidatur ausserhalb des Tickets. Die SVP verweist darauf, mit Aeschi und Graber zwei erfahrene Kandidaten vorzuschlagen, und Parteispitzen anderer Fraktionen wollen laut den Berichten grundsätzlich am offiziellen Ticket festhalten. Die Bundesversammlung wählt am 9. Dezember.",
+      "sources": [
+        {
+          "name": "Watson: Selbst SVPler fürchten Sprengkandidatur",
+          "url": "https://www.watson.ch/schweiz/bundesrat/998536844-selbst-svpler-fuerchten-sprengkandidatur-gegen-aeschi-und-graber",
+          "published_at": "2026-11-22T06:12:24+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Kritik am SVP-Ticket aus mehreren Lagern",
+          "url": "https://www.20min.ch/story/parmelin-nachfolge-horror-ticket-roger-koeppel-kritisiert-svp-entscheid-scharf-103671498",
+          "published_at": "2026-11-21T21:31:13+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/politik-svp-ticket-sprengkandidatur-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): zwei leere Stimmzettel auf einem Pult, daneben ein dritter, leerer Zettel mit Fragezeichen-Form, vor leeren halbrunden Parlamentsbänken.",
+        "caption": "Symbolbild zur Bundesratsersatzwahl vom 9. Dezember",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-munition-thun-kirgistan",
+      "section": "Politik",
+      "headline": "Schweizer Munition: Über eine halbe Million Patronen nach Kirgistan",
+      "summary": "Ein slowenischer Waffenhändler hat laut Dokumenten slowenischer Behörden, die der «NZZ am Sonntag» vorliegen, in den Jahren 2022 und 2023 insgesamt 519'600 in Thun produzierte Patronen nach Kirgistan verkauft. Bisher war bekannt, dass gut 100'000 Schuss Scharfschützenmunition über diesen Weg weitergegeben wurden und später in Russland auftauchten. Das Staatssekretariat für Wirtschaft (Seco) bestätigte laut dem Bericht, Exporte an den Händler in Slowenien bewilligt zu haben; der Händler hat gegenüber den Behörden laut der Zeitung wohl falsche Angaben gemacht. Wo sich die Munition heute befindet, ist unklar.",
+      "sources": [
+        {
+          "name": "NZZ: Slowenischer Händler verschob über eine halbe Million Patronen (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/schweizer-scharfschuetzenmunition-dubioser-haendler-aus-slowenien-verschob-ueber-eine-halbe-million-patronen-ld.10068794",
+          "published_at": "2026-11-21T21:45:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Luzerner Zeitung: Hintergrund zu Schweizer Munition in Russland",
+          "url": "https://www.luzernerzeitung.ch/schweiz/schweizer-munition-landet-in-russland-missachtet-der-bund-das-eigene-gesetz-ld.4269726",
+          "published_at": "2026-11-20T05:00:00+01:00",
+          "updated_at": "2026-11-20T07:13:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/politik-munition-thun-kirgistan-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): Reihen von generischen Patronenhülsen in einer offenen, unbeschrifteten Holzkiste neben einem stilisierten Globus mit Pfeillinien.",
+        "caption": "Symbolbild zu Munitionsexporten",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-cop31-textentwurf",
+      "section": "Politik",
+      "headline": "Klimakonferenz COP31: Neuer Entwurf ohne Nennung von Öl, Kohle und Gas",
+      "summary": "An der Weltklimakonferenz in Antalya hat die Konferenzleitung am frühen Sonntagmorgen einen neuen Entwurf für die Abschlusserklärung vorgelegt, rund 32 Stunden nach dem geplanten Ende. Der zehnseitige Text anerkennt, dass die Erwärmung nicht mehr bei 1,5 Grad gestoppt werden kann, nennt Öl, Kohle und Gas aber nicht ausdrücklich; er verweist allgemein auf den Beschluss von Dubai 2023 zur schrittweisen Abkehr von fossilen Energien. Die Schweiz hatte mit Bundesrat Albert Rösti einen Ausstiegsplan mit Zeitplan gefordert. Das Plenum der knapp 200 Staaten sollte am Sonntagmorgen über den Entwurf abstimmen.",
+      "sources": [
+        {
+          "name": "SRF News: Neuer Textentwurf erwähnt Öl und Gas nicht",
+          "url": "https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-neuer-textentwurf-erwaehnt-oel-und-gas-nicht",
+          "published_at": "2026-11-22T05:37:53+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/politik-cop31-textentwurf-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): ein leerer Konferenztisch mit Mikrofonen und ungeschriebenen Papierstapeln, im Hintergrund eine stilisierte Erdkugel mit Thermometer.",
+        "caption": "Symbolbild zur Weltklimakonferenz",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-kokainnetzwerk-kontenregister",
+      "section": "Gesellschaft",
+      "headline": "Nach Grossrazzia gegen Kokainnetzwerk: Fedpol-Kader für Bankkontenregister",
+      "summary": "Bei einer vom Bundesamt für Polizei (Fedpol) geführten internationalen Aktion am 10. und 11. November wurden allein in der Schweiz 41 Personen festgenommen; Bundesanwaltschaft und Fedpol hatten damals Razzien in zwölf Kantonen und sieben Staaten gemeldet. Das mutmassliche Netzwerk soll seit 2019 Kokain aus Südamerika nach Europa eingeführt und dafür auch Schweizer Tarnfirmen genutzt haben; drei Verdächtige sind im Ausland in Auslieferungshaft. Laut «NZZ am Sonntag» wirbt ein ranghoher Fedpol-Beamter nun für ein zentrales Bankkontenregister, wie es in der EU besteht. Ein solches Register gibt es in der Schweiz bisher nicht.",
+      "sources": [
+        {
+          "name": "NZZ: Die Schweiz im Zentrum einer Aktion gegen den Drogenhandel (Paywall)",
+          "url": "https://www.nzz.ch/schweiz/die-schweiz-im-zentrum-einer-massiven-anti-drogen-operation-reicht-der-lange-arm-der-latino-kartelle-schon-bis-zu-uns-ld.10068499",
+          "published_at": "2026-11-21T21:45:00+01:00",
+          "updated_at": "2026-11-21T21:50:55+01:00"
+        },
+        {
+          "name": "Fedpol: Medienmitteilung zur internationalen Operation",
+          "url": "https://www.fedpol.admin.ch/de/newnsb/kqFmoxC7Mw7M",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/gesellschaft-kokainnetzwerk-kontenregister-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): Bananenkisten ohne Beschriftung in einem Lagerhaus, daneben eine Lupe über einem leeren Kontoblatt.",
+        "caption": "Symbolbild zu Ermittlungen gegen Drogenhandel",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-windhorst-betreibungen",
+      "section": "Wirtschaft",
+      "headline": "Windhorst: Offene Forderungen von 519 Millionen Franken",
+      "summary": "Gegen den deutschen Investor Lars Windhorst bestehen in der Schweiz offene Betreibungsforderungen von 519 Millionen Franken. Das geht laut «NZZ am Sonntag» aus einem Urteil des Zuger Obergerichts hervor; publik gemacht hatte die Summe zuerst das Genfer Justizportal «Gotham City». Das Gericht hält laut dem Bericht fest, Windhorst habe seinen Wohnsitz im Kanton Zug aufgegeben und nach Dubai verlegt. Windhorst galt in den 1990er-Jahren als Jungunternehmer der «New Economy».",
+      "sources": [
+        {
+          "name": "NZZ: Lars Windhorst hinterlässt in der Schweiz einen Schuldenberg (Paywall)",
+          "url": "https://www.nzz.ch/wirtschaft/vom-wunderkind-zum-zahlungsfluechtigen-lars-windhorst-hinterlaesst-in-der-schweiz-einen-gigantischen-schuldenberg-ld.10070866",
+          "published_at": "2026-11-22T05:30:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/wirtschaft-windhorst-betreibungen-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): ein hoher Stapel leerer Papierformulare neben einem Koffer, im Hintergrund stilisierte Hochhäuser in der Wüste.",
+        "caption": "Symbolbild zu offenen Forderungen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-schweiz-tourismus-federer",
+      "section": "Wirtschaft",
+      "headline": "Schweiz Tourismus: Interne E-Mails zur Zusammenarbeit mit Federer",
+      "summary": "Interne E-Mails, welche die «NZZ am Sonntag» über das Öffentlichkeitsgesetz erhalten hat, zeigen, dass Schweiz Tourismus jedes Bild der Werbekampagnen mit Roger Federer von dessen Management genehmigen lassen musste. Laut dem Bericht stieg Schweiz Tourismus 2024 auf Initiative von Federers Manager als Sponsor des Laver Cups in Berlin ein, zudem erhielt ein früherer Tenniskollege Federers einen Auftrag für Werbeartikel. Schweiz Tourismus weist den Vorwurf von Gefälligkeiten zurück: Das Sponsoring habe Zugang zu einer kaufkräftigen Zielgruppe ermöglicht, und der Auftrag habe unter der Ausschreibungsgrenze von 150'000 Franken gelegen. Die Kampagne wurde diese Woche mit dem Branchenpreis «Grand Effie» ausgezeichnet.",
+      "sources": [
+        {
+          "name": "NZZ: E-Mails zeigen die Kontrolle hinter der Marke Federer (Paywall)",
+          "url": "https://www.nzz.ch/wirtschaft/von-falschen-haaren-bis-zur-hand-an-halle-berrys-taille-e-mails-zeigen-die-gnadenlose-kontrolle-hinter-der-marke-roger-federer-ld.10067063",
+          "published_at": "2026-11-21T21:45:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Federer liess Kontakte zu Schweiz Tourismus spielen",
+          "url": "https://www.20min.ch/story/schweizer-tennisstar-roger-federer-liess-kontakte-zu-schweiz-tourismus-spielen-103671611",
+          "published_at": "2026-11-22T01:18:22+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/wirtschaft-schweiz-tourismus-federer-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): eine Filmkamera auf einem Stativ vor einer Alpenlandschaft, daneben ein Stapel leerer, ausgedruckter E-Mails.",
+        "caption": "Symbolbild zu Tourismuswerbung",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-mtel-mobilfunk",
+      "section": "Wirtschaft",
+      "headline": "Mobilfunk: Serbisch kontrollierter Anbieter MTel will stark wachsen",
+      "summary": "Der Mobilfunkanbieter MTel will in der Schweiz bis Ende 2027 von derzeit rund 20'000 auf 100'000 Kundinnen und Kunden wachsen, wie der Länderchef gegenüber «Blick» sagte. MTel Schweiz ist eine Tochter von MTel Österreich, die zur mehrheitlich staatlichen Telekom Srbija gehört. Der Anbieter nutzt das Netz von Salt und bietet laut «K-Tipp» das günstigste Abo in diesem Netz an, derzeit ab 7.95 Franken pro Monat. Neben Swisscom, Sunrise und Salt sind zahlreiche kleinere Anbieter auf dem Schweizer Markt aktiv.",
+      "sources": [
+        {
+          "name": "Blick: Serbischer Staatsbetrieb auf dem Schweizer Mobilfunkmarkt",
+          "url": "https://www.blick.ch/wirtschaft/mtel-serbischer-staatsbetrieb-auf-dem-schweizer-mobilfunkmarkt/tgpgyw7",
+          "published_at": "2026-11-21T16:34:00+01:00",
+          "updated_at": "2026-11-21T18:23:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/wirtschaft-mtel-mobilfunk-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): ein Smartphone ohne Bildschirminhalt vor einem stilisierten Mobilfunkmast mit Funkwellen.",
+        "caption": "Symbolbild zum Mobilfunkmarkt",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-swiss-lotto-jackpot",
+      "section": "Gesellschaft",
+      "headline": "Swiss Lotto: Jackpot von 47,14 Millionen Franken geknackt",
+      "summary": "Bei der Ziehung vom Samstag hat eine Person im Swiss Lotto den Jackpot von 47'139'443.95 Franken gewonnen. Es ist der dritthöchste Gewinn in der Geschichte der Lotterie; höher waren nur rund 64,6 Millionen Franken im März 2024 und rund 48,6 Millionen im August 2014. Zwei weitere Personen erzielten sechs Richtige und erhalten je 500'000 Franken. Die nächste Ziehung am Mittwoch startet wieder mit einem Jackpot von 1,5 Millionen Franken.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA): Jackpot im Swiss Lotto geknackt",
+          "url": "https://www.swissinfo.ch/ger/gl%c3%bcckspilz-knackt-47%2c14-millionen-franken-jackpot-im-swiss-lotto/92418102",
+          "published_at": "2026-11-21T18:37:21+01:00",
+          "updated_at": "2026-11-21T18:40:36+01:00"
+        },
+        {
+          "name": "20 Minuten: Dritthöchster Gewinn der Swiss-Lotto-Geschichte",
+          "url": "https://www.20min.ch/story/swisslotto-47-millionen-franken-glueckspilz-knackt-rekord-jackpot-103671419",
+          "published_at": "2026-11-21T19:58:33+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/gesellschaft-swiss-lotto-jackpot-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): bunte Lottokugeln ohne Zahlen, die aus einer Ziehungstrommel rollen, mit Konfetti.",
+        "caption": "Symbolbild zum Swiss-Lotto-Jackpot",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-naturgefahren-schnee-regen",
+      "section": "Verkehr & Wetter",
+      "headline": "Starker Schneefall in den Alpen, Dauerregen im Westjura",
+      "summary": "Das Naturgefahrenbulletin des Bundes warnt von Sonntag bis Montagabend vor starkem Schneefall (Stufe 3 von 5) im Unterwallis, in den Waadtländer und Freiburger Alpen sowie am Alpennordhang. Oberhalb von 1800 Metern werden im Westen 60 bis 80 Zentimeter Neuschnee erwartet, stellenweise über einen Meter; von den Berner bis zu den Glarner Alpen sind oberhalb von 2000 Metern 70 bis 90 Zentimeter möglich. Im Waadtländer und Neuenburger Jura sind 60 bis 80 Millimeter Regen zu erwarten (Stufe 3). Die Schneefallgrenze sinkt in der Nacht auf Montag vor allem in der Ostschweiz auf 600 bis 1000 Meter, am Montagabend beruhigt sich das Wetter.",
+      "sources": [
+        {
+          "name": "MeteoSchweiz: Naturgefahrenbulletin des Bundes",
+          "url": "https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/naturgefahrenbulletin.html",
+          "published_at": "2026-11-21T11:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/wetter-naturgefahren-schnee-regen-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: dichter Schneefall über einem verschneiten Bergwald mit tief hängenden Wolken, keine Aufnahme eines realen Ortes.",
+        "caption": "Symbolbild zum Schneefall in den Alpen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-super-league-yb-rekord",
+      "section": "Sport",
+      "headline": "Super League: YB mit Rekordserie, Lugano bleibt vorne",
+      "summary": "Die Young Boys gewannen das Berner Derby gegen Thun 3:2 und trafen damit im 17. Super-League-Spiel in Folge mindestens zweimal, ein neuer Rekord. Leader Lugano siegte gegen GC dank eines Tores in der 83. Minute 2:1 und liegt weiterhin sechs Punkte vor YB. Sion gewann das Rhône-Derby gegen Servette 2:0 und damit erstmals seit Oktober 2021 wieder gegen den Genfer Rivalen. YB erzielte in den ersten 14 Runden 44 Tore, kassierte aber auch 27 Gegentreffer.",
+      "sources": [
+        {
+          "name": "SRF Sport: YB stellt Rekord auf",
+          "url": "https://www.srf.ch/sport/fussball/super-league/unglaubliche-serie-der-berner-17-spiele-in-folge-mit-mindestens-2-toren-yb-stellt-rekord-auf",
+          "published_at": "2026-11-21T21:23:41+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "SRF Sport: Sion besiegt Servette im Rhône-Derby",
+          "url": "https://www.srf.ch/sport/fussball/super-league/2-0-zu-hause-im-rhone-derby-dank-koepfchen-den-bann-gebrochen-sion-besiegt-den-servette-fluch",
+          "published_at": "2026-11-21T22:50:19+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/sport-super-league-yb-rekord-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: ein Fussball liegt im Netz eines Tores auf nassem Rasen unter Flutlicht, ohne Personen und ohne Logos.",
+        "caption": "Symbolbild zur 14. Runde der Super League",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-national-league-scb-biel",
+      "section": "Sport",
+      "headline": "National League: SCB gewinnt 9:5 in Biel, Kloten schlägt Davos",
+      "summary": "Der SC Bern gewann in Biel 9:5 und feierte den fünften Sieg in Serie; Rodrigo Abols erzielte drei Tore. Kloten setzte sich gegen Davos 3:2 durch und gewann damit zum vierten Mal in Folge gegen den HCD. Die ZSC Lions besiegten Lugano 4:1, Simon Knak traf doppelt. Meister Fribourg-Gottéron verlor bei Ajoie und kassierte die fünfte Niederlage aus den letzten sechs Spielen.",
+      "sources": [
+        {
+          "name": "SRF Sport: SCB nach 14-Tore-Spektakel weiter im Hoch",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-scb-nach-14-tore-spektakel-weiter-im-hoch-kloten-besiegt-hcd",
+          "published_at": "2026-11-22T00:46:50+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-morning/sport-national-league-scb-biel-1024-r01.jpg",
+        "alt": "Flache Illustration (KI-generiert): zwei gekreuzte Eishockeystöcke und ein Puck auf einer Eisfläche vor einer leeren Arena.",
+        "caption": "Symbolbild zur National League",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-22-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-22T06:53:52+01:00",
+    "ready_at": "2026-11-22T06:57:17+01:00",
+    "content_hash": "sha256:32772a33663b21193ba23c843655b41303a78001f5bddeb25cd6afcb68d99925",
+    "image_rights": {
+      "politik-pfister-bleibt-vbs": {
+        "rights": "ai_generated_own"
+      },
+      "politik-svp-ticket-sprengkandidatur": {
+        "rights": "ai_generated_own"
+      },
+      "politik-munition-thun-kirgistan": {
+        "rights": "ai_generated_own"
+      },
+      "politik-cop31-textentwurf": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-kokainnetzwerk-kontenregister": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-windhorst-betreibungen": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-schweiz-tourismus-federer": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-mtel-mobilfunk": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-swiss-lotto-jackpot": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-naturgefahren-schnee-regen": {
+        "rights": "ai_generated_own"
+      },
+      "sport-super-league-yb-rekord": {
+        "rights": "ai_generated_own"
+      },
+      "sport-national-league-scb-biel": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-pfister-bleibt-vbs": {
+        "path": "media/politik-pfister-bleibt-vbs-1024-r01.jpg",
+        "sha256": "a763a0306db1cc6ab4d8a61e9affb47598782bfe9c582a411bbed5e127646f99",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ef6c09056a4cc3fdfe78d875a5be28ff1d486af307c7d345059c257080f46177.jpg",
+        "original_sha256": "ef6c09056a4cc3fdfe78d875a5be28ff1d486af307c7d345059c257080f46177",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A long wooden desk with seven blank name plates without any writing and several closed binders, in a plain bright office room with tall windows and a potted plant, no recognisable building. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-svp-ticket-sprengkandidatur": {
+        "path": "media/politik-svp-ticket-sprengkandidatur-1024-r01.jpg",
+        "sha256": "b13d9f938f936ce70098b817f3e09774e0d4cf1b9ed9fb4f67fe2de42f8f691e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8e6b37bb77a7a07682dcd96cef28af04bc7bc15efb398374f458bf6d4526dc31.jpg",
+        "original_sha256": "8e6b37bb77a7a07682dcd96cef28af04bc7bc15efb398374f458bf6d4526dc31",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two blank folded ballot slips on a lectern, and a third blank slip slightly apart with a question-mark-shaped shadow, in front of stylized empty semicircular parliament benches. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-munition-thun-kirgistan": {
+        "path": "media/politik-munition-thun-kirgistan-1024-r01.jpg",
+        "sha256": "72926c437c435bc8f477d89e74bd357c40c45809800096e9915d24de493308f7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7cdd40410741b186af5e321b0e545aeffab34fc9a078da54084e06d3645bca5c.jpg",
+        "original_sha256": "7cdd40410741b186af5e321b0e545aeffab34fc9a078da54084e06d3645bca5c",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Rows of generic brass cartridge casings in an open unmarked wooden crate, next to a stylized globe with dotted arrow lines between continents. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-cop31-textentwurf": {
+        "path": "media/politik-cop31-textentwurf-1024-r01.jpg",
+        "sha256": "b76ed40413dc7441754f663b7f52f9a95b194f7369e28cc37c75b05d186ba2ac",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:16+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/373fab8a604696401e36ab561e69cc569db433ea10e22e7643d848500ebd709b.jpg",
+        "original_sha256": "373fab8a604696401e36ab561e69cc569db433ea10e22e7643d848500ebd709b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty conference table with microphones and stacks of blank paper, a stylized Earth globe with a large thermometer behind it. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-kokainnetzwerk-kontenregister": {
+        "path": "media/gesellschaft-kokainnetzwerk-kontenregister-1024-r01.jpg",
+        "sha256": "063905b52cddc1c0364c57530c58b4b186919175673970d6d6d95f481a69209a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/feffcac24daa1d0a594b85b0dc6173c74a78e516cc58ffa4b808a75c7915c2ba.jpg",
+        "original_sha256": "feffcac24daa1d0a594b85b0dc6173c74a78e516cc58ffa4b808a75c7915c2ba",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Unmarked banana crates stacked in a warehouse, with a large magnifying glass hovering over a blank ledger sheet in the foreground. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-windhorst-betreibungen": {
+        "path": "media/wirtschaft-windhorst-betreibungen-1024-r01.jpg",
+        "sha256": "a681a10f1e222ccb02fbee6bb9de638db482a2d8d20a45be1ac475a959e78760",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/50b731c70acdee3a19931a6776d156709472d0161ad37669860d8fb8a0ec19cf.jpg",
+        "original_sha256": "50b731c70acdee3a19931a6776d156709472d0161ad37669860d8fb8a0ec19cf",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A tall teetering stack of blank paper forms next to a closed travel suitcase, stylized desert skyscrapers in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-schweiz-tourismus-federer": {
+        "path": "media/wirtschaft-schweiz-tourismus-federer-1024-r01.jpg",
+        "sha256": "43c7a32b1e0388bcd01f2afebccdf0cabf94d49f7d8e6b5691ce6ba33b1f5038",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/80e9afd504fc0a0d54c4c4b4195efabc3db159c09996a129d611a6dbb3be4b9a.jpg",
+        "original_sha256": "80e9afd504fc0a0d54c4c4b4195efabc3db159c09996a129d611a6dbb3be4b9a",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A film camera on a tripod in front of a stylized Alpine landscape with a lake, next to a stack of blank printed email pages. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-mtel-mobilfunk": {
+        "path": "media/wirtschaft-mtel-mobilfunk-1024-r01.jpg",
+        "sha256": "9ce72ed33c69d31285c079690c488ada9e8f727309c268aec1c6491fdc150931",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/371abf1e2585bda99289453a2ee22be4d344ee7bbaf845c9761186e2c61a2297.jpg",
+        "original_sha256": "371abf1e2585bda99289453a2ee22be4d344ee7bbaf845c9761186e2c61a2297",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A smartphone with a blank screen in front of a stylized mobile phone antenna mast emitting signal waves, soft city skyline. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-swiss-lotto-jackpot": {
+        "path": "media/gesellschaft-swiss-lotto-jackpot-1024-r01.jpg",
+        "sha256": "c31baf698b2f9ad870eddf9800ebc895fc58dd04b2d3151049a528955ed43aa0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/226f184a44fe9130455f53782ab7b6701695fd6cb6f1d52e64edb050594514af.jpg",
+        "original_sha256": "226f184a44fe9130455f53782ab7b6701695fd6cb6f1d52e64edb050594514af",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Colorful lottery balls without numbers rolling out of a transparent drawing drum, with confetti in the air. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-naturgefahren-schnee-regen": {
+        "path": "media/wetter-naturgefahren-schnee-regen-1024-r01.jpg",
+        "sha256": "19c9ca7c64af470187d2c94c31afe8237d9897500d96a5116330abe923bfcea8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fd6737531dd52b5373c0c407092cf6ce622ea853b5da66a560d902b136e1bf82.jpg",
+        "original_sha256": "fd6737531dd52b5373c0c407092cf6ce622ea853b5da66a560d902b136e1bf82",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. Heavy snowfall over a snow-covered mountain spruce forest with low hanging clouds, generic alpine scenery, no recognisable landmark. No real people, no faces, no text, no letters, no numbers, no logos, no flags. No buildings, no vehicles.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-super-league-yb-rekord": {
+        "path": "media/sport-super-league-yb-rekord-1024-r01.jpg",
+        "sha256": "1a09e17aa9f2a2093e02d22675e8fb2337ac70d3d993faa7879b9765be4f1be8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/33528b97b505a106aaaa89c46487cdb35d9b7536dee1a9936cff49e2afaf1060.jpg",
+        "original_sha256": "33528b97b505a106aaaa89c46487cdb35d9b7536dee1a9936cff49e2afaf1060",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. A white football resting in the net of a goal on wet green grass under stadium floodlights at night, shallow depth of field, empty blurred background. No real people, no faces, no text, no letters, no numbers, no logos, no flags. No jerseys, no crowd.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-national-league-scb-biel": {
+        "path": "media/sport-national-league-scb-biel-1024-r01.jpg",
+        "sha256": "c1167f372f0c32f25e5d7708b67e090b9059fdee5590ac7a77ec4adbb2fd0d38",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T06:57:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/787f562a9fd46f9b35b9d465187da0cd2ba1b42d5946fa90e99156c46945084b.jpg",
+        "original_sha256": "787f562a9fd46f9b35b9d465187da0cd2ba1b42d5946fa90e99156c46945084b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two crossed ice hockey sticks and a black puck on a smooth ice surface, an empty stylized arena in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
