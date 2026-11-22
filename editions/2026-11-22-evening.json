@@ -1,0 +1,555 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-22T17:59:36+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-cop31-ohne-einigung",
+      "section": "Politik",
+      "headline": "Klimakonferenz COP31 endet ohne Abschlusserklärung",
+      "summary": "Die Weltklimakonferenz COP31 im türkischen Antalya ist am Sonntag ohne gemeinsame Abschlusserklärung zu Ende gegangen. Konferenzpräsident Murat Kurum stellte fest, dass über den vorgelegten Text kein Konsens bestehe; die Schweiz, die EU und weitere Staaten hatten den Entwurf abgelehnt, weil er fossile Energieträger nicht erwähnte. Der Schweizer Verhandlungsleiter Felix Wertli sagte, dem Text hätten zentrale Elemente gefehlt, während Saudi-Arabien den Entwurf verteidigte und auf den geringen Anteil arabischer Länder an den historischen Emissionen verwies. Weil Klimakonferenzen im Konsens entscheiden, wurden in Antalya keine Beschlüsse gefasst.",
+      "sources": [
+        {
+          "name": "SRF: Keine Einigung bei Weltklimakonferenz – auch Schweiz lehnt ab",
+          "url": "https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-keine-einigung-bei-weltklimakonferenz-auch-schweiz-lehnt-ab",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF: Die Reaktionen auf die gescheiterte Klimakonferenz",
+          "url": "https://www.srf.ch/news/international/cop31-in-antalya-das-sind-die-reaktionen-auf-die-gescheiterte-klimakonferenz",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/politik-cop31-ohne-einigung-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein runder Konferenztisch mit leeren Stühlen und einem unbeschriebenen Dokument, im Hintergrund ein stilisierter Globus und ein Fabrikschlot.",
+        "caption": "Symbolbild zur Weltklimakonferenz",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-svp-ticket-romandie-kritik",
+      "section": "Politik",
+      "headline": "SVP-Ticket: Kritik aus der Romandie, Aufrufe zur wilden Wahl",
+      "summary": "Nach der Nomination von Thomas Aeschi und Michael Graber für die Bundesratsersatzwahl vom 9. Dezember kritisieren Westschweizer SVP-Vertreter das rein deutschsprachige Ticket. Der unterlegene Berner Regierungsrat Pierre Alain Schnegg machte bei RTS interne Spaltungen unter den französischsprachigen Fraktionsmitgliedern verantwortlich, lehnt eine Sprengkandidatur aber ab und gibt beiden Nominierten gleiche Chancen. Nationalrat Jean-Luc Addor, Präsident der lateinischen SVP-Gruppe, sprach von einem «politischen Fehler» gegenüber der Romandie. Laut «Tages-Anzeiger» rufen der Ehemann von Céline Amaudruz und der frühere SVP-Nationalrat Perrin zu einer wilden Wahl auf.",
+      "sources": [
+        {
+          "name": "SRF: Pierre Alain Schnegg bedauert Spaltung innerhalb der Romandie",
+          "url": "https://www.srf.ch/news/schweiz/bundesratsticket-der-svp-pierre-alain-schnegg-bedauert-spaltung-innerhalb-der-romandie",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RTS: Ticket Aeschi-Graber – des élus UDC romands critiquent leur parti",
+          "url": "https://www.rts.ch/info/suisse/2026/article/ticket-aeschi-graber-des-elus-udc-romands-critiquent-leur-parti-29423591.html",
+          "published_at": "2026-11-22T12:42:08+01:00",
+          "updated_at": "2026-11-22T14:30:49+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall): Amaudruz' Mann und Ex-Nationalrat Perrin rufen zur wilden Wahl auf",
+          "url": "https://www.tagesanzeiger.ch/celine-amaudruz-romandie-svp-erwaegt-wilde-bundesratswahl-304317381676",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/politik-svp-ticket-romandie-kritik-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: zwei unbeschriftete Wahlzettel auf einem Rednerpult neben einer stilisierten, in zwei Teile gespaltenen Landkarte mit Bergen.",
+        "caption": "Symbolbild zur Bundesratsersatzwahl",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-prelicz-huber-ruecktritt",
+      "section": "Politik",
+      "headline": "Grünen-Nationalrätin Prelicz-Huber tritt 2027 nicht mehr an",
+      "summary": "Die Zürcher Grünen-Nationalrätin Katharina Prelicz-Huber kandidiert bei den eidgenössischen Wahlen im Herbst 2027 nicht mehr. Die Herbstsession 2027 werde ihre letzte sein, sagte sie gegenüber Keystone-SDA; zuerst hatte der «SonntagsBlick» darüber berichtet. Prelicz-Huber politisiert seit 1990 in Parlamenten verschiedener Staatsebenen und ist im Nationalrat vor allem in der Bildungs- und Sozialpolitik tätig. Im Frühling übernimmt sie das Präsidium der Vereinigung aktiver Seniorinnen- und Selbsthilfeorganisationen der Schweiz (Vasos).",
+      "sources": [
+        {
+          "name": "SRF: Grünen-Nationalrätin Prelicz-Huber verlässt Politikbühne",
+          "url": "https://www.srf.ch/news/schweiz/wahlen-2027-gruenen-nationalraetin-prelicz-huber-verlaesst-politikbuehne",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall): Prelicz-Huber tritt nicht mehr an",
+          "url": "https://www.tagesanzeiger.ch/katharina-prelicz-huber-rueckzug-aus-dem-nationalrat-2027-702574586981",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/politik-prelicz-huber-ruecktritt-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leerer Parlamentssitz mit einer über die Lehne gelegten Jacke und einem aufgeschlagenen Buch, dahinter leere Sitzreihen.",
+        "caption": "Symbolbild zum Rückzug aus dem Nationalrat",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-bankenreform-widerstand",
+      "section": "Wirtschaft",
+      "headline": "Banken lehnen Kernpunkte der Reform von Keller-Sutter ab",
+      "summary": "Die Schweizerische Bankiervereinigung und die UBS lehnen laut «SonntagsZeitung» zentrale Teile der Reformpläne von Finanzministerin Karin Keller-Sutter (FDP) ab, mit denen ein neuer Fall Credit Suisse verhindert werden soll. Abgelehnt werden demnach eine vollständige Eigenkapitalunterlegung ausländischer Tochtergesellschaften, neue Befugnisse der Finanzmarktaufsicht Finma und ein Verantwortlichkeitsregime für Manager. Ebenfalls auf Ablehnung stossen gesetzliche Bonus-Rückforderungen und eine Pflichtrotation der Prüfgesellschaften. Zahlreiche von der Zeitung befragte Ökonomen weisen die Argumente der Banken zurück.",
+      "sources": [
+        {
+          "name": "Luzerner Zeitung: Die News der Sonntagspresse",
+          "url": "https://www.luzernerzeitung.ch/schweiz/sonntagspresse-bundesratsticket-bankenreform-corona-pandemie-ld.4271703",
+          "published_at": "2026-11-22T08:17:31+01:00",
+          "updated_at": "2026-11-22T12:07:19+01:00"
+        },
+        {
+          "name": "Tages-Anzeiger (Paywall): Banken gegen Keller-Sutter – der Streit eskaliert",
+          "url": "https://www.tagesanzeiger.ch/ubs-banken-wollen-reform-von-keller-sutter-versenken-989532733119",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/wirtschaft-bankenreform-widerstand-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine klassische Bankfassade neben einer Waage, die einen Stapel Goldmünzen gegen ein dickes Regelbuch abwägt.",
+        "caption": "Symbolbild zur Bankenregulierung",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-menziken-garagenexplosion",
+      "section": "Zürich & Regionen",
+      "headline": "Menziken AG: Explosion in Garage, eine Person verletzt",
+      "summary": "In einer Einzelgarage eines Mehrfamilienhauses an der Wüestländestrasse in Menziken hat sich am Samstag kurz nach 18.30 Uhr eine Explosion ereignet. Eine Person, die sich in der Garage befand, erlitt laut Kantonspolizei Aargau mittelschwere Brandverletzungen und wurde mit einem Helikopter ins Spital geflogen. Die Explosion riss das Garagentor aus der Verankerung; das anschliessende Feuer löschte die Feuerwehr Oberwynental innert weniger Minuten, an davor parkierten Autos entstand Sachschaden. Die Ursache ist unklar und wird von Spezialisten der Kantonspolizei untersucht.",
+      "sources": [
+        {
+          "name": "Aargauer Zeitung: Nach Explosion in Garage – eine Person ins Spital geflogen",
+          "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/explosion-in-garage-in-menziken-eine-person-verletzt-ld.4271769",
+          "published_at": "2026-11-22T13:31:13+01:00",
+          "updated_at": "2026-11-22T13:56:13+01:00"
+        },
+        {
+          "name": "20 Minuten: Anwohner schildern die Explosion in Menziken",
+          "url": "https://www.20min.ch/story/menziken-ag-nach-der-explosion-hat-jemand-dreimal-um-hilfe-geschrien-103671792",
+          "published_at": "2026-11-22T14:06:14+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/regionen-menziken-garagenexplosion-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine Reihe von Garagen in der Abenddämmerung, ein Tor ist nach aussen verbogen, leichter Rauch und ein Feuerwehrfahrzeug mit Blaulicht.",
+        "caption": "Symbolbild zur Garagenexplosion",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-biel-stichwaffe-festnahme",
+      "section": "Zürich & Regionen",
+      "headline": "Biel: Mann mit Stichwaffe schwer verletzt, Verdächtiger festgenommen",
+      "summary": "In Biel ist in der Nacht auf Sonntag gegen 0.40 Uhr ein Mann an der Adam-Friedrich-Molz-Gasse mit einer Stichwaffe angegriffen und schwer verletzt worden. Nach Erster Hilfe vor Ort wurde er mit der Ambulanz ins Spital gebracht. Der mutmassliche Täter wurde kurz nach der Tat vorläufig festgenommen, die mutmassliche Tatwaffe sichergestellt. Laut ersten Ermittlungen kannten sich die beiden nicht; das Motiv ist unklar, die regionale Staatsanwaltschaft Berner Jura-Seeland leitet die Untersuchung.",
+      "sources": [
+        {
+          "name": "Luzerner Zeitung: Mann in Biel mit Stichwaffe attackiert",
+          "url": "https://www.luzernerzeitung.ch/schweiz/biel-mann-auf-offener-strasse-schwer-verletzt-ld.4271889",
+          "published_at": "2026-11-22T17:04:24+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/regionen-biel-stichwaffe-festnahme-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine leere gepflasterte Altstadtgasse bei Nacht mit Absperrband und blauem Lichtschein an den Hauswänden.",
+        "caption": "Symbolbild zu einem Polizeieinsatz",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-stans-arbeitsunfall",
+      "section": "Zürich & Regionen",
+      "headline": "Stans NW: Arbeiter stirbt nach Unfall mit Holzplatten",
+      "summary": "In einem Holzverarbeitungsbetrieb in Stans ist am Freitag kurz nach 14 Uhr ein 23-jähriger Mitarbeiter von herabfallenden Holzplatten erfasst worden. Trotz sofortiger Reanimationsmassnahmen starb er noch auf der Unfallstelle, wie die Kantonspolizei Nidwalden am Sonntag mitteilte. Die genaue Unfallursache untersuchen die Kantonspolizei und die Staatsanwaltschaft Nidwalden. Neben Rettungsdienst und Notarzt stand auch das Care Team Nidwalden/Engelberg im Einsatz.",
+      "sources": [
+        {
+          "name": "20 Minuten: Arbeiter (23) in Stans von Holzplatten erfasst",
+          "url": "https://www.20min.ch/story/stans-nw-von-herabfallenden-holzplatten-erfasst-arbeiter-23-stirbt-103671794",
+          "published_at": "2026-11-22T13:09:15+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/regionen-stans-arbeitsunfall-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine Werkhalle mit gestapelten Holzplatten, einem Gabelstapler und einem gelben Warnschild ohne Schrift.",
+        "caption": "Symbolbild zum Arbeitsunfall",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-biasca-velounfall",
+      "section": "Zürich & Regionen",
+      "headline": "Biasca TI: 14-jähriger Velofahrer lebensgefährlich verletzt",
+      "summary": "In der Region Biasca ist am Samstag um 23.30 Uhr ein 14-jähriger Velofahrer auf der Via Guisan von hinten von einem Auto angefahren und lebensgefährlich verletzt worden. Laut Kantonspolizei Tessin fuhr der 50-jährige Lenker danach weiter, prallte in ein parkiertes Auto und wurde schliesslich durch das Eingreifen eines Passanten gestoppt. Der Jugendliche wurde vom Rettungsdienst Tre Valli Soccorso erstversorgt und ins Spital gebracht. Weshalb es zur Kollision kam, ist laut Polizei noch ungeklärt.",
+      "sources": [
+        {
+          "name": "20 Minuten: 14-jähriger Velofahrer in Biasca lebensbedrohlich verletzt",
+          "url": "https://www.20min.ch/story/biasca-ti-14-jaehriger-velofahrer-bei-unfall-lebensbedrohlich-verletzt-103671719",
+          "published_at": "2026-11-22T10:25:31+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/regionen-biasca-velounfall-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leerer Kreisel bei Nacht mit einem am Boden liegenden Velo, beleuchtet von blauem Licht.",
+        "caption": "Symbolbild zum Verkehrsunfall",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-museen-klimawandel",
+      "section": "Gesellschaft",
+      "headline": "Klimawandel setzt Schweizer Museumssammlungen zu",
+      "summary": "Schweizer Museen warnen, dass ihre rund 77 Millionen Sammlungsobjekte ungenügend vor den Folgen des Klimawandels geschützt sind. Hitze begünstigt etwa Schadinsekten und Spannungsrisse an Objekten in unklimatisierten Räumen, wie das Naturhistorische Museum Freiburg und die Plattform Museumsklima des Schweizer Museumsrats gegenüber SRF schildern. Laut Bundesamt für Kultur fehlen bisher breite Daten zu den Auswirkungen und zum Finanzbedarf; der Bund will diese nun erheben. Eine Kulturerbestrategie soll im Frühsommer 2027 vorliegen und die Anpassung der Museen an den Klimawandel koordinieren.",
+      "sources": [
+        {
+          "name": "SRF: Der Klimawandel bedroht das kulturelle Gedächtnis der Schweiz",
+          "url": "https://www.srf.ch/news/schweiz/schweizer-museen-schwitzen-der-klimawandel-bedroht-das-kulturelle-gedaechtnis-der-schweiz",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/gesellschaft-museen-klimawandel-1024-r01.jpg",
+        "alt": "KI-generiertes symbolisches Bild im Fotostil, keine echte Aufnahme: Holzvitrinen mit ausgestopften Singvögeln und einer kleinen Eule in einem Museumslager.",
+        "caption": "Symbolbild zu Museumssammlungen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-nef-slalom-podest",
+      "section": "Sport",
+      "headline": "Tanguy Nef erstmals auf dem Weltcup-Podest",
+      "summary": "Der Genfer Tanguy Nef ist beim Slalom in Gurgl (AUT) im 86. Weltcuprennen seiner Karriere erstmals auf das Podest gefahren. Er verbesserte sich im zweiten Lauf von Rang 7 auf Rang 3, nachdem er zuvor 22-mal in den Rängen 4 bis 10 klassiert gewesen war. Es siegte der Norweger Timon Haugan vor seinem Landsmann Eirik Hystad Solberg; unter anderem Lucas Pinheiro Braathen, Atle Lie McGrath und Henrik Kristoffersen schieden aus. Daniel Yule belegte Rang 16.",
+      "sources": [
+        {
+          "name": "SRF: Nef steht in Gurgl erstmals auf dem Podest",
+          "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/maenner-slalom-in-gurgl-nef-steht-bei-norwegischem-doppelsieg-erstmals-auf-dem-podest",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps: Premier podium en Coupe du monde pour Tanguy Nef",
+          "url": "https://www.letemps.ch/sport/ski-snowboard/premier-podium-en-coupe-du-monde-de-ski-alpin-pour-tanguy-nef",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/sport-nef-slalom-podest-1024-r01.jpg",
+        "alt": "KI-generiertes symbolisches Bild im Fotostil, keine echte Aufnahme: rote und blaue Slalomstangen auf einer verschneiten Piste bei leichtem Schneefall.",
+        "caption": "Symbolbild zum Slalom-Weltcup",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-bjkc-abstieg",
+      "section": "Sport",
+      "headline": "Billie Jean King Cup: Schweiz steigt nach Niederlage in Thailand ab",
+      "summary": "Das Schweizer Billie-Jean-King-Cup-Team hat die Playoff-Begegnung in Nonthaburi gegen Gastgeber Thailand mit 1:3 verloren und ist damit nicht mehr erstklassig. Die Entscheidung fiel im Doppel, das Simona Waltert und Naïma Karamoko nach gut drei Stunden 6:3, 6:7 (7:9), 3:6 verloren. Bereits am Samstag hatten Waltert und Jil Teichmann ihre Einzel verloren; den Schweizer Punkt holte Susan Bandecchi im letzten, nicht mehr entscheidenden Einzel. Gespielt wurde bei Temperaturen von bis zu 40 Grad.",
+      "sources": [
+        {
+          "name": "SRF: Waltert/Karamoko verlieren Doppel – die Schweiz steigt ab",
+          "url": "https://www.srf.ch/sport/tennis/billie-jean-king-cup/billie-jean-king-cup-waltert-karamoko-verlieren-doppel-die-schweiz-steigt-ab",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/sport-bjkc-abstieg-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Tennisplatz in der Hitze mit Netz, zwei Schlägern auf einer Bank und Palmen im Hintergrund.",
+        "caption": "Symbolbild zum Billie Jean King Cup",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-super-league-fcz-stgallen",
+      "section": "Sport",
+      "headline": "Super League: FCZ rettet gegen St. Gallen einen Punkt",
+      "summary": "Der FC Zürich und der FC St. Gallen haben sich in der 14. Runde der Super League im Letzigrund 2:2 getrennt. St. Gallen drehte mit zwei Toren von Andrin Hunziker (51./77.) einen Rückstand, ehe Alexander Hack in der 88. Minute für den FCZ ausglich. Die Zürcher sind damit seit acht Meisterschaftsspielen ungeschlagen. Rund 15'000 Zuschauerinnen und Zuschauer verfolgten die Partie bei strömendem Regen.",
+      "sources": [
+        {
+          "name": "SRF: Hack rettet dem FCZ gegen St. Gallen einen Punkt",
+          "url": "https://www.srf.ch/sport/fussball/super-league/2-2-im-regen-im-letzigrund-hunziker-doppelpack-reicht-nicht-hack-rettet-dem-fcz-einen-punkt",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-22-evening/sport-super-league-fcz-stgallen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Fussball in einer Pfütze auf einem verregneten Rasen vor einem Tor unter Flutlicht.",
+        "caption": "Symbolbild zur Super League",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-22-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-22T17:56:06+01:00",
+    "ready_at": "2026-11-22T17:59:36+01:00",
+    "content_hash": "sha256:f65568fad184c461629444714a5c5af633c3176e8869c75b3b0962d982cfb1d8",
+    "image_rights": {
+      "politik-cop31-ohne-einigung": {
+        "rights": "ai_generated_own"
+      },
+      "politik-svp-ticket-romandie-kritik": {
+        "rights": "ai_generated_own"
+      },
+      "politik-prelicz-huber-ruecktritt": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-bankenreform-widerstand": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-menziken-garagenexplosion": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-biel-stichwaffe-festnahme": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-stans-arbeitsunfall": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-biasca-velounfall": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-museen-klimawandel": {
+        "rights": "ai_generated_own"
+      },
+      "sport-nef-slalom-podest": {
+        "rights": "ai_generated_own"
+      },
+      "sport-bjkc-abstieg": {
+        "rights": "ai_generated_own"
+      },
+      "sport-super-league-fcz-stgallen": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-cop31-ohne-einigung": {
+        "path": "media/politik-cop31-ohne-einigung-1024-r01.jpg",
+        "sha256": "968feaa7a255aa3ae035d6b920679d8c80ac33c51f294ac1fb7e4aa6080c3ffa",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bf04f217e69e3cf2671c9ad71b4b036fe785a48c810196af8399f3bfb74c06c4.jpg",
+        "original_sha256": "bf04f217e69e3cf2671c9ad71b4b036fe785a48c810196af8399f3bfb74c06c4",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A round conference table with an empty chair circle and a single unsigned blank document in the middle, a stylized globe and a faint factory chimney silhouette in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-svp-ticket-romandie-kritik": {
+        "path": "media/politik-svp-ticket-romandie-kritik-1024-r01.jpg",
+        "sha256": "7b5e112662013f49fc985bf742cfc7da8e494ced8553e50a016c2aa98502cc7b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0f2d66dd8ae79449e31124aabee850eed9b9397ad34e5d88c8646cd6679cb9d6.jpg",
+        "original_sha256": "0f2d66dd8ae79449e31124aabee850eed9b9397ad34e5d88c8646cd6679cb9d6",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two blank folded ballot slips on a wooden lectern, and a stylised map outline of a small alpine country split into a western and eastern part by a thin crack, soft lighting. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-prelicz-huber-ruecktritt": {
+        "path": "media/politik-prelicz-huber-ruecktritt-1024-r01.jpg",
+        "sha256": "d921277f4d3bc69938376dba9389ad5ee93fffa0fac29a701722f4697061e195",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/66439fa041cd7ba135041d604250b149d55e9b41e17e82255cb6b04ec65fd122.jpg",
+        "original_sha256": "66439fa041cd7ba135041d604250b149d55e9b41e17e82255cb6b04ec65fd122",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty parliament seat with a folded jacket on its backrest and an open calendar beside it, semicircular empty benches in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-bankenreform-widerstand": {
+        "path": "media/wirtschaft-bankenreform-widerstand-1024-r01.jpg",
+        "sha256": "512855383f30b749da55a5b993b5dcbad9e697c4753e74e83a7f1dd127418d3f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ed1ea581dc801ebd0ca2e980ecba32284855763f34386d78c4a441f2c5fd753c.jpg",
+        "original_sha256": "ed1ea581dc801ebd0ca2e980ecba32284855763f34386d78c4a441f2c5fd753c",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A classical bank facade silhouette next to a large scale balancing a stack of gold coins against a thick bound rule book, muted blue and grey tones. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-menziken-garagenexplosion": {
+        "path": "media/regionen-menziken-garagenexplosion-1024-r01.jpg",
+        "sha256": "873de5dde524be05815efece0c1415b50004834dfb8755b504fe9246cc0721ce",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/61b1c8e22317a4c3634c2e5ddfe3a7170e91eb815a5d5b07a16b03532c44e1e4.jpg",
+        "original_sha256": "61b1c8e22317a4c3634c2e5ddfe3a7170e91eb815a5d5b07a16b03532c44e1e4",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A generic residential garage row at dusk with one garage door bent outward, light smoke, a fire engine silhouette parked nearby with blue lights, no recognisable place. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-biel-stichwaffe-festnahme": {
+        "path": "media/regionen-biel-stichwaffe-festnahme-1024-r01.jpg",
+        "sha256": "9accde96e3820cd6bdd1cfcdb978fe4c5e38c4cbb23c38ee26c6accc48418956",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b241586a7eecdfa0bd97dcdc966158911cd8bdf1fc4e4dbf87b0ddae3b20a4da.jpg",
+        "original_sha256": "b241586a7eecdfa0bd97dcdc966158911cd8bdf1fc4e4dbf87b0ddae3b20a4da",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A quiet old-town alley at night with cobblestones, a police barrier tape across it and the blue glow of an emergency light on the walls, no weapon shown, no people. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-stans-arbeitsunfall": {
+        "path": "media/regionen-stans-arbeitsunfall-1024-r01.jpg",
+        "sha256": "468a9f417c458140657a77951a4a97f5cf1542344fa639f614aed832b1dfebc7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/995384221a7dc26a2d5f2d50178d9277986577a519c04534a8cf6d9d53834e01.jpg",
+        "original_sha256": "995384221a7dc26a2d5f2d50178d9277986577a519c04534a8cf6d9d53834e01",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Interior of a generic woodworking workshop with neatly stacked wooden panels, a forklift and a yellow warning sign without text, calm muted tones. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-biasca-velounfall": {
+        "path": "media/regionen-biasca-velounfall-1024-r01.jpg",
+        "sha256": "35057f14f10067daa7d56c5a5c99577477f92fe4b849b1f1b2dcc8742118055f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/16f1557b99b84c5aaeabb4ad9fb26a6ffef11a16400207a737e0c4fecbcc97e3.jpg",
+        "original_sha256": "16f1557b99b84c5aaeabb4ad9fb26a6ffef11a16400207a737e0c4fecbcc97e3",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty roundabout street at night with an overturned bicycle lying on the asphalt, illuminated by the blue glow of an ambulance light from out of frame. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-museen-klimawandel": {
+        "path": "media/gesellschaft-museen-klimawandel-1024-r01.jpg",
+        "sha256": "44db7a7c379fb8e570a45f83a595a50b1662ac4303f6aab4971a0e3138a9884b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/5093d2e55e95d6c6a32e689f769f12d10d1134cebb54d3ef200146fa2087ce0c.jpg",
+        "original_sha256": "5093d2e55e95d6c6a32e689f769f12d10d1134cebb54d3ef200146fa2087ce0c",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. Inside a generic natural history museum storage room, wooden display cabinets with glass doors holding stuffed songbirds and a small owl, a hygrometer device on a shelf, soft warm light, no recognisable museum. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-nef-slalom-podest": {
+        "path": "media/sport-nef-slalom-podest-1024-r01.jpg",
+        "sha256": "81aa16446cf56bd82b0f50e85d2877164fd93f10d958bd2066757f3ab097fb34",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bfc7f0e6b15ada9d1e3394ab9db4140a6ec262e4d55927df82b016f29f247fcb.jpg",
+        "original_sha256": "bfc7f0e6b15ada9d1e3394ab9db4140a6ec262e4d55927df82b016f29f247fcb",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. Close-up of red and blue slalom gates on a steep icy ski piste during light snowfall, ski tracks in the snow, blurred alpine forest background, no athlete. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-bjkc-abstieg": {
+        "path": "media/sport-bjkc-abstieg-1024-r01.jpg",
+        "sha256": "6f18fa9ca51ca4c9e2a8ee73016e0a603be21ae174892498ed106e8c07d6fb75",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b98563b75afa6793fb4b59dd1e090ae154725cc5577e6b81f209578fbb89a96a.jpg",
+        "original_sha256": "b98563b75afa6793fb4b59dd1e090ae154725cc5577e6b81f209578fbb89a96a",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A tennis court on a hot sunny day with a net, two rackets lying on a bench and a water bottle, heat haze, tropical palm silhouettes behind. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-super-league-fcz-stgallen": {
+        "path": "media/sport-super-league-fcz-stgallen-1024-r01.jpg",
+        "sha256": "4c49c10ffccc6b15d502b1bf75620ca7fa688b2c4f920ff71f2fc113f19c8cf5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-22T17:59:29+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-22",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-22 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7b92223fbeda40c70facf1ba9c3fd6bce2b3bf25937da52875a79df3cabf86eb.jpg",
+        "original_sha256": "7b92223fbeda40c70facf1ba9c3fd6bce2b3bf25937da52875a79df3cabf86eb",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A football lying in a puddle on a rain-soaked pitch in front of a goal net under floodlights, heavy rain streaks, empty stands in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
