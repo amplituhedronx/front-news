@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-23T17:55:44+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-gruene-klopfenstein-kandidatur",
+      "section": "Politik",
+      "headline": "Grüne nominieren Delphine Klopfenstein Broggini gegen das SVP-Ticket",
+      "summary": "Die Grünen schicken die Genfer Nationalrätin Delphine Klopfenstein Broggini in die Bundesratswahl vom 9. Dezember, bei der die Nachfolge des Waadtländer SVP-Bundesrats Guy Parmelin bestimmt wird. Die SVP-Fraktion hatte am Freitag Fraktionschef Thomas Aeschi (ZG) und Nationalrat Michael Graber (VS) nominiert; die Grünen bezeichnen dieses Ticket als Provokation und als Affront gegenüber der Romandie und den Frauen. Die 50-Jährige setzte sich fraktionsintern nach sechs Wahlgängen gegen die Waadtländerinnen Léonore Porchet und Sophie Michaud Gigon durch. SVP-Präsident Marcel Dettling kritisierte das Vorgehen scharf und verwies auf die Konkordanz; Mitte und FDP halten am Anspruch der SVP auf zwei Bundesratssitze fest.",
+      "sources": [
+        {
+          "name": "SRF: Grüne schicken Sprengkandidatin ins Rennen",
+          "url": "https://www.srf.ch/news/schweiz/nach-svp-bundesratsticket-gruene-schicken-sprengkandidatin-ins-rennen",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Grüne wollen mit Nationalrätin Alternative zum SVP-Ticket bieten",
+          "url": "https://www.swissinfo.ch/ger/gr%c3%bcne-wollen-mit-nationalr%c3%a4tin-alternative-zum-svp-ticket-bieten/92424051",
+          "published_at": "2026-11-23T15:39:08+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Reaktionen von SVP, Mitte und FDP auf die Grünen-Kandidatur",
+          "url": "https://www.20min.ch/story/bundesratswahl-gruene-kandidieren-gegen-svp-bundesratsticket-103672472",
+          "published_at": "2026-11-23T14:04:23+01:00",
+          "updated_at": "2026-11-23T15:54:31+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/politik-gruene-klopfenstein-kandidatur-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein halbrunder Parlamentssaal mit leeren Pulten und einer Urne, daneben ein grüner und zwei graue Stimmzettel.",
+        "caption": "Symbolbild zur Bundesratswahl vom 9. Dezember",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-buffat-prozess-renens",
+      "section": "Politik",
+      "headline": "Prozess gegen SVP-Nationalrat Michaël Buffat in Renens eröffnet",
+      "summary": "Vor dem Strafgericht in Renens VD hat am Montag der Prozess gegen den Waadtländer SVP-Nationalrat Michaël Buffat und seine Ex-Frau begonnen; beide sind zugleich Kläger und Beschuldigte. Die Anklage wirft Buffat unter anderem einfache Körperverletzung, Drohung, Nötigung, Freiheitsberaubung und Entführung während der knapp achtjährigen Ehe vor, der Ex-Frau werden enger umrissene Taten zur Last gelegt. Buffat räumte vor Gericht Beleidigungen, Ohrfeigen und Fusstritte ein, sieht die Verantwortung aber bei beiden und bezeichnete ärztliche Atteste als «konstruiert». Die Ex-Frau schilderte eine von wiederholter Gewalt geprägte Beziehung; für beide gilt die Unschuldsvermutung.",
+      "sources": [
+        {
+          "name": "SRF: SVP-Nationalrat Michaël Buffat vor Gericht – die Vorwürfe",
+          "url": "https://www.srf.ch/news/schweiz/svp-nationalrat-vor-gericht-michael-buffat-wollte-kommandieren-kontrollieren-korrigieren",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Buffat und Ex-Frau beschuldigen sich vor Gericht gegenseitig",
+          "url": "https://www.20min.ch/story/michael-buffat-vor-gericht-svp-nationalrat-und-ex-frau-beschuldigen-sich-103672619",
+          "published_at": "2026-11-23T17:27:21+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/politik-buffat-prozess-renens-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leerer Gerichtssaal mit Richterpult, Hammer, Akten und einer Waage.",
+        "caption": "Symbolbild zum Strafprozess in Renens",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-micasa-ceo-ruecktritt",
+      "section": "Wirtschaft",
+      "headline": "Micasa-Chef Manuel Landolt tritt nach wenigen Wochen zurück",
+      "summary": "Beim Möbelhändler Micasa kommt es erneut zu einem Wechsel an der Spitze: CEO Manuel Landolt verlässt das Unternehmen voraussichtlich Ende Februar 2027, wie Micasa am Montag mitteilte. Landolt hatte die Gesamtführung erst Ende Oktober vom abtretenden Philipp Agustoni übernommen; einen Grund für den Rücktritt nennt das Unternehmen nicht. Die frühere Migros-Tochter war im vergangenen Jahr per Management-Buy-out verkauft worden und gehört seit Anfang Oktober dem Logistikunternehmer Toni Shala. Laut einem «Blick»-Bericht sind zugesagte Kapitaleinschüsse teilweise ausgeblieben; über die Nachfolge will der Verwaltungsrat später informieren.",
+      "sources": [
+        {
+          "name": "SRF: Micasa-Chef Manuel Landolt tritt zurück",
+          "url": "https://www.srf.ch/news/wirtschaft/detailhandel-micasa-chef-manuel-landolt-tritt-zurueck",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Micasa-Chef Manuel Landolt tritt zurück",
+          "url": "https://www.swissinfo.ch/ger/micasa-chef-manuel-landolt-tritt-zur%c3%bcck/92424744",
+          "published_at": "2026-11-23T15:30:36+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/wirtschaft-micasa-ceo-ruecktritt-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leerer Möbel-Ausstellungsraum mit Sofa und Lampe, ein leerer Bürostuhl und eine abwärts zeigende Kurve an der Wand.",
+        "caption": "Symbolbild zum Führungswechsel bei Micasa",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-kaffeepreise-gastro",
+      "section": "Wirtschaft",
+      "headline": "Café crème im Restaurant wird erneut teurer",
+      "summary": "Eine Tasse Café crème kostet in Deutschschweizer Restaurants und Konditoreien 2026 im Schnitt 4.71 Franken, ein Cappuccino 5.46 Franken – 1,3 beziehungsweise 1,7 Prozent mehr als 2025, wie Zahlen des Branchenverbands CafetierSuisse zeigen. Erhöht hat allerdings nur gut ein Viertel der Betriebe, meist um 20 Rappen; bei 68 Prozent blieb der Preis gleich, fünf Prozent senkten ihn. Am teuersten ist der Kaffee in Zug und Zürich, in der Romandie liegen die Preise zwischen 3.78 Franken in Neuenburg und 4.33 Franken in Freiburg, im Tessin kostet eine Tasse im Schnitt 2.55 Franken. Als Hauptgründe nennt der Verband höhere Lohn-, Energie- und Mietkosten; auch Rohkaffee ist deutlich teurer als im langjährigen Mittel.",
+      "sources": [
+        {
+          "name": "SRF: Kaffeetrinken in der Beiz kostet mehr",
+          "url": "https://www.srf.ch/news/schweiz/cafe-creme-und-cappuccino-kaffeetrinken-in-der-beiz-kostet-mehr",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/wirtschaft-kaffeepreise-gastro-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Café crème und ein Cappuccino auf einem Tisch, daneben Münzen und ein Pfeil aus Kaffeebohnen.",
+        "caption": "Symbolbild zu den Kaffeepreisen in der Gastronomie",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-tram-affoltern-kredit",
+      "section": "Zürich & Regionen",
+      "headline": "Zürcher Kantonsrat bewilligt 365 Millionen Franken für das Tram Affoltern",
+      "summary": "Der Zürcher Kantonsrat hat am Montag mit 123 zu 46 Stimmen einen Beitrag von 365 Millionen Franken aus dem Verkehrsfonds für das Tram Affoltern genehmigt; das Quorum der Ausgabenbremse wurde deutlich übertroffen. Volkswirtschaftsdirektorin Carmen Walker Späh (FDP) bezeichnete das Vorhaben als Projekt zur Neugestaltung eines ganzen Quartiers. Die SVP stimmte geschlossen dagegen mit dem Argument, das Tram nütze fast nur der Stadtbevölkerung und die Stadt solle es selbst finanzieren. Ob die SVP das Referendum ergreift, ist offen; gegen die Glattalbahn und das Tram Hardbrücke hatte sie dies früher getan.",
+      "sources": [
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Kantonsrat genehmigt 365 Millionen fürs Tram Affoltern",
+          "url": "https://www.swissinfo.ch/ger/z%c3%bcrcher-kantonsrat-genehmigt-365-millionen-f%c3%bcrs-tram-affoltern/92423354",
+          "published_at": "2026-11-23T16:48:41+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Debatte und mögliches Referendum zum Tram Affoltern (Paywall möglich)",
+          "url": "https://www.nzz.ch/zuerich/kantonsrat-zuerich-auto-und-velofreunde-gemeinsam-gegen-neues-tram-ld.10072343",
+          "published_at": "2026-11-23T17:15:52+01:00",
+          "updated_at": "2026-11-23T17:43:19+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/regionen-tram-affoltern-kredit-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein modernes Tram auf neuen Gleisen in einer baumgesäumten Stadtstrasse mit Velostreifen.",
+        "caption": "Symbolbild zum Kredit für das Tram Affoltern",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-malters-tatverdaechtiger",
+      "section": "Zürich & Regionen",
+      "headline": "Toter Mann aus Malters LU: Tatverdächtiger in Auslieferungshaft",
+      "summary": "Im Fall eines 56-jährigen Mannes aus Malters LU, der seit dem 18. Juni vermisst und Mitte September tot aufgefunden worden war, gehen die Ermittler inzwischen von einem Gewaltdelikt aus. Das teilte die Luzerner Staatsanwaltschaft am Montag mit. Ein Tatverdächtiger wurde bereits im September im Ausland festgenommen und sitzt in Auslieferungshaft; er soll so bald wie möglich an die Schweiz ausgeliefert und befragt werden. Für ihn gilt die Unschuldsvermutung, weitere Angaben machen die Behörden bis zum Abschluss der Untersuchung nicht.",
+      "sources": [
+        {
+          "name": "20 Minuten: Malters LU – Tatverdächtiger im Ausland festgenommen",
+          "url": "https://www.20min.ch/story/malters-lu-wurde-w-l-56-getoetet-tatverdaechtiger-im-ausland-festgenommen-103672358",
+          "published_at": "2026-11-23T09:56:31+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/regionen-malters-tatverdaechtiger-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein geschlossenes Ermittlungsdossier mit Lupe auf einem Tisch, durch das Fenster eine hügelige Landschaft.",
+        "caption": "Symbolbild zu den Ermittlungen im Fall Malters",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-rheinfelden-schule-geschlossen",
+      "section": "Zürich & Regionen",
+      "headline": "Schulanlage Robersten in Rheinfelden AG wegen Dachelementen geschlossen",
+      "summary": "Die Stadt Rheinfelden hat die Schulanlage Robersten vorsorglich für eine Woche geschlossen; rund 200 Kinder und ihre Eltern sind betroffen. Externe Fachleute stellten fest, dass von den verbauten Porenbeton-Dachelementen in den Schrägdächern ein Risiko ausgeht, auch wenn keine sichtbaren Schäden vorliegen. Ursprünglich war am 9. November nur die Turnhalle gesperrt worden. Ab Dienstag bietet die Stadt eine Tagesbetreuung an, der Unterricht soll ab kommendem Montag wieder stattfinden, während die Dachelemente gesichert werden.",
+      "sources": [
+        {
+          "name": "SRF: Schule in Rheinfelden AG aus Sicherheitsgründen geschlossen",
+          "url": "https://www.srf.ch/news/schweiz/instabile-betonplatten-schule-in-rheinfelden-ag-aus-sicherheitsgruenden-geschlossen",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF: 200 Kinder haben schulfrei – so erlebt eine Mutter die Situation",
+          "url": "https://www.srf.ch/news/schweiz/schulanlage-rheinfelden-ag-zu-200-kinder-haben-schulfrei",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/regionen-rheinfelden-schule-geschlossen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein allgemeines Schulhaus mit Schrägdach, abgesperrtem Eingang und leerem Pausenplatz.",
+        "caption": "Symbolbild zur geschlossenen Schulanlage",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-zoo-zuerich-gorilla",
+      "section": "Gesellschaft",
+      "headline": "Zweites Gorilla-Jungtier innert vier Monaten im Zoo Zürich",
+      "summary": "Im Zoo Zürich hat Gorillaweibchen Haiba am Sonntag ein männliches Jungtier namens Asakana zur Welt gebracht; Vater ist Bwana. Für Haiba ist es der erste Nachwuchs, bereits Ende Juli war bei Weibchen Mayumi das Jungtier Amata geboren worden. Laut Zoodirektor Severin Dressen leistet die seit einem Jahr zusammenlebende Gruppe mit der Zucht einen Beitrag zum Schutz der Westlichen Flachlandgorillas. Die ersten Wochen gelten laut Zoo als fragile Phase; bis die Jungtiere selbstständig die Gruppe erkunden, vergehen mehrere Monate.",
+      "sources": [
+        {
+          "name": "20 Minuten: Gorillaweibchen Haiba bringt Asakana zur Welt",
+          "url": "https://www.20min.ch/story/zoo-zuerich-gorillaweibchen-haiba-bringt-jungtier-asakana-zur-welt-103672429",
+          "published_at": "2026-11-23T12:20:52+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger: Gorilla-Jungtier im Zoo Zürich gesund zur Welt gekommen (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/zoo-zuerich-gorilla-askana-kommt-gesund-zur-welt-783367883392",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/gesellschaft-zoo-zuerich-gorilla-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Gorillaweibchen hält ein neugeborenes Jungtier in einer grünen Anlage mit Farnen.",
+        "caption": "Symbolbild zum Gorilla-Nachwuchs",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-zvv-fahrplanwechsel",
+      "section": "Verkehr & Wetter",
+      "headline": "Rund 200 Änderungen beim ZVV-Fahrplanwechsel am 13. Dezember",
+      "summary": "Mit dem Fahrplanwechsel am 13. Dezember treten im Zürcher Verkehrsverbund rund 200 Anpassungen in Kraft, die Pünktlichkeit, Anschlüsse und Kapazitäten verbessern sollen. Nach 364 Tagen Umbau geht die hindernisfreie Tramhaltestelle Bahnhofquai/HB wieder in Betrieb, womit die Trams wieder durchgehend durch die Innenstadt fahren. Im Busnetz gibt es fast überall Änderungen, etwa die Winterthurer Linie 7 über die Leonie-Moser-Brücke, die Postauto-Linie 830 Uster–Pfäffikon im Viertelstundentakt und die neue Linie 120 von Richterswil nach Wädenswil. Bei der S-Bahn wirken sich zudem die Bauarbeiten am Projekt «MehrSpur Zürich–Winterthur» aus.",
+      "sources": [
+        {
+          "name": "20 Minuten: 200 Fahrplanänderungen im ZVV – das ist ab Dezember neu",
+          "url": "https://www.20min.ch/story/zuercher-oev-200-fahrplanaenderungen-im-zvv-das-ist-ab-dezember-neu-103672457",
+          "published_at": "2026-11-23T16:46:48+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/verkehr-zvv-fahrplanwechsel-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: Tram, Bus und S-Bahn auf einer vereinfachten Netzkarte, daneben Uhr und Kalenderblatt.",
+        "caption": "Symbolbild zum Fahrplanwechsel im ZVV",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-schnee-glaette",
+      "section": "Verkehr & Wetter",
+      "headline": "Wintereinbruch: Schnee bis in tiefere Lagen, Glätte möglich",
+      "summary": "Die Schneefallgrenze lag am Montag vielerorts bei 600 Metern im Westen und bis 1000 Metern im Osten; unter anderem in Landquart GR und auf dem Bachtel im Zürcher Oberland wurde es weiss. Nach einer kurzen Pause am Dienstag folgt ab Mittwoch eine weitere, schwächere Niederschlagsphase, am Donnerstag sind nasse Flocken laut Meteorologen auch im östlichen Mittelland möglich. Für die Stadt St. Gallen auf rund 670 Metern sind am Donnerstag Temperaturen um 0 Grad und Schnee angesagt. Meteorologen raten Autofahrenden, die winterlichen Strassenverhältnisse diese Woche ernst zu nehmen.",
+      "sources": [
+        {
+          "name": "SRF Meteo: Erste Flocken im Mittelland – auch im Flachland kann es glatt werden",
+          "url": "https://www.srf.ch/news/schweiz/erste-flocken-im-mittelland-auch-im-flachland-kann-es-diese-woche-glatt-werden",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Meteorologe warnt Autofahrer vor winterlichen Strassen",
+          "url": "https://www.20min.ch/story/schnee-in-der-schweiz-meteorologe-warnt-autofahrer-vor-winterlichen-strassen-103672437",
+          "published_at": "2026-11-23T12:24:49+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger: Erster Schnee auf dem Bachtel (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/schnee-im-kanton-zuerich-bachtel-ist-weiss-192837753621",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/wetter-schnee-glaette-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: eine Landstrasse mit dünner Neuschneedecke zwischen verschneiten Tannen und Feldern bei leichtem Schneefall.",
+        "caption": "Symbolbild zum Wintereinbruch",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-frauen-wm-2028-zuerich-freiburg",
+      "section": "Sport",
+      "headline": "Frauen-Eishockey-WM 2028 findet in Zürich und Freiburg statt",
+      "summary": "Die Eishockey-Weltmeisterschaft der Frauen 2028 in der Schweiz wird in Zürich und Freiburg ausgetragen, wie Swiss Ice Hockey am Montag mitteilte. Es sind dieselben Austragungsorte wie bei der Männer-WM 2026, auch im Organisationskomitee setzt der Verband auf personelle Kontinuität. Das Turnier findet im November 2028 statt. Der Verband will damit die Entwicklung des Frauen-Eishockeys nachhaltig vorantreiben.",
+      "sources": [
+        {
+          "name": "SRF Sport: Frauen-WM-Spiele 2028 in Zürich und Freiburg",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-dem-eishockey-frauen-wm-spiele-2028-in-zuerich-und-freiburg",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/sport-frauen-wm-2028-zuerich-freiburg-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leeres Eishockeystadion mit Eisfeld, zwei Toren sowie Stock und Puck am Mittelkreis.",
+        "caption": "Symbolbild zur Frauen-Eishockey-WM 2028",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-paetz-curling-grand-slam",
+      "section": "Sport",
+      "headline": "Curlerin Alina Pätz gewinnt mit neuem Team ersten Grand-Slam-Titel",
+      "summary": "Das Team des CC Genf mit Skip Alina Pätz, Selina Witschonke, Stefanie Berset und Renée Frigo hat das Grand-Slam-Turnier HearingLife National in Sydney auf der kanadischen Kap-Breton-Insel gewonnen. Im Final setzte es sich mit 8:7 gegen das bis dahin ungeschlagene japanische Team um Miku Nihira durch. Das neu formierte Team hatte Anfang November bereits EM-Silber gewonnen; Pätz hatte ihre ersten sechs Grand-Slam-Titel an der Seite der zurückgetretenen Silvana Tirinzoni geholt. Bei den Männern verlor das Team um Yannick Schwaller den Final gegen das kanadische Quartett um Brad Jacobs.",
+      "sources": [
+        {
+          "name": "SRF Sport: Pätz feiert mit neuem Team den ersten Grand-Slam-Titel",
+          "url": "https://www.srf.ch/sport/mehr-sport/curling/erfolg-in-kanada-paetz-feiert-mit-neuem-team-den-ersten-grand-slam-titel",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-evening/sport-paetz-curling-grand-slam-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: Curlingsteine mit roten und gelben Griffen auf dem Eis, daneben ein Besen.",
+        "caption": "Symbolbild zum Grand-Slam-Sieg im Curling",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-23-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-23T17:53:14+01:00",
+    "ready_at": "2026-11-23T17:55:44+01:00",
+    "content_hash": "sha256:b786aebacdd75f85331d4b14673b4464349396d02c03d9d9ef5445f6a10cb7a8",
+    "image_rights": {
+      "politik-gruene-klopfenstein-kandidatur": {
+        "rights": "ai_generated_own"
+      },
+      "politik-buffat-prozess-renens": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-micasa-ceo-ruecktritt": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-kaffeepreise-gastro": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-tram-affoltern-kredit": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-malters-tatverdaechtiger": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-rheinfelden-schule-geschlossen": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-zoo-zuerich-gorilla": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-zvv-fahrplanwechsel": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-schnee-glaette": {
+        "rights": "ai_generated_own"
+      },
+      "sport-frauen-wm-2028-zuerich-freiburg": {
+        "rights": "ai_generated_own"
+      },
+      "sport-paetz-curling-grand-slam": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-gruene-klopfenstein-kandidatur": {
+        "path": "media/politik-gruene-klopfenstein-kandidatur-1024-r01.jpg",
+        "sha256": "f8bd18da4bd6692af25355b8e1935f865c57488fa1f101c0acce583f07f760d0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/19bad1d9f34bbab6f8025bb4326a09966af98d97f653766f6a4e710e561a57a2.jpg",
+        "original_sha256": "19bad1d9f34bbab6f8025bb4326a09966af98d97f653766f6a4e710e561a57a2",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A stylised semicircular federal parliament chamber with rows of empty desks, a ballot box in the centre, and one green ballot card placed beside two grey ballot cards on a lectern. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-buffat-prozess-renens": {
+        "path": "media/politik-buffat-prozess-renens-1024-r01.jpg",
+        "sha256": "0a16da70d0daf63fcbefb0937386a20f602fde3c92352392c2b32d8df04cf7c3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4db8e3c75bcf8e02a96708ad6c6cbfd74664d61edd241c9532b15c983111ef4c.jpg",
+        "original_sha256": "4db8e3c75bcf8e02a96708ad6c6cbfd74664d61edd241c9532b15c983111ef4c",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty courtroom with a wooden judge's bench, a small gavel, closed case files and a scale of justice on a table, soft daylight from tall windows. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-micasa-ceo-ruecktritt": {
+        "path": "media/wirtschaft-micasa-ceo-ruecktritt-1024-r01.jpg",
+        "sha256": "4dc7049252651490d02595f42e40300c4f30ef71427ba99087cff7647827b198",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bfeaacba4ff668e6e83d859dec6e973912a19ebba231dcc488dff0fb1e2e96b9.jpg",
+        "original_sha256": "bfeaacba4ff668e6e83d859dec6e973912a19ebba231dcc488dff0fb1e2e96b9",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty furniture showroom with a sofa, a floor lamp and a coffee table, an empty office chair turned away from a desk in the foreground, a falling sales arrow drawn as an abstract curve on a wall. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-kaffeepreise-gastro": {
+        "path": "media/wirtschaft-kaffeepreise-gastro-1024-r01.jpg",
+        "sha256": "8509e5e7f8cdbab76b1e35c4ee4ec7d610af8cfa73415aa7045246f628cde7a7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/15f3d0f803236c972a01bf359c8724e72eee22722c99f11c5e429c7a5da5f3fe.jpg",
+        "original_sha256": "15f3d0f803236c972a01bf359c8724e72eee22722c99f11c5e429c7a5da5f3fe",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A café table with a cup of café crème and a cappuccino with milk foam on saucers, a few coins stacked beside them, a small upward arrow shape made of coffee beans. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-tram-affoltern-kredit": {
+        "path": "media/regionen-tram-affoltern-kredit-1024-r01.jpg",
+        "sha256": "4bb64d08699e4718c535eb69e774ff9e9a2617d88de04218902d2297110bece0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3d4a8c5c5c024dcb6316fad3915c85ef7fcb928691f9e12b7942b554c96ffa35.jpg",
+        "original_sha256": "3d4a8c5c5c024dcb6316fad3915c85ef7fcb928691f9e12b7942b554c96ffa35",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A modern blue and white city tram on new tracks running along a tree-lined urban street with a cycle lane and a footpath, residential buildings in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-malters-tatverdaechtiger": {
+        "path": "media/regionen-malters-tatverdaechtiger-1024-r01.jpg",
+        "sha256": "0ed40ef1930604c9091f98c4af489eac5d4d4fc83cd014cce117b604fae416e7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ace00c5a4900ee59612d6d436f6df5fdbc8df286c0db07f711adc2042c654938.jpg",
+        "original_sha256": "ace00c5a4900ee59612d6d436f6df5fdbc8df286c0db07f711adc2042c654938",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A closed investigation file folder with a magnifying glass on a desk, a stylised rural landscape with rolling green hills and a small forest seen through a window. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-rheinfelden-schule-geschlossen": {
+        "path": "media/regionen-rheinfelden-schule-geschlossen-1024-r01.jpg",
+        "sha256": "36a7d845649f924e713ccce52a46953ff8e7f979fe2cfcfff6148e82571f3b95",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8a0713003d199dc725af460fabda2d47c49b46eeb2bb8c403817b51a9ffea42b.jpg",
+        "original_sha256": "8a0713003d199dc725af460fabda2d47c49b46eeb2bb8c403817b51a9ffea42b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A generic school building with sloped roofs, a closed entrance door with a simple safety barrier in front, an empty schoolyard with a basketball hoop, overcast sky. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-zoo-zuerich-gorilla": {
+        "path": "media/gesellschaft-zoo-zuerich-gorilla-1024-r01.jpg",
+        "sha256": "ac1023f92cad56799838d9c18f7324820245b88afeb8836de6a07296aa128c44",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/819c5cae2a8fc1f1cc550b1795f988dac4b71154b03f356b0280dd67d2c3647b.jpg",
+        "original_sha256": "819c5cae2a8fc1f1cc550b1795f988dac4b71154b03f356b0280dd67d2c3647b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A mother gorilla gently holding a tiny newborn gorilla baby against her chest in a lush green enclosure with ferns and tree trunks. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-zvv-fahrplanwechsel": {
+        "path": "media/verkehr-zvv-fahrplanwechsel-1024-r01.jpg",
+        "sha256": "a7d931f4fbf4adf9ee7b4aded4704741c85911cc99c2e7a310c351aee9941102",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b3aedcad6ce978d0b81586214e0878098fbc0e967c989c2d36014923051a0639.jpg",
+        "original_sha256": "b3aedcad6ce978d0b81586214e0878098fbc0e967c989c2d36014923051a0639",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A stylised regional transport network: a tram, a yellow regional bus and a double-decker suburban train crossing on a simplified map with lines and stops, a wall clock and a calendar page without numbers. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-schnee-glaette": {
+        "path": "media/wetter-schnee-glaette-1024-r01.jpg",
+        "sha256": "932fe2f1bff1ce46e9560aeb85bcb7dd3ecc48f8d6f864e9f48834bfb9ebaee1",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f2afcc38f90c2e8f04bff0a55ba653bacc461c4132ca7ed686fbc916fba97f2c.jpg",
+        "original_sha256": "f2afcc38f90c2e8f04bff0a55ba653bacc461c4132ca7ed686fbc916fba97f2c",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. A quiet rural road in hilly countryside covered with a thin layer of fresh wet snow, snow-dusted fir trees and fields, grey low clouds, light snowfall, a snow marker pole at the roadside, no vehicles. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-frauen-wm-2028-zuerich-freiburg": {
+        "path": "media/sport-frauen-wm-2028-zuerich-freiburg-1024-r01.jpg",
+        "sha256": "5f0f858a3a269e27ed57bb611424a5d4e6c06000c77772ea923915a045de96b8",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b3b76360f5a796947624c07d040eb9c3636eeb69e1fee3c783ecff74e8106e4d.jpg",
+        "original_sha256": "b3b76360f5a796947624c07d040eb9c3636eeb69e1fee3c783ecff74e8106e4d",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty ice hockey arena with a clean ice rink, two goals with nets, a hockey stick and a puck at centre ice, rows of empty seats, bright arena lights. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-paetz-curling-grand-slam": {
+        "path": "media/sport-paetz-curling-grand-slam-1024-r01.jpg",
+        "sha256": "1b5dac2eb1d123978f84fcda3600709eb15ecf8a4430a89b9dbb867bbe870daa",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T17:55:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/954be8c3345fe161b0c8553a07a688474994ace09f016e006d58f3a3fe2be069.jpg",
+        "original_sha256": "954be8c3345fe161b0c8553a07a688474994ace09f016e006d58f3a3fe2be069",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. Close-up of several granite curling stones with red and yellow handles resting on pebbled ice near the house rings, a curling broom lying on the ice, soft arena lighting, shallow depth of field. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
