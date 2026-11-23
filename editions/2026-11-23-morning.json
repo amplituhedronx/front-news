@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-23T06:55:51+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-ustertag-protest-verhindert",
+      "section": "Politik",
+      "headline": "Polizei verhindert Protestaktion bei Röstis Ustertag-Rede",
+      "summary": "Die Kantonspolizei Zürich hat am Sonntag in Uster eine geplante Störaktion gegen Bundesrat Albert Rösti verhindert. 28 Personen aus dem Umfeld des Drop-Kollektivs und der Juso Oberland wurden kontrolliert und «wegen möglicher Störaktionen» weggewiesen; rechtliche Folgen hat dies laut Polizei nicht. Die Gruppe wollte Röstis Rede in der reformierten Kirche mit Volksliedern unterbrechen, um gegen seine Haltung zu Atomenergie und Autobahnausbau zu protestieren, und kritisierte den Einsatz als unverhältnismässig. Rösti hielt seine Rede zum Gedenken an die Volksversammlung von 1830 ungestört.",
+      "sources": [
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Polizei stoppt Protest gegen Bundesrat Albert Rösti am Ustertag",
+          "url": "https://www.swissinfo.ch/ger/polizei-stoppt-protest-gegen-bundesrat-albert-r%c3%b6sti-am-ustertag/92421210",
+          "published_at": "2026-11-22T21:00:26+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger: Polizei verhindert Störung von Röstis Ustertag-Rede (Paywall möglich)",
+          "url": "https://www.tagesanzeiger.ch/ustertag-polizei-verhindert-stoerung-von-albert-roesti-190483633781",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/politik-ustertag-protest-verhindert-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine Dorfkirche mit Rednerpult davor, Kuhglocken auf einer Bank und ein Absperrband im Vordergrund.",
+        "caption": "Symbolbild zur verhinderten Protestaktion am Ustertag",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-marti-staenderat-kandidatur",
+      "section": "Politik",
+      "headline": "Samira Marti will für Baselbieter Ständeratssitz kandidieren",
+      "summary": "Die Baselbieter SP-Nationalrätin Samira Marti will bei den eidgenössischen Wahlen vom 24. Oktober 2027 für den Ständerat antreten. Frei wird der Sitz von Maya Graf (Grüne), die vergangene Woche ihren Rücktritt auf Ende der Legislatur angekündigt hatte. Die 32-jährige Ökonomin sitzt seit 2018 im Nationalrat und führt seit 2023 zusammen mit Samuel Bendahan die SP-Fraktion. Die Grünen wollen den Sitz mit Nationalrätin Florence Brenzikofer verteidigen; laut bz wollen SP und Grüne in einem allfälligen zweiten Wahlgang die Kandidatin mit mehr Stimmen unterstützen, und auch bürgerliche Parteien erwägen eine Kandidatur.",
+      "sources": [
+        {
+          "name": "SRF: SP-Nationalrätin Samira Marti will in den Ständerat",
+          "url": "https://www.srf.ch/news/schweiz/wahlen-2027-sp-nationalraetin-samira-marti-will-in-den-staenderat",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "bz Basel: Samira Marti will für den Baselbieter Ständerat kandidieren (Paywall möglich)",
+          "url": "https://www.bzbasel.ch/basel/baselland/ich-bin-bereit-samira-marti-will-fuer-den-baselbieter-staenderat-kandidieren-ld.4271173",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/politik-marti-staenderat-kandidatur-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein halbrunder Ratssaal mit einem beleuchteten leeren Stuhl, davor ein leerer Stimmzettel und ein Kalenderblatt.",
+        "caption": "Symbolbild zur Ständeratskandidatur",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-mertenat-nachruf",
+      "section": "Politik",
+      "headline": "Früherer Jura-Minister François Mertenat gestorben",
+      "summary": "Der frühere jurassische Regierungsrat François Mertenat ist am Sonntag im Alter von 85 Jahren gestorben, wie die Kantonsregierung mitteilte. Der Sozialdemokrat war am 26. November 1978 in die erste Regierung des neuen Kantons Jura gewählt worden. Von 1979 bis Ende September 1993 leitete er das Departement für Umwelt und Infrastruktur und präsidierte die Regierung 1981, 1986 und 1990. Die Kantonsregierung sprach der Familie ihr Beileid aus.",
+      "sources": [
+        {
+          "name": "Le Temps: Le Jura perd l'un des membres de son premier Gouvernement",
+          "url": "https://www.letemps.ch/suisse/jura/le-jura-perd-l-un-des-membres-de-son-premier-gouvernement-francois-mertenat-qui-s-est-eteint-a-85-ans",
+          "published_at": "2026-11-22T20:27:59+01:00",
+          "updated_at": "2026-11-22T21:03:08+01:00"
+        },
+        {
+          "name": "Kanton Jura: Mitteilung zum Tod von François Mertenat (Französisch)",
+          "url": "https://www.jura.ch/fr/Autorites/Administration/CHA/SIC/Centre-medias/Communiques-2026/L-ancien-ministre-jurassien-Francois-Mertenat-nous-a-quittes.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/politik-mertenat-nachruf-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine weisse Lilie auf einem geschlossenen Buch neben einer brennenden Kerze, im Hintergrund sanfte Hügelketten.",
+        "caption": "Symbolbild zum Tod eines früheren Regierungsmitglieds",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-femizide-recherche",
+      "section": "Gesellschaft",
+      "headline": "SRF-Recherche wertet 169 versuchte Femizide seit 2020 aus",
+      "summary": "SRF Investigativ und SRF Data haben schweizweit Gerichtsurteile seit 2020 zu versuchten Tötungen von Frauen durch Männer ausgewertet: 165 Fälle mit 166 Tätern und 169 Opfern auf rund 9200 Seiten. In gut 40 Prozent der Fälle würgten die Täter ihre Opfer, am zweithäufigsten setzten sie Messer oder andere scharfe Gegenstände ein, in 13 Fällen eine Schusswaffe. Bei 75 Prozent der Opfer handelte es sich um aktuelle oder frühere Partnerinnen des Täters, und jede dritte Betroffene hatte vor der Tat Hilfe gesucht. SRF weist darauf hin, dass nicht alle Urteile erfasst sein dürften und Fachleute bei häuslicher Gewalt von einer hohen Dunkelziffer ausgehen.",
+      "sources": [
+        {
+          "name": "SRF: 169 versuchte Femizide – so brutal ist die Gewalt gegen Frauen",
+          "url": "https://www.srf.ch/news/schweiz/exklusive-recherche-169-versuchte-femizide-so-brutal-ist-die-gewalt-gegen-frauen",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF Data: Wie SRF über 9000 Seiten Gerichtsurteile analysierte",
+          "url": "https://www.srf.ch/news/srf-data/versuchte-femizide-wie-srf-ueber-9000-seiten-gerichtsurteile-analysierte",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/gesellschaft-femizide-recherche-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Stapel verschnürter Gerichtsakten mit Lupe und violettem Band, dahinter ein abstraktes gebrochenes Herz.",
+        "caption": "Symbolbild zur Auswertung von Gerichtsurteilen",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "gesellschaft-rendez-vous-bundesplatz-bilanz",
+      "section": "Gesellschaft",
+      "headline": "Lichtshow am Bundeshaus zieht knapp 400'000 Personen an",
+      "summary": "Die 16. Ausgabe des Rendez-vous Bundesplatz in Bern ist am Samstagabend zu Ende gegangen. Laut den Organisatoren verfolgten knapp 400'000 Besucherinnen und Besucher die Licht- und Tonshow «Natur pur», die an 36 Abenden insgesamt 108 Mal auf die Bundeshausfassade projiziert wurde. Das sind deutlich weniger als in den Vorjahren; 2025 waren es laut Veranstalter fast 470'000. Die Show zeigte die Schweizer Tierwelt und Natur im Wechsel der Jahreszeiten.",
+      "sources": [
+        {
+          "name": "SRF: 400'000 Besucher verfolgen Lichtshow an Bundeshausfassade",
+          "url": "https://www.srf.ch/news/schweiz/rendez-vous-bundesplatz-400-000-besucher-verfolgen-lichtshow-an-bundeshausfassade",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Blick: «Rendez-vous Bundesplatz» zog 400'000 Zuschauer an",
+          "url": "https://www.blick.ch/schweiz/bern-rendez-vous-bundesplatz-zog-400000-zuschauer-an/9py07gr",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/gesellschaft-rendez-vous-bundesplatz-bilanz-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine nächtlich beleuchtete klassizistische Fassade mit projizierten Naturmotiven wie Reiher, Herbstlaub und Bergen, davor Silhouetten von Zuschauenden.",
+        "caption": "Symbolbild zur Lichtshow auf dem Bundesplatz",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zibelemaerit-bern",
+      "section": "Zürich & Regionen",
+      "headline": "Berner Zibelemärit hat trotz Regen begonnen",
+      "summary": "In der Berner Altstadt hat am frühen Montagmorgen der traditionelle Zibelemärit begonnen. Laut Keystone-SDA füllten sich die Gassen trotz regnerischen Wetters bereits kurz nach 4 Uhr mit ersten Besucherinnen und Besuchern. Angeboten werden Tonnen von Zwiebeln, Knoblauch und weiterem Gemüse, besonders die kunstvoll geflochtenen Zwiebelzöpfe, dazu Jahrmarktstände. Der Markt geht auf das 19. Jahrhundert zurück, findet jeweils am vierten Montag im November statt und endet traditionell mit einer Konfettischlacht am Nachmittag.",
+      "sources": [
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Tausende strömen an den Berner Zibelemärit",
+          "url": "https://www.swissinfo.ch/ger/tausende-str%c3%b6men-an-den-berner-zibelem%c3%a4rit/92421478",
+          "published_at": "2026-11-23T04:46:54+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/regionen-zibelemaerit-bern-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: geflochtene Zwiebelzöpfe und Knoblauch an einem hölzernen Marktstand auf nassem Kopfsteinpflaster mit Konfetti; keine Aufnahme des Marktes.",
+        "caption": "Symbolbild zum Zibelemärit",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-lac-des-brenets-schifffahrt",
+      "section": "Zürich & Regionen",
+      "headline": "Kursschiffe auf dem Lac des Brenets stellen Betrieb ein",
+      "summary": "Die Schifffahrtsgesellschaft Navigation sur le lac des Brenets (NLB) stellt ihren Betrieb auf dem Doubs zwischen Les Brenets NE und dem Saut du Doubs endgültig ein. Eigentümer und Kapitän Yvan Durig begründet den Schritt gegenüber RTS mit der wiederholten Austrocknung des Sees, etwa 2018, 2022 und 2023, mit sinkenden Passagierzahlen und den Folgen der Corona-Pandemie. Diskutiert wird seit Jahren, Spalten im Karstuntergrund abzudichten; die Gemeinde Le Locle zeigt sich skeptisch, schlägt aber eine Arbeitsgruppe vor. Neuchâtel Tourisme will den Ausflugsort nicht aufgeben, im Gespräch sind etwa eine Zusammenarbeit mit französischen Schiffsbetreibern oder eine Rettung der Gesellschaft.",
+      "sources": [
+        {
+          "name": "SRF: Die Schiffe vom Lac des Brenets verschwinden",
+          "url": "https://www.srf.ch/news/dialog/wegen-der-trockenheit-die-schiffe-vom-lac-des-brenets-verschwinden",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/regionen-lac-des-brenets-schifffahrt-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein schmaler See zwischen Kalkfelsen mit sehr tiefem Wasserstand, zwei leere Ausflugsboote liegen auf trockenem Kies.",
+        "caption": "Symbolbild zum Ende der Schifffahrt auf dem Lac des Brenets",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-lawinengefahr-regen",
+      "section": "Verkehr & Wetter",
+      "headline": "Grosse Lawinengefahr reicht neu bis in die Glarner Alpen",
+      "summary": "Wegen anhaltender Schneefälle gilt am Montag gemäss dem Institut für Schnee- und Lawinenforschung SLF verbreitet die zweithöchste Lawinengefahrenstufe 4 – in einem Band von den Walliser bis in die Glarner Alpen. Spontane Lawinen sind zu erwarten, und die Verhältnisse für Touren gelten als sehr kritisch; in den Bündner Gebieten der Alpennordseite gilt Stufe 3. Für den Waadtländer Jura galt eine Unwetterwarnung der Stufe 3 mit lokal 60 bis 80 Millimetern Regen, laut RTS etwa die Hälfte der üblichen November-Menge innert 36 Stunden. In Cologny GE stürzte am Sonntag nach starkem Regen eine Stützmauer am Quai teilweise ein, der Verkehr musste umgeleitet werden.",
+      "sources": [
+        {
+          "name": "watson (SDA): Grosse Lawinengefahr neu auch in Ostschweizer Gebieten",
+          "url": "https://www.watson.ch/schweiz/winter/550224187-grosse-lawinengefahr-neu-auch-in-ostschweizer-gebieten",
+          "published_at": "2026-11-22T20:59:24+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS: Pluie, neige et risque d'avalanche – intempéries en Suisse",
+          "url": "https://www.rts.ch/info/suisse/2026/article/meteo-fortes-pluies-risque-d-avalanche-et-neige-en-suisse-29423679.html",
+          "published_at": "2026-11-22T13:33:20+01:00",
+          "updated_at": "2026-11-22T21:03:03+01:00"
+        },
+        {
+          "name": "20 minutes: L'effondrement d'un mur bloque une partie du quai de Cologny",
+          "url": "https://www.20min.ch/fr/story/geneve-un-mur-s-est-effondre-et-bloque-une-partie-du-quai-de-cologny-103671793",
+          "published_at": "2026-11-22T13:26:26+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/wetter-lawinengefahr-regen-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: ein steiler, tief verschneiter Berghang unter grauen Wolken mit Anrisskante eines Schneebretts; keine Aufnahme eines realen Ereignisses.",
+        "caption": "Symbolbild zur erhöhten Lawinengefahr",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-belgien-streik-swiss-fluege",
+      "section": "Verkehr & Wetter",
+      "headline": "Streik in Belgien: Swiss streicht sechs Brüssel-Flüge",
+      "summary": "Wegen eines landesweiten Streiktags in Belgien, an dem sich auch Fluglotsen beteiligen, kann die Flugsicherung Skeyes am Montag zwischen 7 und 21 Uhr keinen regulären Betrieb gewährleisten. Swiss hat deshalb je drei Hin- und Rückflüge zwischen Zürich beziehungsweise Genf und Brüssel annulliert, betroffen sind rund 500 Passagiere. Laut der Airline wurden alle auf alternative Verbindungen umgebucht, die meisten am Folgetag. Die Gewerkschaften protestieren gegen die Spar- und Reformpolitik der belgischen Regierung; erwartet werden auch Einschränkungen im öffentlichen Verkehr.",
+      "sources": [
+        {
+          "name": "20 Minuten: Fluglotsen-Streik in Belgien – Swiss streicht Flüge von Zürich und Genf",
+          "url": "https://www.20min.ch/story/am-montag-belgische-fluglotsen-streiken-auch-swiss-fluege-betroffen-103671752",
+          "published_at": "2026-11-22T12:25:05+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Keystone-SDA via swissinfo.ch: Streik legt am Montag Flugverkehr in Belgien lahm",
+          "url": "https://www.swissinfo.ch/ger/streik-legt-am-montag-flugverkehr-in-belgien-lahm/92421313",
+          "published_at": "2026-11-23T00:50:12+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/verkehr-belgien-streik-swiss-fluege-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leeres Abfluggate in einer Flughafenhalle, draussen ein unmarkiertes Flugzeug, eine Anzeigetafel ohne Schrift.",
+        "caption": "Symbolbild zu Flugausfällen wegen Streik",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-super-league-luzern-basel",
+      "section": "Sport",
+      "headline": "Basel verliert auch gegen Luzern, Kellerduell endet 2:2",
+      "summary": "Der FC Basel hat am 14. Spieltag der Super League zuhause gegen den FC Luzern 0:2 verloren und wartet im St. Jakob-Park seit dem 9. August auf einen Sieg. Trainer Slavisa Jokanovic ist auch nach fünf Ligaspielen noch ohne Sieg; Xherdan Shaqiri wurde zur Pause ausgewechselt. Luzern entschied die Partie erst in der 86. Minute durch Ruben Dantas Fernandes und überholte Basel in der Tabelle. Im Duell der beiden Letztplatzierten trennten sich Lausanne-Sport und Vaduz 2:2, wobei alle Tore nach der 68. Minute fielen.",
+      "sources": [
+        {
+          "name": "SRF Sport: Luzern siegt hochverdient – Basel nach 0:2 weiter im Loch",
+          "url": "https://www.srf.ch/sport/fussball/super-league/luzern-siegt-hochverdient-shaqiri-zur-pause-ausgewechselt-basel-nach-0-2-weiter-im-loch",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF Sport: 2:2 bei Letzter vs. Vorletzter – Kellerduell nimmt spät Fahrt auf",
+          "url": "https://www.srf.ch/sport/fussball/super-league/2-2-bei-letzter-vs-vorletzter-4-tore-ab-der-68-minute-kellerduell-nimmt-spaet-fahrt-auf",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/sport-super-league-luzern-basel-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Fussball auf dem Anstosspunkt eines flutlichtbeleuchteten Rasens, dahinter ein leeres Tor im Regen.",
+        "caption": "Symbolbild zur Super League",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-skispringen-hauswirth",
+      "section": "Sport",
+      "headline": "Skispringer Hauswirth erstmals in den Weltcup-Top-10",
+      "summary": "Sandro Hauswirth hat beim Weltcup in Lillehammer mit Platz 10 das beste Resultat seiner Karriere erreicht. Der 26-jährige Berner sprang 136,5 und 131,5 Meter und verbesserte sich im zweiten Durchgang um zwei Ränge. Bereits am Samstag hatte Remo Imhof auf der Normalschanze ebenfalls als Zehnter sein bestes Weltcup-Ergebnis erzielt; am Sonntag wurde er 21. Der Sieg ging an den Norweger Kristoffer Eriksen Sundal vor Raffael Zimmermann.",
+      "sources": [
+        {
+          "name": "SRF Sport: Einen Tag nach Imhof fliegt Hauswirth in die Top 10",
+          "url": "https://www.srf.ch/sport/mehr-sport/skispringen/weltcup-in-lillehammer-nor-einen-tag-nach-imhof-fliegt-hauswirth-in-die-top-10",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Blick: Sandro Hauswirth springt in Lillehammer auf Rang 10",
+          "url": "https://www.blick.ch/sport/wintersport/skispringen/sandro-hauswirth-springt-in-lillehammer-auf-rang-10/lr97k0p",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-23-morning/sport-skispringen-hauswirth-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine verschneite Skisprungschanze in der Abenddämmerung mit Flutlicht, im Vordergrund lehnen Sprungski an einem Zaun.",
+        "caption": "Symbolbild zum Skisprung-Weltcup",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-23-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-23T06:52:50+01:00",
+    "ready_at": "2026-11-23T06:55:51+01:00",
+    "content_hash": "sha256:8a1f6f773b3e9c70f2573b132c7bcd7504006499fcfc68696681509996d5a88e",
+    "image_rights": {
+      "politik-ustertag-protest-verhindert": {
+        "rights": "ai_generated_own"
+      },
+      "politik-marti-staenderat-kandidatur": {
+        "rights": "ai_generated_own"
+      },
+      "politik-mertenat-nachruf": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-femizide-recherche": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-rendez-vous-bundesplatz-bilanz": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zibelemaerit-bern": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-lac-des-brenets-schifffahrt": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-lawinengefahr-regen": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-belgien-streik-swiss-fluege": {
+        "rights": "ai_generated_own"
+      },
+      "sport-super-league-luzern-basel": {
+        "rights": "ai_generated_own"
+      },
+      "sport-skispringen-hauswirth": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-ustertag-protest-verhindert": {
+        "path": "media/politik-ustertag-protest-verhindert-1024-r01.jpg",
+        "sha256": "4400169ba48fd7b6fabd196f653f815a6e5165d4438dfdbac68dde1342dc598a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/269b0490fded703bd2ceedebf41dd66eb00c2d5c8d0580fafa552a544b74d56b.jpg",
+        "original_sha256": "269b0490fded703bd2ceedebf41dd66eb00c2d5c8d0580fafa552a544b74d56b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A small village church with a bell tower, a lectern with a closed microphone in front, a few stylised traditional cow bells lying on a bench outside, and a simple police barrier tape line in the foreground. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-marti-staenderat-kandidatur": {
+        "path": "media/politik-marti-staenderat-kandidatur-1024-r01.jpg",
+        "sha256": "c3fb47fb940267a7d1d6ceb5a0d4105f278a5e02b4fa9934ca995b1e7bd167cf",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/69b3f425f765b5b8a82005e690cb24e78ae053d729b6a916fa78653c3a5ad530.jpg",
+        "original_sha256": "69b3f425f765b5b8a82005e690cb24e78ae053d729b6a916fa78653c3a5ad530",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A stylised semicircular parliament chamber of a small upper house, one empty chair highlighted with a soft spotlight, a blank ballot card and a calendar page in the foreground. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-mertenat-nachruf": {
+        "path": "media/politik-mertenat-nachruf-1024-r01.jpg",
+        "sha256": "3cee534c12cbbf488852ca2fc1a5e49ccbe86d625c0f47e26a1f3e9c2506d7db",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/61a3826de2e5abc3fe49d6a98b763b3fa11d4d08aebb6e76dd36fb3bb15c3b4f.jpg",
+        "original_sha256": "61a3826de2e5abc3fe49d6a98b763b3fa11d4d08aebb6e76dd36fb3bb15c3b4f",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A single white lily lying on a closed leather-bound book on a dark wooden table, a soft candle glow, gentle rolling Jura hills silhouette in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-femizide-recherche": {
+        "path": "media/gesellschaft-femizide-recherche-1024-r01.jpg",
+        "sha256": "73d586a3fd42de834f09833fed1a950e2c97720fe11abdff754404f3ca67bbc3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cfc7cb41cf634a72ad775713637a9b6a2a82f09307670835c5b222f91fdd59eb.jpg",
+        "original_sha256": "cfc7cb41cf634a72ad775713637a9b6a2a82f09307670835c5b222f91fdd59eb",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A stack of thick court file folders tied with string on a desk, a magnifying glass and a small purple ribbon on top, an abstract broken heart shape in the background, sober and respectful mood. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-rendez-vous-bundesplatz-bilanz": {
+        "path": "media/gesellschaft-rendez-vous-bundesplatz-bilanz-1024-r01.jpg",
+        "sha256": "6d597fd57d254b08a1b09f27314220ca0aebd3cc9ea9aed4417ff1b6614ef9f7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7c66e93f4395cf1b78c4ea10f938e81b792e3c40d83a215dc93df4cf5c985be5.jpg",
+        "original_sha256": "7c66e93f4395cf1b78c4ea10f938e81b792e3c40d83a215dc93df4cf5c985be5",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A generic neoclassical facade at night illuminated with colourful projected nature motifs: herons, frogs, autumn leaves and snowy mountains, small silhouetted crowd shapes seen from behind without details. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zibelemaerit-bern": {
+        "path": "media/regionen-zibelemaerit-bern-1024-r01.jpg",
+        "sha256": "cb99514891c4bf06752cb0d05805d2c6b36c92aa753dd7a726d65e9dec8dedc0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d804fc2a31df8b8c539fb7ef18e518afb641bd30c6a8106cbff289cc0d27226b.jpg",
+        "original_sha256": "d804fc2a31df8b8c539fb7ef18e518afb641bd30c6a8106cbff289cc0d27226b",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. Close-up of artfully braided onion strings and garlic bunches hanging at a rustic wooden market stall on a rainy early winter morning, scattered colourful confetti on wet cobblestones, shallow depth of field, no recognisable location. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-lac-des-brenets-schifffahrt": {
+        "path": "media/regionen-lac-des-brenets-schifffahrt-1024-r01.jpg",
+        "sha256": "a4a553cd69d0820e508876074592131efe50c14f77515fd67344e78df6a3f751",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f344a5c7150f5f345706a7d7c8d7b4bfdede901c357cbba2a31a8e8d8a937f94.jpg",
+        "original_sha256": "f344a5c7150f5f345706a7d7c8d7b4bfdede901c357cbba2a31a8e8d8a937f94",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A narrow river lake between steep limestone cliffs with a very low water level, two small empty excursion boats resting on a dry pebble shore, autumn trees. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-lawinengefahr-regen": {
+        "path": "media/wetter-lawinengefahr-regen-1024-r01.jpg",
+        "sha256": "d679b7366e92297e451720f94cad30bb8085267e0552a5bae37a970ad401d5f7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:50+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/cff8bb635205cb82afffd791471af5c646e35b9d9b0e711062ba8bb186d0fc5d.jpg",
+        "original_sha256": "cff8bb635205cb82afffd791471af5c646e35b9d9b0e711062ba8bb186d0fc5d",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. A steep snow-covered alpine slope under heavy grey clouds with fresh deep snow and a distinct slab avalanche fracture line, falling snow, moody winter light, no buildings, no ski tracks. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-belgien-streik-swiss-fluege": {
+        "path": "media/verkehr-belgien-streik-swiss-fluege-1024-r01.jpg",
+        "sha256": "1cdaf395f3ede3d0c8df4206b2c75bb091174d92b9c6d969f958965580dedcd4",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:51+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/673af23c2c7e3451bbb61759bbd88cbe4faf4b8ba0cc0cbf7c6907d88e720413.jpg",
+        "original_sha256": "673af23c2c7e3451bbb61759bbd88cbe4faf4b8ba0cc0cbf7c6907d88e720413",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An airport departure hall with an empty boarding gate, a parked passenger airplane without markings seen through the window on a grey day, a blank departure board with only red and grey blocks. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-super-league-luzern-basel": {
+        "path": "media/sport-super-league-luzern-basel-1024-r01.jpg",
+        "sha256": "a3f302d6138735a40efb753cff1687b8069c029de94c563969cec788e445dbb4",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:51+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d2a9bc85044a7c811adee5a400b5bae79aa13cad62b74148949b1fb2933c84a8.jpg",
+        "original_sha256": "d2a9bc85044a7c811adee5a400b5bae79aa13cad62b74148949b1fb2933c84a8",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A football lying on the centre spot of a floodlit green pitch at night, an empty goal in the background, a few raindrops. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-skispringen-hauswirth": {
+        "path": "media/sport-skispringen-hauswirth-1024-r01.jpg",
+        "sha256": "f30187d0dbed3486941ca84507e33c51d516fa277ee27220131254da02a29ba6",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-23T06:55:51+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-23",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-23 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/0a2c00ae061b4bcd26fc23b2257ff11ef307a1de06cd7997819feca34b1baee5.jpg",
+        "original_sha256": "0a2c00ae061b4bcd26fc23b2257ff11ef307a1de06cd7997819feca34b1baee5",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A ski jumping hill at dusk with the inrun track and landing slope covered in snow, floodlights, pine forest around, a pair of long ski jumping skis leaning against a fence in the foreground. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
