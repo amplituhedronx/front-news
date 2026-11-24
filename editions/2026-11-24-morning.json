@@ -1,0 +1,549 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-24T06:53:21+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-nordkorea-schweizer-buero",
+      "section": "Politik",
+      "headline": "Nordkorea droht mit Schliessung des Schweizer Büros in Pjöngjang",
+      "summary": "Kim Yo Jong, die Schwester des nordkoreanischen Machthabers Kim Jong Un, will dem Aussenministerium ihres Landes empfehlen, den Abzug der Schweizer Vertretung in Pjöngjang zu prüfen. Das teilte die staatliche Nachrichtenagentur KCNA mit. Anlass sind Sanktionen gegen ein staatliches nordkoreanisches Kinder-Ferienlager, das die EU mit der Verschleppung ukrainischer Kinder nach Russland in Verbindung bringt; die Schweiz hat am 4. November das 21. EU-Sanktionspaket gegen Russland übernommen. Das diplomatische Büro war Ende Oktober im Beisein von Bundesrat Ignazio Cassis wiedereröffnet worden, nachdem es 2020 wegen der Pandemie geschlossen worden war. Ob Nordkorea tatsächlich Schritte einleitet, ist offen.",
+      "sources": [
+        {
+          "name": "SRF: Kim Yo Jong droht mit Schliessung von diplomatischem Büro",
+          "url": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-kim-yo-jong-droht-mit-schliessung-von-diplomatischem-buero",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Tages-Anzeiger: Nordkorea droht mit Schliessung von Schweizer Büro (evtl. Paywall)",
+          "url": "https://www.tagesanzeiger.ch/schwester-von-machthaber-will-vergeltung-553151959591",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/politik-nordkorea-schweizer-buero-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein kleines, geschlossenes Bürogebäude hinter einem Zaun, davor ein Schreibtisch mit einem versiegelten Briefumschlag.",
+        "caption": "Symbolbild zur Drohung gegen das Schweizer Büro in Nordkorea",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-bundesratswahl-engler-hearings",
+      "section": "Politik",
+      "headline": "Bundesratswahl: Ständeratspräsident Engler hält beide SVP-Kandidaten für wählbar",
+      "summary": "Ständeratspräsident Stefan Engler (Mitte/GR) bezeichnet das SVP-Zweierticket mit Thomas Aeschi (ZG) und Michael Graber (VS) zwar als Provokation, hält aber beide Kandidaten für wählbar und lehnt eine Sprengkandidatur ab. Die Grünen hatten am Montag die Genfer Nationalrätin Delphine Klopfenstein Broggini als Gegenkandidatin nominiert. In den kommenden Tagen stellen sich Aeschi und Graber in Hearings den einzelnen Bundeshausfraktionen vor; ob andere Fraktionen auch die Grünen-Kandidatin anhören, ist laut SRF noch offen. Gewählt wird die Nachfolge von Guy Parmelin am 9. Dezember durch die Vereinigte Bundesversammlung.",
+      "sources": [
+        {
+          "name": "SRF: Interview mit Ständeratspräsident Stefan Engler zum SVP-Ticket",
+          "url": "https://www.srf.ch/news/schweiz/stefan-engler-zum-svp-ticket-staenderatspraesident-beide-svp-kandidaten-sind-fuer-mich-waehlbar",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF: Worauf sich die SVP-Kandidaten in den Hearings vorbereiten",
+          "url": "https://www.srf.ch/news/schweiz/bundesratskandidatur-stresstest-hearing-worauf-sich-die-svp-kandidaten-vorbereiten",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/politik-bundesratswahl-engler-hearings-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Sitzungszimmer mit langem Tisch, leeren Stühlen, Wassergläsern und zwei Namensschildern ohne Schrift.",
+        "caption": "Symbolbild zu den Hearings vor der Bundesratswahl",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-iv-reform-allianz",
+      "section": "Politik",
+      "headline": "IV-Sanierung: Allianz fordert zusätzliche Lohnbeiträge, Arbeitgeber dagegen",
+      "summary": "Die Invalidenversicherung schreibt jährlich rund 200 Millionen Franken Defizit und schuldet der AHV zehn Milliarden Franken; ohne Gegenmassnahmen wäre ihr Vermögen laut SRF in rund fünf Jahren aufgebraucht. Der Bundesrat schlägt unter anderem unbefristet um 0,2 Prozentpunkte höhere Lohnbeiträge, einen befristeten Solidaritätsbeitrag auf hohen Löhnen und eine Integrationsleistung von 1000 Franken pro Monat für junge Erkrankte statt einer vollen Rente vor. Eine Allianz aus Arbeitnehmer-, Gesundheits- und Behindertenorganisationen verlangt zusätzlich befristet 0,1 Prozentpunkte mehr Lohnbeiträge und tiefere Schuldzinsen an die AHV. Der Arbeitgeberverband lehnt höhere Lohnabgaben ab und plädiert für strukturelle Massnahmen; die Vernehmlassung läuft bis Anfang Februar.",
+      "sources": [
+        {
+          "name": "SRF: Der IV geht das Geld aus – wer zahlt die Rechnung?",
+          "url": "https://www.srf.ch/news/schweiz/kritik-an-geplanter-reform-der-iv-geht-das-geld-aus-wer-zahlt-die-rechnung",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/politik-iv-reform-allianz-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine Waage, auf der einen Seite Münzstapel, auf der anderen ein Aktenordner und ein Rollstuhlsymbol aus einfachen Formen.",
+        "caption": "Symbolbild zur Finanzierung der Invalidenversicherung",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-zuckerrueben-ernte",
+      "section": "Wirtschaft",
+      "headline": "Zuckerrübenernte fällt wegen Trockenheit um 30 Prozent tiefer aus",
+      "summary": "Wegen der Trockenheit und Hitze im Sommer liegt die Zuckerrübenernte 2026 in der Schweiz rund 30 Prozent unter dem Durchschnitt, wie der Schweizerische Verband der Zuckerrübenpflanzer gegenüber RTS und RSI sagt. Die Rüben seien kleiner und wegen zahlreicher Schädlinge von schlechterer Qualität; einzelne Produzenten hätten ihre ganze Ernte verloren. Entsprechend sinkt die Zuckerproduktion in den Fabriken der Schweizer Zucker AG, eine davon in Aarberg BE, und mehr Importe gelten als unvermeidlich. Laut der Swissness-Gesetzgebung muss Zucker in Schweizer Lebensmitteln zu mindestens 40 Prozent aus inländischer Produktion stammen.",
+      "sources": [
+        {
+          "name": "RTS: La récolte de betteraves sucrières chute de 30% (Französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/sucre-suisse-la-recolte-de-betteraves-chute-de-30-29424437.html",
+          "published_at": "2026-11-23T17:19:14+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/wirtschaft-zuckerrueben-ernte-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: ein Haufen frisch geernteter Zuckerrüben am Rand eines nassen Ackers unter grauem Himmel.",
+        "caption": "Symbolbild zur Zuckerrübenernte",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-glace-absatz-sommer",
+      "section": "Wirtschaft",
+      "headline": "Heisser Sommer: Glace-Absatz steigt im dritten Quartal um 17 Prozent",
+      "summary": "Von Juli bis September wurden in der Schweiz knapp 17 Millionen Liter Glace verkauft, rund 17 Prozent mehr als in der Vorjahresperiode, wie der Branchenverband Glacesuisse mitteilte. Besonders stark wuchs die Glace für unterwegs: Stängel, Becher und Cornets legten um fast einen Viertel auf knapp 4 Millionen Liter zu. Auch der Absatz im Detailhandel für den Konsum zu Hause und in der Gastronomie nahm deutlich zu. Von Januar bis Ende September summierte sich der Verkauf auf gut 42 Millionen Liter, rund 3 Millionen Liter mehr als ein Jahr zuvor.",
+      "sources": [
+        {
+          "name": "SRF: Schweiz schleckte im Sommer 17 Millionen Liter Glace",
+          "url": "https://www.srf.ch/news/schweiz/lust-auf-abkuehlung-schweiz-schleckte-im-sommer-17-millionen-liter-glace",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/wirtschaft-glace-absatz-sommer-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: verschiedene Glace-Sorten im Cornet, im Becher und am Stiel vor sonnigem Hintergrund.",
+        "caption": "Symbolbild zum Glace-Absatz im Sommer",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-hochdorf-wassermangel",
+      "section": "Zürich & Regionen",
+      "headline": "Luzerner Seetal: Hochdorf, Römerswil und Rain verordnen Wassersparen",
+      "summary": "In Hochdorf liefern die Quellen seit Wochen kein Wasser mehr, das Grundwasser liegt trotz der jüngsten Niederschläge auf einem historischen Tiefstand. Die Versorgung ist dank Notleitungen zu anderen Wasserversorgungen gesichert, doch freiwillige Sparappelle seit dem Sommer haben laut Gemeinde kaum Wirkung gezeigt. Ab dem 28. November gelten deshalb in Hochdorf, Römerswil und Rain Verbote: Rasen bewässern, Vorplätze reinigen und Schwimmbäder füllen ist untersagt, Fahrzeuge dürfen nur noch in Anlagen mit Recyclingwasser gewaschen werden, wenn es betrieblich nötig ist. Auch im Aargauer Suhrental gelten Einschränkungen, dort muss die Industrie ihren Wasserverbrauch seit dem 2. November um zehn Prozent senken.",
+      "sources": [
+        {
+          "name": "SRF: Autowaschen verboten – Luzerner Gemeinden drosseln Wasserverbrauch",
+          "url": "https://www.srf.ch/news/schweiz/quellen-liefern-kein-wasser-autowaschen-verboten-luzerner-gemeinden-drosseln-wasserverbrauch",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/regionen-hochdorf-wassermangel-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein abgestellter Dorfbrunnen ohne Wasser, daneben ein zugedrehter Wasserhahn und ein eingerollter Gartenschlauch.",
+        "caption": "Symbolbild zum Wassermangel im Luzerner Seetal",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-wollishofen-sbb-wohnungen",
+      "section": "Zürich & Regionen",
+      "headline": "Zürich-Wollishofen: SBB bauen am Bahnhof nur noch rund 60 Wohnungen",
+      "summary": "Die SBB haben ihr seit rund zehn Jahren geplantes Wohnprojekt direkt an den Gleisen beim Bahnhof Wollishofen verkleinert, wie der «Tages-Anzeiger» berichtet. Statt der früher vorgesehenen 90 sind noch rund 60 Wohnungen geplant, davon 20 preisgünstige. Der denkmalgeschützte Güterschuppen wird zerlegt und in Bauma im Tösstal wieder aufgebaut. Der dort eingemietete Töffclub muss das Gebäude Ende Januar 2027 definitiv verlassen.",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger: SBB specken Projekt in Wollishofen ab (evtl. Paywall)",
+          "url": "https://www.tagesanzeiger.ch/zuerich-wollishofen-sbb-specken-bauprojekt-am-bahnhof-ab-400689101024",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SBB Immobilien: Projektseite Zürich Wollishofen, am Bahnhof",
+          "url": "https://sbb-immobilien.ch/liegenschaft/52de-zuerich-wollishofen-am-bahnhof/",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/regionen-wollishofen-sbb-wohnungen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein alter Holzschuppen neben Bahngleisen, daneben ein Baukran und ein einfaches Modell eines Wohnhauses.",
+        "caption": "Symbolbild zum Wohnprojekt am Bahnhof Wollishofen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-biasca-velofahrer-gestorben",
+      "section": "Zürich & Regionen",
+      "headline": "Biasca TI: 14-jähriger Velofahrer stirbt nach Unfall, Ermittlung wegen fahrlässiger Tötung",
+      "summary": "Der 14-jährige Velofahrer, der am späten Samstagabend in Biasca von einem Auto erfasst worden war, ist am Montag im Universitäts-Kinderspital Zürich gestorben, wie die Kantonspolizei Tessin mitteilte. Der Jugendliche war nach einem Einsatz als freiwilliger Helfer bei einer Sportveranstaltung für Jugendliche auf dem Heimweg. Der 50-jährige Autofahrer, ein in der Region wohnhafter italienischer Staatsangehöriger, fuhr nach dem Zusammenstoss zunächst weiter und wurde dank eines Passanten angehalten. Die Staatsanwaltschaft ermittelt nun neben schweren Verkehrsdelikten auch wegen fahrlässiger Tötung und klärt ab, ob Alkohol oder Drogen im Spiel waren.",
+      "sources": [
+        {
+          "name": "20 Minuten: Velofahrer (14) stirbt im Spital",
+          "url": "https://www.20min.ch/story/biasca-ti-von-auto-erfasst-velofahrer-14-stirbt-im-spital-103672659",
+          "published_at": "2026-11-23T17:45:08+01:00",
+          "updated_at": "2026-11-23T17:45:08+01:00"
+        },
+        {
+          "name": "Keystone-SDA via swissinfo.ch: 14-Jähriger infolge Verkehrsunfalls im Tessin verstorben",
+          "url": "https://www.swissinfo.ch/ger/14-j%c3%a4hriger-infolge-verkehrsunfalls-im-tessin-verstorben/92425306",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/regionen-biasca-velofahrer-gestorben-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine nächtliche, leere Strasse mit Strassenlaterne und einem Velo am Strassenrand.",
+        "caption": "Symbolbild zum tödlichen Verkehrsunfall in Biasca",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-bundesgericht-medikamentenvergleich",
+      "section": "Gesellschaft",
+      "headline": "Bundesgericht: Medien dürfen rezeptpflichtige Medikamente vergleichen",
+      "summary": "Das Bundesgericht hat entschieden, dass ein Artikel des Konsumentenmagazins «Gesundheitstipp» von 2021 über Medikamente gegen Multiple Sklerose keine unzulässige Arzneimittelwerbung ist. Swissmedic hatte die Publikation verboten, gestützt vom Bundesverwaltungsgericht; das Magazin hatte Nebenwirkungen und Kosten verglichen und Empfehlungen abgegeben. Laut Bundesgericht hat das unabhängige Magazin kein wirtschaftliches Interesse am Verkauf und der Beitrag dient der Information; konkrete Präparate zu nennen gehöre zur journalistischen Arbeit. Swissmedic begrüsst die Klärung und prüft die Auswirkungen auf die Praxis, weitere vergleichbare Fälle sind an Gerichten hängig.",
+      "sources": [
+        {
+          "name": "SRF: Bundesgericht erlaubt Medikamentenvergleiche in den Medien",
+          "url": "https://www.srf.ch/news/schweiz/urteil-zu-arzneimittelbericht-bundesgericht-erlaubt-medikamentenvergleiche-in-den-medien",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/gesellschaft-bundesgericht-medikamentenvergleich-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine aufgeschlagene Zeitschrift mit einer Vergleichstabelle aus Symbolen, daneben Tablettenpackungen und ein Richterhammer.",
+        "caption": "Symbolbild zum Urteil über Medikamentenvergleiche in Medien",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-krebsmedikament-kassen",
+      "section": "Gesellschaft",
+      "headline": "Teure Krebsmedikamente: Krankenkassen entscheiden unterschiedlich über Vergütung",
+      "summary": "Onkologinnen und Onkologen kritisieren laut RTS, dass Patientinnen und Patienten je nach Krankenkasse unterschiedlich Zugang zu neuen Krebsmedikamenten erhalten. Als Beispiel gilt das in den USA und Europa zugelassene Daraxonrasib gegen Bauchspeicheldrüsenkrebs, das die mittlere Überlebenszeit bei metastasierter Erkrankung fast verdoppeln soll. Die Behandlung kostet in den USA über 39'000 Dollar pro Monat, in der Schweiz pro Jahr bis gegen 400'000 Franken. Einige Versicherer übernehmen die Kosten, andere lehnen mit Verweis auf das Wirtschaftlichkeitsgebot ab; das Thema prägte auch den Schweizer Onkologiekongress der vergangenen Woche.",
+      "sources": [
+        {
+          "name": "RTS: Un médicament jugé trop cher pour une caisse maladie, acceptable pour l'autre (Französisch)",
+          "url": "https://www.rts.ch/info/suisse/2026/article/cancer-de-fortes-inegalites-d-acces-aux-medicaments-29425394.html",
+          "published_at": "2026-11-24T06:30:55+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/gesellschaft-krebsmedikament-kassen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: zwei Aktenmappen mit einem grünen Häkchen und einem roten Kreuz, dazwischen eine Medikamentenschachtel.",
+        "caption": "Symbolbild zur Vergütung teurer Krebsmedikamente",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-grundwasser-seen-tief",
+      "section": "Verkehr & Wetter",
+      "headline": "Trotz Regenwoche: Seen und Grundwasser bleiben vielerorts tief",
+      "summary": "Nach dem extrem trockenen Sommerhalbjahr hat der Regen der vergangenen Tage die Wasserstände nur teilweise erholt. Laut MeteoSchweiz gab es in Schaffhausen, der Region Genf und im Unterwallis ein starkes Plus, auf der Alpensüdseite fiel im November aber rund die Hälfte weniger Niederschlag als üblich. Die Kantone Zürich und St. Gallen melden weiterhin tiefe bis sehr tiefe Grundwasserstände; für eine Normalisierung brauche es noch einige Wochen mit mindestens durchschnittlichem Niederschlag und einen schneereichen Winter. Für Mittwoch und Donnerstag ist erneut Niederschlag vorhergesagt.",
+      "sources": [
+        {
+          "name": "20 Minuten: Seen haben trotz Regen noch zu wenig Wasser",
+          "url": "https://www.20min.ch/story/seen-pegel-in-der-schweiz-erholung-braucht-noch-wochen-und-schnee-103671120",
+          "published_at": "2026-11-24T04:30:37+01:00",
+          "updated_at": "2026-11-24T04:30:37+01:00"
+        },
+        {
+          "name": "SRF: Wassermangel trotz Regen im Luzerner Seetal",
+          "url": "https://www.srf.ch/news/schweiz/quellen-liefern-kein-wasser-autowaschen-verboten-luzerner-gemeinden-drosseln-wasserverbrauch",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/wetter-grundwasser-seen-tief-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: ein Seeufer mit niedrigem Wasserstand, freiliegenden Steinen und Regenwolken über Hügeln.",
+        "caption": "Symbolbild zu tiefen Seepegeln und Grundwasserständen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-schach-wm-genf",
+      "section": "Sport",
+      "headline": "Schach-WM in Genf: Erste Partie zwischen Gukesh und Sindarow",
+      "summary": "In Cologny bei Genf beginnt heute Dienstag um 15 Uhr die Schach-Weltmeisterschaft zwischen Titelverteidiger Gukesh Dommaraju aus Indien und Herausforderer Javokhir Sindarow aus Usbekistan. Gespielt wird in der Fondation Martin Bodmer, die Eröffnungsfeier fand am Sonntag im Palais des Nations statt. Bei der Auslosung erhielt Sindarow für die erste Partie die weissen Steine. Der Wettkampf umfasst 14 Partien mit wechselnden Farben, der erste Ruhetag folgt am Freitag nach drei Partien.",
+      "sources": [
+        {
+          "name": "Chess.com: Sindarov Gets White In Game 1 (Englisch)",
+          "url": "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Schachinfo.ch: Eröffnungsfeier der WM in Genf",
+          "url": "https://schachinfo.ch/2026/11/genf-schweizweltmeisterschaft-2026-eroffnungsfeier-sindarov-hat-den-ersten-zug",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-24-morning/sport-schach-wm-genf-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Schachbrett mit Figuren in Ausgangsstellung, daneben eine Schachuhr, im Hintergrund ein See mit Bergen.",
+        "caption": "Symbolbild zur Schach-Weltmeisterschaft in Genf",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-24-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-24T06:51:37+01:00",
+    "ready_at": "2026-11-24T06:53:21+01:00",
+    "content_hash": "sha256:24bdbe4486dcf9cce7b5bad67362b6f389ffd35d29a595ce3c22facf905fefef",
+    "image_rights": {
+      "politik-nordkorea-schweizer-buero": {
+        "rights": "ai_generated_own"
+      },
+      "politik-bundesratswahl-engler-hearings": {
+        "rights": "ai_generated_own"
+      },
+      "politik-iv-reform-allianz": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-zuckerrueben-ernte": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-glace-absatz-sommer": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-hochdorf-wassermangel": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-wollishofen-sbb-wohnungen": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-biasca-velofahrer-gestorben": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-bundesgericht-medikamentenvergleich": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-krebsmedikament-kassen": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-grundwasser-seen-tief": {
+        "rights": "ai_generated_own"
+      },
+      "sport-schach-wm-genf": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-nordkorea-schweizer-buero": {
+        "path": "media/politik-nordkorea-schweizer-buero-1024-r01.jpg",
+        "sha256": "856a2897716041e1abd510f0c6184710de8f80dac687fd1091bd011aed60130a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/5fc8e96d87cfe814fcc33d4b702dd75ed7a914ef85aa1478198b34be7633ef50.jpg",
+        "original_sha256": "5fc8e96d87cfe814fcc33d4b702dd75ed7a914ef85aa1478198b34be7633ef50",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A small modest diplomatic office building seen from outside behind a low fence at dusk, its door closed, and in the foreground a desk with a sealed envelope and a closed folder. Generic architecture, not a real building. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-bundesratswahl-engler-hearings": {
+        "path": "media/politik-bundesratswahl-engler-hearings-1024-r01.jpg",
+        "sha256": "f5ca8cbb9419fca43cc365fff3da287c7863a752ead37b9aa2130d9f88c88a2d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a6a86becc8fc8248739ec9c4e331b86ba856357f366a895df9fb16dc92728ae4.jpg",
+        "original_sha256": "a6a86becc8fc8248739ec9c4e331b86ba856357f366a895df9fb16dc92728ae4",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A parliamentary meeting room with a long wooden table, rows of empty chairs, water glasses, notepads and two blank name cards at the head of the table, tall windows behind. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-iv-reform-allianz": {
+        "path": "media/politik-iv-reform-allianz-1024-r01.jpg",
+        "sha256": "4c7ad710c09a60254e03fa925271bc661ddccbe6685e173da417f53e6bb65dcf",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/9c5d5aaca7ea2314f4ce25dfd1cda44265d742b57b10e535a28c9146ea0eef39.jpg",
+        "original_sha256": "9c5d5aaca7ea2314f4ce25dfd1cda44265d742b57b10e535a28c9146ea0eef39",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A balance scale with stacks of coins on one side and a folder with a simple abstract wheelchair pictogram shape on the other, on a desk with a calculator. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-zuckerrueben-ernte": {
+        "path": "media/wirtschaft-zuckerrueben-ernte-1024-r01.jpg",
+        "sha256": "0a36af0243b0057abafda3b2d2a8cc1e09703b459b7f79af57c0dc60b3b693ce",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/04629bac4084ff58e299c339c6e385cbe9a187d46ec2b048e9fa2ce663f7081e.jpg",
+        "original_sha256": "04629bac4084ff58e299c339c6e385cbe9a187d46ec2b048e9fa2ce663f7081e",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, natural light, 4:3, looks like a generic stock photograph. A large pile of freshly harvested sugar beets at the edge of a muddy field in late autumn, overcast sky, distant generic hills, no machinery brand visible. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-glace-absatz-sommer": {
+        "path": "media/wirtschaft-glace-absatz-sommer-1024-r01.jpg",
+        "sha256": "c877d4e0829ef588125ac67199bee5f95e7b932532f6704958339cc19b14ac66",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/711668fa34145c23149748c1c237827a6af5f77e60e9371daf3473e240f288a4.jpg",
+        "original_sha256": "711668fa34145c23149748c1c237827a6af5f77e60e9371daf3473e240f288a4",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Assorted ice creams: a cone, a cup and an ice lolly on a stick, arranged on a light background with a stylised sun, cheerful summer mood, unbranded. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-hochdorf-wassermangel": {
+        "path": "media/regionen-hochdorf-wassermangel-1024-r01.jpg",
+        "sha256": "041fa905219a7954773c0af95ec2ba1d8101b21e88aa756770bb4f99e4ed09a7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/953b49cf51c35fdbb7fec04270cc38e8515d30a4f3898473b305802c1dc2ce3f.jpg",
+        "original_sha256": "953b49cf51c35fdbb7fec04270cc38e8515d30a4f3898473b305802c1dc2ce3f",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A dry village water fountain with no water flowing, beside it a closed water tap with a single drop and a coiled garden hose, rural village houses and green hills in the background, grey sky. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-wollishofen-sbb-wohnungen": {
+        "path": "media/regionen-wollishofen-sbb-wohnungen-1024-r01.jpg",
+        "sha256": "ce6570561d739c03a64314871bc49a93f2e81a3f2b5a4fac60e6b8ea83f451dd",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/04f8e1edf684f875f2f96433dd3cb704ddf78acf75debae722a84388d110e2c0.jpg",
+        "original_sha256": "04f8e1edf684f875f2f96433dd3cb704ddf78acf75debae722a84388d110e2c0",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An old wooden railway goods shed beside generic railway tracks, a construction crane next to it and a simple architectural model of a modern apartment block on a table in the foreground. Generic, not a real place. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-biasca-velofahrer-gestorben": {
+        "path": "media/regionen-biasca-velofahrer-gestorben-1024-r01.jpg",
+        "sha256": "c88c1971e9e98964ff2eb75768bf13517011298a7f968fccca71fc40a31ed442",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/058a1ba9590e0912fd60d6ebd7e7c9a0198d4de8a98c6edebf838323bd73c246.jpg",
+        "original_sha256": "058a1ba9590e0912fd60d6ebd7e7c9a0198d4de8a98c6edebf838323bd73c246",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A quiet empty village street at night under a single street lamp, a bicycle leaning against a low wall at the roadside, calm and respectful mood, no vehicles, no accident scene. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-bundesgericht-medikamentenvergleich": {
+        "path": "media/gesellschaft-bundesgericht-medikamentenvergleich-1024-r01.jpg",
+        "sha256": "5f5be3dfbb57713992d66986f29e9cd309028a26c142bf40290125c2d512a4be",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7a8193173211cc90fad734ee49be60ae7925d01fae7aa8738323603d92460592.jpg",
+        "original_sha256": "7a8193173211cc90fad734ee49be60ae7925d01fae7aa8738323603d92460592",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An open magazine on a desk showing an abstract comparison grid made of simple shapes and check marks, next to several blank medicine boxes and blister packs, and a small judge's gavel. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-krebsmedikament-kassen": {
+        "path": "media/gesellschaft-krebsmedikament-kassen-1024-r01.jpg",
+        "sha256": "4075c494984aee3feeeac56e153a6a7b015ceaf4951199c5da1f76a7b89c0bcc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fd1b8f976c676a636d87eafceaf0f9ba166db9fd332b9a217bcfffdb474d4a4b.jpg",
+        "original_sha256": "fd1b8f976c676a636d87eafceaf0f9ba166db9fd332b9a217bcfffdb474d4a4b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two folders on a desk, one marked with a green check mark and one with a red cross symbol, a blank medicine box between them, a stethoscope beside it. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-grundwasser-seen-tief": {
+        "path": "media/wetter-grundwasser-seen-tief-1024-r01.jpg",
+        "sha256": "9da81966b90bd82bd89d75ffa0256b4973d06c12bc479a67c129a19e6d67ad78",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/8ce99353c5692f44468bfc1f7f109db40a7ae136ef1f51a8b726f9daf269b099.jpg",
+        "original_sha256": "8ce99353c5692f44468bfc1f7f109db40a7ae136ef1f51a8b726f9daf269b099",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, natural light, 4:3, looks like a generic stock photograph. A lake shore with very low water level, exposed pale stones and a dried band of shoreline, a wooden jetty ending above the water, rain clouds over gentle generic hills in late autumn. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-schach-wm-genf": {
+        "path": "media/sport-schach-wm-genf-1024-r01.jpg",
+        "sha256": "cef6b9a14655f1c3ba739635d66ec55722c9e747ee953ea26ec16570f9d6fc3f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-24T06:53:21+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-24",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-24 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dc195f4503807711b6ed8311ec01cac7eb13d6e6ada858322549c746e3ff603e.jpg",
+        "original_sha256": "dc195f4503807711b6ed8311ec01cac7eb13d6e6ada858322549c746e3ff603e",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A chessboard with pieces in starting position and a chess clock beside it on a table, large window behind showing a lake and distant mountains. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
