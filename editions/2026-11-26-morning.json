@@ -1,0 +1,561 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-26T06:58:22+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-us-zoelle-schweiz",
+      "section": "Politik",
+      "headline": "USA wollen Zollsatz für die Schweiz auf 15 Prozent erhöhen",
+      "summary": "Der US-Handelsbeauftragte Jamieson Greer hat am Mittwoch vorgeschlagen, den Zollsatz auf Schweizer Waren von derzeit 12,5 auf 15 Prozent anzuheben; denselben Satz sehen die USA für die EU vor. Begründet wird der Schritt mit angeblichen Überkapazitäten bei 14 Handelspartnern; der Schweiz werfen die USA unter anderem einen künstlich tiefen Franken, Steuervorteile für die Pharmabranche und verbilligten Strom für Stahlproduzenten vor. Sollten die laufenden Handelsgespräche nicht zufriedenstellend verlaufen, könnte der Satz laut NZZ auf bis zu 20 Prozent steigen. Das Seco weist die Vorwürfe zurück; Economiesuisse verlangt, dass die vereinbarte Obergrenze von 15 Prozent gewahrt bleibt. Der neue Satz könnte nach Anhörungen im Februar in Kraft treten; Medikamente bleiben ausgenommen.",
+      "sources": [
+        {
+          "name": "NZZ: Trump droht der Schweiz mit Zöllen von bis zu 20 Prozent (evtl. Paywall)",
+          "url": "https://www.nzz.ch/wirtschaft/trump-will-die-zoelle-erneut-erhoehen-aber-der-15-prozent-deal-mit-der-schweiz-duerfte-halten-ld.10074146",
+          "published_at": "2026-11-25T15:23:33+01:00",
+          "updated_at": "2026-11-25T18:33:20+01:00"
+        },
+        {
+          "name": "RTS: Les Etats-Unis menacent la Suisse de droits de douane de 15%",
+          "url": "https://www.rts.ch/info/suisse/2026/article/droits-de-douane-les-etats-unis-menacent-la-suisse-de-15-29427324.html",
+          "published_at": "2026-11-25T15:13:03+01:00",
+          "updated_at": "2026-11-25T20:33:07+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/politik-us-zoelle-schweiz-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: Container an einem Hafenkai neben einer Waage mit einer kleinen Holzkiste und einem schweren Gewicht.",
+        "caption": "Symbolbild zu den angekündigten US-Zöllen",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-eu-parlament-vertragspaket",
+      "section": "Politik",
+      "headline": "EU-Parlament stimmt Vertragspaket mit der Schweiz deutlich zu",
+      "summary": "Das Europäische Parlament hat in Strassburg dem Vertragspaket mit der Schweiz mit 584 zu 13 Stimmen bei 60 Enthaltungen zugestimmt. Ein begleitender Bericht über die bilateralen Beziehungen wurde mit 554 zu 22 Stimmen angenommen. Der zuständige Berichterstatter Christophe Grudler sprach von einem «historischen Tag»; die SVP kritisierte die Zustimmung und bezeichnete das Paket als «Unterwerfungsvertrag». Der Rat der EU-Mitgliedstaaten soll formell erst zustimmen, wenn die Schweiz die Verträge ratifiziert hat; eine Volksabstimmung wird frühestens 2028 erwartet.",
+      "sources": [
+        {
+          "name": "SRF: EU-Parlament stimmt Vertragspaket mit der Schweiz zu",
+          "url": "https://www.srf.ch/news/international/europapolitik-eu-parlament-stimmt-vertragspaket-mit-der-schweiz-zu",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: EU-Parlament billigt neue Schweiz-Verträge",
+          "url": "https://www.20min.ch/story/bilaterale-iii-historischer-tag-eu-parlament-billigt-neue-schweiz-vertraege-103673830",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/politik-eu-parlament-vertragspaket-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein halbrunder, leerer Parlamentssaal, im Vordergrund ein gebundenes Vertragsdokument mit Füllfeder auf einem Rednerpult.",
+        "caption": "Symbolbild zur Abstimmung im EU-Parlament",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-nordkorea-buero-geschlossen",
+      "section": "Politik",
+      "headline": "Nordkorea weist Leiter des Schweizer Büros aus",
+      "summary": "Nordkoreas Aussenministerium hat den Leiter des erst Ende Oktober wiedereröffneten Schweizer Büros in Pjöngjang aufgefordert, das Land zu verlassen, wie die staatliche Nachrichtenagentur meldete. Pjöngjang bezeichnet die von der Schweiz übernommenen Sanktionen gegen ein nordkoreanisches Kinder-Ferienlager als «feindseligen Akt». Das EDA bestätigte, dass die Ausreise organisiert werde; der Büroleiter kehre an die Botschaft in Peking zurück, die für Nordkorea zuständig ist. Das EDA bedauert den Entscheid und betont, die diplomatischen Beziehungen würden dadurch nicht in Frage gestellt.",
+      "sources": [
+        {
+          "name": "SRF: Nordkorea schliesst Schweizer Büro – was bedeutet das?",
+          "url": "https://www.srf.ch/news/schweiz/wegen-sanktionen-nordkorea-schliesst-schweizer-buero-was-bedeutet-das",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps: Fermeture du bureau suisse de Pyongyang (évtl. Paywall)",
+          "url": "https://www.letemps.ch/suisse/fermeture-du-bureau-suisse-de-pyongyang-l-ambassadeur-de-coree-du-nord-n-a-rien-a-dire",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/politik-nordkorea-buero-geschlossen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein kleines Bürogebäude in der Dämmerung mit geschlossener Tür, davor ein gepackter Koffer.",
+        "caption": "Symbolbild zur Schliessung des Schweizer Büros in Nordkorea",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-konzernverantwortung-gegenvorschlag",
+      "section": "Politik",
+      "headline": "Bundesrat verabschiedet Gegenvorschlag zur Konzernverantwortungsinitiative",
+      "summary": "Der Bundesrat stellt der zweiten Konzernverantwortungsinitiative einen indirekten Gegenvorschlag gegenüber und hat die Botschaft zum neuen Bundesgesetz über die nachhaltige Unternehmensführung ans Parlament verabschiedet. Konzerne mit mehr als 5000 Vollzeitstellen und über 1,5 Milliarden Franken Umsatz, laut Bundesrat rund 30 bis 60 Unternehmen, sollen Sorgfaltspflichten zu Menschenrechten und Umwelt einhalten; die Regeln orientieren sich an der EU. Eine Kausalhaftung schliesst der Bundesrat aus, die Aufsicht soll die Revisionsaufsichtsbehörde übernehmen, und die Sanktionen fallen tiefer aus als in der Vernehmlassung. Economiesuisse sieht weiterhin erhebliche Risiken, während Public Eye kritisiert, der Gegenvorschlag sei weiter abgeschwächt worden.",
+      "sources": [
+        {
+          "name": "SRF: Konzernverantwortung – Bundesrat passt sich der EU an",
+          "url": "https://www.srf.ch/news/schweiz/gegenvorschlag-zu-initiative-konzernverantwortung-bundesrat-passt-sich-der-eu-an",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RTS: Entreprises responsables – le Conseil fédéral revoit sa copie",
+          "url": "https://www.rts.ch/info/suisse/2026/article/entreprises-responsables-le-conseil-federal-revoit-sa-copie-29427287.html",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/politik-konzernverantwortung-gegenvorschlag-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Bürohochhaus, davor ein Schreibtisch mit Gesetzbuch, Lupe, kleinem Globus und grünem Blatt.",
+        "caption": "Symbolbild zur Konzernverantwortung",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-anthropic-zuerich",
+      "section": "Wirtschaft",
+      "headline": "KI-Firma Anthropic zieht in die alte Fraumünsterpost in Zürich",
+      "summary": "Das US-KI-Unternehmen Anthropic, das den Chatbot Claude entwickelt, baut seinen Standort Zürich aus und bezieht in der ersten Hälfte 2027 Büros in der ehemaligen Fraumünsterpost an der Limmat. Dort ist Platz für rund 150 Arbeitsplätze; bisher beschäftigt die Firma in der Schweiz etwa 20 Personen. Ausgeschrieben sind derzeit vor allem Stellen in Forschung und Entwicklung. Zuvor hatten bereits Google, Nvidia und Apple ihre Präsenz in Zürich ausgebaut, während mehrere Banken Stellen in der Stadt abbauen oder wegziehen.",
+      "sources": [
+        {
+          "name": "20 Minuten: Das bietet Anthropic den Mitarbeitern in Zürich",
+          "url": "https://www.20min.ch/story/in-der-fraumuensterpost-billionen-firma-in-zuerich-das-bietet-anthropic-den-mitarbeitern-103673701",
+          "published_at": "2026-11-26T04:57:49+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/wirtschaft-anthropic-zuerich-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein historisches Steingebäude an einem Fluss, aus dessen Fenstern Laptops und leuchtende Netzwerklinien ragen.",
+        "caption": "Symbolbild zum Ausbau des KI-Standorts Zürich",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-pfas-regenjacken",
+      "section": "Wirtschaft",
+      "headline": "PFAS in Regenjacken: Händler nehmen Produkte aus dem Verkauf",
+      "summary": "Greenpeace Schweiz hat 23 Regenjacken für Erwachsene und Kinder aus Onlineshops und Schweizer Läden im Labor testen lassen; 14 enthielten Chemikalien der PFAS-Gruppe. Fünf Jacken von Shein, Temu, H&M, Zara und Manor überschreiten laut der Organisation die Schweizer Grenzwerte, eine über Manor angebotene Jacke einer Drittmarke um das 230-Fache. Manor hat die Produkte zweier Marken von seiner Website entfernt, H&M den betroffenen Mantel vorsorglich zurückgezogen, und auch Temu und Shein haben Artikel offline genommen. Die Unternehmen kündigten weitere Abklärungen an.",
+      "sources": [
+        {
+          "name": "20 Minuten: H&M, Manor, Temu und Shein stoppen Verkauf nach Regenjacken-Test",
+          "url": "https://www.20min.ch/story/pfas-alarm-hm-manor-temu-und-shein-stoppen-verkauf-nach-regenjacken-test-103673707",
+          "published_at": "2026-11-26T04:59:08+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps: Des vêtements vendus en Suisse dépassent les normes PFAS (évtl. Paywall)",
+          "url": "https://www.letemps.ch/suisse/pfas-des-vetements-vendus-en-suisse-depassent-largement-les-normes-legales",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/wirtschaft-pfas-regenjacken-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: bunte Regenjacken an einem Kleiderständer, daneben Reagenzglas und Pipette auf einem Labortisch.",
+        "caption": "Symbolbild zum PFAS-Test bei Regenjacken",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-ki-cyberangriffe",
+      "section": "Wirtschaft",
+      "headline": "Erste bestätigte Cyberangriffe mit KI-Agenten in der Schweiz",
+      "summary": "Das Bundesamt für Cybersicherheit (BACS) hat fünf Fälle von Cyberangriffen bestätigt, bei denen KI-Agenten eingesetzt wurden. Betroffen sind drei Betreiberinnen kritischer Infrastrukturen sowie KMU; in vier Fällen wurden Systeme erfolgreich gehackt, grössere Ausfälle gab es laut BACS-Direktor Florian Schütz nicht. Wer hinter den Angriffen steht, ist unklar, und die betroffenen Firmen werden nicht genannt. Fachleute rechnen mit weiteren Angriffen dieser Art.",
+      "sources": [
+        {
+          "name": "SRF: Erstmals Cyberangriffe mit KI-Agenten in der Schweiz",
+          "url": "https://www.srf.ch/news/schweiz/fuenf-bestaetigte-faelle-erstmals-cyberangriffe-mit-ki-agenten-in-der-schweiz",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/wirtschaft-ki-cyberangriffe-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein abstrakter Serverraum mit einem angebrochenen, leuchtenden Vorhängeschloss und stilisierten Pfeilen, die sich einem Netzwerk nähern.",
+        "caption": "Symbolbild zu KI-gestützten Cyberangriffen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-kita-brand",
+      "section": "Zürich & Regionen",
+      "headline": "Kita-Brand in Zürich-Altstetten: Betreuerin per Strafbefehl verurteilt",
+      "summary": "Der Brand in einer Kindertagesstätte in Zürich-Altstetten vom 19. Januar ist laut einem rechtskräftigen Strafbefehl durch eine Mitarbeiterin verursacht worden. Die 21-Jährige hatte beim Anzünden einer Rechaudkerze mit dem Feuerzeug eine herabhängende Papierdekoration entzündet; sie wurde wegen fahrlässiger Verursachung einer Feuersbrunst verurteilt. Ein vorsätzliches Delikt bestätigte sich nicht. Alle 68 Kinder und die Betreuungspersonen konnten damals unverletzt ins Freie gebracht werden; der Schaden beträgt rund 600'000 Franken.",
+      "sources": [
+        {
+          "name": "NZZ: Kita brennt aus, nachdem Mitarbeiterin unvorsichtig mit Kerze hantierte (evtl. Paywall)",
+          "url": "https://www.nzz.ch/zuerich/zuerich-kita-brennt-aus-nachdem-mitarbeiterin-unvorsichtig-mit-kerze-hantierte-ld.10059590",
+          "published_at": "2026-11-26T05:00:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/regionen-zuerich-kita-brand-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Spielzeugstuhl aus Holz, Bauklötze und eine erloschene Kerze, darüber eine stilisierte graue Rauchwolke, ohne Personen.",
+        "caption": "Symbolbild zum Kita-Brand in Zürich",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-kundgebungen-gewalt-frauen",
+      "section": "Gesellschaft",
+      "headline": "Kundgebungen gegen Gewalt an Frauen in mehreren Städten",
+      "summary": "Zum Internationalen Tag zur Beseitigung von Gewalt gegen Frauen haben am Mittwochabend in mehreren Schweizer Städten Kundgebungen stattgefunden. In Lausanne zogen laut Polizei 1300 bis 1500 Personen ohne Zwischenfälle vom Montbenon zur Place de la Riponne, in Biel beteiligten sich rund 200 Personen an einem Fackelzug. In Zürich zogen mehrere Hundert Demonstrierende durch die Innenstadt; dabei kam es zu Sprayereien und Sachbeschädigungen, die Polizei stand mit einem Grossaufgebot im Einsatz. Der Tram- und Busverkehr der VBZ war zeitweise stark eingeschränkt.",
+      "sources": [
+        {
+          "name": "RTS: Plus de 1000 personnes manifestent à Lausanne",
+          "url": "https://www.rts.ch/info/suisse/2026/article/violences-faites-aux-femmes-plus-de-1-000-personnes-a-lausanne-29428235.html",
+          "published_at": "2026-11-26T02:06:22+01:00",
+          "updated_at": "2026-11-26T03:37:36+01:00"
+        },
+        {
+          "name": "20 Minuten: Demonstrationszug gegen Gewalt an Frauen in Zürich",
+          "url": "https://www.20min.ch/story/zuerich-gegen-gewalt-an-frauen-demonstrationszug-durch-zuerich-gestartet-103673875",
+          "published_at": "2026-11-25T19:50:45+01:00",
+          "updated_at": "2026-11-25T21:37:05+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/gesellschaft-kundgebungen-gewalt-frauen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine abendliche Strasse mit vielen kleinen, abstrakten Silhouetten mit leeren Transparenten und Kerzen.",
+        "caption": "Symbolbild zu den Kundgebungen gegen Gewalt an Frauen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-neue-bischoefe",
+      "section": "Gesellschaft",
+      "headline": "Neue Bischöfe für Sitten und Lugano",
+      "summary": "Papst Leo XIV. hat Alain de Raemy zum Bischof von Sitten ernannt; er folgt auf Jean-Marie Lovey, der im August 2025 aus Altersgründen zurückgetreten war. De Raemy leitete seit 2022 interimistisch das Bistum Lugano. Neuer Bischof von Lugano wird der Tessiner Mauro-Giuseppe Lepori, bisher Generalabt des Zisterzienserordens und Mönch in der Abtei Hauterive FR. Bis zu Leporis Bischofsweihe im Januar bleibt de Raemy Apostolischer Administrator in Lugano.",
+      "sources": [
+        {
+          "name": "SRF: Bistümer Sitten und Lugano erhalten neue Bischöfe",
+          "url": "https://www.srf.ch/news/schweiz/paepstlicher-erlass-bistuemer-sitten-und-lugano-erhalten-neue-bischoefe",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Im Bistum Lugano endet ein mehrjähriges Provisorium (evtl. Paywall)",
+          "url": "https://www.nzz.ch/schweiz/im-bistum-lugano-endet-ein-mehrjaehriges-provisorium-ld.10074406",
+          "published_at": "2026-11-25T17:56:05+01:00",
+          "updated_at": "2026-11-25T18:38:36+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/gesellschaft-neue-bischoefe-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: Mitra und Bischofsstab auf einem Holztisch vor einem schlichten Kirchenfenster, daneben ein offenes Buch.",
+        "caption": "Symbolbild zu den Bischofsernennungen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-schnee-flachland",
+      "section": "Verkehr & Wetter",
+      "headline": "Erster Schnee im Flachland, in den Bergen Rekordmengen",
+      "summary": "Am Donnerstagmorgen hat es laut Radar von MeteoSchweiz in den Regionen Zürich, St. Gallen und in der Zentralschweiz bis ins Flachland geschneit; der Bund warnt unter anderem in Schaffhausen, Luzern, im Jura und im Tessin vor Strassenglätte. Der Schneefall soll sich am Vormittag verstärken und am Nachmittag nachlassen, in Graubünden erst am Abend. In den Alpen liegt so viel Schnee wie seit 1987 nicht mehr im November: Die Messstation Finhaut-L'Ecreleuse VS (2252 m) verzeichnete in sieben Tagen 297 Zentimeter Neuschnee. In den nächsten Tagen soll es trocken und kalt bleiben.",
+      "sources": [
+        {
+          "name": "20 Minuten: Wintereinbruch im Flachland – hier schneit es jetzt",
+          "url": "https://www.20min.ch/story/erster-schnee-wintereinbruch-im-flachland-hier-schneit-es-jetzt-103673999",
+          "published_at": "2026-11-26T06:16:34+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS: Neige en altitude, un record pour novembre depuis 1987",
+          "url": "https://www.rts.ch/info/suisse/2026/article/neige-en-altitude-jusqu-a-2-metres-un-record-pour-novembre-depuis-1987-29427755.html",
+          "published_at": "2026-11-25T19:23:05+01:00",
+          "updated_at": "2026-11-26T00:23:45+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/wetter-schnee-flachland-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: eine verschneite Landstrasse zwischen bereiften Feldern und kahlen Bäumen bei leichtem Schneefall.",
+        "caption": "Symbolbild zum Wintereinbruch im Flachland",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-schach-wm-remis",
+      "section": "Sport",
+      "headline": "Schach-WM in Genf: Auch zweite Partie endet remis",
+      "summary": "An der Schach-Weltmeisterschaft in Genf haben sich Titelverteidiger Dommaraju Gukesh aus Indien und Herausforderer Javohir Sindarov aus Usbekistan auch in der zweiten Partie unentschieden getrennt. Nach 20 Zügen einigten sich die beiden 20-Jährigen auf ein Remis, bereits die Auftaktpartie am Dienstag war unentschieden ausgegangen. Es steht damit 1:1. Der Wettkampf ist auf höchstens 14 klassische Partien angelegt; Weltmeister wird, wer zuerst 7,5 Punkte erreicht.",
+      "sources": [
+        {
+          "name": "SRF: Auch zweite Partie der Schach-WM in Genf endet ohne Sieger",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-auch-zweite-partie-der-schach-wm-in-genf-endet-ohne-sieger",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-morning/sport-schach-wm-remis-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: Nahaufnahme eines Schachbretts aus Holz mit Figuren und einer Schachuhr, ohne Spieler.",
+        "caption": "Symbolbild zur Schach-WM in Genf",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-26-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-26T06:54:45+01:00",
+    "ready_at": "2026-11-26T06:58:22+01:00",
+    "content_hash": "sha256:5ce11da2884737ad0d1d5f1f067f32c1b553d4fe65c74ad73a537cdf9aeb438b",
+    "image_rights": {
+      "politik-us-zoelle-schweiz": {
+        "rights": "ai_generated_own"
+      },
+      "politik-eu-parlament-vertragspaket": {
+        "rights": "ai_generated_own"
+      },
+      "politik-nordkorea-buero-geschlossen": {
+        "rights": "ai_generated_own"
+      },
+      "politik-konzernverantwortung-gegenvorschlag": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-anthropic-zuerich": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-pfas-regenjacken": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-ki-cyberangriffe": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-kita-brand": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-kundgebungen-gewalt-frauen": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-neue-bischoefe": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-schnee-flachland": {
+        "rights": "ai_generated_own"
+      },
+      "sport-schach-wm-remis": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-us-zoelle-schweiz": {
+        "path": "media/politik-us-zoelle-schweiz-1024-r01.jpg",
+        "sha256": "25dcd6c728e90a634121e8bc1e30bfc785bd6d65337c2b652795d52b5a381fcc",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f73af6ffdea51ba7ad2c3a987713b596ee67497128a825e5bc02a0887944e8d8.jpg",
+        "original_sha256": "f73af6ffdea51ba7ad2c3a987713b596ee67497128a825e5bc02a0887944e8d8",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Stacked shipping containers on a quay next to a large balance scale, one pan holding a small wooden crate, the other a heavy metal weight, with a generic cargo ship in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-eu-parlament-vertragspaket": {
+        "path": "media/politik-eu-parlament-vertragspaket-1024-r01.jpg",
+        "sha256": "3b9a00133304a26ce9392b87234874c84f14b049c40fc06619b50db0a1b4c0cb",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2c3dd66d77e0a0ac8874bdd288f48ebf8e6fa8ac0506cafa7e81777f7dc16b1e.jpg",
+        "original_sha256": "2c3dd66d77e0a0ac8874bdd288f48ebf8e6fa8ac0506cafa7e81777f7dc16b1e",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A large semicircular parliament chamber seen from above with rows of empty seats, and on a lectern in the foreground a thick bound treaty document with a ribbon and a fountain pen. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-nordkorea-buero-geschlossen": {
+        "path": "media/politik-nordkorea-buero-geschlossen-1024-r01.jpg",
+        "sha256": "ad40908d6f20c7b0a8b27c7cc330affc5eabd166419c53afa80e7c729fb03b67",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c96d3bb6f233faba24372b34ad77d536f8b892ed9d69f97e365e31d51131fcb6.jpg",
+        "original_sha256": "c96d3bb6f233faba24372b34ad77d536f8b892ed9d69f97e365e31d51131fcb6",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A small generic office building at dusk with its door shut and lights off, a packed suitcase standing outside on the steps, a quiet empty street. Generic architecture, not a real building. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-konzernverantwortung-gegenvorschlag": {
+        "path": "media/politik-konzernverantwortung-gegenvorschlag-1024-r01.jpg",
+        "sha256": "be1846f5ae71c19a53a1a732cc73c620f7e712b44a528f5297cd5f8644fba471",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/70ed7796717720e3f498b59928aff1b89e93f52a205d3e96214b1a8009fd5d1a.jpg",
+        "original_sha256": "70ed7796717720e3f498b59928aff1b89e93f52a205d3e96214b1a8009fd5d1a",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A glass office tower in the background and in the foreground a desk with an open law book, a magnifying glass, a small globe and a green leaf, symbolising corporate responsibility. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-anthropic-zuerich": {
+        "path": "media/wirtschaft-anthropic-zuerich-1024-r01.jpg",
+        "sha256": "d23f7e6db621a46fa113b7944b743d4d191ec92c83be26d878a622729c63f704",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/120462649e3a560e6299495157039685c3885ec23b97520533eb505718f9f562.jpg",
+        "original_sha256": "120462649e3a560e6299495157039685c3885ec23b97520533eb505718f9f562",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A historic stone city building beside a river with modern laptops and glowing abstract network lines emerging from its windows, symbolising a technology company moving into an old building. Generic architecture, not a specific real building. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-pfas-regenjacken": {
+        "path": "media/wirtschaft-pfas-regenjacken-1024-r01.jpg",
+        "sha256": "1c3dd8d79f587a7af33b6bac2514bc3fe533c2b1d77061cfa59cf312bfb497bd",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/76421f591e3ea01ae89c7e345371809da5b04c95c7b4d20130e8fd7162663c4c.jpg",
+        "original_sha256": "76421f591e3ea01ae89c7e345371809da5b04c95c7b4d20130e8fd7162663c4c",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Several colourful rain jackets hanging on a clothes rack, water droplets beading on the fabric, and a laboratory test tube and pipette beside them on a white table. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-ki-cyberangriffe": {
+        "path": "media/wirtschaft-ki-cyberangriffe-1024-r01.jpg",
+        "sha256": "b0836359549242a26db1a7cbe258b2a78f6bfc2f62fc4ccd080792ed6a6ba23a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4e56657ea23bba8bd63eaf88ed34e20ba83c5c1355af0b95ff9f95421088a87f.jpg",
+        "original_sha256": "4e56657ea23bba8bd63eaf88ed34e20ba83c5c1355af0b95ff9f95421088a87f",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An abstract server room with a glowing padlock icon partly cracked, and stylised robotic cursor arrows approaching a network of connected nodes representing infrastructure like power lines and water pipes. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-kita-brand": {
+        "path": "media/regionen-zuerich-kita-brand-1024-r01.jpg",
+        "sha256": "4342bc8df9cdf28dfb397f40774feb7800e7e0c648225d759a55a4013589c0f2",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2a8ca8d782bb1f41b1246f76849acfbcbc43aed466a3c2ae2fbd18fbae24a8ae.jpg",
+        "original_sha256": "2a8ca8d782bb1f41b1246f76849acfbcbc43aed466a3c2ae2fbd18fbae24a8ae",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration in a strictly flat vector style with simple geometric shapes and muted pastel colors, no realism, no texture, 4:3. A small wooden toy chair, colourful building blocks and a single extinguished tealight candle on a low table, with a simple grey smoke cloud shape near the ceiling. No children, no real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-kundgebungen-gewalt-frauen": {
+        "path": "media/gesellschaft-kundgebungen-gewalt-frauen-1024-r01.jpg",
+        "sha256": "933dc997649c8e4146493e27e5f19c57b24e871691ac67d285e735d144231584",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/18f8d802bab08a50b7d5e2af3dc3693292f9c30cc8c68f4a593385e1502eb741.jpg",
+        "original_sha256": "18f8d802bab08a50b7d5e2af3dc3693292f9c30cc8c68f4a593385e1502eb741",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An evening city street seen from a distance with many small abstract silhouettes holding plain blank banners and candles, warm purple and orange tones, no identifiable individuals. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-neue-bischoefe": {
+        "path": "media/gesellschaft-neue-bischoefe-1024-r01.jpg",
+        "sha256": "3ed6e0fe4e00c405f23b3da5cf199b2e9f85f4fb50d9726fc2f186049a09ab72",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/de6edcac08d48681a6eb13948664a35abb8c351ffe5d0cd570caf321435af659.jpg",
+        "original_sha256": "de6edcac08d48681a6eb13948664a35abb8c351ffe5d0cd570caf321435af659",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A bishop's mitre and a crosier resting on a wooden table in front of a simple stone church window with soft light, an open book beside them. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-schnee-flachland": {
+        "path": "media/wetter-schnee-flachland-1024-r01.jpg",
+        "sha256": "ebcdf05b24c4bfcc06b8a077998cb1bb23d1e67e08e3706aef194f81bc00a218",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/88357a702053a832bc1a8f0244c88704f2f4156d232fb8577f88de2b7bfbe929.jpg",
+        "original_sha256": "88357a702053a832bc1a8f0244c88704f2f4156d232fb8577f88de2b7bfbe929",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, natural light, 4:3, looks like a generic stock photograph. A snow-covered rural road in the Swiss lowlands in the early morning, light snowfall, frosted fields and bare trees on either side, grey overcast sky, generic landscape without any recognisable place, no vehicles. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-schach-wm-remis": {
+        "path": "media/sport-schach-wm-remis-1024-r01.jpg",
+        "sha256": "95b201d3db1eb7e45397bd8f81da249a4769e84d74a96a82fa4e7f1c7348ed42",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T06:58:22+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/f2513c0124d2379cb0bd07d647958c82ab5e2558f649b78080cab1512145a641.jpg",
+        "original_sha256": "f2513c0124d2379cb0bd07d647958c82ab5e2558f649b78080cab1512145a641",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, natural light, 4:3, looks like a generic stock photograph. Close-up of a wooden chess board in a tournament setting with pieces in a balanced middlegame position, a chess clock beside it, soft dramatic lighting, shallow depth of field, no players visible. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
