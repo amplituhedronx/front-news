@@ -1,0 +1,543 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-26T18:01:18+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-dublin-italien",
+      "section": "Politik",
+      "headline": "Italien nimmt erstmals seit 2022 wieder Asylsuchende aus der Schweiz zurück",
+      "summary": "Die Schweiz hat in den vergangenen Wochen erstmals seit fast vier Jahren wieder Asylsuchende im Rahmen des Dublin-Abkommens nach Italien überstellt. Laut dem Staatssekretariat für Migration (SEM) handelt es sich um einige Fälle; Italien habe alle zuletzt angemeldeten Rückführungen akzeptiert, nachdem Rom Ende Oktober eine Einzelfallprüfung angekündigt hatte. Derzeit kämen 773 Personen für eine Überstellung infrage; betroffen sind vorerst nur Männer, nicht Familien, Frauen oder Minderjährige. Während der Blockade seit Ende 2022 musste die Schweiz die Verfahren von 4036 Personen übernehmen. Die Schweizerische Flüchtlingshilfe hält das italienische Asylsystem für überlastet und will die Lage der Zurückgeführten vor Ort beobachten.",
+      "sources": [
+        {
+          "name": "SRF: Schweiz führt erste Asylsuchende nach Italien zurück",
+          "url": "https://www.srf.ch/news/schweiz/nach-vierjaehriger-blockade-schweiz-fuehrt-erste-asylsuchende-nach-italien-zurueck",
+          "published_at": null,
+          "updated_at": "2026-11-26T15:57:00+01:00"
+        },
+        {
+          "name": "NZZ-Meldungen: Italien nimmt wieder Asylsuchende aus der Schweiz zurück (evtl. Paywall)",
+          "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175",
+          "published_at": null,
+          "updated_at": "2026-11-26T16:43:34+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/politik-dublin-italien-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Passagierflugzeug auf einem Flughafenvorfeld in der Dämmerung, davor ein Rollkoffer und ein Stapel Akten.",
+        "caption": "Symbolbild zu den Dublin-Rückführungen nach Italien",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-fall-kabuga-bericht",
+      "section": "Politik",
+      "headline": "Bundesrat räumt Versäumnisse im Fall Kabuga von 1994 ein",
+      "summary": "Der Bundesrat hat einen Bericht zur Einreise von Félicien Kabuga im Juli 1994 vorgelegt, der als mutmasslicher Drahtzieher des Völkermords an den Tutsi in Ruanda gilt. Laut dem von Historikerinnen erarbeiteten Bericht handelte der damalige Leiter der Ausländerbehörde des Bundes eigenmächtig, als er Kabuga ein Visum erteilte; eine gründlichere Abklärung hätte höchstwahrscheinlich zur Ablehnung geführt. Kabuga stellte im August 1994 ein Asylgesuch und wurde wenige Tage später ausgewiesen; eine Festnahme und Strafverfolgung prüften die Behörden, verwarfen sie aber wegen der dünnen Beweislage. Der Bundesrat folgert, die aussenpolitische Dimension müsse bei solchen Entscheiden künftig stärker berücksichtigt werden. Kabuga wurde 2020 in Paris festgenommen und starb im Mai 2026 vor Abschluss seines Verfahrens.",
+      "sources": [
+        {
+          "name": "SRF: Mutmasslicher Kriegsverbrecher hätte 1994 nicht einreisen dürfen",
+          "url": "https://www.srf.ch/news/schweiz/fall-kabuga-und-die-schweiz-mutmasslicher-kriegsverbrecher-haette-1994-nicht-einreisen-duerfen",
+          "published_at": null,
+          "updated_at": "2026-11-26T15:52:00+01:00"
+        },
+        {
+          "name": "NZZ: Warum Félicien Kabuga unbehelligt in die Schweiz einreisen konnte (evtl. Paywall)",
+          "url": "https://www.nzz.ch/schweiz/ein-visum-trotz-allen-warnungen-warum-felicien-kabuga-unbehelligt-in-die-schweiz-einreisen-konnte-ld.10075296",
+          "published_at": "2026-11-26T17:41:12+01:00",
+          "updated_at": "2026-11-26T17:52:47+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/politik-fall-kabuga-bericht-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Archivtisch mit alter Schreibmaschine, vergilbten Akten, Lupe und einem geschlossenen Ausweisheft.",
+        "caption": "Symbolbild zur historischen Untersuchung im Fall Kabuga",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-snb-zollstreit",
+      "section": "Wirtschaft",
+      "headline": "Nationalbank weist US-Vorwurf der Wettbewerbsverzerrung zurück",
+      "summary": "Die Schweizerische Nationalbank (SNB) hat auf die Begründung der USA für höhere Zölle gegenüber der Schweiz reagiert. Der US-Handelsbeauftragte wirft der SNB vor, die Aufwertung des Frankens zu bremsen und so den Exportsektor indirekt zu subventionieren. Die SNB erklärte, die Geldpolitik sei nie eingesetzt worden, um Wettbewerbsvorteile zu erlangen, sondern diene ausschliesslich der Preisstabilität. Sie will ihre Instrumente unverändert einsetzen, einschliesslich allfälliger Devisenmarktinterventionen, und steht nach eigenen Angaben zusammen mit dem Bund in Kontakt mit den US-Behörden.",
+      "sources": [
+        {
+          "name": "NZZ: Die Nationalbank wehrt sich gegen die Vorwürfe aus den USA (evtl. Paywall)",
+          "url": "https://www.nzz.ch/wirtschaft/zollstreit-die-schweizerische-nationalbank-wehrt-sich-gegen-die-vorwuerfe-aus-den-usa-ld.10075381",
+          "published_at": "2026-11-26T16:56:47+01:00",
+          "updated_at": "2026-11-26T17:24:45+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/wirtschaft-snb-zollstreit-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine grosse Münze auf einer Wippe gegenüber Frachtcontainern, im Hintergrund eine allgemeine Bankfassade mit Säulen.",
+        "caption": "Symbolbild zum Zollstreit und zur Geldpolitik",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-svp-krisentreffen",
+      "section": "Politik",
+      "headline": "SVP-Leitung trifft Westschweizer Parlamentarier nach Kritik am Bundesratsticket",
+      "summary": "Nach der Nomination von Thomas Aeschi und Michael Graber für die Nachfolge des Waadtländers Guy Parmelin trifft sich die SVP-Parteileitung um Präsident Marcel Dettling am kommenden Dienstag in Bern mit ihren Westschweizer Parlamentsmitgliedern. Teile der Romands hatten kritisiert, dass zwei Deutschschweizer nominiert wurden. Der Freiburger Nationalrat Nicolas Kolly sagte, die Kritik solle zur Sprache kommen, danach wolle man rasch zur Sachpolitik zurückkehren; der Genfer Parteipräsident Lionel Dugerdil warnte vor einer Wahl ausserhalb des Tickets. Alle Kandidierenden haben sich laut SRF verpflichtet, eine solche Wahl nicht anzunehmen; die Bundesratswahl findet am 9. Dezember statt.",
+      "sources": [
+        {
+          "name": "SRF: Krisentreffen soll Unmut der SVP-Romands besänftigen",
+          "url": "https://www.srf.ch/news/dialog/wegen-ticket-knatsch-krisentreffen-soll-unmut-der-svp-romands-besaenftigen",
+          "published_at": null,
+          "updated_at": "2026-11-26T14:41:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/politik-svp-krisentreffen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leerer Sitzungsraum mit ovalem Tisch, zurückgeschobenen Stühlen, Wassergläsern und geschlossenen Mappen.",
+        "caption": "Symbolbild zur Aussprache in der SVP",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-lindt-aldi-urteil",
+      "section": "Wirtschaft",
+      "headline": "Bundesgericht: Aldi darf rote «Moser Roth»-Kugeln nicht mehr verkaufen",
+      "summary": "Im Rechtsstreit um Schokoladenkugeln hat das Bundesgericht Lindt & Sprüngli teilweise recht gegeben. Die roten «Moser Roth»-Kugeln von Aldi Schweiz erinnern laut dem Urteil zu stark an die roten Lindor-Kugeln und nutzen deren Ruf aus; das vom Aargauer Handelsgericht verhängte Verkaufsverbot bleibt bestehen. Die blauen Kugeln und die «Délice»-Kugeln darf Aldi dagegen weiter verkaufen. Eine Markenrechtsverletzung oder eine generelle Verwechslungsgefahr verneinte das Gericht, ebenso den Status der Lindor-Kugeln als berühmte Marke.",
+      "sources": [
+        {
+          "name": "SRF: Streit um Schoggi-Kugeln – Lindt bekommt teilweise recht",
+          "url": "https://www.srf.ch/news/schweiz/urteil-des-bundesgerichts-streit-um-schoggi-kugeln-lindt-bekommt-teilweise-recht",
+          "published_at": null,
+          "updated_at": "2026-11-26T17:49:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/wirtschaft-lindt-aldi-urteil-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: zwei Reihen rot eingewickelter Schokoladenkugeln auf einem Tisch, daneben ein Richterhammer.",
+        "caption": "Symbolbild zum Urteil im Streit um Schokoladenkugeln",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-ubs-kapital-stellen",
+      "section": "Wirtschaft",
+      "headline": "Bankpersonalverband warnt vor Stellenverlust wegen UBS-Kapitalregeln",
+      "summary": "Der Schweizerische Bankpersonalverband (SBPV) fordert Parlament und Bundesrat auf, die geplanten strengeren Eigenkapitalvorschriften für die UBS zu überdenken. Die Wirtschaftskommission des Nationalrats will, dass die Bank ihre ausländischen Tochtergesellschaften zu 90 Prozent mit hartem Eigenkapital unterlegt; der Bundesrat hatte 100 Prozent vorgeschlagen. Der Verband hält mehr Eigenkapital grundsätzlich für richtig, warnt aber, Vorgaben deutlich über internationalen Standards könnten zu einer Sitzverlegung oder Übernahme führen und über 10'000 Stellen gefährden. Befürworter der strengeren Regeln begründen sie mit dem Schutz der Schweiz vor den Folgen einer Bankenkrise; das Parlament berät die Vorlage weiter.",
+      "sources": [
+        {
+          "name": "20 Minuten: Verband warnt – über 10'000 UBS-Jobs sind gefährdet",
+          "url": "https://www.20min.ch/story/kapitalvorschriften-verband-warnt-ueber-10-000-ubs-jobs-sind-gefaehrdet-103674287",
+          "published_at": "2026-11-26T17:43:20+01:00",
+          "updated_at": "2026-11-26T17:43:20+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/wirtschaft-ubs-kapital-stellen-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Bürohochhaus mit beleuchteten Fenstern, davor leere Schreibtische und eine Waage mit Goldbarren und Aktenkoffer.",
+        "caption": "Symbolbild zur Debatte über die Kapitalvorschriften",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-planzer-datenleck",
+      "section": "Wirtschaft",
+      "headline": "Cyberangriff auf Planzer: Daten von Galaxus-Bestellungen gestohlen",
+      "summary": "Bei einem Cyberangriff auf das Transportunternehmen Planzer haben Unbekannte Daten zu Transportaufträgen gestohlen, darunter Sendungsdaten zu Bestellungen beim Onlinehändler Digitec Galaxus. Betroffen sind laut Galaxus Paketnummern, Namen, Liefer- und E-Mail-Adressen sowie teilweise Telefonnummern; die jüngsten Daten stammen von Anfang 2023. Die Systeme von Digitec Galaxus waren nach Angaben des Unternehmens nicht betroffen, Planzer liefert weiterhin aus. Laut Planzer wurden auch Zugangsdaten zum Kundenportal entwendet; die Firmen warnen vor gefälschten E-Mails, SMS und Anrufen zu Paketlieferungen.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA): Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden",
+          "url": "https://www.swissinfo.ch/ger/cyberangriff-auf-planzer-trifft-auch-digitec-galaxus-kunden/92439868",
+          "published_at": "2026-11-26T07:35:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RSI: Attacco hacker alla società di spedizioni Planzer",
+          "url": "https://www.rsi.ch/s/4270832",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/wirtschaft-planzer-datenleck-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: Pakete mit leeren Etiketten auf einem Förderband, ein aufgebrochenes Vorhängeschloss und ein Laptop mit abstrakten Datenströmen.",
+        "caption": "Symbolbild zum Datendiebstahl beim Paketdienst",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-spital-thun",
+      "section": "Zürich & Regionen",
+      "headline": "Spital Thun: Nach Freistellung des Orthopädie-Chefs kündigt auch der Chirurgie-Chef",
+      "summary": "Am Spital Thun hat der Chefarzt der Chirurgischen Klinik, Georg R. Linke, auf eigenen Wunsch gekündigt; er begründete dies mit den Turbulenzen und den gegen ihn geäusserten Zweifeln. Zuvor hatte der Verwaltungsrat der Spital STS AG am 18. November den langjährigen Orthopädie-Chefarzt Rolf Hess freigestellt, was Proteste von rund 400 Personen und einen offenen Brief von über 150 Mitarbeitenden auslöste. Hess hatte im August bei der Berner Gesundheitsdirektion eine Aufsichtsbeschwerde mit Vorwürfen gegen die Chirurgie eingereicht. Das Spital weist diese Vorwürfe zurück; die Klinikleitung übernimmt vorübergehend Linkes Stellvertreter.",
+      "sources": [
+        {
+          "name": "SRF: Eskalation am Spital Thun führt zu weiterem Chefarzt-Abgang",
+          "url": "https://www.srf.ch/news/schweiz/machtkampf-am-spital-thun-eskalation-am-spital-thun-fuehrt-zu-weiterem-chefarzt-abgang",
+          "published_at": null,
+          "updated_at": "2026-11-26T17:51:00+01:00"
+        },
+        {
+          "name": "20 Minuten: Nächster Knall am Spital Thun – Chirurgiechef kündigt",
+          "url": "https://www.20min.ch/story/spital-thun-naechster-knall-am-spital-thun-chirurgiechef-kuendigt-103674259",
+          "published_at": "2026-11-26T14:50:09+01:00",
+          "updated_at": "2026-11-26T14:50:09+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/regionen-spital-thun-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein leerer Spitalkorridor mit einem weissen Arztkittel und Stethoskop an einem Garderobenständer.",
+        "caption": "Symbolbild zu den Abgängen am Spital Thun",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-hotelfachschule-zuerich",
+      "section": "Zürich & Regionen",
+      "headline": "Hotelfachschule Zürich bleibt dank Partnerschaft mit Kalaidos bestehen",
+      "summary": "Die Hotelfachschule Zürich wird entgegen früheren Plänen weitergeführt. Der Branchenverband Gastro Suisse und die Privatschule Kalaidos wollen den Standort an der Seestrasse in Zürich-Enge gemeinsam nutzen und dort ein Zentrum für Gastfreundschaft, Gastronomie und Tourismus aufbauen. Vorgesehen sind Angebote von der Lehre bis zur Hochschulweiterbildung; Gastro Suisse betreibt die Hotelfachschule weiter. Ursprünglich sollte die Schule im Frühling 2027 schliessen, weil sich die hohen Gebäudekosten laut Gastro Suisse nicht über den Schulbetrieb finanzieren liessen.",
+      "sources": [
+        {
+          "name": "NZZ-Meldungen Zürich: Die Hotelfachschule Zürich ist gerettet (evtl. Paywall)",
+          "url": "https://www.nzz.ch/zuerich/zuercher-nationalraetin-katharina-prelicz-huber-verabschiedet-sich-aus-bern-ld.10038407",
+          "published_at": null,
+          "updated_at": "2026-11-26T17:02:05+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/regionen-hotelfachschule-zuerich-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine Schulküche und ein Hotelempfang mit Tischglocke, gefalteten Servietten, weissen Tellern und Kochmütze.",
+        "caption": "Symbolbild zur Hotelfachschule Zürich",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-kunstmuseum-bern-direktorin",
+      "section": "Gesellschaft",
+      "headline": "Lisa Marei Schmidt wird Direktorin von Kunstmuseum Bern und Zentrum Paul Klee",
+      "summary": "Die deutsche Kunsthistorikerin Lisa Marei Schmidt übernimmt die Gesamtleitung des Kunstmuseums Bern und des Zentrums Paul Klee. Die 48-Jährige leitet seit 2017 das Brücke-Museum in Berlin und setzte sich laut SRF in einem internationalen Verfahren gegen fast 100 Bewerbende durch. Sie tritt ihr Amt im August 2027 an und folgt auf Nina Zimmer, die im Januar 2027 die Leitung des Belvedere in Wien übernimmt. Bis dahin führt der kaufmännische Direktor Thomas Soraperra die beiden Häuser.",
+      "sources": [
+        {
+          "name": "SRF: Lisa Marei Schmidt ist neue Direktorin der Berner Kunstmuseen",
+          "url": "https://www.srf.ch/news/schweiz/aus-berlin-lisa-marei-schmidt-ist-neue-direktorin-der-berner-kunstmuseen",
+          "published_at": null,
+          "updated_at": "2026-11-26T15:27:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/gesellschaft-kunstmuseum-bern-direktorin-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein heller, leerer Museumssaal mit abstrakten farbigen Bildern an weissen Wänden und einer Holzbank.",
+        "caption": "Symbolbild zur neuen Museumsleitung in Bern",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "verkehr-bahn-europameister",
+      "section": "Verkehr & Wetter",
+      "headline": "Schweiz bleibt Europameisterin im Bahnfahren",
+      "summary": "Die Schweizer Bevölkerung legte 2025 laut dem Informationsdienst für den öffentlichen Verkehr (Litra) im Schnitt 2578 Kilometer pro Person mit der Bahn zurück und fuhr 73,4-mal Zug, mehr als in jedem anderen europäischen Land. Gegenüber dem Vorjahr stiegen die Kilometer um 2,4 und die Fahrten um 3,5 Prozent; Ungarn, Österreich und Frankreich folgen mit fast 900 Kilometern Abstand. Beim Güterverkehr verlor die Bahn dagegen laut Bundesamt für Statistik Anteile: Ihr Anteil sank 2025 auf den Tiefstwert von 35 Prozent. Als Hauptgrund nennt das BFS den Rückgang des Transitverkehrs um 8,7 Prozent, unter anderem wegen Baustellen auf der deutschen Rheintalstrecke.",
+      "sources": [
+        {
+          "name": "swissinfo.ch (Keystone-SDA): Die Schweiz hält den Europameistertitel im Bahnfahren",
+          "url": "https://www.swissinfo.ch/ger/die-schweiz-h%C3%A4lt-den-europameistertitel-im-bahnfahren/92441669",
+          "published_at": "2026-11-26T11:28:00+01:00",
+          "updated_at": null
+        },
+        {
+          "name": "RTS: La Suisse conserve son titre de championne d'Europe du rail",
+          "url": "https://www.rts.ch/info/suisse/2026/article/la-suisse-conserve-son-titre-de-championne-d-europe-du-rail-29428599.html",
+          "published_at": "2026-11-26T13:22:25+01:00",
+          "updated_at": "2026-11-26T14:35:33+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/verkehr-bahn-europameister-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: ein rot-weisser Personenzug auf einem Viadukt in einem verschneiten Alpental, aus der Ferne.",
+        "caption": "Symbolbild zur Bahnnutzung in der Schweiz",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-biathlon-hartweg",
+      "section": "Sport",
+      "headline": "Biathlon: Niklas Hartweg startet mit Rang 5 in die Saison",
+      "summary": "Der Schwyzer Biathlet Niklas Hartweg ist beim ersten Weltcuprennen der Saison im finnischen Kontiolahti im Einzel über 20 Kilometer Fünfter geworden. Er traf 19 von 20 Scheiben und leistete sich erst beim letzten Stehendschiessen einen Fehler. Den Sieg holte der US-Amerikaner Campbell Wright, der als Einziger fehlerfrei blieb; vor Hartweg klassierten sich zudem Justus Strelow sowie die Norweger Vetle Christiansen und Sturla Holm Laegreid.",
+      "sources": [
+        {
+          "name": "SRF Sport: Saisonstart nach Mass – Hartweg überzeugt mit Rang 5",
+          "url": "https://www.srf.ch/sport/mehr-sport/biathlon/maenner-einzel-in-kontiolahti-saisonstart-nach-mass-hartweg-ueberzeugt-mit-rang-5",
+          "published_at": null,
+          "updated_at": "2026-11-26T17:43:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-26-evening/sport-biathlon-hartweg-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: runde Biathlon-Zielscheiben im Schnee, davor Langlaufski und Stöcke an einem Holzzaun im Nebel.",
+        "caption": "Symbolbild zum Biathlon-Weltcupauftakt",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-26-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-26T17:57:47+01:00",
+    "ready_at": "2026-11-26T18:01:18+01:00",
+    "content_hash": "sha256:65bc42a8795b591fef37f3139a7169b4895c24f89cb506c6cd7c4a7255a69e0d",
+    "image_rights": {
+      "politik-dublin-italien": {
+        "rights": "ai_generated_own"
+      },
+      "politik-fall-kabuga-bericht": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-snb-zollstreit": {
+        "rights": "ai_generated_own"
+      },
+      "politik-svp-krisentreffen": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-lindt-aldi-urteil": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-ubs-kapital-stellen": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-planzer-datenleck": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-spital-thun": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-hotelfachschule-zuerich": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-kunstmuseum-bern-direktorin": {
+        "rights": "ai_generated_own"
+      },
+      "verkehr-bahn-europameister": {
+        "rights": "ai_generated_own"
+      },
+      "sport-biathlon-hartweg": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-dublin-italien": {
+        "path": "media/politik-dublin-italien-1024-r01.jpg",
+        "sha256": "5d7a757048e6fff23d978552c30b88f36c77ae2b1f5ba46227137e73830296dd",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3d49af8bdb765888b26a5ecc7a1ab8427d29726c08ade01060d6494185b9b0da.jpg",
+        "original_sha256": "3d49af8bdb765888b26a5ecc7a1ab8427d29726c08ade01060d6494185b9b0da",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A small generic passenger airplane on an airport apron at dusk, a rolling suitcase and a stack of administrative folders in the foreground, a stylised map outline of a boot-shaped peninsula faintly in the sky. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-fall-kabuga-bericht": {
+        "path": "media/politik-fall-kabuga-bericht-1024-r01.jpg",
+        "sha256": "ffe5121d2813961c00359e6328c680305cc8440d2d273714b93a72ca6f0e3f79",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4be75c402b5bcbfd01071ab141f279b6373c908c00b8884a57ed7aa1ddfa015b.jpg",
+        "original_sha256": "4be75c402b5bcbfd01071ab141f279b6373c908c00b8884a57ed7aa1ddfa015b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An archive table with an old 1990s typewriter, a stack of yellowed files with a paper clip, a magnifying glass and a closed passport-like booklet, warm desk lamp light. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-snb-zollstreit": {
+        "path": "media/wirtschaft-snb-zollstreit-1024-r01.jpg",
+        "sha256": "9cb881c425482330638a159c79f7bf3550143310f44769d119f16ba04e5cfe1b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/18431e0e51cd657252f3c8f7d5a5fef4bb14cfc8a6e90ca2b1b4cc9ba3195dd6.jpg",
+        "original_sha256": "18431e0e51cd657252f3c8f7d5a5fef4bb14cfc8a6e90ca2b1b4cc9ba3195dd6",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A large stylised coin balanced on a seesaw against a stack of shipping containers, with a generic classical bank facade with columns in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-svp-krisentreffen": {
+        "path": "media/politik-svp-krisentreffen-1024-r01.jpg",
+        "sha256": "d14598836bd11402529d75a7ef9f01afd00a7fd013b6b54927e97224a4497b01",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:17+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/d062c1b363c55a994ef358c0759b3f23b74f5e7fe6cf7b7b6c234a98c375b027.jpg",
+        "original_sha256": "d062c1b363c55a994ef358c0759b3f23b74f5e7fe6cf7b7b6c234a98c375b027",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty meeting room with a long oval table, chairs pulled back, water glasses and closed folders, two small groups of empty chairs facing each other. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-lindt-aldi-urteil": {
+        "path": "media/wirtschaft-lindt-aldi-urteil-1024-r01.jpg",
+        "sha256": "41cdd9461733faef71c5de34d7cc1c46b29fdfc55d61ff033d048b7f483d079f",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/50134779f67387c4d24260929879136264e4828d9e480edb45b9aca5580ce9bb.jpg",
+        "original_sha256": "50134779f67387c4d24260929879136264e4828d9e480edb45b9aca5580ce9bb",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two rows of round wrapped chocolate pralines in glossy red foil on a table, one row slightly different in shade, a wooden judge's gavel lying beside them. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-ubs-kapital-stellen": {
+        "path": "media/wirtschaft-ubs-kapital-stellen-1024-r01.jpg",
+        "sha256": "180f7814110729685d2db1fc2a400bb7835d3ec74446e6258f2c33c1331a5c57",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a89e714dc8d2880083ea068cd24d00f870501b5d0dd45a3cdb2bddfd4068a762.jpg",
+        "original_sha256": "a89e714dc8d2880083ea068cd24d00f870501b5d0dd45a3cdb2bddfd4068a762",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A modern generic office tower with many lit windows, in the foreground rows of empty office desks with chairs, and a large balance scale weighing gold bars against a briefcase. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-planzer-datenleck": {
+        "path": "media/wirtschaft-planzer-datenleck-1024-r01.jpg",
+        "sha256": "0a4c8f90372fb03a512fad10294e4a7aaa6d49948122b5723af2560cc51e2e35",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a34cc2d22f45ea9c185436a12bf091f781bb25fe8bced5e7aec590b7c8af0395.jpg",
+        "original_sha256": "a34cc2d22f45ea9c185436a12bf091f781bb25fe8bced5e7aec590b7c8af0395",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Cardboard parcels on a conveyor belt with blank shipping labels, a broken padlock and a glowing laptop screen showing abstract streams of dots. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-spital-thun": {
+        "path": "media/regionen-spital-thun-1024-r01.jpg",
+        "sha256": "acff6b5dedb1f9e1e8edf244d60789dc41cf9eafd4738e639d06b20d1b30f989",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a9c7f588e79465d4d9a3b557619ad5543128665b8e5fd254839729a7a881108c.jpg",
+        "original_sha256": "a9c7f588e79465d4d9a3b557619ad5543128665b8e5fd254839729a7a881108c",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty hospital corridor with a generic doctor's white coat hanging on a coat stand and a stethoscope, soft cool light, a closed office door. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-hotelfachschule-zuerich": {
+        "path": "media/regionen-hotelfachschule-zuerich-1024-r01.jpg",
+        "sha256": "7c902fd461e58d9d839ce8d7ef1e2677ed05c601fa0dd865a5f0baed58b6319a",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/16c681a78b868f8a6618af063e59bb3b1d2523e95df42031bf4ca8df86ae9f7a.jpg",
+        "original_sha256": "16c681a78b868f8a6618af063e59bb3b1d2523e95df42031bf4ca8df86ae9f7a",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A tidy training kitchen and hotel reception desk with a service bell, folded napkins, stacked white plates and a chef's hat on a counter, warm light. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-kunstmuseum-bern-direktorin": {
+        "path": "media/gesellschaft-kunstmuseum-bern-direktorin-1024-r01.jpg",
+        "sha256": "2346bc726b016c367dab948e45a9c6b13ae4a36e86a2a2619a1334bc7e3646da",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c15a405fafd0daf81614cd7921d795ae723b8665c23f787f0d18f6c51b78f41e.jpg",
+        "original_sha256": "c15a405fafd0daf81614cd7921d795ae723b8665c23f787f0d18f6c51b78f41e",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty bright museum gallery with abstract colourful paintings on white walls and a single wooden bench in the middle. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "verkehr-bahn-europameister": {
+        "path": "media/verkehr-bahn-europameister-1024-r01.jpg",
+        "sha256": "fd1d2d470cd0a1d2137a820d81c5718c799b0421b945ed33e7154bd0ee2f1e97",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c1537b46041008cf1cf9b9057985b9072c033a3359bf7be510a49ed7994cebc9.jpg",
+        "original_sha256": "c1537b46041008cf1cf9b9057985b9072c033a3359bf7be510a49ed7994cebc9",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. A modern generic red-and-white passenger train crossing a snowy Alpine valley on a viaduct in winter, mountains in the background, seen from a distance so no details are recognisable. No people, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-biathlon-hartweg": {
+        "path": "media/sport-biathlon-hartweg-1024-r01.jpg",
+        "sha256": "f6bbf79457491bee05133a9ef7eb3eb7ea8de3eed4a2a147f57942affda4f6c5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-26T18:01:18+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-26",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-26 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/36cce0b80d8b550a7a05cca15dc37d981dd7092e38c2447128d8bf4a0cce62b2.jpg",
+        "original_sha256": "36cce0b80d8b550a7a05cca15dc37d981dd7092e38c2447128d8bf4a0cce62b2",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, 4:3. Close-up of a biathlon shooting range in winter: a row of black and white round metal targets in snow, a pair of cross-country skis and poles leaning on a fence in the foreground, soft morning fog. No people, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
