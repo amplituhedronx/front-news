@@ -1,0 +1,537 @@
+{
+  "schema_version": "1.0",
+  "edition": "evening",
+  "published_at": "2026-11-27T17:53:37+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "verkehr-a1-massenkarambolage",
+      "section": "Verkehr & Wetter",
+      "headline": "Massenkarambolage mit 37 Fahrzeugen auf der A1 bei Winterthur",
+      "summary": "Auf der Autobahn A1 zwischen Effretikon und Winterthur-Töss sind am Freitagmorgen 37 Fahrzeuge ineinandergefahren: 23 Personenwagen, sechs Lieferwagen und acht Lastwagen. Laut der Kantonspolizei Zürich wurden zehn Personen verletzt, sechs leicht und vier mittelschwer. Unverletzte Beteiligte wurden zur Befragung zum Rastplatz Kemptthal gebracht, die meisten Fahrzeuge mussten abgeschleppt werden. Der Abschnitt war bis in den späten Nachmittag gesperrt und ist inzwischen wieder offen; der genaue Unfallhergang wird noch abgeklärt.",
+      "sources": [
+        {
+          "name": "SRF: A1 nach Massenkarambolage wieder offen",
+          "url": "https://www.srf.ch/news/schweiz/autobahn-im-kanton-zuerich-a1-nach-massenkarambolage-wieder-offen",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Zehn Verletzte nach Massenkarambolage mit 37 Fahrzeugen (evtl. Paywall)",
+          "url": "https://www.nzz.ch/zuerich/zehn-verletzte-nach-massenkarambolage-mit-37-fahrzeugen-a-1-bleibt-bis-am-nachmittag-gesperrt-ld.10076356",
+          "published_at": "2026-11-27T10:54:40+01:00",
+          "updated_at": "2026-11-27T17:36:25+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/verkehr-a1-massenkarambolage-1024-r01.jpg",
+        "alt": "Flache Illustration: eine verschneite, leere Autobahn im Winterlicht, am Rand ein rotes Warndreieck und orange Warnleuchten.",
+        "caption": "Symbolbild zur Massenkarambolage auf der A1",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-blocher-svp-ticket",
+      "section": "Politik",
+      "headline": "Blocher kritisiert SVP-Bundesratsticket und erwähnt Schnegg",
+      "summary": "Alt-Bundesrat Christoph Blocher bezeichnet das SVP-Zweierticket mit Thomas Aeschi und Michael Graber als fähig und wählbar, bemängelt aber einen «Schönheitsfehler», weil die Romandie nicht vertreten sei; er sprach von einem «Betriebsunfall». Über den Berner Regierungsrat Pierre Alain Schnegg, der in der Fraktion gegen Graber unterlag, äusserte sich Blocher positiv und sagte, bei einer Wahl ausserhalb des Tickets könnte Schnegg wieder in die Partei aufgenommen werden; dafür braucht es Zweidrittelmehrheiten in Parteivorstand und Fraktion. Schnegg selbst sagte, das Ticket stehe, zu Spekulationen äussere er sich nicht. Die Bundesversammlung wählt die Nachfolge von Guy Parmelin am 9. Dezember.",
+      "sources": [
+        {
+          "name": "SRF: Blocher kritisiert SVP-Ticket und bringt Schnegg zurück ins Spiel",
+          "url": "https://www.srf.ch/news/schweiz/schoenheitsfehler-blocher-kritisiert-svp-ticket-und-bringt-schnegg-zurueck-ins-spiel",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Blocher zerpflückt Bundesratsticket der SVP",
+          "url": "https://www.20min.ch/story/kritik-aus-herrliberg-zh-betriebsunfall-blocher-zerpflueckt-bundesratsticket-der-svp-103674738",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Und plötzlich spricht Blocher von einem «Betriebsunfall» (evtl. Paywall)",
+          "url": "https://www.nzz.ch/schweiz/und-ploetzlich-spricht-blocher-von-einem-betriebsunfall-ld.10076608",
+          "published_at": "2026-11-27T17:20:34+01:00",
+          "updated_at": "2026-11-27T17:47:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/politik-blocher-svp-ticket-1024-r01.jpg",
+        "alt": "Flache Illustration: zwei Stimmzettel-Karten nebeneinander auf einem Pult, daneben ein leerer dritter Platz, im Hintergrund ein halbrunder Parlamentssaal ohne Personen.",
+        "caption": "Symbolbild zur Debatte um das SVP-Ticket",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-schweiz-frankreich-weltraum",
+      "section": "Politik",
+      "headline": "Schweiz und Frankreich vereinbaren engere Zusammenarbeit im Weltraum",
+      "summary": "Verteidigungsminister Martin Pfister und die französische Verteidigungsministerin Catherine Vautrin haben in Bern eine Absichtserklärung zur militärischen Zusammenarbeit im Weltraum unterzeichnet, die Ausbildung, Forschung und Informationsaustausch umfasst. Pfister begründete dies damit, dass die Schweiz ihre Souveränität im Weltraum nicht allein garantieren könne. Thema war auch die geplante Beschaffung eines Systems für die bodengestützte Luftverteidigung grösserer Reichweite, für das noch das französisch-italienische SAMP/T NG und das israelische Barak MX im Rennen sind. Der Typenentscheid soll Anfang 2027 fallen, zuvor muss das Parlament voraussichtlich in der Frühjahrssession über die Finanzierung entscheiden.",
+      "sources": [
+        {
+          "name": "SRF: Schweiz und Frankreich unterzeichnen Weltall-Absichtserklärung",
+          "url": "https://www.srf.ch/news/schweiz/staerkung-der-expertise-schweiz-und-frankreich-unterzeichnen-weltall-absichtserklaerung",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/politik-schweiz-frankreich-weltraum-1024-r01.jpg",
+        "alt": "KI-generiertes, fotorealistisch wirkendes Symbolbild: ein Satellit mit Solarpanels im Erdorbit vor der gekrümmten Erdoberfläche und dem schwarzen All.",
+        "caption": "Symbolbild zur Weltraum-Zusammenarbeit",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-bundesgericht-e-voting-basel",
+      "section": "Politik",
+      "headline": "Bundesgericht tritt auf E-Voting-Beschwerde einer Auslandschweizerin nicht ein",
+      "summary": "Das Bundesgericht ist auf die Beschwerde einer Auslandschweizerin nicht eingetreten, deren elektronisch abgegebene Stimme in Basel-Stadt wegen einer Panne nicht gezählt worden war. Die Basler Regierung hatte ihr bereits recht gegeben und eine Verletzung ihrer politischen Rechte festgestellt; die Frau wollte zusätzlich prüfen lassen, ob die Staatskanzlei ihre Sorgfaltspflichten verletzt habe. Laut dem am Freitag veröffentlichten Urteil kann ein Entscheid nicht nur wegen seiner Begründung angefochten werden. E-Voting bleibt in Basel-Stadt vorerst bis Ende Jahr ausgesetzt; die Regierung wartet auf ein laufendes Strafverfahren und eine Studie zur Ursache der Panne.",
+      "sources": [
+        {
+          "name": "SRF: E-Voting – Bundesgericht weist Beschwerde einer Auslandschweizerin ab",
+          "url": "https://www.srf.ch/news/schweiz/e-voting-bundesgericht-weist-die-beschwerde-einer-auslandschweizerin-ab",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/politik-bundesgericht-e-voting-basel-1024-r01.jpg",
+        "alt": "Flache Illustration: ein Laptop mit einem leeren Abstimmungsformular, daneben ein Briefumschlag und ein Richterhammer.",
+        "caption": "Symbolbild zum Urteil über E-Voting",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-travailsuisse-umfrage",
+      "section": "Wirtschaft",
+      "headline": "Travailsuisse-Umfrage: Mehr als die Hälfte sorgt sich um den Arbeitsplatz",
+      "summary": "Laut der repräsentativen Umfrage «Gute Arbeit 2026» des Arbeitnehmendenverbands Travailsuisse machen sich über 54 Prozent der Arbeitnehmenden Sorgen um ihren Arbeitsplatz. 42 Prozent gaben an, sich bei der Arbeit oft oder sehr oft gestresst zu fühlen, und 28,6 Prozent arbeiteten oft oder sehr oft auch in der Freizeit. Mehr als ein Drittel nutzt bei der Arbeit regelmässig KI-Anwendungen; jede fünfte befragte Person verbindet dies mit höheren Produktivitätsanforderungen. Die Ergebnisse wurden am Freitag in Bern vorgestellt.",
+      "sources": [
+        {
+          "name": "SRF: Jede zweite Person sorgt sich um den Arbeitsplatz",
+          "url": "https://www.srf.ch/news/schweiz/travailsuisse-umfrage-jede-zweite-person-sorgt-sich-um-den-arbeitsplatz",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/wirtschaft-travailsuisse-umfrage-1024-r01.jpg",
+        "alt": "Flache Illustration: ein Bürotisch mit Laptop und Kaffeetasse am Abend, darüber eine kleine Gewitterwolke als Symbol für Sorgen.",
+        "caption": "Symbolbild zur Umfrage über Stress und Jobsorgen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-swiss-kabinenpersonal",
+      "section": "Wirtschaft",
+      "headline": "Swiss will 2027 rund 700 Flight Attendants einstellen",
+      "summary": "Die Fluggesellschaft Swiss plant im kommenden Jahr rund 700 Neuanstellungen beim Kabinenpersonal, wie Recherchen von blue News zeigen und die Airline weitgehend bestätigt. In der ersten Hälfte 2026 hatte Swiss wegen eines Personalüberhangs Austrittsprämien von bis zu 15'000 Franken angeboten; rund 140 Kabinenmitarbeitende nahmen das Angebot an. Die Airline sieht darin keinen Widerspruch: Die Rekrutierung sei schon vor den Prämien geplant gewesen und diene dem erwarteten Wachstum des Flugbetriebs.",
+      "sources": [
+        {
+          "name": "20 Minuten: Swiss zahlte Kündigungs-Boni, jetzt sucht sie neues Personal",
+          "url": "https://www.20min.ch/story/700-flight-attendants-hohe-kuendigungs-boni-gezahlt-jetzt-sucht-swiss-neues-personal-103674787",
+          "published_at": "2026-11-27T16:19:08+01:00",
+          "updated_at": "2026-11-27T16:19:08+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/wirtschaft-swiss-kabinenpersonal-1024-r01.jpg",
+        "alt": "Flache Illustration: eine leere Flugzeugkabine mit Sitzreihen, im Gang ein Servicewagen und mehrere leere Namensschilder.",
+        "caption": "Symbolbild zur Rekrutierung von Kabinenpersonal",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-sorgenbarometer-2026",
+      "section": "Gesellschaft",
+      "headline": "Sorgenbarometer: Gesundheitskosten bleiben grösste Sorge, Wohnkosten auf Platz zwei",
+      "summary": "Im UBS-Sorgenbarometer 2026 nennen 48 Prozent der Stimmberechtigten die Gesundheitskosten und Krankenkassenprämien als grösste Sorge, mehr als im Vorjahr. Auf Platz zwei folgen neu die Wohnkosten und Mieten mit 30 Prozent, vor Umweltschutz und Klimawandel mit 28 Prozent; Altersvorsorge und Zuwanderung werden seltener genannt als 2025. Den grössten Sprung macht das Thema Digitalisierung und künstliche Intelligenz, von Rang 30 auf 16. GFS Bern befragte im Juni und Juli im Auftrag der UBS 2001 Stimmberechtigte.",
+      "sources": [
+        {
+          "name": "SRF: UBS-Sorgenbarometer 2026 – die grössten Sorgen der Schweizer",
+          "url": "https://www.srf.ch/news/schweiz/ubs-sorgenbarometer-2026-krankenkasse-und-co-die-groessten-sorgen-der-schweizer",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/gesellschaft-sorgenbarometer-2026-1024-r01.jpg",
+        "alt": "Flache Illustration: ein grosses Barometer mit Zeiger, umgeben von Symbolen für Gesundheit, Wohnen und Umwelt.",
+        "caption": "Symbolbild zum Sorgenbarometer",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-porenbeton-empa",
+      "section": "Gesellschaft",
+      "headline": "Empa warnt nach Schulschliessung in Rheinfelden vor Risiken von Porenbeton",
+      "summary": "Nach der Schliessung des Schulhauses Robersten in Rheinfelden AG, wo an Deckenplatten aus Porenbeton Risse und Abplatzungen festgestellt wurden, sieht die Empa ein Warnsignal. Porenbeton, vor allem unter dem Namen «Siporex», wurde von den 1960er- bis in die 1980er-Jahre häufig in Schulen, Turnhallen und Bädern verbaut. Laut Empa-Fachmann Pietro Lura ist nicht jede Platte gefährlich, kritisch könne aber das Zusammenspiel von Alterung, Feuchtigkeit und Zusatzlasten wie Solaranlagen sein. Die Empa untersucht nun Proben aus Rheinfelden, die Schule soll im Januar wieder öffnen.",
+      "sources": [
+        {
+          "name": "SRF: Instabile Betonplatten – wie viele weitere Gebäude sind betroffen?",
+          "url": "https://www.srf.ch/news/schweiz/instabile-betonplatten-bund-alarmiert-wie-viele-weitere-gebaeude-sind-betroffen",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/gesellschaft-porenbeton-empa-1024-r01.jpg",
+        "alt": "Flache Illustration: ein Ausschnitt einer Gebäudedecke aus hellen Betonplatten mit feinen Rissen, darunter ein Schutzhelm und eine Lupe.",
+        "caption": "Symbolbild zu Porenbeton in älteren Gebäuden",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-genf-kokainabgabe",
+      "section": "Zürich & Regionen",
+      "headline": "Genf startet 2027 Pilotprojekt mit ärztlicher Kokainabgabe",
+      "summary": "Der Kanton Genf will ab Januar 2027 zehn bis zwanzig freiwilligen Schwerstabhängigen aus der Crack-Szene pharmazeutisches Kokain unter ärztlicher Aufsicht abgeben, nach Angaben des Kantons erstmals in der Schweiz. Das Programm des Gesundheitsdepartements und des Universitätsspitals HUG sieht bis zu sechs Inhalationen pro Tag sowie psychotherapeutische und soziale Begleitung vor; Ziel ist es, den Konsum von Strassen-Crack zu senken. Unterstützt wird das Projekt von der Schweizerischen Gesellschaft für Suchtmedizin, Kritiker wie der Zürcher Arzt André Seidenberg warnen vor vernachlässigten medizinischen Risiken. Eine erste Bilanz ist für die zweite Jahreshälfte 2027 geplant.",
+      "sources": [
+        {
+          "name": "NZZ: Genf startet Pilot mit Kokainabgabe an Schwerstsüchtige (evtl. Paywall)",
+          "url": "https://www.nzz.ch/schweiz/genf-startet-pilot-mit-kokain-abgabe-an-schwerstsuechtige-der-kanton-wagt-einen-umstrittenen-versuch-ld.10076377",
+          "published_at": "2026-11-27T15:39:31+01:00",
+          "updated_at": "2026-11-27T16:46:04+01:00"
+        },
+        {
+          "name": "SRF: Genf plant kontrollierte Kokainabgabe für Crack-Konsumierende",
+          "url": "https://www.srf.ch/news/schweiz/weltweit-erstes-pilotprojekt-genf-plant-kontrollierte-kokainabgabe-fuer-crack-konsumierende",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/regionen-genf-kokainabgabe-1024-r01.jpg",
+        "alt": "Flache Illustration: ein heller Behandlungsraum mit Arzttisch, Stethoskop, Krankenakte und einem Medikamentenbehälter.",
+        "caption": "Symbolbild zum Genfer Pilotprojekt",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-thurgau-kopftuchverbot",
+      "section": "Zürich & Regionen",
+      "headline": "Thurgauer Regierung befürwortet Kopftuchverbot für Lehrpersonen",
+      "summary": "Die Thurgauer Regierung will Lehrpersonen an öffentlichen Schulen das Tragen religiöser Kopfbedeckungen wie Kopftuch oder Kippa im Unterricht und an Schulanlässen verbieten. Sie beantragt dem Grossen Rat, eine entsprechende Motion von Vertretern der SVP, Mitte und EVP teilweise erheblich zu erklären. Kleine religiöse Symbole und Schmuck sollen erlaubt bleiben, parteipolitische Zeichen sowie Wahl- und Abstimmungswerbung im Unterricht dagegen verboten werden. Weitergehende Forderungen wie ein Verbot allgemein ideologischer Kleidung lehnt die Regierung ab; das Kantonsparlament entscheidet.",
+      "sources": [
+        {
+          "name": "SRF: Thurgauer Regierung will Kopftücher für Lehrerinnen verbieten",
+          "url": "https://www.srf.ch/news/schweiz/an-oeffentlichen-schulen-thurgauer-regierung-will-kopftuecher-fuer-lehrerinnen-verbieten",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/regionen-thurgau-kopftuchverbot-1024-r01.jpg",
+        "alt": "Flache Illustration: ein leeres Schulzimmer mit Pulten, Wandtafel und einem Kleiderhaken an der Wand.",
+        "caption": "Symbolbild zur Debatte über Kleidungsregeln an Schulen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-tempo-20-schulen",
+      "section": "Zürich & Regionen",
+      "headline": "Zürcher Stadtparlament will Tempo 20 vor Schulhäusern prüfen lassen",
+      "summary": "SP, Grüne, GLP und AL haben im Zürcher Gemeinderat einen Vorstoss an den Stadtrat überwiesen, wonach vor Schulhäusern, Kindergärten, Spitälern und Altersheimen wo möglich Tempo 20, höchstens aber Tempo 30 gelten soll. Auf solchen Strecken sollen ausdrücklich auch Fussgängerstreifen zulässig sein. Die Befürworter verweisen auf eine BFU-Studie zu weniger Unfällen, FDP, SVP und Mitte befürchten Verwirrung im Verkehr und einen «Schilderwald». Der Stadtrat war bereit, den Vorstoss entgegenzunehmen, und muss nun Bericht erstatten.",
+      "sources": [
+        {
+          "name": "NZZ: Tempo 20 vor Schulhäusern soll Standard werden (evtl. Paywall)",
+          "url": "https://www.nzz.ch/zuerich/zuerich-vor-schulhaeusern-soll-kuenftig-tempo-20-gelten-fordern-linke-und-glp-ld.10075610",
+          "published_at": "2026-11-27T16:03:21+01:00",
+          "updated_at": "2026-11-27T16:47:20+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/regionen-zuerich-tempo-20-schulen-1024-r01.jpg",
+        "alt": "Flache Illustration: eine Quartierstrasse vor einem allgemeinen Schulgebäude mit Fussgängerstreifen, Bäumen und einem Schulranzen am Strassenrand.",
+        "caption": "Symbolbild zur Temporeduktion vor Schulen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-geering-zsc",
+      "section": "Sport",
+      "headline": "Captain Patrick Geering verlässt die ZSC Lions nach 19 Jahren",
+      "summary": "Die ZSC Lions verlängern den auslaufenden Vertrag mit Captain Patrick Geering nicht; der 36-Jährige verlässt den Club nach dieser Saison. Geering hat bisher 1052 Partien in der National League bestritten, alle für die Zürcher. Laut dem Club lehnte er sowohl eine einjährige Verlängerung in einer weniger prägenden Rolle als auch eine Funktion in der Sportabteilung ab. Geering erklärte, die angebotene Rolle entspreche nicht seinen Vorstellungen, er wolle weiterspielen.",
+      "sources": [
+        {
+          "name": "SRF: Nach 19 Jahren: Geering und der ZSC gehen getrennte Wege",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/keine-vertragsverlaengerung-nach-19-jahren-geering-und-der-zsc-gehen-getrennte-wege",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-evening/sport-geering-zsc-1024-r01.jpg",
+        "alt": "KI-generiertes, fotorealistisch wirkendes Symbolbild: ein Eishockeystock und ein Puck auf frisch präpariertem Eis in einer leeren Halle.",
+        "caption": "Symbolbild zum Abschied des ZSC-Captains",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-27-evening",
+    "revision": 1,
+    "research_completed_at": "2026-11-27T17:51:49+01:00",
+    "ready_at": "2026-11-27T17:53:37+01:00",
+    "content_hash": "sha256:130db97881bc502d18acabbcbc337fbbf850e0df597f11713eb34b3ec283f03d",
+    "image_rights": {
+      "verkehr-a1-massenkarambolage": {
+        "rights": "ai_generated_own"
+      },
+      "politik-blocher-svp-ticket": {
+        "rights": "ai_generated_own"
+      },
+      "politik-schweiz-frankreich-weltraum": {
+        "rights": "ai_generated_own"
+      },
+      "politik-bundesgericht-e-voting-basel": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-travailsuisse-umfrage": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-swiss-kabinenpersonal": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-sorgenbarometer-2026": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-porenbeton-empa": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-genf-kokainabgabe": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-thurgau-kopftuchverbot": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-tempo-20-schulen": {
+        "rights": "ai_generated_own"
+      },
+      "sport-geering-zsc": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "verkehr-a1-massenkarambolage": {
+        "path": "media/verkehr-a1-massenkarambolage-1024-r01.jpg",
+        "sha256": "03fc6be4427b00fb436b35ba7da2a29eb97bcfec7a906a1986d31739e6cbc77b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e9bc495a33dc4522a2ffae03916950cb51502452e5f908baec724c3b1834e2be.jpg",
+        "original_sha256": "e9bc495a33dc4522a2ffae03916950cb51502452e5f908baec724c3b1834e2be",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty multi-lane motorway in winter with icy patches and light snow, a red warning triangle and orange flashing warning lights at the roadside, grey morning sky. No vehicles crashing, no people, no faces, no text, no letters, no numbers, no logos, no signs with writing.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-blocher-svp-ticket": {
+        "path": "media/politik-blocher-svp-ticket-1024-r01.jpg",
+        "sha256": "5ee6fb769b13af628910eadb7020c0720f0ad2c143c23cee41eebe13207de148",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c38d53b5e83b9f569976166ad64be5a6120a39d5a081459d57de033010de0f0d.jpg",
+        "original_sha256": "c38d53b5e83b9f569976166ad64be5a6120a39d5a081459d57de033010de0f0d",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two blank name cards standing side by side on a wooden desk, an empty third spot with a faint outline next to them, a semicircular parliament chamber with empty seats in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-schweiz-frankreich-weltraum": {
+        "path": "media/politik-schweiz-frankreich-weltraum-1024-r01.jpg",
+        "sha256": "65489151fc7013fb759f9cd2d2996cbf2e355b82cb96dd1709537130907bbeda",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/04bea7997e85975ece0794ebeb2313dd0e383fe6513564de6cc3210c0c340d31.jpg",
+        "original_sha256": "04bea7997e85975ece0794ebeb2313dd0e383fe6513564de6cc3210c0c340d31",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, 4:3: a generic satellite with large solar panels orbiting high above the curved Earth, thin blue atmosphere line, black space with faint stars, soft sunlight reflections on the panels. Generic design, no flags, no logos, no text, no letters, no numbers, no people.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-bundesgericht-e-voting-basel": {
+        "path": "media/politik-bundesgericht-e-voting-basel-1024-r01.jpg",
+        "sha256": "974bda0ccd34339176314e9bd593e848ede1c517c5dff3c626a868a2a5ac68ba",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/016bdca75dd3c9e2c8aa644988c1cf3255883f99c8ac645d55100416a4e86696.jpg",
+        "original_sha256": "016bdca75dd3c9e2c8aa644988c1cf3255883f99c8ac645d55100416a4e86696",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A laptop showing a blank ballot form with empty checkboxes, an envelope beside it and a wooden judge's gavel on a desk, calm neutral background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-travailsuisse-umfrage": {
+        "path": "media/wirtschaft-travailsuisse-umfrage-1024-r01.jpg",
+        "sha256": "e0ee15834839b2799984b3669060cfc87730903f8062abfe67b22e42b35d3ec7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a9b47dbee8bc2025b556923bae2b906d25bd74e44da4206df2c6ac877a42c8ba.jpg",
+        "original_sha256": "a9b47dbee8bc2025b556923bae2b906d25bd74e44da4206df2c6ac877a42c8ba",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An office desk in the evening with an open laptop, a coffee mug and stacked folders, a small grey storm cloud hovering above the chair as a symbol of worry, window with dusk sky. No real people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-swiss-kabinenpersonal": {
+        "path": "media/wirtschaft-swiss-kabinenpersonal-1024-r01.jpg",
+        "sha256": "54777a3b0a2e2a224ef2fb7ae4f3a22b4e474342a5f21244ad7626096d5c6619",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/17f257319d0286323f37915296986085e431ebff0f349f45cfb5e050c34ed398.jpg",
+        "original_sha256": "17f257319d0286323f37915296986085e431ebff0f349f45cfb5e050c34ed398",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. The empty cabin aisle of a generic passenger airplane with rows of seats, a service trolley in the aisle and a few blank name badges lying on a seat. No real people, no faces, no text, no letters, no numbers, no logos, no airline branding.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-sorgenbarometer-2026": {
+        "path": "media/gesellschaft-sorgenbarometer-2026-1024-r01.jpg",
+        "sha256": "ebda89fc528c9bb11e50d46d7740db1bac9de0dc6cb318b28494d13c53bc4ce0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/fd4504d719aa403101fc7537b163e32dfa5fc4e8cccae219cfdc2ddc236d220f.jpg",
+        "original_sha256": "fd4504d719aa403101fc7537b163e32dfa5fc4e8cccae219cfdc2ddc236d220f",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A large round barometer gauge with a needle in the center, surrounded by simple icons: a medical cross, a small house with a key, a green leaf and a piggy bank. No real people, no faces, no text, no letters, no numbers on the dial, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-porenbeton-empa": {
+        "path": "media/gesellschaft-porenbeton-empa-1024-r01.jpg",
+        "sha256": "9bc67ce852ddd6c7de6d310f2919b1de65079ff6e769e20f1c7a8d5fe2b858dd",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dbc0a7767c0b6cd3726ff1d1a62986a5b05e84ebbfe10f0d54370e3651d0f6d6.jpg",
+        "original_sha256": "dbc0a7767c0b6cd3726ff1d1a62986a5b05e84ebbfe10f0d54370e3651d0f6d6",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A close view of a ceiling made of light grey lightweight concrete panels with thin cracks, a yellow safety helmet and a magnifying glass on a table below. Generic, not a specific building. No real people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-genf-kokainabgabe": {
+        "path": "media/regionen-genf-kokainabgabe-1024-r01.jpg",
+        "sha256": "4c73c95912ebebeba7798219a818821b66da01b90782e46bf6a61be536ee0ef7",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/58ce3024bb1276592984d844865ba5143c394c7aa5ac7e953ac64102007a9fa1.jpg",
+        "original_sha256": "58ce3024bb1276592984d844865ba5143c394c7aa5ac7e953ac64102007a9fa1",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A bright, calm medical treatment room with a doctor's desk, a stethoscope, a closed patient folder and a small sealed pharmacy container, a chair and a window. No drugs paraphernalia, no real people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-thurgau-kopftuchverbot": {
+        "path": "media/regionen-thurgau-kopftuchverbot-1024-r01.jpg",
+        "sha256": "63bf743920434f2aa8d834e57691db579ebf05ebf9cbaa2d7f6b1be0c2d21e44",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/da219e5fa92bb5caaba910b2c2c5f17e3a4293a648180c1bfbcc3149336a0822.jpg",
+        "original_sha256": "da219e5fa92bb5caaba910b2c2c5f17e3a4293a648180c1bfbcc3149336a0822",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty classroom with rows of student desks, a blank green chalkboard, and a coat rack with a plain scarf hanging on it near the door, soft daylight. No real people, no faces, no text, no letters, no numbers, no logos, no religious symbols.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-tempo-20-schulen": {
+        "path": "media/regionen-zuerich-tempo-20-schulen-1024-r01.jpg",
+        "sha256": "adddec3ff5ad908390c82f7c2bc3a9c25fd697781eb88b89090fcd37d251cd94",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b5cca68ba2b93b93d07709c8b5a3b9d834712918b549a4ccbb8c0fd9e2f31cf5.jpg",
+        "original_sha256": "b5cca68ba2b93b93d07709c8b5a3b9d834712918b549a4ccbb8c0fd9e2f31cf5",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A quiet residential street in front of a generic school building with a zebra crossing, trees, a bicycle and a child's school backpack on a bench by the sidewalk. No real people, no faces, no text, no letters, no numbers, no logos, no readable signs.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-geering-zsc": {
+        "path": "media/sport-geering-zsc-1024-r01.jpg",
+        "sha256": "7ac2c26baf59c524dee117a44b4cb41e794d7faaa0505a3e82ebcce935f81c9e",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T17:53:37+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 evening run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/80ebc9c173bdbf7beeda67bf636f0c384d3ebd46e7070a6bc94b96f26bfc6ed7.jpg",
+        "original_sha256": "80ebc9c173bdbf7beeda67bf636f0c384d3ebd46e7070a6bc94b96f26bfc6ed7",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, 4:3: a single ice hockey stick lying on freshly resurfaced ice next to a black puck, empty arena softly out of focus in the background, cool arena lighting. No people, no jerseys, no team logos, no text, no letters, no numbers.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
