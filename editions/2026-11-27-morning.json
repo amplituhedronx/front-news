@@ -1,0 +1,555 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-27T06:59:45+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-jsvp-ausschluesse-luzern",
+      "section": "Politik",
+      "headline": "Junge SVP Schweiz schliesst zehn Luzerner Mitglieder aus",
+      "summary": "Die Junge SVP Schweiz hat zehn Mitglieder ihrer Luzerner Kantonalsektion ausgeschlossen, darunter den im März gewählten Kantonalpräsidenten und ein Vorstandsmitglied. Die nationale Parteileitung begründet den einstimmig gefällten Entscheid mit einer gezielten Unterwanderung durch die als rechtsextrem eingestufte Gruppierung «Junge Tat»; es gehe nicht um eine Gesinnungsprüfung. Die Junge SVP Luzern bestreitet, dass die Betroffenen Mitglieder der «Jungen Tat» seien, und hält die Ausschlüsse für unzulässig, weil dafür der Kantonalvorstand zuständig sei. Die Kantonalpartei hält am 1. Dezember ihre Generalversammlung ab.",
+      "sources": [
+        {
+          "name": "SRF: Junge SVP Schweiz schliesst zehn Luzerner aus",
+          "url": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Junge SVP schliesst Mitglieder der Luzerner Sektion aus (evtl. Paywall)",
+          "url": "https://www.nzz.ch/schweiz/unterwanderung-durch-junge-tat-junge-svp-schliesst-mehrere-mitglieder-aus-luzerner-sektion-aus-ld.10075890",
+          "published_at": "2026-11-26T20:01:00+01:00",
+          "updated_at": "2026-11-26T20:06:53+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/politik-jsvp-ausschluesse-luzern-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Versammlungssaal mit leeren Stuhlreihen, eine Gruppe Stühle hinter einer roten Absperrkordel, vorne ein Rednerpult mit Hammer.",
+        "caption": "Symbolbild zu den Parteiausschlüssen bei der Jungen SVP",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-amherd-ruag-aktennotiz",
+      "section": "Politik",
+      "headline": "Aktennotiz zeigt, wie Amherd 2021 den Ruag-Zuschlag für Armee-Telekommunikation durchsetzte",
+      "summary": "Eine Aktennotiz aus dem Verteidigungsdepartement vom Mai 2021, die SRF Investigativ nach einem Urteil des Bundesverwaltungsgerichts gestützt auf das Öffentlichkeitsgesetz erhalten hat, dokumentiert den Zuschlag für das Kommunikationssystem Ersa IMFS an den bundeseigenen Rüstungskonzern Ruag. Laut Notiz bat der damalige Rüstungschef Martin Sonderegger darum, neben Ruag auch den israelischen Anbieter Elbit im Verfahren zu behalten, wie es ein Gutachten wegen Schwächen beider Lösungen empfohlen hatte; die damalige Bundesrätin Viola Amherd entschied, mit Ruag weiterzufahren, und lehnte eine schriftliche Weisung ab. Der Vertrag über rund 80 Millionen Franken wurde nach Differenzen über Leistungen und Kosten erst im vergangenen Februar unterzeichnet, die Finanzkontrolle hatte die Beschaffung zweimal kritisiert. Eine von SRF befragte Beschaffungsrechtlerin hält das Vorgehen nicht für illegal, aber für politisch motiviert.",
+      "sources": [
+        {
+          "name": "SRF Investigativ: So setzte Bundesrätin Amherd ihren Willen durch",
+          "url": "https://www.srf.ch/news/schweiz/teures-ruestungsgeschaeft-jawohl-so-setzte-bundesraetin-amherd-ihren-willen-durch",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/politik-amherd-ruag-aktennotiz-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Bürotisch mit einem Notizblatt ohne lesbaren Text unter einer Schreibtischlampe, daneben ein altes Telefon, ein Feldfunkgerät und ein Kugelschreiber.",
+        "caption": "Symbolbild zur Beschaffung der Armee-Telekommunikation",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-usa-bericht-ueberkapazitaeten",
+      "section": "Wirtschaft",
+      "headline": "US-Handelsbeauftragter legt über 160-seitigen Bericht zur Schweizer Wirtschaft vor",
+      "summary": "Der Untersuchungsbericht des US-Handelsbeauftragten zur Schweiz umfasst mit Anhängen mehr als 160 Seiten und dient laut seinem Fazit als Grundlage für mögliche Gegenmassnahmen wie höhere Zölle. Die US-Regierung wirft der Schweiz darin vor, mit staatlichen Anreizen Überkapazitäten zu schaffen, als Drehscheibe für chinesische Produkte zu dienen, die Pharmaindustrie steuerlich zu begünstigen und über die Nationalbank den Franken tief zu halten. Der Bundesrat weist die Vorwürfe zurück, der Industrieverband Swissmem bezeichnet sie als «absurd» und verweist auf die abgeschafften Industriezölle und hohe Lohnkosten. Die USA wollen damit laut SRF den Druck aufrechterhalten und die Zölle erhöhen.",
+      "sources": [
+        {
+          "name": "SRF: USA werfen der Schweiz unlauteren Wettbewerb vor",
+          "url": "https://www.srf.ch/news/wirtschaft/untersuchungsbericht-der-usa-usa-werfen-der-schweiz-unlauteren-wettbewerb-vor",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/wirtschaft-usa-bericht-ueberkapazitaeten-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein mit Band verschnürter Stapel Berichtsseiten neben kleinen Frachtcontainern, einer Medikamentendose und einer Spielzeugfabrik, dahinter eine Waage.",
+        "caption": "Symbolbild zum US-Bericht über die Schweizer Handelspolitik",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "wirtschaft-bilanz-reichste",
+      "section": "Wirtschaft",
+      "headline": "«Bilanz»-Liste: Familie Aponte neu an der Spitze der 300 Reichsten",
+      "summary": "Das Vermögen der 300 reichsten Personen in der Schweiz ist laut dem Wirtschaftsmagazin «Bilanz» zum dritten Mal in Folge auf einen Rekord gestiegen, auf 934,5 Milliarden Franken oder 9,8 Prozent mehr als im Vorjahr. Neu auf Platz eins steht die Genfer Reederfamilie Aponte (MSC) mit geschätzten 39 bis 40 Milliarden Franken, gefolgt von den Roche-Familien Hoffmann, Oeri und Duschmalé sowie dem Unternehmer Andrea Pignataro. Der bisherige Spitzenreiter Gérard Wertheimer (Chanel) fällt auf Rang vier zurück. Als Gründe für den Anstieg nennt das Magazin Neuzugänge, eine Neubewertung des Aponte-Vermögens und die von KI-Titeln getriebenen Börsen.",
+      "sources": [
+        {
+          "name": "SRF: Das sind die 300 reichsten Menschen in der Schweiz",
+          "url": "https://www.srf.ch/news/wirtschaft/bilanz-ranking-das-sind-die-300-reichsten-menschen-in-der-schweiz",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "RSI: Aponte in vetta ai ricchi di Svizzera (Italienisch)",
+          "url": "https://www.rsi.ch/s/4273814",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/wirtschaft-bilanz-reichste-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: treppenartig ansteigende Stapel von Goldmünzen, daneben ein Containerschiff-Modell und ein Laborkolben.",
+        "caption": "Symbolbild zur Rangliste der grössten Vermögen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-bitcoin-etf-six",
+      "section": "Wirtschaft",
+      "headline": "Erster Schweizer Spot-Bitcoin-ETF an der SIX kotiert",
+      "summary": "An der Schweizer Börse SIX wird seit Donnerstag der erste Schweizer Spot-Bitcoin-ETF gehandelt, der Bitcoin Fund ETF (BBIT). Sponsor und Vermögensverwalter ist BIT Asset Management, Emittentin die Pernet von Ballmoos AG; der Fonds bildet den Bitcoin-Kurs passiv ab und verwahrt die Bitcoins offline bei einer Schweizer Bank. Als Schweizer Anlagefonds untersteht das Produkt dem Gesetz über die kollektiven Kapitalanlagen. Laut SIX steigt die Zahl der ETF-Emittenten an der Börse damit auf 41, insgesamt sind über 8200 ETFs handelbar.",
+      "sources": [
+        {
+          "name": "SIX: Erster Schweizer Spot-Bitcoin-ETF an SIX Swiss Exchange (Mitteilung)",
+          "url": "https://www.six-group.com/de/newsroom/media-releases/2026/20261126-bit-etf-issuer.html",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "finews.ch: Erster Schweizer Spot-Bitcoin-ETF an der SIX gestartet",
+          "url": "https://www.finews.ch/news/finanzplatz/74675-bitcoin-etf-six-kotierung-bit-asset-management",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/wirtschaft-bitcoin-etf-six-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine goldene Münze mit abstraktem Netzmuster in einer Glasvitrine, dahinter eine leuchtende Börsenkurve in einem Handelssaal.",
+        "caption": "Symbolbild zum ersten Schweizer Bitcoin-ETF",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-zuerich-business-apartments",
+      "section": "Zürich & Regionen",
+      "headline": "Stadt Zürich zählt über 50 Prozent mehr Business-Apartments als vor fünf Jahren",
+      "summary": "In der Stadt Zürich waren Ende Oktober 5670 von insgesamt 239'200 Wohnungen möblierte Business-Apartments, was 2,4 Prozent entspricht, wie die Stadt mitteilte. Vor fünf Jahren waren es 3720, ein Anstieg um rund 52 Prozent. Besonders hoch ist der Anteil im Kreis 4, im Langstrasse-Quartier stieg er von 5,4 auf 8,2 Prozent; deutlich zugenommen hat die Zahl auch in Oerlikon und Altstetten. Die SP spricht von einer besorgniserregenden Zunahme, durch die reguläre Mietwohnungen verloren gingen.",
+      "sources": [
+        {
+          "name": "SRF: Stadt Zürich zählt immer mehr Business-Wohnungen",
+          "url": "https://www.srf.ch/news/schweiz/kurzer-aufenthalt-hohe-preise-stadt-zuerich-zaehlt-immer-mehr-business-wohnungen",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "swissinfo.ch (Keystone-SDA): Stadt Zürich zählt immer mehr Business-Apartments",
+          "url": "https://www.swissinfo.ch/ger/stadt-z%C3%BCrich-z%C3%A4hlt-immer-mehr-business-apartments/92441497",
+          "published_at": "2026-11-26T11:14:00+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/regionen-zuerich-business-apartments-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein modernes Wohnhaus in der Abenddämmerung mit beleuchteten Fenstern, davor Rollkoffer und Schlüsselkarten.",
+        "caption": "Symbolbild zu den Business-Apartments in Zürich",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-genf-staatspersonal-demo",
+      "section": "Zürich & Regionen",
+      "headline": "Genf: Tausende demonstrieren gegen Sparbudget des Kantons",
+      "summary": "In Genf sind am Donnerstagabend nach einem halbtägigen Streik Tausende gegen das Kantonsbudget 2027 auf die Strasse gegangen, das Sparmassnahmen von insgesamt 247,7 Millionen Franken vorsieht. Die Polizei zählte rund 1800 Teilnehmende, das Gewerkschaftskartell des öffentlichen Dienstes sprach von etwa 4000; die Kundgebung verlief ohne Zwischenfälle. Die Finanzkommission des Grossen Rates hatte zuvor einige Sparpunkte zurückgenommen, die Gewerkschaften beschlossen dennoch zwei weitere halbe Streiktage am 10. und 17. Dezember. Das Kantonsparlament berät das Budget am 17. und 18. Dezember.",
+      "sources": [
+        {
+          "name": "RSI: A Ginevra in migliaia in piazza contro i tagli (Italienisch)",
+          "url": "https://www.rsi.ch/s/4273730",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Le Temps: Genève, plus de 2000 fonctionnaires manifestent (Französisch, evtl. Paywall)",
+          "url": "https://www.letemps.ch/suisse/geneve/geneve-plus-de-2000-fonctionnaires-manifestent-contre-un-budget-juge-austere",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/regionen-genf-staatspersonal-demo-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine breite Stadtstrasse am Abend aus der Vogelperspektive mit bunten, unbeschrifteten Transparenten und Schirmen, Menschen nur als kleine abstrakte Formen.",
+        "caption": "Symbolbild zur Kundgebung gegen das Genfer Budget",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-blitzer-baden",
+      "section": "Zürich & Regionen",
+      "headline": "Aargauer Regierung verlangt Abschaltung des einzigen fixen Blitzers in Baden",
+      "summary": "Der Aargauer Regierungsrat verlangt, dass die einzige fest installierte Radaranlage des Kantons an der Gstühlkreuzung in Baden per 1. Januar abgeschaltet wird. Grund ist die im März mit 55,5 Prozent angenommene Initiative «Blitzerabzocke», wonach stationäre Anlagen künftig nur noch ausnahmsweise mit Bewilligung der Regierung zulässig sind. Laut Innendepartement darf der Blitzer erst wieder betrieben werden, wenn eine solche Bewilligung vorliegt. Die Stadt Baden prüft die Ausgangslage und will später über das Vorgehen entscheiden.",
+      "sources": [
+        {
+          "name": "SRF: Der Blitzer in Baden muss abgeschaltet werden",
+          "url": "https://www.srf.ch/news/schweiz/einziger-blitzer-im-aargau-kanton-verlangt-der-blitzer-in-baden-muss-abgeschaltet-werden",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/regionen-blitzer-baden-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein grauer Radarkasten an einer Kreuzung mit Ampel und Fussgängerstreifen, daneben ein Kalenderblatt und ein Ausschalt-Symbol.",
+        "caption": "Symbolbild zum Blitzer in Baden",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-wettingen-weihnachtsbeleuchtung",
+      "section": "Zürich & Regionen",
+      "headline": "Wettingen verzichtet erstmals seit über 60 Jahren auf Weihnachtsbeleuchtung",
+      "summary": "Die Gemeinde Wettingen AG montiert dieses Jahr keine Weihnachtsbeleuchtung an der Landstrasse, erstmals seit über 60 Jahren. Eine statische Prüfung durch die Schweizerische Prüfstelle für Elektrotragwerke ergab laut Gemeinde, dass 29 von 31 Kandelabern die zusätzliche Last der Dekoration nicht mehr tragen können. Der Gemeinderat begründet den Verzicht mit der Sicherheit von Bevölkerung und Verkehrsteilnehmenden.",
+      "sources": [
+        {
+          "name": "20 Minuten: Wettingen streicht Weihnachtsbeleuchtung",
+          "url": "https://www.20min.ch/story/wettingen-ag-weihnachtsbeleuchtung-faellt-nach-60-jahren-erstmals-aus-103674111",
+          "published_at": "2026-11-26T18:42:16+01:00",
+          "updated_at": "2026-11-26T18:42:16+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/regionen-wettingen-weihnachtsbeleuchtung-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: eine nächtliche Dorfstrasse mit kahlen Strassenlampen, auf dem Trottoir eine Kiste mit ungenutzten Lichterketten und Sternen.",
+        "caption": "Symbolbild zur fehlenden Weihnachtsbeleuchtung",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-schnee-alpen-skisaison",
+      "section": "Verkehr & Wetter",
+      "headline": "So viel Frühwinterschnee wie seit 1987 nicht mehr – Skisaison startet breit",
+      "summary": "Nach einer Serie atlantischer Störungen liegt in den Schweizer Alpen vielerorts bereits über ein Meter Schnee, so viel wie zu dieser Jahreszeit seit 1987 nicht mehr, wie SRF unter Berufung auf Schneefachleute berichtet. Laut einer Auswertung der Plattform Ski-now.ch sind derzeit 24 der 173 Schweizer Skigebiete mit rund 254 Pistenkilometern geöffnet, am Samstag sollen 24 weitere folgen. Bis zum 19. Dezember sollen 152 Gebiete in Betrieb sein, einige öffnen früher als geplant. Die Lawinengefahr ist in weiten Teilen der Alpen erheblich (Stufe 3).",
+      "sources": [
+        {
+          "name": "SRF: So viel Schnee gab es seit 1987 nicht mehr",
+          "url": "https://www.srf.ch/news/dialog/niederschlaege-in-den-alpen-so-viel-schnee-gab-es-seit-1987-nicht-mehr",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "20 Minuten: Diese Skigebiete haben schon offen",
+          "url": "https://www.20min.ch/story/skisaison-start-diese-skigebiete-haben-schon-offen-und-hier-gehts-samstag-los-103674489",
+          "published_at": "2026-11-27T04:56:56+01:00",
+          "updated_at": "2026-11-27T04:56:56+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/wetter-schnee-alpen-skisaison-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: tiefer Pulverschnee auf einer leeren Skipiste unter blauem Himmel, verschneite Tannen und allgemeine Berge.",
+        "caption": "Symbolbild zum frühen Wintereinbruch in den Alpen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-conference-league-thun-lugano",
+      "section": "Sport",
+      "headline": "Conference League: Thun verliert 0:4 bei Ajax, Lugano erstmals geschlagen",
+      "summary": "Der FC Thun hat in der 4. Runde der Conference League bei Ajax Amsterdam mit 0:4 verloren; die Tore fielen unter anderem durch einen Freistoss von Rayan Bounida und einen Bogenlampen-Treffer von Steven Berghuis. Der FC Lugano unterlag beim tschechischen Klub Jablonec mit 0:2 und kassierte nach drei Siegen die erste Niederlage in diesem Wettbewerb. Beide Treffer für Jablonec fielen nach der 70. Minute.",
+      "sources": [
+        {
+          "name": "SRF Sport: Ajax eine Nummer zu gross für den FC Thun",
+          "url": "https://www.srf.ch/sport/fussball/conference-league/conference-league-4-runde-ajax-eine-nummer-zu-gross-fuer-den-fc-thun",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "SRF Sport: Lugano muss gegen Jablonec erstmals als Verlierer vom Platz",
+          "url": "https://www.srf.ch/sport/fussball/conference-league/conference-league-4-runde-lugano-muss-gegen-jablonec-erstmals-als-verlierer-vom-platz",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/sport-conference-league-thun-lugano-1024-r01.jpg",
+        "alt": "Fotorealistisches KI-generiertes Symbolbild: ein Fussball auf nassem Rasen in einem leeren, flutlichtbeleuchteten Stadion bei Nacht.",
+        "caption": "Symbolbild zu den Conference-League-Spielen",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-schach-wm-remis",
+      "section": "Sport",
+      "headline": "Schach-WM in Genf: Auch dritte Partie endet remis",
+      "summary": "Titelverteidiger Gukesh Dommaraju und Herausforderer Jawochir Sindarow aus Usbekistan haben sich an der Schach-Weltmeisterschaft in Cologny bei Genf auch in der dritten Partie unentschieden getrennt. Diesmal geriet Sindarow nach knapp fünf Stunden in erhebliche Zeitnot, rettete aber das Remis. Es steht 1,5:1,5; nach einem Ruhetag folgt am Samstag die vierte von bis zu 14 Partien.",
+      "sources": [
+        {
+          "name": "SRF Sport: Schach-WM, 3. Remis zwischen Gukesh und Sindarow",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schach-wm-3-remis-zwischen-gukesh-und-sindarow",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-27-morning/sport-schach-wm-remis-1024-r01.jpg",
+        "alt": "Flache KI-generierte Illustration: ein Schachbrett mit Figuren in ausgeglichener Stellung und eine Schachuhr in einer Bibliothek mit Seeblick.",
+        "caption": "Symbolbild zur Schach-Weltmeisterschaft in Genf",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-27-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-27T06:56:17+01:00",
+    "ready_at": "2026-11-27T06:59:45+01:00",
+    "content_hash": "sha256:eae5d8db2c4d527ae624bbc25441a385f74bd3eeba8f8d2bc520a21bcaff4541",
+    "image_rights": {
+      "politik-jsvp-ausschluesse-luzern": {
+        "rights": "ai_generated_own"
+      },
+      "politik-amherd-ruag-aktennotiz": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-usa-bericht-ueberkapazitaeten": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-bilanz-reichste": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-bitcoin-etf-six": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-zuerich-business-apartments": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-genf-staatspersonal-demo": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-blitzer-baden": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-wettingen-weihnachtsbeleuchtung": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-schnee-alpen-skisaison": {
+        "rights": "ai_generated_own"
+      },
+      "sport-conference-league-thun-lugano": {
+        "rights": "ai_generated_own"
+      },
+      "sport-schach-wm-remis": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-jsvp-ausschluesse-luzern": {
+        "path": "media/politik-jsvp-ausschluesse-luzern-1024-r01.jpg",
+        "sha256": "44dcd1e55d7458c4e6bdf1569cf67294dcf1d42a28c2dd0f826e0d92949228d0",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/62bbcc95a19d23960298dcaba179b35f5b788f23f2d45d35f24de25a0e5aa241.jpg",
+        "original_sha256": "62bbcc95a19d23960298dcaba179b35f5b788f23f2d45d35f24de25a0e5aa241",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A row of empty chairs at a party assembly hall, one group of ten chairs pushed aside and separated by a red rope barrier, a gavel and closed folders on a lectern. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-amherd-ruag-aktennotiz": {
+        "path": "media/politik-amherd-ruag-aktennotiz-1024-r01.jpg",
+        "sha256": "d79787eb83abaf0b2ed73e189a4ddbd20f0af60a1dec5e32cb31b9ecb687c0a5",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/52ca87efafd3547295ea0078b1e0270f84a8e928595b37556cdb28c425388d6f.jpg",
+        "original_sha256": "52ca87efafd3547295ea0078b1e0270f84a8e928595b37556cdb28c425388d6f",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An office desk with a single typed memo sheet under a desk lamp, a vintage telephone, a military-green field radio and network cables, an unsigned pen lying beside it. The memo shows only abstract grey lines, no readable text. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-usa-bericht-ueberkapazitaeten": {
+        "path": "media/wirtschaft-usa-bericht-ueberkapazitaeten-1024-r01.jpg",
+        "sha256": "777fc71fe00aa85d9bbad2623f1eaae21f810c8c5b5a393fd055e0511241e4fa",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c2c6960d1f7acd83b60755ce4a044eaaab90effd1490aa7164fad286679d5b2a.jpg",
+        "original_sha256": "c2c6960d1f7acd83b60755ce4a044eaaab90effd1490aa7164fad286679d5b2a",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A thick stack of report pages tied with a ribbon lying on a desk next to small cargo containers, a pharmaceutical pill bottle and a toy-like factory, a balance scale slightly tilted in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-bilanz-reichste": {
+        "path": "media/wirtschaft-bilanz-reichste-1024-r01.jpg",
+        "sha256": "578812140b73bc194058f469c455c3df916c3808f47957973da0d523bfbbde71",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/df57911056576d10393bf5b200f581b4e96e742449012c698a8c7921a4c63742.jpg",
+        "original_sha256": "df57911056576d10393bf5b200f581b4e96e742449012c698a8c7921a4c63742",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Stacks of gold coins of increasing height arranged like a staircase, a small cargo ship model and a lab flask beside them, soft blue background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-bitcoin-etf-six": {
+        "path": "media/wirtschaft-bitcoin-etf-six-1024-r01.jpg",
+        "sha256": "22d36bd961611e817209766d955d5d576cd1796c475609bacc39f5d75bce905d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/983e1a2a6e71e75ebf8b74c65adc71fd255f3f49acc46e8d7fee3848f3ece92a.jpg",
+        "original_sha256": "983e1a2a6e71e75ebf8b74c65adc71fd255f3f49acc46e8d7fee3848f3ece92a",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A stylised gold coin with an abstract network pattern placed inside a glass display case, a generic stock market chart line glowing behind it in a modern trading hall. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-zuerich-business-apartments": {
+        "path": "media/regionen-zuerich-business-apartments-1024-r01.jpg",
+        "sha256": "c2c78168426d688816cb85ebf569fa4a94678f835a6966cc17c85a412b16a466",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bce4ac685ca96cf710af236f2270f7491edb8638e726ae098069120e494c4fa1.jpg",
+        "original_sha256": "bce4ac685ca96cf710af236f2270f7491edb8638e726ae098069120e494c4fa1",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A modern city apartment block at dusk with several windows lit, rolling suitcases and key-card holders at the entrance, generic townhouses in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-genf-staatspersonal-demo": {
+        "path": "media/regionen-genf-staatspersonal-demo-1024-r01.jpg",
+        "sha256": "e656040bfad206fd00b9e6f2adc3aca050b6f787d9297c75b291c8a46241f304",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/233a8b99c92afc2e74cd1a01d8fea61e58095b120598c10209be22aa5da2abcf.jpg",
+        "original_sha256": "233a8b99c92afc2e74cd1a01d8fea61e58095b120598c10209be22aa5da2abcf",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A wide city street at evening filled with colourful blank protest banners and umbrellas seen from far above, people only as tiny abstract shapes without any faces, lakeside promenade in the distance. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-blitzer-baden": {
+        "path": "media/regionen-blitzer-baden-1024-r01.jpg",
+        "sha256": "9101271e8bb8e98a818e32a16c4f4c13cf09e3f1d07b41c28680f905744b6b85",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:44+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/b71e1879e61c4210dba4b10de537b84eab2d490bf27742978d684988e24a8aa0.jpg",
+        "original_sha256": "b71e1879e61c4210dba4b10de537b84eab2d490bf27742978d684988e24a8aa0",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A grey roadside speed camera box on a pole at a road crossing, a traffic light and zebra crossing, with a large calendar page and an off switch symbol floating beside it. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-wettingen-weihnachtsbeleuchtung": {
+        "path": "media/regionen-wettingen-weihnachtsbeleuchtung-1024-r01.jpg",
+        "sha256": "817c153496ccb94f11012bd6346239a42c680b17ac3256c6a24be0a96b5fdbe1",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:45+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dabaadc8b1b36582b80056feff58cf706f9d77634e704f934dfec3fe1b8e8ee5.jpg",
+        "original_sha256": "dabaadc8b1b36582b80056feff58cf706f9d77634e704f934dfec3fe1b8e8ee5",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A small-town main street at night with tall street lamp poles left bare, unused coils of Christmas fairy lights and star decorations lying in a box on the sidewalk. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-schnee-alpen-skisaison": {
+        "path": "media/wetter-schnee-alpen-skisaison-1024-r01.jpg",
+        "sha256": "fe93aa4738608422f6eb0511883aa0466facd82ff856071a87b1d85e8326f2d3",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:45+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/e73fad7fcb57d4d8c00fb30581d017a1d48c655fd26a9c2a724c35fc8383fffd.jpg",
+        "original_sha256": "e73fad7fcb57d4d8c00fb30581d017a1d48c655fd26a9c2a724c35fc8383fffd",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, shallow depth of field, 4:3. Deep fresh powder snow on an empty alpine ski slope under a blue sky, a snow groomer in the far distance, snow-covered fir trees, generic mountains, no recognisable peak. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-conference-league-thun-lugano": {
+        "path": "media/sport-conference-league-thun-lugano-1024-r01.jpg",
+        "sha256": "89c6ae33732b21f29608323e71386abdce29c3d9b570ad65c7a3bde22d90353b",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:45+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/7e70d612d9f3e8a1a6a28d9b7dfff39a1599e820c5afe2425d8fbd5809971312.jpg",
+        "original_sha256": "7e70d612d9f3e8a1a6a28d9b7dfff39a1599e820c5afe2425d8fbd5809971312",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic stock-style photograph, natural light, shallow depth of field, 4:3. A football resting on wet green grass of an empty floodlit stadium pitch at night, white line markings, blurred empty seats in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-schach-wm-remis": {
+        "path": "media/sport-schach-wm-remis-1024-r01.jpg",
+        "sha256": "622dfeb06d1abeef0380d452734772beafa1e3d826c9b864b5a75920228765ea",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-27T06:59:45+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-27",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-27 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/4213cae09a6ef731def8736aff577e6427ec66f93cc90a389677531f83c1b384.jpg",
+        "original_sha256": "4213cae09a6ef731def8736aff577e6427ec66f93cc90a389677531f83c1b384",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A wooden chessboard with pieces in a balanced middlegame position, a chess clock beside it, an elegant library with old books and a lake view through a window in the background. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
