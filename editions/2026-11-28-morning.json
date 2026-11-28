@@ -1,0 +1,537 @@
+{
+  "schema_version": "1.0",
+  "edition": "morning",
+  "published_at": "2026-11-28T06:54:39+01:00",
+  "language": "de-CH",
+  "publish": true,
+  "items": [
+    {
+      "id": "politik-wintersession-start",
+      "section": "Politik",
+      "headline": "Wintersession beginnt am Montag mit Budgetstreit und Bundesratswahl",
+      "summary": "Am Montag, 30. November, beginnt in Bern die dreiwöchige Wintersession der eidgenössischen Räte. Im Zentrum stehen das Bundesbudget 2027, die Wahl der Nachfolge von Bundesrat Guy Parmelin am 9. Dezember sowie Geschäfte zur EU und zur UBS. Beim Budget wollen SP, Grüne und SVP den Voranschlag laut SRF an den Bundesrat zurückweisen, allerdings aus gegensätzlichen Gründen: Die SVP verlangt mehr Einsparungen, die SP lehnt Kürzungen bei Bildung, Klimaschutz und Kaufkraft zugunsten der Armee ab. Mitte, FDP und GLP warnen davor, dass der Bund ohne verabschiedetes Budget ins neue Jahr gehen könnte.",
+      "sources": [
+        {
+          "name": "SRF: Arena zum Bundesbudget 2027 vor der Wintersession",
+          "url": "https://www.srf.ch/news/schweiz/arena-zu-bundesbudget-2027-schon-vor-dem-showdown-im-parlament-fliegen-die-fetzen",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Im Bundeshaus beginnt eine Wintersession mit Mammutdebatten (evtl. Paywall)",
+          "url": "https://www.nzz.ch/schweiz/im-bundeshaus-beginnt-eine-wintersession-mit-seifenopern-und-mammut-debatten-ld.10076242",
+          "published_at": "2026-11-28T05:30:00+01:00",
+          "updated_at": "2026-11-28T05:30:00+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/politik-wintersession-start-1024-r01.jpg",
+        "alt": "Flache Illustration: ein leerer halbrunder Parlamentssaal mit Pulten, davor ein Stapel Budgetordner und ein Taschenrechner.",
+        "caption": "Symbolbild zur Wintersession und zur Budgetdebatte",
+        "credit": "Front News",
+        "status": "ready"
+      },
+      "lead": true
+    },
+    {
+      "id": "politik-bundesratswahl-schnegg-graber",
+      "section": "Politik",
+      "headline": "Bundesratswahl: Schnegg schliesst wilde Wahl nicht mehr aus, Kritik an Grabers Hausumbau",
+      "summary": "Der Berner Regierungspräsident Pierre Alain Schnegg schliesst gegenüber 20 Minuten nicht mehr aus, eine Wahl ausserhalb des offiziellen SVP-Tickets anzunehmen, obwohl alle Bewerbenden eine gegenteilige Erklärung unterschrieben hatten. SVP-Präsident Marcel Dettling hält fest, der Entscheid der Fraktion für Thomas Aeschi und Michael Graber gelte, und erwartet, dass die Bundesversammlung am 9. Dezember aus dem Ticket wählt. Zudem berichtet der «Bund», dass der Umbau von Grabers Einfamilienhaus in Brig-Glis von der Baubewilligung abweicht; Graber ist dort selbst Vorsteher des Bauamts. Graber sagt, er übernehme die Verantwortung und sei bei seinem Dossier in den Ausstand getreten, das Verfahren läuft noch.",
+      "sources": [
+        {
+          "name": "20 Minuten: So reagiert SVP-Chef Dettling auf Blochers Schnegg-Offensive",
+          "url": "https://www.20min.ch/story/entscheid-gilt-so-reagiert-svp-chef-dettling-auf-blochers-schnegg-offensive-103674824",
+          "published_at": "2026-11-27T20:04:36+01:00",
+          "updated_at": "2026-11-27T20:04:36+01:00"
+        },
+        {
+          "name": "20 Minuten: Grabers Hausumbau wird kritisiert",
+          "url": "https://www.20min.ch/story/bundesratskandidat-grabers-hausumbau-wird-kritisiert-er-ist-selbst-bauamt-direktor-103674915",
+          "published_at": "2026-11-27T18:59:44+01:00",
+          "updated_at": "2026-11-27T18:59:44+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/politik-bundesratswahl-schnegg-graber-1024-r01.jpg",
+        "alt": "Flache Illustration: zwei leere Namensschilder auf einem Pult, daneben eine Wahlurne und im Hintergrund ein Bauplan mit einem Einfamilienhaus.",
+        "caption": "Symbolbild zur Bundesratswahl vom 9. Dezember",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "politik-osze-budget-2027",
+      "section": "Politik",
+      "headline": "OSZE einigt sich unter Schweizer Vorsitz auf Budget 2027",
+      "summary": "Die Mitgliedstaaten der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) haben sich am Freitag auf das Budget für 2027 geeinigt. Es ist das zweite Jahr in Folge mit einem genehmigten Budget, nachdem zuvor von 2021 an während fünf Jahren keine Einigung zustande gekommen war. Das Budget behält frühere Einsparungen bei; laut Generalsekretär Feridun H. Sinirlioglu war der Konsens unter anderem dank eines vorübergehenden Lohnstopps möglich. Bundesrat Ignazio Cassis, der den OSZE-Vorsitz 2026 innehat, begrüsste die Einigung, weil ohne Budget zentrale Aufgaben wie die Wahlbeobachtung nicht gesichert wären.",
+      "sources": [
+        {
+          "name": "Swissinfo/Keystone-SDA: OSZE-Staaten einigen sich auf Budget für 2027",
+          "url": "https://www.swissinfo.ch/ger/osze-staaten-einigen-sich-auf-budget-f%c3%bcr-2027/92450591",
+          "published_at": "2026-11-27T17:59:36+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/politik-osze-budget-2027-1024-r01.jpg",
+        "alt": "Flache Illustration: ein runder Konferenztisch mit leeren Stühlen, Mikrofonen und Dokumentenmappen in einem hellen Saal.",
+        "caption": "Symbolbild zur Budgeteinigung der OSZE",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-rohstoffhaendler-ecopetrol",
+      "section": "Wirtschaft",
+      "headline": "SRF-Recherche: Schweizer Rohstofffirmen an Transporten von Ecopetrol-Öl beteiligt",
+      "summary": "Laut Recherchen von SRF Investigativ auf Basis von US-Zolldaten waren in der Schweiz ansässige Rohstofffirmen seit März 2025 an 19 Schiffsladungen aus Kolumbien in die USA im Wert von rund 180 Millionen Dollar beteiligt, die mit dem Staatskonzern Ecopetrol in Verbindung stehen. Genannt werden Vitol, Asphaltos, Mercuria und Trafigura, vor allem als Frachtführer oder Warenempfänger; wer die Ware ursprünglich bei Ecopetrol kaufte, zeigen die Daten nicht. Ecopetrol werden von der NGO EIA und der BBC zahlreiche Ölverschmutzungen vorgeworfen, was der Konzern zurückwies. Trafigura erklärt, keine direkten Geschäftsbeziehungen mit Ecopetrol zu haben, Vitol verweist auf die Prüfung seiner Geschäftspartner, Mercuria und Asphaltos äusserten sich nicht.",
+      "sources": [
+        {
+          "name": "SRF Investigativ: Schweizer Rohstoffhändler profitieren von Handel mit Skandalfirma",
+          "url": "https://www.srf.ch/news/schweiz/problematische-lieferketten-schweizer-rohstoffhaendler-profitieren-von-handel-mit-skandalfirma",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/wirtschaft-rohstoffhaendler-ecopetrol-1024-r01.jpg",
+        "alt": "Flache Illustration: ein Öltanker auf ruhigem Meer, daneben eine stilisierte Lieferkette aus verbundenen Containern und Fässern.",
+        "caption": "Symbolbild zum Rohstoffhandel",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wirtschaft-reisebuero-kolb-konkurs",
+      "section": "Wirtschaft",
+      "headline": "Zürcher Reisebüro Harry Kolb nach Hackerangriff in Konkurs",
+      "summary": "Das Bezirksgericht Horgen hat über die Reisebüro Harry Kolb AG in Kilchberg ZH den Konkurs eröffnet, wie zuerst Travelnews.ch berichtete. Inhaber Harry Kolb sagt, Hacker hätten die Firmenkonten und die Pensionskasse leergeräumt und rund 2,5 Millionen Franken erbeutet; er hat Anzeige gegen Unbekannt erstattet. Weil eine Rechnung eines japanischen Partners nicht bezahlt werden konnte, wurde das Unternehmen betrieben; laut Blick sind bezahlte Japan-Reisen von Kundinnen und Kunden geplatzt. Kolb hat beim Zürcher Obergericht Beschwerde gegen den Konkurs eingereicht, die Angestellten wurden vom Konkursamt freigestellt.",
+      "sources": [
+        {
+          "name": "20 Minuten: Hacker stehlen 2,5 Millionen – Reisebüro in Kilchberg ist pleite",
+          "url": "https://www.20min.ch/story/harry-kolb-25-millionen-franken-weg-reisebuero-steht-vor-konkurs-103674960",
+          "published_at": "2026-11-27T20:53:15+01:00",
+          "updated_at": "2026-11-27T20:53:15+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/wirtschaft-reisebuero-kolb-konkurs-1024-r01.jpg",
+        "alt": "Flache Illustration: ein Reisekoffer mit Flugticket-Umschlag neben einem Laptop, auf dessen Bildschirm ein geöffnetes Vorhängeschloss zu sehen ist.",
+        "caption": "Symbolbild zum Konkurs eines Reisebüros nach einem Cyberangriff",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-basel-thuering-anklage",
+      "section": "Zürich & Regionen",
+      "headline": "Basel: Anklage gegen SVP-Grossrat Thüring wegen Verleumdung",
+      "summary": "Die Staatsanwaltschaft Basel-Stadt hat gegen SVP-Grossrat Joël Thüring Anklage wegen mehrfacher, teilweise planmässiger Verleumdung erhoben, wie die Basler Zeitung und 20 Minuten berichten. Hintergrund sind Äusserungen Thürings über die Musikerin Leila Moon, die er öffentlich als «Unterstützerin der Hamas-Terroristen» bezeichnet haben soll. Moon sollte 2024 den Basler Kulturförderpreis erhalten, der Kanton verzichtete nach einer politischen Debatte darauf; ob dies rechtens war, prüft das Verwaltungsgericht. Thüring sagt, er sehe der Verhandlung gelassen entgegen; es gilt die Unschuldsvermutung.",
+      "sources": [
+        {
+          "name": "20 Minuten: Anklage gegen SVP-Grossrat Thüring erhoben",
+          "url": "https://www.20min.ch/story/leila-moon-hamas-unterstuetzerin-anklage-gegen-thuering-erhoben-103674633",
+          "published_at": "2026-11-27T19:10:14+01:00",
+          "updated_at": "2026-11-27T19:10:14+01:00"
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/regionen-basel-thuering-anklage-1024-r01.jpg",
+        "alt": "Flache Illustration: ein Richterhammer auf einem Holzpult neben einem zugeklappten Aktendossier.",
+        "caption": "Symbolbild zur Anklage wegen Verleumdung",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-bern-saalbau-verschoben",
+      "section": "Zürich & Regionen",
+      "headline": "Bern: 510 Tonnen schwerer Saalbau um 50 Meter verschoben",
+      "summary": "Im Berner Breitenrainquartier ist am Freitag der denkmalgeschützte Saalbau der alten Feuerwehrkaserne aus dem Jahr 1958 um rund 50 Meter verschoben und dabei um 90 Grad gedreht worden. Das 510 Tonnen schwere Gebäude wurde mit einem Stahlskelett stabilisiert und mit hydraulischen Plattformwagen in rund sechs Stunden in den Innenhof gefahren. Die Genossenschaft wollte das Gebäude erhalten statt abreissen und verweist auf die CO2-Bilanz des Bausektors. Im Saalbau entsteht eine Cluster-Wohnung für acht Personen, am alten Standort ein vierstöckiges Haus mit Wohnungen für rund 40 Personen und Räumen für die benachbarte Schule.",
+      "sources": [
+        {
+          "name": "SRF: 510 Tonnen schweres Gebäude um 50 Meter verschoben",
+          "url": "https://www.srf.ch/news/schweiz/spektakel-in-bern-510-tonnen-schweres-gebaeude-um-50-meter-verschoben",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "Swissinfo/Keystone-SDA: Gebäude in Bern erfolgreich verschoben",
+          "url": "https://www.swissinfo.ch/ger/510-tonnen-schweres-geb%c3%a4ude-in-bern-erfolgreich-verschoben/92449506",
+          "published_at": "2026-11-27T16:45:43+01:00",
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/regionen-bern-saalbau-verschoben-1024-r01.jpg",
+        "alt": "Flache Illustration: ein kleines, generisches Gebäude auf Stahlträgern, das auf mehrachsigen Plattformwagen über einen Hof gefahren wird.",
+        "caption": "Symbolbild zur Gebäudeverschiebung in Bern",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "regionen-bern-wolf-haustier",
+      "section": "Zürich & Regionen",
+      "headline": "Kanton Bern zieht als Hund registrierten Wolf ein",
+      "summary": "Berner Behörden haben einen privat gehaltenen Wolf entdeckt, der als Hund registriert war; eine genetische Untersuchung bestätigte den Verdacht. Das rund zweieinhalbjährige Tier war mutmasslich als Welpe illegal in die Schweiz gebracht worden, und weil die Haltung nicht den Tierschutzvorschriften entsprach, zog der Kanton es ein. Das Bundesamt für Zoll und Grenzsicherheit untersucht die Einfuhr. Wölfe und Wolfshybride dürfen in der Schweiz nur mit Bewilligung, Fachausbildung und geeignetem Gehege gehalten werden; für die Aufnahme des Tiers kommen laut der Gruppe Wolf Schweiz nur ein bis zwei Institutionen infrage.",
+      "sources": [
+        {
+          "name": "SRF: Wolf illegal als Haustier gehalten – die wichtigsten Fragen",
+          "url": "https://www.srf.ch/news/schweiz/von-berner-behoerden-entdeckt-wolf-illegal-als-haustier-gehalten-die-wichtigsten-fragen",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/regionen-bern-wolf-haustier-1024-r01.jpg",
+        "alt": "Flache Illustration: ein Wolf sitzt hinter einem Gehegezaun, daneben eine leere Hundeleine am Boden.",
+        "caption": "Symbolbild zum illegal gehaltenen Wolf",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "wetter-lauterbrunnen-wasser",
+      "section": "Verkehr & Wetter",
+      "headline": "Lauterbrunnen ruft wegen Trockenheit zum Wassersparen auf",
+      "summary": "Die Genossenschaft Wasserwerk Wengen hat die Bevölkerung von Lauterbrunnen per Flyer aufgefordert, wegen der Trockenheit Trinkwasser zu sparen, etwa zu duschen statt zu baden. Gemeindepräsident Karl Näpflin bezeichnet die Wassersituation als so ernst wie noch nie. Die Organisatoren der Lauberhornrennen im Januar nutzen für die Beschneiung nach eigenen Angaben nur überlaufendes Trinkwasser, das bei vollen Reservoirs ungenutzt abfliessen würde, und sagen, sie hätten keinen Druck ausgeübt. Die Gemeinde prüft, künftig Wasser aus der Weissen Lütschine nach Wengen hochzupumpen und für Beschneiung und Trinkwasser aufzubereiten.",
+      "sources": [
+        {
+          "name": "SRF: Wengen spart Wasser – Lauberhornrennen profitieren davon",
+          "url": "https://www.srf.ch/news/schweiz/aufruf-im-berner-oberland-wengen-spart-wasser-lauberhornrennen-profitieren-davon",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/wetter-lauterbrunnen-wasser-1024-r01.jpg",
+        "alt": "KI-generiertes, fotorealistisches Symbolbild: ein tropfender Wasserhahn an einem alten Steinbrunnen vor einer verschneiten, unbestimmten Berglandschaft.",
+        "caption": "Symbolbild zur Wasserknappheit im Berggebiet",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "gesellschaft-markus-gilli",
+      "section": "Gesellschaft",
+      "headline": "Langjähriger Tele-Züri-Chef Markus Gilli gestorben",
+      "summary": "Der Journalist und TV-Moderator Markus Gilli ist im Alter von 71 Jahren gestorben, wie sein früherer Arbeitgeber CH Media mitteilte; er sei am Donnerstag nach schwerer Krankheit zu Hause in Zürich eingeschlafen. Gilli begann 1980 bei Radio 24 und wurde für Reportagen über die Zürcher Drogenszene ausgezeichnet. Von 1999 an war er Chefredaktor und Programmleiter von Tele Züri und moderierte während 23 Jahren den «SonnTalk» sowie «TalkTäglich». 2013 wurde er Journalist des Jahres, 2020 trat er in den Ruhestand.",
+      "sources": [
+        {
+          "name": "SRF: Markus Gilli im Alter von 71 Jahren gestorben",
+          "url": "https://www.srf.ch/news/schweiz/langjaehriger-tele-zueri-chef-markus-gilli-im-alter-von-71-jahren-gestorben",
+          "published_at": null,
+          "updated_at": null
+        },
+        {
+          "name": "NZZ: Markus Gilli stirbt im Alter von 71 Jahren (evtl. Paywall)",
+          "url": "https://www.nzz.ch/zuerich/der-langjaehrige-tele-zueri-chefredaktor-markus-gilli-stirbt-im-alter-von-71-jahren-ld.10076744",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/gesellschaft-markus-gilli-1024-r01.jpg",
+        "alt": "Flache Illustration: ein leeres Fernsehstudio mit zwei Sesseln, einem Tisch und ausgeschalteten Scheinwerfern.",
+        "caption": "Symbolbild zum Tod des TV-Journalisten Markus Gilli",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-meier-nhl-rekord",
+      "section": "Sport",
+      "headline": "Timo Meier ist neuer Schweizer NHL-Rekordtorschütze",
+      "summary": "Timo Meier hat am Freitag für die New Jersey Devils gegen Calgary sein 249. Tor in der Regular Season der NHL erzielt und damit Nino Niederreiter als erfolgreichsten Schweizer Torschützen in der Qualifikation überholt. Mit seinem achten Saisontor zum 2:1 löste er sich vom bisher geteilten Rekord, die Devils gewannen 5:3, Nico Hischier gab einen Assist. Inklusive Playoffs liegt Niederreiter mit 268 zu 260 Toren weiterhin vorne. Roman Josi traf für Nashville in Unterzahl, die Predators verloren gegen Utah aber 5:6 nach Penaltyschiessen.",
+      "sources": [
+        {
+          "name": "SRF: Meier bricht Schweizer NHL-Rekord",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-am-freitag-249-tor-in-der-regular-season-meier-bricht-schweizer-rekord",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/sport-meier-nhl-rekord-1024-r01.jpg",
+        "alt": "KI-generiertes, fotorealistisches Symbolbild: ein Eishockeystock und ein Puck auf frischem Eis vor einem leeren Tor.",
+        "caption": "Symbolbild zum Schweizer NHL-Torrekord",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    },
+    {
+      "id": "sport-gremaud-big-air",
+      "section": "Sport",
+      "headline": "Mathilde Gremaud gewinnt Big-Air-Weltcupauftakt in Innsbruck",
+      "summary": "Die Freiburgerin Mathilde Gremaud hat zum Saisonauftakt den Big-Air-Weltcup in Innsbruck mit 177,75 Punkten gewonnen, 2,5 Punkte vor der Kanadierin Megan Oldham. Für die 26-Jährige ist es der zehnte Sieg im Big-Air-Weltcup und der erste Podestplatz in dieser Disziplin seit über zwei Jahren. Anouk Andraska wurde Sechste, Giulia Tanno Siebte. Neu werden im Final nur noch zwei statt drei Sprünge ohne Streichresultat gezeigt; bei den Männern verpassten alle sechs Schweizer den Final.",
+      "sources": [
+        {
+          "name": "SRF: Gremaud sorgt mit Jubiläums-Sieg für perfekten Schweizer Auftakt",
+          "url": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/big-air-weltcup-in-innsbruck-gremaud-sorgt-mit-jubilaeums-sieg-fuer-perfekten-schweizer-auftakt",
+          "published_at": null,
+          "updated_at": null
+        }
+      ],
+      "image": {
+        "type": "illustration",
+        "src": "assets/editions/2026-11-28-morning/sport-gremaud-big-air-1024-r01.jpg",
+        "alt": "Flache Illustration: eine verschneite Big-Air-Schanze unter Flutlicht, darüber ein Paar Freestyle-Ski in der Luft.",
+        "caption": "Symbolbild zum Big-Air-Weltcup",
+        "credit": "Front News",
+        "status": "ready"
+      }
+    }
+  ],
+  "handoff": {
+    "edition_id": "2026-11-28-morning",
+    "revision": 1,
+    "research_completed_at": "2026-11-28T06:51:39+01:00",
+    "ready_at": "2026-11-28T06:54:39+01:00",
+    "content_hash": "sha256:0d30b27d4b5c540379d294567a15440a19ef7d1743c24a167815460f025dabbf",
+    "image_rights": {
+      "politik-wintersession-start": {
+        "rights": "ai_generated_own"
+      },
+      "politik-bundesratswahl-schnegg-graber": {
+        "rights": "ai_generated_own"
+      },
+      "politik-osze-budget-2027": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-rohstoffhaendler-ecopetrol": {
+        "rights": "ai_generated_own"
+      },
+      "wirtschaft-reisebuero-kolb-konkurs": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-basel-thuering-anklage": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-bern-saalbau-verschoben": {
+        "rights": "ai_generated_own"
+      },
+      "regionen-bern-wolf-haustier": {
+        "rights": "ai_generated_own"
+      },
+      "wetter-lauterbrunnen-wasser": {
+        "rights": "ai_generated_own"
+      },
+      "gesellschaft-markus-gilli": {
+        "rights": "ai_generated_own"
+      },
+      "sport-meier-nhl-rekord": {
+        "rights": "ai_generated_own"
+      },
+      "sport-gremaud-big-air": {
+        "rights": "ai_generated_own"
+      }
+    },
+    "media": {
+      "politik-wintersession-start": {
+        "path": "media/politik-wintersession-start-1024-r01.jpg",
+        "sha256": "e6a9a10308224ae9610a14abeb9cdfd90e7a7839ca3cb28252da956a32a1d05d",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dbbd7af528f504c7399a4a31b5be24160d0ef0f96cae90e0ea318237f5d9780e.jpg",
+        "original_sha256": "dbbd7af528f504c7399a4a31b5be24160d0ef0f96cae90e0ea318237f5d9780e",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty semicircular parliament chamber with wooden desks, in the foreground a stack of thick budget folders and a pocket calculator on a desk, soft winter light through tall windows. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-bundesratswahl-schnegg-graber": {
+        "path": "media/politik-bundesratswahl-schnegg-graber-1024-r01.jpg",
+        "sha256": "98af2d54e61290ffed3453c28255e742aa95aade01af8b0b86f7c6d90170ee23",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/1e674788145ccea8745597d298d457ea904d67eca525ed5d3b8cc64f143958e1.jpg",
+        "original_sha256": "1e674788145ccea8745597d298d457ea904d67eca525ed5d3b8cc64f143958e1",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. Two blank name plates on a wooden desk next to a simple ballot box, in the background a rolled-out architectural blueprint of a generic small family house. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "politik-osze-budget-2027": {
+        "path": "media/politik-osze-budget-2027-1024-r01.jpg",
+        "sha256": "b450bb094db2642c0fe21c93eaf3aef1fb3dbe3ea270755f2d897dbb4062b740",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/dbcc1c0bdb99fd3b440cf1cf90303f4c67a2348ccab459ff63d8cb0696e03be4.jpg",
+        "original_sha256": "dbcc1c0bdb99fd3b440cf1cf90303f4c67a2348ccab459ff63d8cb0696e03be4",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A large round conference table with empty chairs, small table microphones and closed document folders in a bright modern diplomatic hall, calm atmosphere. No real people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-rohstoffhaendler-ecopetrol": {
+        "path": "media/wirtschaft-rohstoffhaendler-ecopetrol-1024-r01.jpg",
+        "sha256": "8cb9deb6fbd2ded8d68c0bf008f4618d428b2115bf334a24654119b8427bc3ec",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/2099256373da3fb12090772e4b32619e3f2f93e4daf6929f5dbb4ec57382c0fe.jpg",
+        "original_sha256": "2099256373da3fb12090772e4b32619e3f2f93e4daf6929f5dbb4ec57382c0fe",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A generic oil tanker ship on a calm sea at dusk, above it a stylized supply chain of connected oil barrels and shipping containers linked by thin lines. No people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wirtschaft-reisebuero-kolb-konkurs": {
+        "path": "media/wirtschaft-reisebuero-kolb-konkurs-1024-r01.jpg",
+        "sha256": "062aae6c04464cb9ee37d44a2e762b016e865f0a4a7eecf9eab8904f38a8ceef",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/3e0065c5a481516a9183ed9accb627f0a8e3b6ed11ebd3ec4845316317d4f096.jpg",
+        "original_sha256": "3e0065c5a481516a9183ed9accb627f0a8e3b6ed11ebd3ec4845316317d4f096",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A travel suitcase and a blank travel envelope next to an open laptop whose screen shows a simple broken open padlock symbol, dim office desk. No people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-basel-thuering-anklage": {
+        "path": "media/regionen-basel-thuering-anklage-1024-r01.jpg",
+        "sha256": "187e004e4961043a1c0809f8779fb60406e95177774872bed9a3c786f5ac9a03",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/ec650948d3b5bf2e2f8b8f65a44fbfe1a71135fb2fb79da0f68eba13a0d16e5b.jpg",
+        "original_sha256": "ec650948d3b5bf2e2f8b8f65a44fbfe1a71135fb2fb79da0f68eba13a0d16e5b",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A wooden judge's gavel resting on a desk next to a closed case file folder, neutral courtroom background with empty benches. No people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-bern-saalbau-verschoben": {
+        "path": "media/regionen-bern-saalbau-verschoben-1024-r01.jpg",
+        "sha256": "5d8da94c72bab26a7a9cf4a962c81aee808efd73b54a88d57fadbc1096d1df9c",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/13324d05494ce086d76ea37b3119740ba4459787094fa847cd82721e3b9fdda6.jpg",
+        "original_sha256": "13324d05494ce086d76ea37b3119740ba4459787094fa847cd82721e3b9fdda6",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A small generic two-storey hall building braced with a steel frame, lifted on multi-axle hydraulic platform transporters moving slowly across a courtyard, grey November sky. No people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "regionen-bern-wolf-haustier": {
+        "path": "media/regionen-bern-wolf-haustier-1024-r01.jpg",
+        "sha256": "7aa6941ce1bfafd234a00457eb743aa7b3a45e18682a74ae11b13c26dce06b01",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6a88d71c67b2545fd115acc9c373154b412770193d2c40c9465b1e7cb4a788b1.jpg",
+        "original_sha256": "6a88d71c67b2545fd115acc9c373154b412770193d2c40c9465b1e7cb4a788b1",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A grey wolf sitting calmly behind a wire enclosure fence in a wooded area, an empty dog leash lying on the ground in front of the fence. No people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "wetter-lauterbrunnen-wasser": {
+        "path": "media/wetter-lauterbrunnen-wasser-1024-r01.jpg",
+        "sha256": "205d76405dab839e5879f20d48201cbf6ba3d269afe8dcd4e20588eaf3f0cd29",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/a594a1b60fd9da0587dd9a1eb9eaeb340460547954af48dfd7112e197deeb317.jpg",
+        "original_sha256": "a594a1b60fd9da0587dd9a1eb9eaeb340460547954af48dfd7112e197deeb317",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, natural light, 4:3. Close-up of an old stone village water fountain with a metal tap releasing only a few drops, light snow on the stone rim, blurred generic snowy alpine mountain slopes and fir trees in the background, overcast winter day. Not a specific identifiable place. No people, no faces, no text, no letters, no numbers, no logos, no signs.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "gesellschaft-markus-gilli": {
+        "path": "media/gesellschaft-markus-gilli-1024-r01.jpg",
+        "sha256": "cff407215fae97e209af736d1a7edcb89c1b04b4e8b4db9f92f6871eb1d0aeea",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/c2d77d7134cb38dae2b092be3289bd276630ef34f9382757fc5a6a6637101180.jpg",
+        "original_sha256": "c2d77d7134cb38dae2b092be3289bd276630ef34f9382757fc5a6a6637101180",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. An empty television talk show studio with two armchairs facing each other across a small table, studio cameras and dimmed spotlights, quiet respectful mood. No people, no faces, no text, no letters, no numbers, no logos.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-meier-nhl-rekord": {
+        "path": "media/sport-meier-nhl-rekord-1024-r01.jpg",
+        "sha256": "34f94f65bcb8ef8c2577ac98fb7972a4e8ad164d5ac7163ad3fd3b1ce2212e36",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/6ef538ef6fc60bd31b67b907fba76fe735d26d52a6919b171c116d670a234748.jpg",
+        "original_sha256": "6ef538ef6fc60bd31b67b907fba76fe735d26d52a6919b171c116d670a234748",
+        "style": "photo-like AI image (symbolic)",
+        "prompt": "Photorealistic symbolic image, arena lighting, 4:3. Close-up of an ice hockey stick blade and a black puck on freshly resurfaced ice with skate marks, an empty hockey goal net slightly blurred in the background. No people, no faces, no players, no text, no letters, no numbers, no logos, no jerseys.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      },
+      "sport-gremaud-big-air": {
+        "path": "media/sport-gremaud-big-air-1024-r01.jpg",
+        "sha256": "0a57848e607beb031450e24a125ae86222f453083198649344d66ff36cad2556",
+        "generator": "Grok Bot GenerateImage (text-only prompt, no reference images)",
+        "model": "undisclosed",
+        "created_at": "2026-11-28T06:54:39+01:00",
+        "created_at_meaning": "save/encode time of this derivative file in media/ (Pillow resize to 1024 px, burned-in 'KI-Illustration' label, JPEG q85); NOT the AI generation time",
+        "original_generated_at": "2026-11-28",
+        "original_generated_at_note": "date only; the GenerateImage tool returned no generation timestamp (generated shortly before the encode during the 2026-11-28 morning run, Europe/Zurich)",
+        "original_path": "/cursor/stores/user/grok-bot/agents/bc11b26f-a1d2-46a0-bf96-7df698c6c0ee/assets/bc7689d12c58d95b6a1d7ca16918cf06154e985cc9dc71dfec0dba767cf28c9d.jpg",
+        "original_sha256": "bc7689d12c58d95b6a1d7ca16918cf06154e985cc9dc71dfec0dba767cf28c9d",
+        "style": "flat illustration",
+        "prompt": "Symbolic editorial illustration, flat muted colors, clean modern style, 4:3. A snowy big air ski jump ramp under floodlights at night, a pair of freestyle skis floating in the air above the kicker, starry sky. No people, no faces, no text, no letters, no numbers, no logos, no flags.",
+        "credit": "Front News",
+        "image_rights": "ai_generated_own"
+      }
+    }
+  }
+}
